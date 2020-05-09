@@ -1,0 +1,2088 @@
+P31:instance of
+Q5:human
+P650:RKDartists ID
+P106:occupation
+Q1281618:sculptor
+Q33231:photographer
+P569:date of birth
+P1953:Discogs artist ID
+P2485:FMD photographer ID
+P937:work location
+Q33456378:Leiden
+Q28929702:sculpture restorer
+P69:educated at
+Q1824528:Hogeschool voor de Kunsten Constantijn Huygens
+P27:country of citizenship
+Q29999:Kingdom of the Netherlands
+P21:sex or gender
+Q6581097:male
+P19:place of birth
+Q2464635:Broek op Langedijk
+P136:genre
+Q1146354:fashion photography
+Q33510004:Uithoorn
+P570:date of death
+Q1028181:painter
+Q15296811:drawer
+P2372:ODIS ID
+P4206:FOIH person ID
+P4663:DACS ID
+Q10862983:etcher
+Q18431816:glass painter
+Q2746779:Royal Academy of Fine Arts
+P1066:student of
+Q21395973:Frans Lauwers
+Q31:Belgium
+Q12892:Antwerp
+P20:place of death
+P735:given name
+Q17520944:Marc
+P734:family name
+Q1547388:De Groot
+P551:residence
+Q85076237:Avenue Prince Baudouin - Prins Boudewijnlaan
+Q2865798:glass artist
+Q15977927:art educator
+P1412:languages spoken, written or signed
+Q7411:Dutch
+P463:member of
+Q42853657:Instituut voor Kunstambachten
+Q2205972:stained-glass artist
+Q31575484:Edegem
+P648:Open Library ID
+P950:Biblioteca Nacional de España ID
+P1280:CONOR ID
+P1871:CERL ID
+P214:VIAF ID
+P227:GND ID
+P268:Bibliothèque nationale de France ID
+P269:IdRef ID
+P1017:Vatican Library ID
+P1006:NTA ID
+P6302:Dictionnaire de spiritualité ID
+Q2093070:Pierre
+Q150:French
+Q142:France
+P213:ISNI
+P7369:National Library of Chile ID
+Q90:Paris
+Q831474:presbyter
+Q382887:official
+P2163:FAST ID
+P5731:Angelicum author ID
+P244:Library of Congress authority ID
+Q4117588:Simon
+Q36921605:Vigor
+Q12027957:canon law jurist
+Q201788:historian
+Q36180:writer
+Q397:Latin
+Q171800:Évreux
+Q4594605:magistrate
+P1889:different from
+Q3484471:Simon Vigor
+Q1234713:theologian
+P1038:relative
+P103:native language
+P1938:Project Gutenberg author ID
+P4629:Online Books Page author ID
+P1233:ISFDB author ID
+P4927:Invaluable.com person ID
+P2734:Unz Review author ID
+Q577011:Albert
+Q1860:English
+Q2117521:Johannes
+P2332:Dictionary of Art Historians ID
+P6815:University of Amsterdam Album Academicum ID
+P723:DBNL author ID
+Q220:Rome
+Q727:Amsterdam
+Q1792450:art historian
+Q652:Italian
+P2944:Plarr ID
+P4081:BHL creator ID
+P691:NKCR AUT ID
+Q10872101:anatomist
+Q84:London
+Q16271428:embryologist
+P1315:NLA Trove ID
+P271:CiNii author ID (books)
+P5361:BNB person ID
+P5739:PUSC author ID
+Q734578:Mary
+Q16876392:Mansfield
+P409:Libraries Australia ID
+Q6581072:female
+Q30:United States of America
+P800:notable work
+Q58544907:The Humiliation of Sinners: Public Penance in Thirteenth-Century France
+P949:National Library of Israel identifier
+P1711:British Museum person-institution
+P2843:Benezit ID
+Q183:Germany
+P973:described at URL
+Q14821:Coburg
+P1343:described by source
+Q1361256:Thieme-Becker
+P101:field of work
+Q11629:art of painting
+P245:ULAN ID
+P3782:Artnet artist ID
+P2750:Photographers' Identities Catalog ID
+Q483501:artist
+P2042:Artsy artist ID
+P4759:Luminous-Lint ID
+P6578:MutualArt artist ID
+P7445:Basis Wien person ID
+Q4927524:Michael
+Q41696534:Schnabel
+P856:official website
+Q188:German
+Q6880:Neunkirchen
+P3630:Babelio author ID
+Q13415966:Serge
+Q37170304:Sibert
+P1015:NORAF ID
+P1207:NUKAT ID
+Q3273004:Frederick
+Q16872194:Link
+P3280:BanQ author ID
+Q16308156:anglicist
+Q37226:teacher
+Q334:Singapore
+P2381:Academic Tree ID
+P6594:Guggenheim fellows ID
+Q186579:English literature
+Q963619:medieval literature
+Q1662673:gender studies
+P108:employer
+Q1509333:Georgia State University
+P2268:Musée d'Orsay artist ID
+P2194:PSS-Archi architect id
+P2418:Structurae person ID
+Q42973:architect
+Q19689484:Margitta
+Q4666719:Abels
+P651:Biografisch Portaal number
+Q4503501:Nationaal Biografisch Woordenboek
+Q65621677:Letterkundig woordenboek voor Noord en Zuid
+Q651811:Tielt
+Q21767935:Ichtegem
+Q1778168:Arthur
+Q36896162:Coussens
+Q1753370:curate
+P3965:Bridgeman artist ID
+P3029:UK National Archives ID
+Q145:United Kingdom
+Q21509415:Heslop
+Q1425428:Newcastle upon Tyne
+Q65498654:Biografisch lexicon voor de geschiedenis van het Nederlands protestantisme
+Q1989413:Nieuw Nederlandsch Biografisch Woordenboek
+Q749:Groningen
+Q23070:Sneek
+Q12325000:Lucas
+Q89643553:Fockens
+P2446:Transfermarkt player ID
+Q1605227:Henk
+P5882:Muziekweb performer ID
+Q177220:singer
+Q753110:songwriter
+P1303:instrument
+Q17172850:voice
+P1902:Spotify artist ID
+P2397:YouTube channel ID
+P3040:SoundCloud ID
+P2002:Twitter username
+P2003:Instagram username
+P2013:Facebook ID
+Q21073999:Biographisch woordenboek der Nederlanden
+Q33439340:Gouda
+P7032:Repertorium van ambtsdragers en ambtenaren id
+Q372436:statesperson
+Q82955:politician
+P39:position held
+Q65707494:member of a vroedschap
+Q2332861:CBG Centrum voor familiegeschiedenis
+P1607:Dialnet author ID
+P2732:Persée author ID
+P5695:Bibliopoche author ID
+Q16275238:Corinne
+Q41351215:Abensour
+Q21201:sociology
+Q17167049:literary scholar
+P6325:Critique d'art ID
+P6844:abART person ID
+Q509951:Dominique
+Q18001873:Emmanuel
+Q7327674:agricultural law
+Q17781870:Léon
+P5459:RHE doctor ID
+Q901402:geographer
+P1005:Portuguese National Library ID
+P1273:CANTIC ID
+P793:significant event
+Q8445:marriage
+P6886:writing language
+P3762:openMLOL author ID
+P7859:WorldCat Identities ID
+P1580:University of Barcelona authority ID
+Q58209937:history teacher
+Q56682346:La Femme et le Féminisme avant la Révolution
+Q58335365:Histoire générale du féminisme
+P4619:National Library of Brazil ID
+Q20000925:León
+P6868:Hoopla artist ID
+Q3410028:psychoanalyst
+Q41630:psychoanalysis
+Q333634:translator
+Q16278441:Liliane
+P646:Freebase ID
+Q4964182:philosopher
+Q1238570:political scientist
+Q15620295:Miguel
+P866:Perlentaucher ID
+Q2496149:University of Reims
+Q1235608:Paris Diderot University
+P349:National Diet Library Auth ID
+P5369:Encyclopædia Universalis author ID
+P5712:IMEC ID
+P3987:SHARE Catalogue author ID
+P185:doctoral student
+Q3123686:Géraldine Muhlmann
+Q3380609:Philippe Raynaud
+Q15973699:Jean-Michel Besnier
+P5378:Akadem person ID
+Q179805:political philosophy
+Q5891:philosophy
+P396:SBN author ID
+P1368:LNB ID
+P1375:NSK ID
+Q36442:political science
+Q18930007:political philosopher
+Q1321:Spanish
+Q29:Spain
+Q55724430:Francis Moreault
+Q3295349:Martin Breaugh
+Q11593697:Tomomi Fukushima
+Q59201387:Nicolas Poirier
+Q57174084:Zeynep Gambetti
+Q281150:Aberdeen
+P737:influenced by
+Q373036:Claude Lefort
+P135:movement
+Q1852084:libertarian socialism
+Q59104:continental philosophy
+P3478:Songkick artist ID
+P434:MusicBrainz artist ID
+P4666:CineMagia person ID
+P6517:WhoSampled artist ID
+Q639669:musician
+P3283:Bandcamp ID
+P3192:Last.fm ID
+Q4925477:John
+Q25126085:Matthys
+P2941:Munk's Roll ID
+Q29043257:José
+Q37488875:Torralba
+P496:ORCID iD
+Q926068:University of Navarre
+Q8818:Valencia
+Q1607826:editor
+Q1622272:university teacher
+Q10282368:classical philosophy
+Q9047:Gottfried Wilhelm Leibniz
+Q9312:Immanuel Kant
+Q9235:Georg Wilhelm Friedrich Hegel
+Q9465:ethics
+Q126842:philosophy of law
+Q1158477:Henry
+P1153:Scopus Author ID
+Q1650915:researcher
+Q666578:Anna
+Q230492:University of Michigan
+Q16871429:Kirkland
+Q595105:Ernest
+Q90051194:Ciceri
+Q34404:New Orleans
+Q28947943:miniature painter
+Q2707485:scenographer
+Q1935974:cityscape
+Q158607:marine art
+P802:student
+Q5668776:Keel
+P3373:sibling
+Q3059780:Eugène Cicéri
+P22:father
+Q3244250:Pierre-Luc-Charles Cicéri
+P906:SELIBR ID
+Q21502264:Desai
+Q668:India
+Q24058676:agriculturist
+Q6733531:Mahatma Phule Krishi Vidyapeeth
+Q3400985:academic
+Q647872:Irma
+Q5195197:Curry
+Q66314404:jazz singer
+Q90125788:blues singer
+Q36902407:Marsal
+Q18009967:Hippolyte
+Q16121:Beaune
+P2342:AGORHA person/institution ID
+Q24513419:Michaud
+P373:Commons category
+P18:image
+Q134307:portrait
+Q18579190:Badende vrouw
+Q18579191:Theaterpubliek
+Q18579189:The Small Art Lovers
+P4145:Athenaeum person ID
+Q170571:still life
+Q214127:genre painting
+Q674426:curator
+Q15940576:Beaux-Arts School of Dijon
+Q544646:Léon Cogniet
+Q2845578:Anatole Devosge
+P1816:National Portrait Gallery (London) person ID
+Q839387:Hugh
+Q16275152:Candy
+Q593644:chemist
+P6379:has works in the collection
+Q85421364:Plas yn Rhiw
+P345:IMDb ID
+Q10800557:film actor
+Q10798782:television actor
+P7105:LezWatch.TV actor ID
+Q3282637:film producer
+Q33999:actor
+Q37535743:Konkle
+Q21169216:actress
+Q16557:Dallas
+Q49210:New York University
+Q1441076:Randolph
+Q15845626:Burton
+Q15985128:medical historian
+Q3689704:oral communication
+Q8162:linguistics
+Q569965:audiology
+Q250205:Central Michigan University
+Q2487038:Dan
+Q121176:nursing
+Q7895818:University of Mississippi Medical Center
+P549:Mathematics Genealogy Project ID
+Q670897:Arizona State University
+P512:academic degree
+Q752297:Doctor of Philosophy
+Q19819754:Gail
+P4657:The Numbers person ID
+P5796:Internet Game Database person ID
+Q501785:Fairfax
+P1988:Delarge ID
+Q391396:Sorso
+Q38:Italy
+P7902:Deutsche Biographie ID
+Q2079:Leipzig
+Q632104:Marie
+Q21450751:Schumann
+P5504:RISM ID
+Q1794:Frankfurt am Main
+Q1231865:pedagogue
+Q17303149:piano teacher
+Q1205568:Deutsches Biographisches Archiv
+Q7351:Robert Schumann
+P25:mother
+Q132232:Clara Schumann
+Q68103:Interlaken
+Q486748:pianist
+Q2675537:music teacher
+Q15720844:Giuseppe
+Q16825843:Castiglione
+Q49757:poet
+Q6625963:novelist
+Q214917:playwright
+Q188776:Castres
+Q59939051:genre painter
+Q21600439:landscape painter
+P3603:Minneapolis Institute of Art constituent ID
+P5273:Nelson-Atkins Museum of Art person ID
+P5271:Saint Louis Art Museum person ID
+Q3391743:visual artist
+Q1976985:Nelson-Atkins Museum of Art
+Q577478:Crystal Lake
+Q18915128:Sydney
+Q16883933:Strong
+P640:Léonore ID
+P4200:Christie's creator ID
+P1367:Art UK artist ID
+Q7170878:Perth Museum and Art Gallery
+Q4925932:Franz
+Q36834:composer
+Q158852:conductor
+Q15989:Uelzen
+Q1055:Hamburg
+Q590208:Allgemeine Deutsche Biographie
+P6925:Musicalics composer ID
+Q65468:David Chytraeus
+Q90415052:Eler
+Q36913325:Metternich
+Q365:Cologne
+Q2516866:publisher
+Q175151:printer
+Q1166840:François
+Q17126213:Franciscus
+Q40881196:printer-bookseller
+P5821:ArhivX LOD
+P7578:DUC ID
+P7982:Hrvatska enciklopedija ID
+Q987115:Dora
+Q224:Croatia
+Q189419:Zemun
+Q1435:Zagreb
+Q6654:Croatian
+P1819:genealogics.org person ID
+P40:child
+Q1677513:Jakob Heinrich Born
+Q185351:jurist
+Q937857:association football player
+Q36260:Apia
+Q12787162:Curtis
+P413:position played on team / speciality
+Q193592:midfielder
+P54:member of sports team
+Q3559228:Wellington Olympic AFC
+P641:sport
+Q2736:association football
+P1469:FIFA player ID
+Q2001193:Jared
+Q683:Samoa
+Q1811079:Manawatu United
+P2048:height
+Q64:Berlin
+Q1711:Potsdam
+Q1731:Dresden
+Q162049:Charlottenburg
+Q984276:court painter
+Q742333:history painting
+Q1400853:portrait painting
+Q11122389:Johann
+Q2120788:Pöppelmann
+P4887:Web umenia creator ID
+Q1602218:Václav
+Q37531216:Platek
+Q5322166:designer
+Q213:Czech Republic
+Q336221:jeweller
+Q1229025:typographer
+Q644687:illustrator
+Q17305500:stone carver
+Q1358148:Frýdštejn
+Q1085:Prague
+Q11569986:printmaker
+Q471788:Joseph
+Q1873014:Lucas
+Q219477:missionary
+Q34651:Christian Church
+Q34178:theology
+Q1586892:Schönstatt (Vallendar)
+Q1777944:Koblenz-Ehrenbreitstein
+Q16026:Limburg an der Lahn
+Q996360:Dumnissus
+P611:religious order
+Q775333:Pallottines
+Q250867:Catholic priest
+Q733786:monk
+P4581:Städel Museum artist ID
+P7944:DoME artist ID
+Q39845173:Frankfurter Personenlexikon
+Q1985538:Georg
+Q27678615:Poppe
+P839:IMSLP ID
+Q1406472:Fernand
+Q25272832:Andrieu
+Q222836:music publisher
+Q65254703:56th Street
+Q2711129:57th Street
+Q4639969:50th Street
+Q1967614:National Portrait Gallery
+Q21197:Chisinau
+Q632682:Brooklyn Museum
+Q26869657:theatre designer
+Q446966:conservator
+Q18611289:The Dutch and Flemish authors
+Q2451336:Digital Library for Dutch Literature
+Q36600:The Hague
+Q38166:modern art
+Q7521081:Jean
+Q55669373:Louys
+Q40:Austria
+Q1741:Vienna
+Q2015263:Oesterreichisches Musiklexikon
+Q1158570:Hermann
+Q37544677:Plitt
+Q570684:Pawłowiczki
+Q165160:Niesky
+Q4925623:Paul
+Q37252889:Lebel
+Q7003:Dijon
+Q2145981:restorer
+Q3604017:Academy of Fine Arts of Parma
+Q2683:Parma
+Q10866:Narni
+Q60:New York City
+Q839985:Museum of Jewish Heritage
+Q19555:Kauaʻi ʻŌʻō
+Q19819746:Israel
+Q1570233:Steinberg
+Q36:Poland
+Q801:Israel
+Q2405181:Wąsowo
+Q33935:Tel Aviv
+Q9288:Hebrew
+P3429:Electronic Enlightenment ID
+Q30524160:Morenas
+Q1930187:journalist
+Q6397:Avignon
+Q235:Monaco
+Q15080511:Taylor
+P2605:ČSFD person ID
+Q2958359:Charles
+Q4274203:Maguire
+Q18424:Queens
+Q1414443:filmmaker
+Q1757008:assistant director
+Q21292974:production manager
+Q208447:Thousand Oaks
+P902:HDS ID
+P6231:BDEL ID
+P1284:Munzinger person ID
+Q39:Switzerland
+Q2462658:manager
+Q642074:Historical Dictionary of Switzerland
+Q76422293:Fürer
+Q2961975:business executive
+P410:military rank
+Q19100:captain
+Q2366972:Hauptmann
+Q69777:Gossau
+Q64183:Küssnacht
+Q4927937:Robert
+Q1354011:Brooks
+Q1382557:Evolutionary ecology
+Q550479:Quantitative genetics
+Q1205637:behavioral ecology
+Q734764:University of New South Wales
+P184:doctoral advisor
+Q6231782:John Endler
+Q998596:Piqua
+Q37080:Leon
+Q908051:Howard
+P3187:Marburger Professorenkatalog ID
+Q3033:Göttingen
+Q4024:Frankfurt (Oder)
+Q3869:Marburg
+Q20980197:Johann Julius Surland
+Q40348:lawyer
+Q1202222:Deutsche Biographie
+Q83441516:Surland
+Q1573212:Hamburg Biographies
+Q84250318:Johann Julius Surland
+Q193391:diplomat
+Q55848611:Johann Julius Bökel
+Q589298:editor-in-chief
+Q7850:Chinese
+Q29520:China
+Q13002315:legendary figure
+P17:country
+Q153957:Barbara
+Q37177891:Jazwinski
+Q123766:Charlottesville
+Q2793400:Peter
+Q426463:Lewis
+Q256507:Bavarian State Library
+Q750186:Erik
+Q21491813:Lundborg
+Q638:music
+Q38733:Helena
+Q18201513:Sarah
+Q15930574:Brian
+Q37538443:Schober
+Q765778:organist
+Q988515:East Orange
+P4638:The Peerage person ID
+Q76286749:Jonkheer Jan Pieter Teding van Berkhout
+Q76267384:Quirina Catharina Petronella Teding van Berkhout
+Q33432813:Delft
+Q9920:Haarlem
+Q599151:official
+Q4409580:Nederland's Adelsboek
+Q3032495:Olst
+Q76249024:Raimond Schuurbeque Boeye
+Q27533077:member of the States-Provincial of Zeeland
+Q43038049:Lid van het Vergadering van Notabelen
+Q81076:Zierikzee
+Q76283290:Jonkheer George Clifford
+Q76283283:George Clifford
+Q76283287:Jacoba Maria Kuysten van Hoesen
+Q50391999:lid van de Provinciale Staten van Holland
+Q57151167:Pieter Clifford
+Q76283373:Brigitta Henriette Constantia Pancras Clifford
+Q20167160:Johanna Catharina Pancras Clifford
+Q76283377:Pieter Anthony Pancras Clifford
+Q76283233:Johanna Elisabeth Trip
+Q3337699:Nederland's Patriciaat
+Q56764476:Amsterdam Vroedschap
+Q57151170:Allard Cloeck
+Q28329667:De Vroedschap van Amsterdam, 1578-1795
+Q75769310:Jonkheer Pieter Samuël Dedel
+Q76247578:Johanna Elisabeth Backer
+Q27516488:member of the States-Provincial of North Holland
+Q17505902:watercolourist
+Q803:Utrecht
+P7763:copyright status as a creator
+Q71887839:copyrights on oeuvre have expired
+Q2179687:Maartensdijk
+Q191163:landscape art
+Q170072:Dutch Republic
+Q39297398:Utrecht
+Q76256876:Hendrik Daniel Gildemeester
+Q76267355:Adriana Maria Cornets de Groot
+Q1242555:Hugo
+Q34370:Rotterdam
+Q76267564:Margaretha Jacoba van der Hoeven
+Q10989273:Johan
+Q76270287:Gerrit Hooft Heer van Vreeland
+Q76270286:Susanna Cornelia Muilman
+Q10055:Woudenberg
+Q76255778:Jonkheer Jan Elias Huydecoper Heer van Zeist en Kersbergen
+Q76255784:Jonkheer Jan Elias Huydecoper
+Q76117563:Maria Isabella Anna Josepha Charlotte Barones Taets van Amerongen
+Q19305384:member of the Senate of the Netherlands
+Q27650769:member of the States-Provincial of Utrecht
+Q2417345:Maarsseveen
+Q76261744:Jacoba van Liere Vrouwe van Katwijk en 't Zandt
+P1802:EMLO person ID
+P26:spouse
+Q76261747:Maria van Reigersberg Vrouwe van Katwijk
+Q1887904:Samuel John van Limburg Stirum
+Q76258673:Johanna Sara Reijnst
+Q629347:Samuel
+Q49280467:Arnhem
+Q1615161:Doorn
+Q76259655:Johanna Sara Gravin van Limburg Stirum
+Q27334756:member of the States-Provincial of Gelderland
+Q76270296:Susanna Cornelia Mogge Vrouwe van Welland, Haamstede en Koudekerke
+Q3658608:caricaturist
+P1292:DNB editions
+Q243605:Triel-sur-Seine
+Q998555:book illustration
+Q3368:Essonne
+Q882652:Wiedenbrück
+Q2742:Münster
+Q586:Bonn
+P742:pseudonym
+Q2593612:World Biographical Information System Online
+P1977:Les Archives du Spectacle Person ID
+Q244976:bodhrán
+Q3052881:Flook
+P4872:GEPRIS person ID
+P1556:zbMATH author ID
+Q152087:Humboldt University of Berlin
+Q852297:Business Software Alliance
+Q18327976:Jesús
+Q37265108:Mur
+Q1158446:Smith
+Q19962582:Beau
+Q241808:Huntington
+P3265:MySpace ID
+P3430:SNAC Ark ID
+Q1379613:Marshall University
+P7704:Europeana entity
+P5951:ComiXology creator ID
+P5491:BD Gest' author ID
+Q1004:comics
+Q8040244:Wynonna Earp
+Q715301:comics artist
+Q5138746:Cobb: Off the Leash
+Q3623754:Arrigo
+Q21489139:Orsi
+Q42655:Virgilio
+Q21694268:amateur photographer
+Q39631:physician
+Q490:Milan
+Q18180151:Clément
+Q83346413:Dillenschneider
+Q191808:nun
+Q751148:Congregation of the Most Holy Redeemer
+Q36704:Yugoslavia
+Q1663:Split
+Q686532:Ivo
+Q1895358:Margot
+Q37532287:Badran
+Q34074720:feminist
+P1309:EGAXA ID
+Q3155377:Islamicist
+Q13955:Arabic
+Q12652033:Conrad
+Q155622:Bernkastel-Kues
+Q3138:Trier
+Q8585:Bernkastel-Wittlich
+Q408:Australia
+Q1376987:New College
+Q962011:University of Tasmania
+Q745967:Christ Church
+Q40191:Hobart
+P5357:The Encyclopedia of Science Fiction ID
+P166:award received
+Q1204346:Rhodes Scholarship
+Q30002353:language teacher
+Q13570226:literary historian
+Q16287483:opinion journalist
+Q49119:Brandeis University
+Q2306091:sociologist
+P5034:National Library of Korea Identifier
+Q181923:attention deficit hyperactivity disorder
+Q1134368:medicalization
+Q3450985:neurodevelopmental disorders
+Q7552854:Sociology of health and illness
+Q55693901:Health Care Management
+Q80443762:Betina Freidin
+Q60300009:Dana Zarhin
+Q175081:Gap
+Q658854:Bonne
+Q456:Lyon
+Q18074198:Caumont
+Q329439:engraver
+Q34:Sweden
+Q25286:Uppsala
+Q18805:naturalist
+Q25999604:Jacob
+Q23133442:Alm
+Q2334850:Ankeveen
+Q16947657:lithographer
+Q383898:military art
+P1248:KulturNav-ID
+Q27:Ireland
+P2538:Nationalmuseum Sweden artist ID
+Q22890:Ireland
+Q1348:Kolkata
+Q1352:Chennai
+Q80484:Patna
+Q2652654:Andrews
+Q47494964:miniaturist
+Q215530:Kingdom of Ireland
+Q174193:United Kingdom of Great Britain and Ireland
+Q5170852:Corke
+Q939838:Sevenoaks
+Q514597:Dunham Massey
+Q1285144:Knole House
+Q7435720:Scotney Castle
+Q1971996:Sissinghurst Castle Garden
+Q776978:Coleton Fishacre
+Q746819:Castle Drogo
+Q3587713:Élie
+Q774306:surgeon
+Q180958:faculty
+Q3595959:Howard
+Q22929895:medieval historian
+Q44747019:architecture historian
+Q393:Szczecin
+Q7582332:Squirrel Hill
+Q1342:Pittsburgh
+Q50637:art history
+Q12271:architecture
+Q190080:Carnegie Mellon University
+Q50641:history of art
+Q215380:band
+P2031:work period (start)
+P7317:iHeartRadio artist ID
+Q2260696:Progressive trance
+Q15300817:big room house
+Q170435:trance
+Q915152:progressive house
+P264:record label
+Q13424602:Coldharbour Recordings
+Q2171572:Raz Nitzan
+Q17165185:Enhanced Music
+Q23482:Marseille
+Q3240:Bouches-du-Rhône
+Q19688398:Edouard
+Q63759853:Debourg
+Q621:Versailles
+Q61059127:Q61059127
+Q3480335:Alfred
+Q1791251:Kuhn
+Q188094:economist
+Q8134:economics
+Q2119:Mannheim
+Q1728696:Kappel
+Q482980:author
+Q849697:doctorate
+P5508:archINFORM person or group ID
+Q1797292:Kürschners Deutscher Gelehrten-Kalender
+Q1205813:German Literature Archive Marbach
+Q4100:Baden-Baden
+Q3806:Tübingen
+Q153978:University of Tübingen
+Q153987:University of Freiburg
+Q152838:University of Göttingen
+Q3126128:geneticist
+Q350979:zoologist
+Q3055126:entomologist
+Q329464:Royal Prussian Academy of Sciences
+Q49738:German Academy of Sciences at Berlin
+Q543804:German Academy of Sciences Leopoldina
+Q463303:American Academy of Arts and Sciences
+Q10905235:Knight Commander's Cross of the Order of Merit of the Federal Republic of Germany
+Q15056034:Pour le Mérite for Sciences and Arts
+Q1585689:Harnack medal
+P1442:image of grave
+P1411:nominated for
+Q80061:Nobel Prize in Physiology or Medicine
+P3348:National Library of Greece ID
+P3413:Leopoldina member ID
+P835:author citation (zoology)
+P3360:Nobel Prize People Nomination ID
+Q2833:Freiburg im Breisgau
+Q12727312:Eckhard Hügel
+P5370:Entomologists of the World ID
+P1559:name in native language
+P4342:Store norske leksikon ID
+Q700541:Dahlem
+Q503765:Doctor rerum naturalium
+Q713750:West Germany
+Q1796980:Kühn
+Q864503:biologist
+Q19666181:Otfrid Mittmann
+Q76465:August Weismann
+Q431:zoology
+Q7162:genetics
+Q708038:Kaiser Wilhelm Society
+Q20828993:Max Planck Institute for Biology
+Q1360684:Ernst Caspari
+Q5937207:Josué A. Núñez
+Q20084761:Friedrich Seidel
+Q85929:Johannes von Kries
+Q84996:Karl Heider
+Q28:Hungary
+Q45779:Pécs
+Q1781:Budapest
+P3392:Surman ID
+Q18057751:David
+Q16870718:Herbert
+Q26328053:Belgrave Chapel
+Q2259532:cleric
+Q2093610:Free Church College
+Q192775:University of Glasgow
+P140:religion
+Q1062789:congregational church
+Q76304784:Charles Clive Herbert
+Q76304785:Emma Katherine Elaine Herbert
+Q7167394:Percy Herbert
+P511:honorific prefix
+Q2746176:The Honourable
+Q75303141:Elaine Letitia Algitha Orde-Powlett
+Q923:Alexander
+Q37497395:Alland
+Q4773904:anthropologist
+Q23404:anthropology
+Q45:Portugal
+Q15981151:jazz musician
+Q49112:Yale University
+Q60450:Curtis Institute of Music
+Q18426:The Bronx
+Q16290730:Milton
+Q5994:piano
+Q971430:Harwich
+Q37499301:Adolphus
+Q354187:Rosario Scalero
+Q9730:classical music
+Q14716000:West Harwich
+Q8341:jazz
+Q5156728:Composers Recordings, Inc.
+Q170322:Qingdao
+Q6106:Portland
+Q1316544:John Simon Guggenheim Memorial Foundation Fellowship
+Q1140775:Reed College
+Q1278284:Eastman School of Music
+Q2250517:Oregonsymfonie
+P1801:commemorative plaque image
+P1728:AllMusic artist ID
+Q49088:Columbia University
+Q45345321:David Avshalomov
+P7691:The Oregon Encyclopedia ID
+P3453:IPI base code
+Q16479436:Avshalomov
+Q7232081:Portland Youth Philharmonic
+Q2395700:Aaron Avshalomov
+Q19802199:Glenn
+Q37518075:Stallcop
+Q2995983:double-bassist
+Q234053:Vancouver
+Q2624305:Deurle
+Q2538413:Sint-Denijs-Westrem
+Q3021583:Anglesey Abbey
+Q7377935:Rufford Old Hall
+Q4640979:59 Rodney Street
+Q8023577:Wimpole Hall
+Q1254903:Ightham Mote
+P4177:Finnish National Gallery artist ID
+Q1925963:graphic artist
+Q499249:Walter
+Q85301472:Zeising
+Q1486:Buenos Aires
+Q2526255:film director
+Q28389:screenwriter
+Q1208175:camera operator
+P6829:Dictionary of Irish Biography ID
+Q1682564:Jane
+Q908629:Ross
+Q1002115:Limavady
+Q3243461:collector
+P2029:Dictionary of Ulster Biography ID
+Q7020733:Newtown Limavady
+Q5697103:antiquarian
+Q544737:Langenselbold
+Q61905636:court official
+Q131512:farmer
+Q1781198:agronomist
+Q609016:Hofmeister
+Q21484517:Wiegand
+P7918:Médias 19 ID
+P1890:BNC ID
+Q864380:biographer
+Q18412625:Riedel
+Q14915627:musicologist
+Q27908:music education
+Q164204:musicology
+Q6989196:conducting
+Q2003527:Nowe Miasto nad Wartą
+Q672949:Wejherowo
+Q28848:Saint Paul
+P1986:Dizionario biografico degli italiani ID
+Q2268455:Francesco
+Q36946241:Berlingieri
+Q63860448:law teacher
+Q131569:treaty
+Q382113:admiralty law
+Q1449:Genoa
+P1138:Kunstindeks Danmark Artist ID
+P2174:Museum of Modern Art artist ID
+P6295:ARTIC artist ID
+Q239303:Art Institute of Chicago
+Q7525:Sevastopol
+Q6974497:National Museum of Photography
+Q212:Ukraine
+Q16869:Constantinople
+Q3381543:Photo League
+Q159:Russia
+Q8798:Ukrainian
+Q1168859:Accademia Albertina
+Q482919:caricature
+Q495:Turin
+Q17596118:Giulio
+Q20748941:Coolidge
+Q49111:Cambridge
+Q100:Boston
+Q33439227:Gorinchem
+Q7748:law
+Q600751:prosecutor
+Q1857081:Nationaal Archief
+Q65621670:Biographisch Woordenboek der Noord- en Zuidnederlandsche Letterkunde
+Q10014:Kampen
+Q994533:Loosduinen
+Q1371378:ethnologist
+Q11900058:explorer
+Q188161:Dutch East Indies
+Q3922152:Linschoten-Vereeniging
+Q19830582:Lodovico
+Q21450862:Silvestri
+Q8178443:librettist
+Q16428906:Thomas
+Q16865684:Colley
+Q5033399:Canons Ashby House
+P1741:GTAA ID
+Q5092:Baltimore
+Q15616677:Buchanan
+Q5332361:Echard
+P2966:National Library of Wales Authority ID
+Q9009:Schaffhausen
+Q131524:entrepreneur
+Q10732476:art collector
+Q14936243:Susan
+Q16869738:Dyer
+Q1259917:violinist
+Q28271:Annapolis
+Q11027623:Wilhelm
+Q36943857:Oehl
+Q26849:Vienne
+Q2599593:germanist
+Q36378:Fribourg
+P5632:Persons of Indian Studies ID
+P6234:Biographie nationale de Belgique ID
+Q11172443:Masson
+Q467025:Pontifical Gregorian University
+Q13418253:philologist
+Q1731155:orientalist
+Q723682:dean
+Q3992:Liège
+Q677191:James
+Q13421990:Brown
+Q16533:judge
+Q161885:Great Britain
+Q6129287:James Baldwin Brown
+Q15987216:Dictionary of National Biography, 1885–1900
+P1415:Oxford Dictionary of National Biography ID
+Q18551920:Ambrogio
+Q3753303:Frigerio
+Q18494896:Bassano
+Q13362:Ferrara
+Q189829:hermit
+Q25896670:Karel
+Q37502926:Jilek
+Q33946:Czechoslovakia
+Q774975:Moravičany
+Q14960:Brno
+Q627325:graphic designer
+Q9056:Czech
+Q18020485:Giacomo
+Q21506907:Pozzi
+Q40387603:Dessau
+Q1796771:Köthen
+Q487070:Dessau
+Q10511368:high school teacher
+Q15480115:Maximilian Joseph Pozzi
+Q955464:parson
+Q5401576:Anton
+P2914:MSBI person ID
+Q184154:Laval
+Q1090551:Beuvraignes
+Q47135:Châlons-en-Champagne
+Q1765453:Domenico
+Q730506:Laeken
+Q678158:Lasne
+Q18552173:Damien
+Q16870004:Foucault
+Q998550:bookseller
+Q11025:Semarang
+Q17765219:colonial administrator
+Q2395432:referendaris
+Q13424456:hymnwriter
+Q597:Lisbon
+Q16875712:animal art
+Q1733:Magdeburg
+Q1726:Munich
+Q4926263:Andreas
+Q225867:Nagyigmánd
+Q658855:Mauthausen
+Q15075907:János
+Q15813127:László
+Q65785082:Jaarboek van de Maatschappij der Nederlandse Letterkunde
+Q27506700:member of the States-Provincial of Zuid-Holland
+Q173950:art dealer
+Q1012:Celje
+P112:founded by
+Q1257640:Galerie Miethke
+Q86081726:Miethke
+Q20771242:gallerist
+P6194:Austrian Biographical Encylopedia ID
+Q1776724:theatre manager
+Q3387717:theater director
+Q1780:Bratislava
+Q485294:Leoben
+Q28054786:opera director
+Q33:Finland
+P4589:Dreadnought Project page
+Q86083674:Dorling
+Q5125774:Clandon Park
+Q7491137:Shaw's Corner
+Q810753:Bateman's
+Q539581:Victor
+Q41876:Reims
+P2011:Cooper-Hewitt Person ID
+P4687:Dictionnaire des peintres belges ID
+P2915:ECARTICO person ID
+Q6581823:Southern Netherlands
+Q13365770:copperplate engraver
+Q12303833:floral painting
+Q61409754:fruit painting
+Q3565943:Walther Damery
+P4553:RA Collections ID
+P4808:Royal Academy new identifier
+Q65098038:Berthelin
+Q14972848:lexicographer
+Q184524:lexicography
+Q6673651:literary
+Q7201446:Francisco
+Q1626130:Homme de lettres
+Q5146:Portuguese
+P781:SIKART ID
+Q16868070:Félix
+Q21178131:portraitist
+Q3221357:Le Châble
+Q1441346:Francis
+Q86334667:modeler
+Q86334231:Francis Tussaud
+Q10429346:bibliographer
+Q18120029:bibliophile
+Q2808194:16th century in literature
+P1220:Internet Broadway Database person ID
+P6300:Hymnary author ID
+Q1243346:Matthison
+Q713200:performing artist
+Q7543679:Smallhythe Place
+P2886:Shakeosphere person ID
+Q12344159:William
+Q7115474:Oxford Town Hall
+Q14915266:Boyd
+Q19829990:biblical scholar
+Q16280379:Olivier
+Q3330547:chronicler
+Q225200:Pont-Croix
+Q37288814:Chardon
+Q1685363:propagandist
+Q174251:Châteauroux
+Q473103:Déols
+Q12961474:anarchist
+Q18190931:Osvaldo
+Q37564274:Polidoro
+Q174:São Paulo
+Q155:Brazil
+P3791:Art Renewal Center artist ID
+Q3920685:Bystrica
+Q998679:Buchlovice
+Q43266:Moravia
+Q524538:Längenfeld
+Q5758:Bad Aibling
+Q76422328:Götsch
+P6015:Handbook of Texas ID
+Q16280865:Reginald
+Q263542:Griffith
+Q182436:librarian
+Q16565:Charlotte
+Q16559:Austin
+Q1040:Karlsruhe
+Q1042951:Carlos Grethe
+Q47516639:Hausen vor Wald
+Q83132:Hüfingen
+Q15791802:Allgemeines Künstlerlexikon
+Q18190448:Guillaume
+Q37523582:Grohe
+Q19382184:furniture maker
+Q553848:Wintersheim
+Q48958:Neuilly-sur-Seine
+Q559597:cabinetmaker
+Q545971:Eugene
+Q86429347:family name
+Q45656:Limoges
+Q1708232:medallist
+P2349:Stuttgart Database of Scientific Illustrators ID
+Q19507792:scientific illustrator
+Q51955019:BEIC Digital Library
+P2799:BVMC person ID
+Q6548:Orléans
+Q258:South Africa
+Q2866207:Uniondale
+Q14196:Afrikaans
+Q3643211:Woordeboek van die Afrikaanse Taal
+Q2407668:Strand
+Q1237447:Pieter
+Q180083:Menton
+Q1479:Bordeaux
+Q7029903:Nicolau
+Q77564164:religious educator
+Q179501:Pontifical University of Salamanca
+Q36380:Society of Jesus
+Q988688:Inca
+Q938714:dogmatic theology
+Q1282843:Viliam
+Q82013374:Sokolík
+Q152002:pastor
+Q15462162:cultural historian
+Q9058:Slovak
+Q214:Slovakia
+Q37515937:Sokolik
+Q13589249:Valentina
+Q17856012:Julian
+Q15297160:Joseph
+Q72938798:Johann Christian Westphal
+Q1955056:Musikalienhändler
+Q1299422:Nicol
+Q6722062:MacNicol
+Q51647:mission
+Q19829980:religious studies scholar
+Q211873:Isle of Arran
+Q23436:Edinburgh
+Q5051165:Catacol
+Q15731774:Paolo
+Q56540479:Robbiati
+Q189290:military officer
+Q55:Netherlands
+Q7737966:The Great Theatre of Dutch Painters
+Q15955936:The Lives of Dutch painters and paintresses
+Q21491101:Jansz
+P6275:copyright representative
+P497:CBDB ID
+Q8733:Qing dynasty
+Q4140836:Gou
+Q148:People's Republic of China
+Q14038597:Friedrich
+Q37514152:Herbort
+Q47004387:Theosophist
+Q15954519:alchemist
+P5308:Dictionary of Scottish Architects ID
+Q1158485:Johnson
+Q2578988:Tyneside
+Q18219701:Pere
+Q16865398:Carrera
+Q103163:abbot
+Q7026:Catalan
+Q81345:Positano
+Q2634:Naples
+Q602358:Brockhaus and Efron Encyclopedic Dictionary
+Q55064127:Porzio
+Q86901432:Lucantonio
+Q11190:medicine
+Q12173670:Jan
+Q81311005:Štědroň
+Q16145150:music pedagogue
+Q1853321:Dutch literature
+Q208217:literary studies
+Q40844:Breda
+Q19513109:Dutch language specialist
+Q1351783:Erica
+Q34016306:Boven
+Q850730:University of Groningen
+P3233:PhilPeople profile
+Q9471:epistemology
+Q175241:University of Antwerp
+Q5862903:probability theory
+Q1166618:mathematical logic
+P2080:AcademiaNet ID
+Q18182622:Sabine
+Q37322057:Roeser
+Q20155725:Marian
+Q7921459:Verkerk
+P1477:birth name
+Q5403434:ethicist
+P2861:Leidse Hoogleraren ID
+Q156598:Leiden University
+Q4164507:art critic
+Q19523024:Janneke
+Q37487416:Wesseling
+Q1805491:Lanhydrock House
+Q16870288:Greaves
+Q75553934:Zoë Diana Spencer
+P2450:Encyclopædia Britannica contributor ID
+Q5556418:Terence
+Q1261064:Spencer
+P1707:DAAO ID
+P6804:Art Gallery of South Australia creator ID
+Q21502285:Dicker
+Q19851033:Sigismondo
+Q37532492:Tizio
+Q4972789:Brockett
+Q285173:Blacourt
+P5081:Norsk kunstnerleksikon ID
+Q9043:Norwegian
+Q20:Norway
+Q620749:dogma
+Q2308143:Specht
+Q17505911:architectural painter
+Q6138343:wood carver
+Q37543308:Treat
+Q4991371:soldier
+Q3167523:Jean-Marie
+Q25292761:ambassador of France to Algeria
+Q30461:president
+Q63373434:Inspector general of Diplomatics and Consulars
+Q48818274:Société des amis de Raymond Aron
+P4124:Who's Who in France biography ID
+Q3102096:Georges-Henri Soutou
+P6677:OpenEdition Books author ID
+Q12994:Bruges
+Q87398148:Soutou
+Q3621491:archaeologist
+Q6298851:André
+Q14467526:linguist
+Q2045138:Pablo
+Q16882987:Serra
+Q419:Peru
+Q9019195:The City and the Dogs
+Q21510529:Weidmann
+Q1437754:xylographer
+Q58533229:wood engraver
+Q72938469:Johann Georg Sieber
+Q48282:student
+P6728:Dictionnaire des Vendéens ID
+Q15995642:religious leader
+Q3336951:National Union Catalog
+Q215536:merchant
+P2741:Tate artist ID
+Q37458564:Bushby
+Q3142858:Eccleshill
+Q192896:Carlisle
+Q24056480:porcelain painter
+P5239:Artists in Canada record number
+P5368:National Gallery of Canada artist ID
+Q16:Canada
+Q13553631:Janet
+Q179205:Mitchell
+Q36312:Calgary
+Q368241:Medicine Hat
+Q76353863:Peregrine Massingberd
+Q5372254:Emily Langton Massingberd
+Q76148338:Alice Louisa Langton Massingberd
+Q76353865:Elizabeth Mary Anne Massingberd
+P3051:Kindred Britain ID
+Q76148336:Harriet Ann Langford
+Q21:England
+Q5486209:Harriet
+Q76115265:Charles Langton Massingberd
+Q3501317:fashion designer
+Q29527347:figure
+Q40446:nude
+Q37776:Besançon
+Q55896673:Christian Gottlob Vollsack
+Q63173086:Jesuit
+Q3883:Catanzaro
+Q21494596:Albertini
+Q18677875:Normandy
+Q79:Egypt
+Q27381:North Africa
+Q665462:Octave Denis Victor Guillonnet
+Q20982280:Maury
+Q169470:physicist
+Q462390:docent
+Q6169840:Jean-Pierre
+Q203312:Uccle
+Q128115:abstract art
+Q2383524:Bank Brussel Lambert
+Q377500:Royal Museums of Fine Arts of Belgium
+Q685918:National Bank of Belgium
+Q574606:Free University of Brussels
+Q383931:Royal Library of Belgium
+Q11786767:Museum Modern Art Hünfeld
+Q313966:Dexia
+Q89959:French Community of Belgium
+Q66311787:Uccle
+Q239:Brussels
+P2533:WomenWriters ID
+Q18286230:Lindeman
+Q9306:Eberswalde
+Q2773:Brunswick
+Q273126:Anna Dorothea Therbusch
+Q112204:Christoph Friedrich Reinhold Lisiewski
+Q299146:Anna Rosina de Gasc
+Q37452785:Gohl
+Q1232310:Kingston Lacy
+Q2101216:Polesden Lacey
+Q23666:Great Britain
+Q8673:Lagos
+Q11455387:furniture designer
+Q1753535:Royal College of Art
+Q660484:Newton Abbot
+Q16877483:Mount
+Q4879717:Beecroft Art Gallery
+Q60748833:Paintings in Hospitals
+Q7127735:Pallant House Gallery
+Q7373646:Royal Albert Memorial Museum
+Q5588677:Government Art Collection
+P607:conflict
+Q200790:Algerian War of Independence
+Q941049:Jacques
+Q10855195:Officer of the Legion of Honour
+Q13422141:Commander of the National Order of Merit
+Q473942:Bricquebec
+Q16869496:Delarue
+P485:archives at
+Q856640:La contemporaine
+Q309:history
+Q384593:police officer
+P5375:BIU Santé person ID
+Q3368718:pathologist
+Q1366543:Morlhon-le-Haut
+Q88364317:pathologist-anatomist
+Q14159020:Ludwig
+Q2468727:classical scholar
+Q16267607:classical philologist
+Q495527:classical philology
+Q428995:Hellenistic period
+Q649868842:Q649868842
+Q64968842:Greek Philology
+Q184890:Latin literature
+Q2090:Nuremberg
+Q212238:civil servant
+Q503640:Gunzenhausen
+Q14859:Ansbach
+Q18916625:hellenist
+Q35497:Ancient Greek
+Q36510:Modern Greek
+Q1718:Düsseldorf
+Q1022:Stuttgart
+P2469:Theatricalia person ID
+Q2259451:stage actor
+Q47916:Lucknow
+Q7357234:Rodolphus
+Q10471460:Dickinson
+Q1071:geography
+Q1913066:Subiaco
+Q348946:Renato
+Q37509014:Tomassi
+Q2180411:portrait painter
+Q243467:Subiaco
+Q2897866:Louis
+Q37569327:Weck
+P2454:KNAW past member ID
+Q2237463:Maatschappij der Nederlandse Letterkunde
+Q1876376:advocaat-fiscaal
+Q1450506:Canadian French
+Q21449200:Morin
+Q7029481:Nicolas
+Q65111420:Nivelle
+P5645:Académie française award winner ID
+Q11703653:Schneider
+Q372160:Montyon Prize
+Q56378296:Prix Charles Blanc
+Q1350157:music critic
+P3410:Clergy of the Church of England database ID
+Q1848748:Anderson
+Q2091008:Master of Arts
+Q82708:Church of England
+Q5986517:Ickworth House
+Q1327188:Trerice
+Q3402621:Penrhyn Castle
+Q2526406:Hardwick Hall
+Q1711638:Jules
+Q415460:Dufour
+Q15463524:Knight of the National Order of Quebec
+Q1401304:economic theory
+Q2562289:Université du Québec à Chicoutimi
+Q217768:Péronne
+Q19800570:Pio
+Q13375:Pisa
+Q635734:archivist
+Q676823:Werner
+Q1778615:Kohler
+Q11406:electromagnetism
+Q172145:fluid mechanics
+Q1080293:solid mechanics
+Q188715:statistical mechanics
+Q931340:August Allebé
+Q2481836:George Sturm
+Q240931:Edwin
+Q2136484:Reed
+Q1198887:music director
+Q130272:Chartres
+Q18012535:Eugène
+Q31511408:Braine-le-Comte
+Q207095:Huy
+P428:botanist author abbreviation
+P586:IPNI author ID
+P6264:Harvard Index of Botanists ID
+Q1591888:Hayes
+Q131156:utopia
+Q37320:Cleveland
+Q827311:Philip
+Q13553861:Lawson
+Q89269073:colonial history
+Q640694:University of Alberta
+Q2096:Edmonton
+Q1066186:study of history
+Q35:Denmark
+Q2529610:Carl
+Q20727240:Winslow
+Q1748:Copenhagen
+Q2640827:gynaecologist
+Q498997:Savoca
+Q18324880:Felice
+Q64027098:La Torre
+Q5284418:obstetrics
+Q13666:Messina
+Q3035237:Dominique Joseph Vanderburch
+Q6441:Montpellier
+Q16865171:Burch
+Q648:Lille
+Q59311991:Hippolyte Vanderburch
+P1296:Gran Enciclopèdia Catalana ID
+Q15620341:Miquel
+Q89332450:Llabrés
+Q49567:Manacor
+Q18130894:Eduardo
+Q21449237:Acevedo
+Q8261:novel
+Q414:Argentina
+Q8242:literature
+Q8434:education
+Q2024388:Dolores
+Q13371:Harvard University
+Q930291:Willamette University
+Q18156180:Ralph
+Q38732851:Ralph Mosser Barnes
+Q2658970:Barnes
+Q134672:Exeter
+Q4151606:Goodman
+Q943995:impresario
+Q18031774:Eduard
+Q106281:Tarnów
+Q18326155:Arie
+Q55615781:Keijzer
+Q21014241:Kwartierstatenboek
+P1636:date of baptism in early childhood
+Q1296:Ghent
+Q12992:Oudenaarde
+Q19387392:Saladin
+Q89573272:Jean de, I Stoevere
+Q89574400:Roger Stoevere
+Q89574397:Gheerard Stoevere
+Q211423:goldsmith
+Q2864737:religious art
+Q80442:Robert Campin
+Q173219:Tournai
+Q58423832:Heraldic artist
+Q335261:ornament
+Q56877007:heraldic weapon
+P53:family
+Q89574406:De Stoevere
+Q89574401:Jacob Stoevere
+Q76425586:Tschümperlin
+Q68155:Schwyz
+Q191772:Mende
+Q16830747:Prix Thérouanne
+Q3404608:prix François-Millepierres
+Q38072107:fiction literature
+Q43455:ethnology
+Q6689:French literature
+Q7880:Toulouse
+Q1920728:Yves
+Q89765530:Pourcher
+P3956:National Academy of Medicine (France) Member ID
+Q13422248:Donald
+Q932128:McKay
+Q13582652:civil engineer
+Q1284875:Felix von Schumacher
+Q70:Bern
+Q18177136:Felix
+Q76418087:von Schumacher
+Q3756713:Oberst
+Q104680:colonel
+Q207978:consul
+Q1841:Catholicism
+Q500662255:Q500662255
+Q50662255:Château de Sclassin
+Q901:scientist
+Q47064:military personnel
+Q12788174:Edmond
+Q20996061:de la Rive
+Q121594:professor
+Q23540:Protestantism
+Q69839:Presinge
+Q71:Geneva
+Q16727193:humanities scholar
+Q67523:Biasca
+Q67668:Savosa
+Q1158906:Giovanni
+Q67864:Campo
+Q16521:taxon
+P842:Fossilworks taxon ID
+P7109:Acharts.co artist ID
+Q130857:disc jockey
+Q3922505:music producer
+Q3296256:applied economics
+Q383568:University of Valencia
+Q61923:World Tourism Organization
+Q22640:Thionville
+Q833882:Aimé
+Q10855271:Knight of the Legion of Honour
+Q40898:Nancy
+Q1068063:National Gallery of Canada
+Q9352089:spy
+Q19869473:Évelyne
+Q65102663:Drouhin
+Q24205162:printseller
+P2089:Library of Congress JukeBox ID
+Q15921764:Georges
+Q1370531:Meister
+Q118865:clarinetist
+Q1459852:Wim
+Q21510393:Kloppenburg
+Q33435365:Enschede
+Q15282375:Willem
+Q21493465:Verbeek
+Q10873124:chess player
+Q808995:Barry
+Q30315780:Brummett
+Q223685:steampunk
+Q81009:rhetoric
+Q49213:University of Texas at Austin
+Q6386271:media scholar
+Q26759595:communication scholar
+Q3007315:media culture
+Q11033:mass media
+Q1508902:Nina
+Q18607854:Solomon
+Q21450217:Verbeke
+Q12554:Middle Ages
+Q18001597:Christian
+Q86072275:Lalive d'Epinay
+Q17520949:Markus
+P4208:Billboard artist ID
+Q31181:AllMusic
+Q89979459:Gardeweg
+Q1075651:keyboardist
+Q1863064:accordionist
+Q52954:keyboard instrument
+Q79838:accordion
+Q1634063:The Chills
+Q17518364:Cornelius
+Q16870334:Grove
+Q2170752:Roy
+Q36881161:Mapes
+P2688:Box Office Mojo person ID
+Q1795088:Rob
+Q16166336:Cowan
+Q4267021:Lorenzo
+Q18681561:Arias
+P1433:published in
+Q749724:Chemosphere
+P1476:title
+P2093:author name string
+P304:page(s)
+Q13442814:scholarly article
+P356:DOI
+P478:volume
+P50:author
+Q84127216:Nagaraj P Shetti
+P577:publication date
+P698:PubMed ID
+Q7141520:Antonio
+Q16869999:Forti
+Q478258:Caltagirone
+Q2656:Palermo
+Q16860065:Blackwell
+Q6291381:José Antonio
+Q717:Venezuela
+P1150:Regensburg Classification
+Q610111:Salvatore
+Q37079681:Sibilia
+Q56244541:Grider
+Q618694:fighter pilot
+Q2095549:aircraft pilot
+Q43082565:Pavel
+Q21492186:Navrátil
+Q37304828:Powelson
+Q159810:economy
+Q27827744:management consultant
+Q12016761:Forman
+P2383:CTHS person ID
+Q47493364:Dufay
+Q16677194:Société archéologique et historique de l'Orléanais
+Q6476423:Q6476423
+Q28845821:Société de l'histoire de Paris et de l'Île-de-France
+Q4178004:publicist
+Q9871:Tilburg
+Q20857490:pastellist
+Q1435900:Fontys School of the Arts
+Q260617:Marlene Dumas
+Q3022128:Ine
+P495:country of origin
+P571:inception
+Q2662148:Celtic rock
+P527:has part
+Q15972380:Terry Casey
+P740:location of formation
+Q5925:Orange County
+Q205049:world music
+Q1186369:Varèse Sarabande
+Q5107761:Chris Pierce
+P1749:Parlement & Politiek ID
+Q2021163:Harm
+Q11997597:representative
+Q62261538:inspecteur des finances
+Q18887908:member of the House of Representatives of the Netherlands
+P1142:political ideology
+Q7169:conservatism
+Q210673999:Q210673999
+Q15888090:Arent
+Q382617:mayor
+Q14389109:Steenbergen
+Q1958649:schoolopziener
+Q27301279:member of the States-Provincial of North Brabant
+Q33512784:Waalre
+Q1335:Montevideo
+Q67109:Agno
+Q325872:Maria
+P6488:Enciclopedia delle donne ID
+P5019:Brockhaus Enzyklopädie online ID
+Q974144:educator
+P4724:Maitron ID
+Q89362105:Jacqueline Dubois
+Q15627169:trade unionist
+Q1397808:resistance fighter
+P1472:Commons Creator page
+Q1075294:Beaumont-les-Autels
+Q24037059:Lejeune
+Q203293:Langres
+Q590548:Société française de photographie
+Q27500043:Michelini
+Q2660560:Edgar
+Q4771950:Anthony
+Q91188597:Corréard
+Q912323407:Q912323407
+Q91232407:moralist
+Q19611239:Le Blanc
+Q21185790:exegete
+Q4988856:hebraist
+Q7501153:shopkeeper
+Q16880907:Paine
+Q797846:Girton College
+Q18121477:Emily
+Q28146521:Townshend
+Q192186:Fabian Society
+Q81046:Charleroi
+Q95144:Châtelet
+Q13426635:Émile
+Q91302725:Chavepeyer
+P8081:WBIS ID
+Q3330225:Museum of Fine Arts
+Q2893370:Beaux-Arts Mons
+Q18350783:Palais des Beaux Arts de Charleroi
+Q722977:Presles
+P4026:Cullum number
+Q9219:United States Military Academy
+P535:Find A Grave memorial ID
+Q16881414:Prince
+Q785669:Eastport
+P119:place of burial
+Q8676:American Civil War
+Q429655:Battle of Cedar Mountain
+Q152956:brigader general
+Q6544459:lieutenant colonel
+P1196:manner of death
+Q10737:suicide
+Q4042166:Kerr
+Q47848:sacred architecture
+Q5043:Christianity
+Q6602:Strasbourg
+Q3854316:Melvin
+Q16257621:Kyle
+Q270704:Třebíč
+Q3373079:Clarence
+Q16883905:Stratton
+Q20996104:Dreher
+Q64186:Bad Zurzach
+Q19286064:Illereichen
+Q2044:Florence
+Q19819816:Giovan
+Q21475450:Bartoli
+Q15991187:grammarian
+Q8091:grammar
+Q65104326:Frizon
+Q28496634:Pénitencier
+Q1104153:canon
+P2639:Filmportal ID
+Q1597372:Křivoklát
+Q833463:Bohumil
+Q10425698:Štěpán
+Q3455803:director
+Q36966644:Stepan
+Q15921732:George
+Q16860536:Brook
+Q172:Toronto
+Q134995:bibliography
+Q1423891:minister
+Q91434238:Franckenstein
+Q5475:Treviso
+Q37041917:Trento
+Q5323:Poreč
+Q3399573:Asian art
+Q736742:Wimbledon
+Q3541269:Stanley
+Q21488819:Nott
+Q67429130:Asian Art
+Q18383:Providence
+Q969196:Royal Photographic Society
+Q986072:Rokycany
+Q194005:Augusta
+Q16741113:Vincenzo
+Q37510657:Nastasi
+P8116:Encyclopedia of Brno Person ID
+Q35000543:Jaroslav
+Q60644681:Grunt
+Q131062:urban planner
+Q1782674:Blatec
+Q91765679:Hazelton
+Q692:William Shakespeare
+Q54179:Methuen
+Q2334643:Onekama
+Q203541:Zimmer
+Q22957:Kandel
+Q1016638:Burlington
+Q157696:sergeant
+Q1294787:artisan
+Q121713481:Q121713481
+Q12713481:manual worker
+Q1335484:Villers-sur-Coudun
+Q16281827:Sylvain
+Q29002296:Pitt
+Q17094503:Whitcombe
+Q2999:Würzburg
+Q12377274:trumpeter
+P5374:Académie des sciences d'outre-mer member ID
+Q18001648:Octave
+Q37010914:Louwers
+Q337512:Académie des sciences d'outre-mer
+P6734:Archaeology Data Service person ID
+Q23306981:historical geographer
+P2252:National Gallery of Art artist ID
+P2945:British Book Trade Index ID
+Q1891:Bologna
+Q1734662:cartographer
+Q27996474:Northern Netherlands
+Q4926472:Benjamin
+Q2594455:Wright
+Q214867:National Gallery of Art
+P5492:EDIT16 catalogue author ID
+Q91867158:Benivieni
+Q1636680:Renaissance humanist
+P1795:Smithsonian American Art Museum person/institution ID
+P6714:Whitney Museum of American Art artist ID
+P4740:Brooklyn Museum artwork ID
+Q1192305:Smithsonian American Art Museum
+Q199797:Tacoma
+Q18410597:La Roche
+Q52154785:Theodor Oswald Weigel
+Q2986283:auctioneer
+Q131818:Oran
+Q178663:Meknes
+Q20996004:Colombani
+Q4002666:military physician
+Q72290642:Société médico-psychologique
+Q337555:Académie Nationale de Médecine
+Q53060080:Espinós
+Q4888090:Benito Espinós
+Q14626626:Michel
+Q91918868:Veuthey
+Q20859559:Marcelin Guérin Prize
+Q68487:Dorénaz
+Q692799:Conventual Franciscans
+P4585:Accademia della Crusca ID
+Q4245067:Luigi
+Q16892518:Venturi
+Q6259:Pavia
+Q2330979:polygraph
+Q3683760:Coltaro
+Q1874605:Bruno
+Q92009991:Zoni
+Q12902372:flautist
+Q11405:flute
+Q18184582:Raffaele
+Q37542613:Giovanetti
+Q13373:Lucca
+Q338523:Accademia di San Luca
+Q78227:Eugène Ricklin
+Q6295199:Journal of Family Nursing
+P433:issue
+Q48853883:Karen S. Lyons
+Q1596198:Theophil
+Q92263142:Groell
+Q1345:Philadelphia
+Q1192185:paranormal romance
+Q6585139:mystery fiction
+Q270:Warsaw
+Q1522259:Gian
+Q92279851:Torresani
+Q42288:Asola
+Q641:Venice
+P5469:Mormon Literature and Creative Arts Database artist ID
+Q37445617:Hurn
+Q1998661:Atteva niveigutta
+Q26657516:Beaumont Chapel (Baptist)
+Q1998861:Broome
+Q2454255:Stowmarket
+Q2146674:Debenham
+Q2037687:Dedham
+Q2337564:Beighton
+Q2292500:Rattlesden
+Q6430706:critic
+Q4263842:literary critic
+Q222344:cinematographer
+Q755070:storyteller
+Q21448867:Conti
+Q69200:Avully
+Q11682369:Heinz
+Q37484633:Rieder
+Q1394815:Fontaine
+Q92471190:Delalain
+Q26722292:Nicolas-Augustin Delalain
+Q18115751:Fernando
+Q65099034:Cabedo
+Q221978:Bernhard
+Q16883693:Springer
+Q1396129:Julius Springer, Jr.
+Q47143:Portogruaro
+Q12805843:Vito
+Q18190892:Vitale
+Q3765897:pubblicista journalist
+Q21449589:Friedlander
+Q1184721:Watson
+Q18145837:Adolf
+Q37239819:Beckert
+Q56413180:Česká Lípa
+Q1722954:Kamenický Šenov
+Q740863:Česká Lípa
+Q330888:Arbois
+Q205586:Dole
+Q18638754:Joannes
+Q200036:Volos
+Q41:Greece
+Q60589189:Aristomenis
+Q21426148:Angelopoulos
+Q16161:Province of Como
+Q338472:Brera Academy
+Q5565457:Giuseppe Mentessi
+Q1169527:Cesare Tallone
+Q42835:Calco
+Q15720880:Riccardo
+Q1143178:Brambilla
+Q9592:Catholic Church
+Q20898247:rector magnificus van de Radboud Universiteit Nijmegen
+Q632004:Radboud University Nijmegen
+P7941:Biografisch Woordenboek van Nederland: 1880-2000 ID
+Q978151:Persoonlijkheden in het Koninkrijk der Nederlanden in woord en beeld
+Q864371:Biografisch Woordenboek van Nederland
+Q2655749:Elden
+Q33467482:Nijmegen
+Q21509420:Hoogveld
+Q7024:Lugano
+Q68224:Morcote
+Q15897583:Pietro
+Q27106049:Anastasio
+P1321:place of origin (Switzerland)
+P6715:SIUSA archive producer person ID
+Q56084:Offida
+Q3437:Perugia
+Q21492855:Cecchini
+Q3639560:Augusta Town Library
+Q59516103:Christian monk
+Q5489:Troyes
+Q17523984:Claude
+Q59532313:Jean Nesmy
+Q2849406:Angelico Surchamp
+Q131132:Benedictines
+Q24262594:religious writer
+Q19819809:Valentino
+Q55087949:Solmi
+Q15995850:Emanuele Brugnoli
+P1599:Cambridge Alumni Database ID
+P2977:LBT person ID
+Q16870910:Hubbard
+Q7309424:registrar
+Q35794:University of Cambridge
+P3154:Runeberg author ID
+P5101:Swedish Literature Bank AuthorID
+Q16646115:Jonas
+Q16865407:Cartwright
+Q225:Bosnia and Herzegovina
+Q16274713:Antun
+Q35997:İzmir
+Q23597719:Danielsson
+Q544972:trombonist
+Q8350:trombone
+Q180744:brass instrument
+Q1376146:Royal Stockholm Philharmonic Orchestra
+Q10577439:Royal Swedish Navy Band
+Q2658291:Norrköping Symphony Orchestra
+Q1078504:Christer
+Q18195716:master scribe
+Q189010:notary
+Q1239:Indian Ocean
+Q16479531:Bauernfeind
+Q1641001:Royal Danish Academy of Fine Arts
+P7831:NMVW id
+Q17153751:National Museum of World Cultures
+P6605:Plant Illustrations artist ID
+Q16324161:Museet på Koldinghus
+Q3432262:The Royal Academy of Fine Arts, The Academy Council
+Q21817211:VejleMuseerne
+Q671384:Statens Museum for Kunst
+Q22813352:traveller
+Q80687:secretary
+Q19688263:Noël
+Q37016561:Retz
+Q2633563:Syriac literature
+Q632969:Plombières-les-Bains
+Q36974230:Parisot
+Q89184453:catholic monk
+Q7541856:ceramicist
+Q537566:Furio
+Q144334:printing press
+Q93328382:Jean-François Musier
+Q82781515:Jean-Luc Nyon
+Q93443147:Musier
+Q24207816:Jean-Baptiste-Guillaume Musier
+Q93327960:Jean-Baptiste Musier
+Q1814118:Karin
+P4012:Semantic Scholar author ID
+Q11053:RNA
+Q309331:Ohio State University
+Q48114994:Oscar Vargas-Rodriguez
+Q42567579:Ziwei Liu
+Q59700765:Songon An
+Q5585243:Gordon Hammes
+Q7153466:Paul Schimmel
+Q56413677:Kašperské Hory
+Q225932:arhat
+Q1216951:Tournon
+Q326043:Besse-et-Saint-Anastaise
+Q462534:Clermont
+Q65143253:Bibliothèque de la Compagnie de Jésus
+Q17317988:Ekaterina
+Q30131305:Goldinger
+Q649:Moscow
+Q2360835:Stroganov Moscow State University of Arts and Industry
+Q958052:Konstantin Savitsky
+Q16422172:Max
+Q67205:Homburg
+Q68189:Trogen
+P1440:FIDE player ID
+P3316:ICCF player ID
+Q39260185:Maastricht
+Q8933847:Earl
+Q1751954:May
+P1615:CLARA-ID
+Q52101:Middelburg
+Q1592:Sternschanze
+Q1501926:attorney general
+Q1478218:advocate general
+Q1020250:Cífer
+Q317275:Philipp Foltz
+Q17128250:Ware
+Q33486:Hartford
+Q5048081:Cascade
+Q5472002:Fort Scott National Cemetery
+P5329:ARMB member ID
+Q37429658:Martinet
+Q5977147:medical literature
+Q6593:Vannes
+Q2124852:Royal Academy of Medicine of Belgium
+Q7258917:Puget
+Q730513:Académie des sciences, belles-lettres et arts de Lyon
+Q2844382:Amphisbaena varia
+Q21493594:Bernardi
+Q18620536:Michele
+P1317:floruit
+Q16479857:Battaglia
+Q12901049:Michele
+Q76626407:economic journalist
+Q585128:Malzéville
+Q3579163:scientific editor
+Q18029644:Otto
+Q1877710:Lussi
+Q72:Zürich
+Q63992:Ascona
+Q21508349:Vernet
+Q26708578:Société d'archéologie, d'histoire et de géographie de la Drôme
+Q1177007:prothonotary
+Q384461:La Baume-de-Transit
+Q8848:Valence
+Q42603:priest
+Q1743122:church historian
