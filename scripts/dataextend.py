@@ -2,12 +2,13 @@
 # -*- coding: utf-8 -*-
 
 import pywikibot
+from pywikibot.data import sparql
 import sys, re
 import codecs
 import datetime
 from urllib.error import HTTPError, URLError
 from urllib.request import urlopen
-from urllib.parse import unquote
+from urllib.parse import unquote, urlencode
 from urllib.parse import quote as encode
 import ssl
 from collections import defaultdict
@@ -223,6 +224,7 @@ class DataExtendBot:
             "www.oxfordartonline.com": BenezitUrlAnalyzer,
             "exhibitions.univie.ac.at": UnivieAnalyzer,
             "weber-gesamtausgabe.de": WeberAnalyzer,
+            "Data": BacklinkAnalyzer,
             }
 
     def label(self, title):
@@ -581,6 +583,7 @@ class DataExtendBot:
                 continueafterrestrict = True              
             unidentifiedprops = []
             claims['Wiki'] = [Quasiclaim(page.title(force_interwiki=True, as_link=True)[2:-2]) for page in item.iterlinks()]
+            claims['Data'] = [Quasiclaim(item.title())]
             propstodo = list(claims)
             propsdone = []
             while propstodo:
@@ -640,7 +643,10 @@ class DataExtendBot:
                                                     url = pywikibot.Claim(self.site, 'P4656')
                                                 else:
                                                     url = pywikibot.Claim(self.site, 'P854')
-                                                url.setTarget(claim[2].url)
+                                                if claim[2].sparqlquery:
+                                                    url.setTarget(pywikibot.ItemPage(self.site, claim[1]).full_url())
+                                                else:
+                                                    url.setTarget(claim[2].url)
                                                 if claim[2].iswiki or claim[2].isurl:
                                                     iddata = None
                                                 else:
@@ -708,7 +714,10 @@ class DataExtendBot:
                                                     url = pywikibot.Claim(self.site, 'P4656')
                                                 else:
                                                     url = pywikibot.Claim(self.site, 'P854')
-                                                url.setTarget(claim[2].url)
+                                                if claim[2].sparqlquery:
+                                                    url.setTarget(pywikibot.ItemPage(self.site, claim[1]).full_url())
+                                                else:
+                                                    url.setTarget(claim[2].url)
                                                 if claim[2].iswiki or claim[2].isurl:
                                                     iddata = None
                                                 else:
@@ -886,9 +895,9 @@ class Analyzer:
     TAGRE = re.compile("<[^<>]*>")
     SCRIPTRE = re.compile("(?s)<script.*?</script>")
     
-    def __init__(self, id, data=defaultdict(dict), item=None):
+    def __init__(self, id, data=None, item=None):
         self.id = id
-        self.data = data
+        self.data = defaultdict(dict) if data is None else data
         self.dbname = None
         self.urlbase = None
         self.urlbase2 = None
@@ -903,6 +912,7 @@ class Analyzer:
         self.escapeurl = False
         self.item = item
         self.iswiki = False
+        self.sparqlquery = None
         self.isurl = False
         self.skipfirst = False
         self.setup()
@@ -915,8 +925,9 @@ class Analyzer:
     def url(self):
         usedurl = self.urlbase
         if usedurl is None:
-            pywikibot.output('')
-            pywikibot.output("### Skipping {} ({}) ###".format(self.dbname, self.dbproperty))
+            if not self.sparqlquery:
+                pywikibot.output('')
+                pywikibot.output("### Skipping {} ({}) ###".format(self.dbname, self.dbproperty))
             return None
         else:
             return usedurl.format(id=encode(self.id))
@@ -989,7 +1000,7 @@ class Analyzer:
         if not self.id:
             return
         self.html = ''
-        if not self.url:
+        if not self.url and not self.sparqlquery:
             return
         newclaims = []
         print()
@@ -1040,6 +1051,8 @@ class Analyzer:
                     self.html = self.html + '\n' + pagebytes.decode('utf-8')
                 except UnicodeDecodeError:
                     self.html = self.html + '\n' + str(pagebytes)
+        if self.sparqlquery:
+            self.html = str(sparql.SparqlQuery().select(self.sparqlquery))
         if not self.html:
             return
 
@@ -12020,6 +12033,61 @@ class WeberAnalyzer(UrlAnalyzer):
                 return self.findallbyre('([^,]*)', subsection, 'city')
 
 
+class BacklinkAnalyzer(Analyzer):    
+    def setup(self):
+        self.iswiki = True
+        self.dbname = 'Wikidata Backlinks'
+        self.dbproperty = None
+        self.dbid = 'Q2013'
+        self.urlbase = None
+        self.sparqlquery = 'SELECT ?a ?b WHERE { ?a ?b wd:%s }'%self.id
+        self.skipfirst = True
+        self.hrtre = '()'
+        self.language = 'en'
+
+    def getrelations(self, relation, html):
+        return [x.upper() for x in self.findallbyre('statement/(q\d+)[^\{\}]+statement/%s'%relation, html)]
+
+    def findspouses(self, html):
+        return self.getrelations('P26', html)
+
+    def findpartners(self, html):
+        return self.getrelations('P451', html)
+
+    def findpositions(self, html):
+        return self.getrelations('P1308', html)
+
+    def findpartofs(self, html):
+        return self.getrelations('P527', html)
+
+    def findparts(self, html):
+        return self.getrelations('P361', html)
+
+    def findstudents(self, html):
+        return self.getrelations('P1066', html)
+
+    def findteachers(self, html):
+        return self.getrelations('P802', html)
+
+    def finddocstudents(self, html):
+        return self.getrelations('P184', html)
+
+    def findadvisors(self, html):
+        return self.getrelations('P185', html)
+
+    def findchildren(self, html):
+        return self.getrelations('P2[25]', html)
+
+    def findsiblings(self, html):
+        return self.getrelations('P3373', html)
+
+    def findkins(self, html):
+        return self.getrelations('P1038', html)
+
+    def findnotableworks(self, html):
+        return self.getrelations('P(?:50|57|86)', html)
+    
+
 if __name__ == '__main__':
     item = pywikibot.ItemPage(pywikibot.Site().data_repository(), sys.argv[1])
     bot = DataExtendBot()
@@ -12027,4 +12095,3 @@ if __name__ == '__main__':
         bot.workon(item, sys.argv[2])
     else:
         bot.workon(item)
-
