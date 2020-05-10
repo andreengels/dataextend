@@ -764,6 +764,7 @@ country:grèce:Q41
 country:bosenský:Q225
 country:yougoslavie:Q36704
 country:francja.:Q142
+country:indiano:Q668
 commune:Lyon:Q456
 genre:drama:Q21010853
 genre:short:Q24862
@@ -5983,6 +5984,16 @@ city:malzéville (meurthe-et-moselle):Q585128
 city:la baume-de-transit (drôme):Q384461
 city:valence (drôme):Q8848
 city:valence (departement drôme):Q8848
+city:rees:Q243474
+city:zofingen:Q63986
+city:tanjore, tamil nadu:Q41496
+city:tanjore, madras presidency, british india:Q41496
+city:madurai, tamil nadu, india:Q228405
+city:tanjore:Q41496
+city:தஞ்சாவூர், சென்னை மாகாணம், பிரித்தானிய இந்தியா:Q41496
+city:தே. கல்லுப்பட்டி, மதுரை மாவட்டம், தமிழ்நாடு:Q2229715
+city:altenberg, erzgebirge:Q436724
+city:altenberg (erzgebirge):Q436724
 lastname:bernays:Q53189956
 lastname:hansson:Q21507480
 lastname:bachmann:Q19760472
@@ -6962,6 +6973,7 @@ lastname:bernardi:Q21493594
 lastname:battaglia:Q16479857
 lastname:lüssi:Q1877710
 lastname:vernet:Q21508349
+lastname:meurer:Q28150702
 gender:a:Q6581072
 gender:weiblich:Q6581072
 gender:féminin:Q6581072
@@ -7732,6 +7744,10 @@ person:nyon, jean luc, -1799:Q82781515
 person:musier, jean-baptiste guillaume:Q24207816
 person:musier, jean-baptiste:Q93327960
 person:musier, jean-françois, 1703-1777:Q93328382
+person:michael, psellos, 1018-1078:Q294109
+person:weinrich, georg, 1554-1617:Q1506348
+person:meurer, christoph:Q93844540
+person:meurer, christoph, 1558-1616:Q93844540
 source:loc-na:XXX
 source:lcauth:XXX
 source:vorlage:XXX
@@ -7962,6 +7978,7 @@ source:sommervogel, carlos: bibliothèque de la compagnie de jésus:Q65143253
 source:jaarboek van de maatschappij der nederlandse letterkunde, 1889:Q65785082
 source:jaarboek van de maatschappij der nederlandse letterkunde, 1889 (1889) in de digitale bibliotheek voor de nederlandse letteren:Q65785082
 source:vorlage, sudoc:XXX
+source:portretten uit het rijksmuseum:XXX
 family:kettler:Q646280
 family:hoensbroeck:Q323291
 family:montdidier:Q1324656
@@ -12502,6 +12519,20 @@ occupation:ecclésiastique:Q2259532
 occupation:protonotaire apostolique:Q1177007
 occupation:francouzský teolog:Q1234713
 occupation:historik církevních dějin:Q1743122
+occupation:décorateur de théâtre.:Q26869657
+occupation:metteur en scène:Q3387717
+occupation:costumier:Q1323191
+occupation:gujarat:XXX
+occupation:economist:Q188094
+occupation:பொருளாதார அறிஞர்:Q188094
+occupation:pastor in amsterdam:Q152002
+occupation:doktor der medizin:Q39631
+occupation:professeur de mathématiques à leipzig:Q170790
+occupation:1613:XXX
+occupation:meteorologove:Q2310145
+occupation:meteorologe:Q2310145
+occupation:univerzitní profesor medicíny:Q39631
+occupation:rovněž meteorolog:Q2310145
 subject:l:XXX
 subject:renesancni umeni:Q1133779
 subject:malirstvi:Q11629
@@ -12941,6 +12972,8 @@ subject:la littérature syriaque:Q2633563
 subject:rna:Q11053
 subject:medycyna:Q11190
 subject:littérature médicale.:Q5977147
+subject:mathématiques:Q395
+subject:meteorologie:Q25261
 film-occupation:producer:Q3282637
 film-occupation:writing:Q28389
 film-occupation:miscellaneous crew:XXX
@@ -13403,6 +13436,7 @@ employer:world tourism organization:Q61923
 employer:schoolopziener:XXX
 employer:biblioteca comunale augusta (perugia):Q3639560
 employer:katholische kirche:Q9592
+employer:alte nikolaischule leipzig:Q436052
 artist:hondecoeter, melchior d':Q304411
 artist:barlow, francis:Q3081300
 artist:bogdány, jakob:Q833333
@@ -13723,6 +13757,7 @@ scientist:oscar vargas-rodriguez:Q48114994
 scientist:gordon g. hammes:Q5585243
 scientist:paul schimmel:Q7153466
 scientist:mit:XXX
+scientist:moritz valentin steinmetz:Q1948076
 degree:prof.:XXX
 degree:dr.:Q752297
 degree:prof. dr.:Q752297
@@ -13743,6 +13778,7 @@ degree:ma:Q2091008
 degree:bd:Q2085288
 degree:phdr.:Q20021265
 degree:phd:Q752297
+degree:dr. med.:Q913404
 position:lid vroedschap van haarlem:Q65707494
 position:lid provinciale staten van zeeland (1814-1861):Q27533077
 position:lid vergadering van notabelen (1814):Q43038049

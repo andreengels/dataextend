@@ -2086,3 +2086,61 @@ Q384461:La Baume-de-Transit
 Q8848:Valence
 Q42603:priest
 Q1743122:church historian
+P402:OSM relation ID
+P131:located in the administrative territorial entity
+Q835118:Borger-Odoorn
+P625:coordinate location
+Q486972:human settlement
+Q1852859:populated place in the Netherlands
+P981:BAG residence ID
+P1566:GeoNames ID
+P1281:WOEID
+P421:located in time zone
+Q6655:UTC+01:00
+P242:locator map image
+P2046:area
+Q712226:square kilometre
+P6766:Who's on First ID
+Q2982766:Julia Lennon
+Q1203:John Lennon
+Q24826:Liverpool
+Q131491:Brighton
+P509:cause of death
+Q189588:stomach cancer
+Q488205:singer-songwriter
+Q3739104:natural causes
+P2949:WikiTree person ID
+Q6658319:The Blue Coat School
+Q16872048:Lennon
+P2600:Geni.com profile ID
+Q2689657:Jadwinin, Łódź Voivodeship
+Q1323191:costume designer
+Q243474:Rees
+Q63986:Zofingen
+Q129286:British Raj
+Q41496:Thiruvarur
+P4343:WBPLN author ID
+Q228405:Madurai
+Q15253558:activist
+Q2229715:T.Kallupatti
+Q1991604:Geheugen van Nederland
+Q1506348:Georg Weinrich
+Q294109:Michael Psellos
+Q170790:mathematician
+Q395:mathematics
+Q109091:Philipp Müller
+Q1948076:Moritz Valentin Steinmetz
+Q154804:Leipzig University
+Q913404:Doctor of Medicine
+Q2590582:Wolfgang Meurer
+Q15976:Altenburg
+Q2589157:Wolfgang
+Q2310145:meteorologist
+P5587:Libris-URI
+P8122:DLL Catalog author ID
+Q25261:meteorology
+Q212071:rector
+Q436052:Alte Nikolaischule (Leipzig)
+Q93844540:Christoph Meurer
+Q436724:Altenberg
+Q28150702:Meurer

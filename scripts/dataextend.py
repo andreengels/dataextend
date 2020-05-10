@@ -5883,9 +5883,6 @@ class CerlAnalyzer(Analyzer):
     def findchildren(self, html):
         return self.getvalues('Child', html, 'person', link=True)
 
-    def findkins(self, html):
-        return self.getvalues('See also', html, 'person', link=True)
-
 
 class DiscogsAnalyzer(Analyzer):
     def setup(self):
@@ -11248,7 +11245,7 @@ class WikiAnalyzer(Analyzer):
         return templatetype in ['sourcetext', 'ref-llibre', 'article', 'lien web', 'مرجع ويب', 'écrit'] or\
                firstword in ['citeer', 'cite', 'link', 'cita', 'cytuj', 'книга', 'citar', 'ouvrage', 'grafikus', 'citation',
                              'erreferentzia', 'citace', 'lien'] or\
-               lastword in []
+               lastword in ['source', 'स्रोत']
 
     def getinfos(self, names, html, dtype=None, splitters='<>,;/،・', alt=None):
         if not alt: alt = [] 
@@ -11316,7 +11313,7 @@ class WikiAnalyzer(Analyzer):
                                 'article', 'הערה', 'مرجع ويب', 'écrit'] or\
                firstword in ['citeer', 'cite', 'ouvrage', 'link', 'grafikus', 'cita', 'cytuj', 'книга', 'citar', 'ouvrage',
                              'citation', 'erreferentzia', 'lien', 'citace'] or\
-               lastword in ['source'] or\
+               lastword in ['source', 'स्रोत'] or\
                templatetype.startswith('ahnentafel')
 
     def findlongtext(self, html):
@@ -11336,6 +11333,7 @@ class WikiAnalyzer(Analyzer):
                [self.removewiki(self.findbyre(" %s (?:e[ei]?n |an? |u[nm][ea]? |eine[nr]? |'n |ne |e )?(.*?)[\.;]"%word, html)) for word in [
                 'is', 'w[ao]s', 'ist', 'wao?r', 'est', 'était', 'fu', 'fou', '—', 'era', 'е', 'היה', 'by[łl]', 'foi', 'был', 'fue',
                    'oli', 'bio' , 'wie', 'var', 'je', 'იყო', 'adalah', 'é', 'ήταν', 'هو', 'стала', 'és', 'er', 'est[ia]s',
+                   'एक',
                ]] +\
                self.findallbyre('\{\{short description\|(.*?)\}', html) +\
                self.findallbyre('\[\[[^\[\]\|]+?:([^\[\]\|]+)\]\]', html) +\
@@ -12046,7 +12044,7 @@ class BacklinkAnalyzer(Analyzer):
         self.language = 'en'
 
     def getrelations(self, relation, html):
-        return [x.upper() for x in self.findallbyre('statement/(q\d+)[^\{\}]+statement/%s'%relation, html)]
+        return [x.upper() for x in self.findallbyre('statement/([qQ]\d+)[^\{\}]+statement/%s'%relation, html)]
 
     def findspouses(self, html):
         return self.getrelations('P26', html)
