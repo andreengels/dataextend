@@ -2211,3 +2211,71 @@ P5306:LONSEA ID
 Q27117915:Jean-Maurice
 Q94087580:Dufourmantelle
 Q1472321:Maurice
+P2399:British Council artist ID
+P4169:YCBA agent ID
+Q430682:Tate
+P5597:Artcyclopedia artist ID
+Q71521142:reproduction right not represented by CISAC member
+Q2820837:Abbot Hall Art Gallery
+Q4968030:Guildhall Art Gallery
+Q2441562:Scottish National Portrait Gallery
+Q11839040:McLean Museum
+Q270920:Royal Academy of Arts
+Q7658442:Swindon Museum
+Q45433:British Council
+Q238587:National Portrait Gallery
+Q15262183:Newport Museum and Art Gallery
+Q967165:University of York
+Q4801442:Arts Council Collection
+Q94132131:Lessore
+Q745866:Dallas Museum of Art
+Q942713:Scottish National Gallery
+P170:creator
+Q27971583:Caroline Innes, b. 1974. Paralympic athlete
+Q28548949:Apollo and Daphne
+Q28548961:Diana and Actaeon at the Byam Shaw
+Q28052389:Six British Paralympic Athletes
+Q28548935:Paule and Rémi in the Dining Room
+Q28052339:Architects of the Gallery Masterplan (Edward David Brynmor Jones; Jeremy Dixon; Charles Robert Saumarez Smith)
+Q27966920:Maggie McEleny, b. 1965. Paralympic athlete
+Q28551555:Annonciade
+Q28547984:Sunday
+Q703369:Walter Sickert
+Q4892888:Bernard Adeney
+Q18177305:Therese
+Q3965637:Southwick
+Q288781:Kensington
+Q4868986:Bathampton
+Q19399551:Frederick Lessore
+Q1399299:Slade School of Fine Art
+P5008:on focus list of Wikimedia project
+Q24909800:Art+Feminism
+P6735:Watercolour World artist ID
+P2041:National Gallery of Victoria artist ID
+Q17651236:Thérèse
+Q4666883:Aberdeen Art Gallery
+Q41661713:Glasgow Museums Resource Centre
+Q6684751:Lotherton Hall
+Q26581762:Mercer Art Gallery
+Q7012302:New Walk Museum
+Q5444068:Ferens Art Gallery
+Q7378151:Rugby Art Gallery and Museum
+Q7374745:Royal Pump Rooms
+Q4968867:Bristol City Museum and Art Gallery
+Q2638817:Manchester Art Gallery
+Q1321874:National Museum Cardiff
+Q1567478:The Hepworth Wakefield
+Q7828737:Touchstones Rochdale
+Q5572022:Gloucester City Museum & Art Gallery
+Q15123837:Paisley Museum and Art Galleries
+Q7830109:Towner Gallery
+Q3547979:Ulster Museum
+Q7404381:Salford Museum and Art Gallery
+Q25175004:Stanley & Audrey Burton Gallery
+Q6515835:Leeds Art Gallery
+Q1904:Ontario
+Q5001321:Buscot Park
+Q496040:Dublin City Gallery The Hugh Lane
+Q59537862:View in Bath, towards Beechen Cliff
+Q20443707:Kensington Gardens
+Q78033014:The Circus at Bath

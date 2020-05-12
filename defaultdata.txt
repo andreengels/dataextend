@@ -2296,6 +2296,8 @@ firstname:louis de:Q2897866
 firstname:aurelio:Q2484382
 firstname:esteban:Q17496543
 firstname:jean maurice:Q27117915
+firstname:thérèse:Q17651236
+firstname:therese:Q18177305
 city:vancouver:Q24639
 city:dundee:Q123709
 city:long crendon:Q2891392
@@ -7008,6 +7010,7 @@ lastname:ziégler:Q198857
 lastname:kidd:Q16871372
 lastname:montejo:Q28800751
 lastname:dufourmantelle:Q94087580
+lastname:lessore:Q94132131
 gender:a:Q6581072
 gender:weiblich:Q6581072
 gender:féminin:Q6581072
@@ -13181,6 +13184,7 @@ university:graphische lehr- und versuchsanstalt (wenen):Q1643713
 university:kunstgewerbeschule (wenen):Q877686
 university:königliche kunstgewerbeschule (münchen):Q1796130
 university:university of freiburg:Q153987
+university:slade school of fine art:Q1399299
 mannerdeath:natural causes:Q3739104
 mannerdeath:natuurlijke dood (watersught):Q3739104
 mannerdeath:ataque al corazón:Q3739104
@@ -13692,6 +13696,36 @@ museum:museet på koldinghus:Q16324161
 museum:statens museum for kunst:Q671384
 museum:vejlemuseerne (kunst):Q21817211
 museum:akademiraadet. det kongelige akademi for de skønne kunster:Q3432262
+museum:abbot hall art gallery:Q2820837
+museum:guildhall art gallery:Q4968030
+museum:mclean museum and art gallery:Q11839040
+museum:national galleries of scotland, scottish national portrait gallery:Q2441562
+museum:newport museum and art gallery:Q15262183
+museum:royal academy of arts:Q270920
+museum:swindon museum and art gallery:Q7658442
+museum:the university of york:Q967165
+museum:dallas museum of art:Q745866
+museum:national galleries of scotland:Q942713
+museum:tate gallery:Q430682
+museum:aberdeen art gallery:Q4666883
+museum:bristol museum & art gallery:Q4968867
+museum:ferens art gallery:Q5444068
+museum:leamington spa art gallery & museum:Q7374745
+museum:lotherton hall, leeds museums and galleries:Q6684751
+museum:museum of gloucester:Q5572022
+museum:national museum wales, national museum cardiff:Q1321874
+museum:new walk museum & art gallery:Q7012302
+museum:paisley museum and art galleries:Q15123837
+museum:rugby art gallery and museum:Q7378151
+museum:salford museum & art gallery:Q7404381
+museum:the hepworth wakefield:Q1567478
+museum:the mercer art gallery, harrogate:Q26581762
+museum:the stanley & audrey burton gallery, university of leeds:Q25175004
+museum:touchstones rochdale:Q7828737
+museum:towner:Q7830109
+museum:ulster museum:Q3547979
+museum:dublin city gallery | the hugh lane:Q496040
+museum:the faringdon collection at buscot park:Q5001321
 movement:baroque era:Q37853
 movement:moderne devotie:Q756170
 movement:school van fontainebleau:Q584084
