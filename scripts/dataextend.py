@@ -22,7 +22,7 @@ class DataExtendBot:
     def __init__(self):
         self.labels = {}
         self.data = defaultdict(dict)
-        self.noname = []
+        self.noname = {}
         self.labelfile = "labels.txt"
         self.datafile = "defaultdata.txt"
         self.nonamefile = "noname.txt"
@@ -277,7 +277,7 @@ class DataExtendBot:
         try:
             with codecs.open(self.nonamefile, 'r', 'utf-8') as f:
                 for line in f.readlines():
-                    self.noname.append(line.strip())
+                    self.noname.add(line.strip())
         except IOError:
             pass
 
@@ -828,13 +828,13 @@ class DataExtendBot:
                         if (not result) or result[0].upper() == "Y":
                             chosennewnames[language].append(name)
                         elif result[0].upper() == "X":
-                            self.noname.append(name)
+                            self.noname.add(name)
                 realnewnames = chosennewnames
                 result = "Y"
             if result[0].upper() == 'X':
                 for language in realnewnames.keys():
                     for name in realnewnames[language]:
-                        self.noname.append(name)
+                        self.noname.add(name)
             elif result[0].upper() != 'N':
                 returnvalue = [{}, {}]
                 for language in realnewnames.keys():
