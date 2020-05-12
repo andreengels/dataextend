@@ -765,6 +765,8 @@ country:bosenský:Q225
 country:yougoslavie:Q36704
 country:francja.:Q142
 country:indiano:Q668
+country:malířka:XXX
+country:montenegrijns:Q236
 commune:Lyon:Q456
 genre:drama:Q21010853
 genre:short:Q24862
@@ -2292,6 +2294,8 @@ firstname:ekaterina:Q17317988
 firstname:earl:Q8933847
 firstname:louis de:Q2897866
 firstname:aurelio:Q2484382
+firstname:esteban:Q17496543
+firstname:jean maurice:Q27117915
 city:vancouver:Q24639
 city:dundee:Q123709
 city:long crendon:Q2891392
@@ -5994,6 +5998,25 @@ city:தஞ்சாவூர், சென்னை மாகாணம், ப�
 city:தே. கல்லுப்பட்டி, மதுரை மாவட்டம், தமிழ்நாடு:Q2229715
 city:altenberg, erzgebirge:Q436724
 city:altenberg (erzgebirge):Q436724
+city:camposampiero (padova province, veneto, italy):Q34697
+city:liberec:Q146351
+city:cattaro (hist.):Q171080
+city:kotor:Q171080
+city:výmar (weimar):Q3955
+city:bethayres, pennsylvania, usa:Q4897799
+city:tyringham, massachusetts, usa:Q2431755
+city:bethayres, pennsylvania:Q4897799
+city:tyringham, mass.:Q2431755
+city:aurillac:Q174234
+city:pleigne (suisse):Q68515
+city:saint maurice (suisse):Q69545
+city:montpellier (hérault):Q6441
+city:ionia, ionia county, michigan, usa:Q2469271
+city:las villas, cuba:Q2392373
+city:parís (frança):Q90
+city:amiens (somme, france):Q41604
+city:amiens, somme (80), france:Q41604
+city:somme (80), france:Q12770
 lastname:bernays:Q53189956
 lastname:hansson:Q21507480
 lastname:bachmann:Q19760472
@@ -6974,6 +6997,17 @@ lastname:battaglia:Q16479857
 lastname:lüssi:Q1877710
 lastname:vernet:Q21508349
 lastname:meurer:Q28150702
+lastname:zonca:Q37092593
+lastname:hacker:Q27628281
+lastname:coley:Q16865679
+lastname:richaud:Q21509654
+lastname:deering:Q37116752
+lastname:wolfart:Q87184665
+lastname:broquet:Q65098879
+lastname:ziégler:Q198857
+lastname:kidd:Q16871372
+lastname:montejo:Q28800751
+lastname:dufourmantelle:Q94087580
 gender:a:Q6581072
 gender:weiblich:Q6581072
 gender:féminin:Q6581072
@@ -7748,6 +7782,8 @@ person:michael, psellos, 1018-1078:Q294109
 person:weinrich, georg, 1554-1617:Q1506348
 person:meurer, christoph:Q93844540
 person:meurer, christoph, 1558-1616:Q93844540
+person:!--must be referenced from a third-party source--:XXX
+person:barbou, joseph:Q56071555
 source:loc-na:XXX
 source:lcauth:XXX
 source:vorlage:XXX
@@ -7979,6 +8015,9 @@ source:jaarboek van de maatschappij der nederlandse letterkunde, 1889:Q65785082
 source:jaarboek van de maatschappij der nederlandse letterkunde, 1889 (1889) in de digitale bibliotheek voor de nederlandse letteren:Q65785082
 source:vorlage, sudoc:XXX
 source:portretten uit het rijksmuseum:XXX
+source:imdb:Q37312
+source:sudoc:XXX
+source:dictionnaire de biographie française:Q59348799
 family:kettler:Q646280
 family:hoensbroeck:Q323291
 family:montdidier:Q1324656
@@ -12533,6 +12572,22 @@ occupation:meteorologove:Q2310145
 occupation:meteorologe:Q2310145
 occupation:univerzitní profesor medicíny:Q39631
 occupation:rovněž meteorolog:Q2310145
+occupation:graphiste autrichien:Q42298894
+occupation:malířka:Q1028181
+occupation:pharmacien en chef de l'hospice d'ivry-sur-seine:Q105186
+occupation:val-de-marne:XXX
+occupation:albert:XXX
+occupation:alexandre:XXX
+occupation:agricultural scientist:Q28054752
+occupation:chirurgie:Q774306
+occupation:1921:XXX
+occupation:montpellier:XXX
+occupation:ancien esclave:Q12773225
+occupation:slave:Q12773225
+occupation:sugar plantation worker:Q94000115
+occupation:and political activist:Q11499147
+occupation:libraire du collège de louis-le-grand:Q998550
+occupation:prawnicy:Q185351
 subject:l:XXX
 subject:renesancni umeni:Q1133779
 subject:malirstvi:Q11629
@@ -12974,6 +13029,9 @@ subject:medycyna:Q11190
 subject:littérature médicale.:Q5977147
 subject:mathématiques:Q395
 subject:meteorologie:Q25261
+subject:langues autochtones du canada:Q4200688
+subject:firmenschild:Q11170170
+subject:prawo:Q7748
 film-occupation:producer:Q3282637
 film-occupation:writing:Q28389
 film-occupation:miscellaneous crew:XXX
@@ -13119,6 +13177,10 @@ university:accademia di san luca (rome):Q338523
 university:accademia di belle arti di brera e liceo artistico (milaan):Q338472
 university:ohio state university, columbus:Q309331
 university:stroganovskii school of art (moskou):Q2360835
+university:graphische lehr- und versuchsanstalt (wenen):Q1643713
+university:kunstgewerbeschule (wenen):Q877686
+university:königliche kunstgewerbeschule (münchen):Q1796130
+university:university of freiburg:Q153987
 mannerdeath:natural causes:Q3739104
 mannerdeath:natuurlijke dood (watersught):Q3739104
 mannerdeath:ataque al corazón:Q3739104
@@ -13758,6 +13820,7 @@ scientist:gordon g. hammes:Q5585243
 scientist:paul schimmel:Q7153466
 scientist:mit:XXX
 scientist:moritz valentin steinmetz:Q1948076
+scientist:!--only those with wp articles--:XXX
 degree:prof.:XXX
 degree:dr.:Q752297
 degree:prof. dr.:Q752297
@@ -14785,6 +14848,7 @@ organization:royal photographic society:Q969196
 organization:société médico-psychologique:Q72290642
 organization:académie des sciences, belles-lettres et arts de lyon:Q730513
 organization:société d'archéologie, d'histoire et de géographie de la drôme:Q26708578
+organization:société botanique de france:Q1506427
 award:prix saintour:Q56397878
 award:commandeur in de militaire willems-orde:Q2665283
 award:prix montyon:Q372160
@@ -14852,6 +14916,7 @@ award:prix thiers:Q3405329
 award:prix fabien:Q56380252
 award:prix françois millepierres:Q3404608
 award:prix marcelin guérin:Q20859559
+award:!--notable national-level awards only--:XXX
 militarybranch:25px:XXX
 militarybranch:bestand:stander chef der sipo und sd 1942.svg sicherheitspolizei:Q684065
 militarybranch:bestand:flag schutzstaffel.svg schutzstaffel:Q44687

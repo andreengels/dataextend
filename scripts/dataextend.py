@@ -48,6 +48,7 @@ class DataExtendBot:
             "P549": MathGenAnalyzer,
             "P586": IpniAuthorsAnalyzer,
             #"P590": GnisAnalyzer, <http redirect loop>
+            "P640": LeonoreAnalyzer,
             "P648": OpenLibraryAnalyzer,
             "P650": RkdArtistsAnalyzer,
             "P651": BiografischPortaalAnalyzer,
@@ -128,7 +129,7 @@ class DataExtendBot:
             "P2750": PhotographersAnalyzer,
             "P2753": CanadianBiographyAnalyzer,
             "P2829": IWDAnalyzer,
-            "P2843": BenezitAnalyzer,
+            #"P2843": BenezitAnalyzer,
             "P2915": EcarticoAnalyzer,
             "P2940": RostochiensiumAnalyzer,
             "P2941": MunksRollAnalyzer,
@@ -221,7 +222,7 @@ class DataExtendBot:
             "www.brooklynmuseum.org": BrooklynMuseumAnalyzer,
             "kunstaspekte.art": KunstaspekteAnalyzer,
             "www.nationaltrustcollections.org.uk": NationalTrustAnalyzer,
-            "www.oxfordartonline.com": BenezitUrlAnalyzer,
+            # "www.oxfordartonline.com": BenezitUrlAnalyzer,
             "exhibitions.univie.ac.at": UnivieAnalyzer,
             "weber-gesamtausgabe.de": WeberAnalyzer,
             "Data": BacklinkAnalyzer,
@@ -375,7 +376,7 @@ class DataExtendBot:
         "dicembre": 12, "dic": 12,
         "januari": 1,
         "februari": 2,
-        "maart": 3, "maa": 3,
+        "maart": 3, "maa": 3, "mrt": 3,
         "mei": 5,
         "juni": 6,
         "juli": 7,
@@ -591,6 +592,7 @@ class DataExtendBot:
                     item.get(force=True)
                     claims = item.claims
                     claims['Wiki'] = [Quasiclaim(page.title(force_interwiki=True, as_link=True)[2:-2]) for page in item.iterlinks()]
+                    claims['Data'] = [Quasiclaim(item.title())]
                     descriptions = item.descriptions
                     labels = item.labels
                     aliases = item.aliases
@@ -618,7 +620,7 @@ class DataExtendBot:
                             except KeyError:
                                 unidentifiedprops.append(prop)
                             else:
-                                analyzer = analyzertype(identifier, self.data, item.title())
+                                analyzer = analyzertype(identifier, self.data, item.title(), self)
                                 newclaims = analyzer.findclaims() or []
                                 if FORCE:
                                     result = ''
@@ -754,6 +756,7 @@ class DataExtendBot:
                                     item.get(force=True)
                                     claims = item.claims
                                     claims['Wiki'] = [Quasiclaim(page.title(force_interwiki=True, as_link=True)[2:-2]) for page in item.iterlinks()]
+                                    claims['Data'] = [Quasiclaim(item.title())]
                                     descriptions = item.descriptions
                                     labels = item.labels
                                     aliases = item.aliases
@@ -895,7 +898,7 @@ class Analyzer:
     TAGRE = re.compile("<[^<>]*>")
     SCRIPTRE = re.compile("(?s)<script.*?</script>")
     
-    def __init__(self, id, data=None, item=None):
+    def __init__(self, id, data=None, item=None, bot=None):
         self.id = id
         self.data = defaultdict(dict) if data is None else data
         self.dbname = None
@@ -915,6 +918,7 @@ class Analyzer:
         self.sparqlquery = None
         self.isurl = False
         self.skipfirst = False
+        self.bot = bot
         self.setup()
         self.site = pywikibot.Site().data_repository()
 
@@ -2635,8 +2639,11 @@ class BnfAnalyzer(Analyzer):
         section = self.findbyre('(?s)"description">\s*<span[^<>]*>(.*?)</span>', html)
         if section:
             result = []
+            texts = []
             for subsection in section.split(' et '):
-                result += self.findallbyre('(\w[\-\s\w&\']+)', subsection, 'occupation')
+                texts += self.findallbyre('(\w[\-\s\w&\']+)', subsection)
+            for text in texts[:8]:
+                result.append(self.findbyre('(.+)', text, 'occupation'))
             return result
 
     def findworkfields(self, html):
@@ -2720,11 +2727,11 @@ class SudocAnalyzer(Analyzer):
 
     def findoccupations(self, html):
         sections = self.findallbyre('(?s)<div class="detail_chaqueNoteBio">.*?<span class="detail_value">(.*?)<', html)
-        result = []
+        texts = []
         for section in sections:
             for sectionpart in section.split(" et "):
-                result += self.findallbyre('([^\.,;]+)', sectionpart, 'occupation')
-        return result
+                texts += self.findallbyre('([^\.,;]+)', sectionpart)
+        return [self.findbyre('(.+)', text, 'occupation') for text in texts[:8]]
 
 
 class CiniiAnalyzer(Analyzer):
@@ -3512,8 +3519,47 @@ class MathGenAnalyzer(Analyzer):
             section = self.findbyre('(?s)<th>Descendants</th>(.*?)</table>', html)
         if section:
             return self.findallbyre('(?s)<a[^<>]*>(.*?)<', section, 'scientist')
-    
 
+
+class LeonoreAnalyzer(Analyzer):
+    def setup(self):
+        self.dbproperty = 'P640'
+        self.dbid = 'Q2886420'
+        self.dbname = 'Léonore'
+        self.urlbase = 'http://www2.culture.gouv.fr/public/mistral/leonore_fr?ACTION=CHERCHER&FIELD_1=COTE&VALUE_1={id}'
+        #self.urlbase2 = 'http://www2.culture.gouv.fr/public/mistral/leonore_fr?ACTION=RETROUVER_TITLE&LEVEL=1&GRP=0&REQ=(({id})%20%3aCOTE%20)&USRNAME=nobody&USRPWD=4%24%2534P&REL_SPECIFIC=9&FIELD_1=COTE&VALUE_1=LH%2f2064%2f18&SYN=1&IMAGE_ONLY=&MAX1=1&MAX2=1&MAX3=100&DOM=All'
+        self.hrtre = '(<TABLE VALIGN=TOP .*?</TABLE>)'
+        self.language = 'fr'
+        self._results = None
+        self.escapeunicode = True
+        
+    def getvalue(self, field, html, dtype=None):
+        return self.findbyre('(?s)>\s*%s\s*<.*?<TD[^<>]*>(?:<[^<>]*>|\s)*([^<>]+)</'%field, html, dtype)
+
+    def findinstanceof(self, html):
+        return 'Q5'
+
+    def findnames(self, html):
+        try:
+            return [self.getvalue('Prénoms', html) + ' ' + self.getvalue('Nom', html).title()]
+        except TypeError:
+            return []
+
+    def findlastname(self, html):
+        return self.getvalue('Nom', html, 'lastname')
+
+    def findfirstname(self, html):
+        return self.getvalue('Prénoms', html, 'firstname')
+
+    def findbirthdate(self, html):
+        return self.getvalue('Date de naissance', html)
+
+    def findbirthplace(self, html):
+        return self.getvalue('Lieu de naissance', html, 'city')
+
+    def findgender(self, html):
+        return self.getvalue('Sexe', html, 'gender')
+    
     
 class OpenLibraryAnalyzer(Analyzer):
     def setup(self):
@@ -3915,11 +3961,6 @@ class SikartAnalyzer(Analyzer):
     def findmixedrefs(self, html):
         return self.finddefaultmixedrefs(html)
 
-    def findwebpages(self, html):
-        section = self.findbyre('Datenbanken</div>(.*?)</tr>', html)
-        if section:
-            return self.findallbyre('<a href="(.*?)"', section)
-
 
 class ImslpAnalyzer(Analyzer):
     def setup(self):
@@ -4058,8 +4099,7 @@ class PtbnpAnalyzer(Analyzer):
         self.escapehtml = True
 
     def findnames(self, html):
-        changedhtml = self.TAGRE.sub(' ', html).replace('$b', ' ')
-        return self.findallbyre('[24]00.*\$a(.*?)\$', changedhtml)
+        return [self.TAGRE.sub(' ', text).replace('$b', '') for text in self.findallbyre('>[24]00<.*?\$a(.*?\$b.*?)(?:<br>|\$|$)', html)]        
 
     def finddescription(self, html):
         return self.findbyre('>830<.*?\$a.*?</font>([^<>]*)', html)
@@ -4078,6 +4118,12 @@ class PtbnpAnalyzer(Analyzer):
         result = self.findbyre('>200<.*?\$f.*?</font>[^<>]*-([^<>,]*)', html)
         if result and "ca " not in result and "fl." not in result:
             return result
+
+    def findfirstname(self, html):
+        return self.findbyre('>200<.*?\$b</b></font>([^<>]*)<', html, 'firstname')
+
+    def findlastname(self, html):
+        return self.findbyre('>200<.*?\$a</b></font>(.*?),?<', html, 'lastname')
 
 
 class BibsysAnalyzer(Analyzer):
@@ -5095,7 +5141,7 @@ class UBarcelonaAnalyzer(Analyzer):
         self.dbproperty = "P1580"
         self.dbid = None
         self.dbname = "University of Barcelona authority control"
-        self.urlbase = "http://www.bib.ub.edu/fileadmin/autoritats/permanent/{id}"
+        self.urlbase = "https://crai.ub.edu/sites/default/files/autoritats/permanent/{id}"
         self.hrtre = '(<h2.*?</table>)'
         self.language = 'ca'
         self.escapehtml = True
@@ -6040,16 +6086,17 @@ class DelargeAnalyzer(Analyzer):
         return 'Q5'
 
     def findbirthdate(self, html):
-        return self.findbyre('née? en (\d+)', html)
+        return self.findbyre('née? le (\d+ \w+ \d+)', html) or\
+            self.findbyre('née? en (\d+)', html)
 
     def findbirthplace(self, html):
-        return self.findbyre('née? [\w\s]+ à(.*?)[;<>]', html, 'city')
+        return self.findbyre('née? [\w\s]+ (?:à|en) (.*?)[;<>]', html, 'city')
 
     def finddeathdate(self, html):
         return self.findbyre('([^<>;,]*), meurte? ', html)
 
     def finddeathplace(self, html):
-        return self.findbyre('meurte? à (.*?)\.?[;<]', html, 'city')
+        return self.findbyre('meurte? (?:à|en) (.*?)\.?[;<]', html, 'city')
 
     def findoccupations(self, html):
         section = self.findbyre('(?s)Technique\(s\)\s*:\s*</span>(.*?)<', html)
@@ -12045,6 +12092,10 @@ class BacklinkAnalyzer(Analyzer):
 
     def getrelations(self, relation, html):
         return [x.upper() for x in self.findallbyre('statement/([qQ]\d+)[^\{\}]+statement/%s'%relation, html)]
+
+    def findlongtext(self, html):
+        matches = re.findall('statement/([qQ]\d+)[^\{\}]+statement/([pP]\d+)', html)
+        return "\n".join("%s of: %s"%(self.bot.label(m[1]), self.bot.label(m[0])) for m in matches)
 
     def findspouses(self, html):
         return self.getrelations('P26', html)

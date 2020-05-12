@@ -2144,3 +2144,70 @@ Q436052:Alte Nikolaischule (Leipzig)
 Q93844540:Christoph Meurer
 Q436724:Altenberg
 Q28150702:Meurer
+Q37092593:Zonca
+Q34697:Camposampiero
+Q292691:Ernst
+Q27628281:Hacker
+Q42298894:graphical artist
+Q3955:Weimar
+Q146351:Liberec
+Q1643713:Higher Federal Graphical Institute of Education and Research
+Q1796130:Königliche Kunstgewerbeschule München
+Q877686:University of Applied Arts Vienna
+Q236:Montenegro
+Q171080:Kotor
+Q4897799:Bethayres, Pennsylvania
+Q2431755:Tyringham
+Q16865679:Coley
+Q37312:Internet Movie Database
+P3788:BNA authority ID
+Q105186:pharmacist
+Q174234:Aurillac
+Q21509654:Richaud
+Q1506427:Société botanique de France
+Q18978396:Nathaniel
+Q37116752:Deering
+Q49115:Cornell University
+Q19803505:H.
+Q94301:Royal Society of Canada
+Q29638100:Fellow of the Royal Society of Canada
+Q1191833:University of Manitoba
+Q87184665:Wolfart
+Q4200688:native languages of North America
+Q65098879:Broquet
+Q68515:Pleigne
+Q69545:Saint-Maurice
+Q4926833:Herbert
+Q12020943:Hunter
+Q28054752:agricultural scientist
+P5661:Académie de Montpellier member ID
+Q2822394:Académie des sciences et lettres de Montpellier
+Q40821:surgery
+Q1430816:pediatric surgery
+Q2822436:Académie nationale de chirurgie
+Q93976730:Alfred Estor
+Q59348799:Dictionary of French Biography
+Q198857:Ziegler
+Q21148249:enameler
+Q16871372:Kidd
+Q2469271:Ionia
+Q17496543:Esteban
+P172:ethnic group
+Q49085:African Americans
+Q241:Cuba
+Q28800751:Montejo
+Q12773225:enslaved person
+Q11499147:political activist
+Q94000115:plantation worker
+Q2392373:Santa Clara Province
+Q11170170:shop sign
+Q56071555:Joseph Barbou
+P1695:NLP ID (unique)
+Q94063439:Jean-Joseph Barbou
+Q1390369:Cultural attaché
+Q41604:Amiens
+Q12770:Somme
+P5306:LONSEA ID
+Q27117915:Jean-Maurice
+Q94087580:Dufourmantelle
+Q1472321:Maurice
