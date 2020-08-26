@@ -218,6 +218,7 @@ family:house of hesse:Q689115
 family:přemysl:Q287652
 male-person:johannes dou (i):Q15877072
 male-person:hendrik carré (i):Q5713854
+male-person:petrus christus i:Q312616
 religious order:wageningen universiteit:XXX
 religious order:minoriten:Q692799
 religious order:[email protected]:XXX
@@ -225,6 +226,8 @@ religious order:redemptoristen:Q751148
 religious order:pallottiner:Q775333
 religious order:jesuiten:Q36380
 religious order:jezuité:Q36380
+religious order:benediktiner:Q131132
+religious order:zisterzienser:Q166861
 rank:non:XXX
 rank:luitenant-generaal:Q152951
 rank:ss-untersturmführer:Q310761
@@ -240,6 +243,7 @@ rank:bestand:ss-oberscharführer.svg ss-oberscharführer:Q310732
 rank:oberst:Q3756713
 rank:capitaine:Q19100
 dynasty:清:Q8733
+dynasty:明:Q9903
 mannerdeath:natuurlijke dood (watersught):Q3739104
 mannerdeath:pneumonia:Q3739104
 mannerdeath:heart failure:Q3739104
@@ -349,6 +353,13 @@ scientist:seth lerer:Q2611853
 scientist:ernst w. caspari:Q1360684
 scientist:utrecht:XXX
 scientist:samuel j. danishefsky:Q724239
+scientist:florida atlantic university:XXX
+scientist:kipling d. williams:Q6414646
+scientist:unc chapel hill:XXX
+scientist:stanley schachter:Q290285
+scientist:frederic ouellet:Q51816224
+scientist:jan roelof van der meer:Q47007197
+scientist:arjeh m. cohen:Q51762557
 commonwealth-games:1986:Q1116471
 commonwealth-games:1990:Q1116512
 commonwealth-games:2006:Q659207
@@ -365,8 +376,13 @@ film-occupation:writing:Q28389
 film-occupation:střihač:Q7042855
 film-occupation:anglický varhaník:Q765778
 film-occupation:acting:Q33999
+film-occupation:editor:Q7042855
+film-occupation:director:Q2526255
+film-occupation:writer:Q28389
+film-occupation:actor:Q33999
 ethnicity:white:Q235155
 ethnicity:<!-- ethnicity should be supported with a citation from a reliable source -->:XXX
+ethnicity:漢族:Q42740
 subject:théologie dogmatique:Q938714
 subject:kimija organiska:Q11351
 subject:koroška:Q2300043
@@ -840,6 +856,35 @@ subject:oblasti termodynamiky:Q11473
 subject:integral equations:Q580101
 subject:politika:Q7163
 subject:rakouských dějin:Q187830
+subject:typography:Q159964
+subject:typesetting:Q837721
+subject:greek literature:Q1089547
+subject:greek language:Q9129
+subject:langue et littérature grecques:Q9129
+subject:protestantismus:Q23540
+subject:sculpture:Q11634
+subject:lékařství:Q11190
+subject:chemie:Q2329
+subject:biologie:Q420
+subject:filosofía moral:Q9465
+subject:théologie à bâle:Q34178
+subject:criminologie:Q161733
+subject:criminology and penology:Q161733
+subject:microbiology:Q7193
+subject:composition (music):Q207628
+subject:poezie:Q482
+subject:fizyka doświadczalna ciała stałego:Q715396
+subject:fizyka doświadczalna:Q18366
+subject:vydavatelska cinnost:Q3972943
+subject:tiskarstvi:Q271588
+subject:carthusians history:Q220979
+subject:religioznawstwo:Q34187
+subject:religions hellénistiques:Q3373305
+subject:sciences politiques:Q36442
+subject:la bible:Q1845
+subject:historia de la ciencia:Q201486
+subject:letteren:Q2018526
+subject:imprenta:Q11034
 city:فرنسا:Q142
 city:st.gillis-dendermonde:Q898394
 city:cziffer, hongrie:Q1020250
@@ -4648,12 +4693,153 @@ city:mantoue (italie):Q6247
 city:zwolle, pays-bas:Q13189044
 city:hardenberg (overijssel):Q10013
 city:hardenberg:Q10013
+city:paris, 11e arrondissement (france):Q169293
+city:willemstad (moerdijk):Q76937
+city:l’alfas del pi (alicante):Q619126
+city:graz (steiermark, austria):Q13298
+city:leoben (steiermark, austria):Q485294
+city:kárpathos (dodekanísou regional division, aiyaíon region, greece):Q749171
+city:schenectady, etats-unis:Q331380
+city:north riverside, etats-unis:Q2666482
+city:italie:Q38
+city:dole:Q205586
+city:noordwijkerhout:Q848988
+city:renkum:Q15881216
+city:noordwijkerhout, pays-bas:Q848988
+city:renkum, pays-bas:Q15881216
+city:santa monica (calif.):Q47164
+city:santa monica (californie):Q47164
+city:лондон, англия:Q84
+city:beverly hills, california, usa:Q127856
+city:yonne:Q12816
+city:amiens (somme):Q41604
+city:paris, 10e arrondissement (france):Q163948
+city:los gatos, california, usa:Q747509
+city:dobbs ferry (n.y.):Q1233173
+city:weybridge (surrey, england, united kingdom):Q1754096
+city:brescia:Q6221
+city:gusen, autriche:Q19787604
+city:levoča:Q242478
+city:košice:Q25409
+city:berl%c3%adn:Q64
+city:berlín:Q64
+city:granada:Q8810
+city:brugge (belgië):Q31513590
+city:granada (spanje):Q8810
+city:bayonne, pyrénées-atlantiques (64), france:Q134674
+city:bayonne (pyrénées-atlantiques):Q134674
+city:rottorf bei königslutter:Q1511194
+city:kissenbrück, kr. wolfenbüttel (sterbeort evtl. schöppenstedt):Q556546
+city:manistee (manistee county, michigan, united states):Q2729559
+city:manistee, etats-unis:Q2729559
+city:manistee, michigan, {{états-unis}}:Q2729559
+city:sevilla:Q8717
+city:split, croatia:Q1663
+city:split, hrvatska:Q1663
+city:roucourt (peruwelz):Q3443087
+city:quebec, canada:Q176
+city:québec, quebec, canada:Q2145
+city:bo'ness (scotland):Q896424
+city:indianapolis (ind.):Q6346
+city:neuchatel, switzerland:Q69345
+city:valley cottage, new york:Q3460245
+city:le mans:Q1476
+city:drážďanech:Q1731
+city:ansbach, allemagne:Q14859
+city:ambérieu:Q192166
+city:budapest (hungary):Q1781
+city:budapest (hongrie):Q1781
+city:orléans (loiret):Q6548
+city:mustapha (algerije):Q311886
+city:orléans (centre region, france):Q6548
+city:algeria (africa):Q262
+city:loiret:Q12574
+city:apeldoorn:Q3018561
+city:simon's town (cape of good hope, south africa):Q1013370
+city:colonie du cap:Q370736
+city:simon's town, south africa:Q1013370
+city:simonstown, cape colony, jihoafrická republika:Q1013370
+city:simonstown, cape colony, south africa:Q1013370
+city:niort, deux-sèvres, france:Q184159
+city:pont-audemer (eure):Q47067820
+city:antony (hauts-de-seine):Q205592
+city:eure:Q3372
+city:spjald:Q1955279
+city:new haven, connecticut:Q49145
+city:mantoue, italie:Q6247
+city:modena (italy):Q279
+city:mantova:Q6247
+city:мантуя:Q6247
+city:martinique:Q17054
+city:kota bharu, kelantan, malaysia:Q651131
+city:wakaf bharu, kelantan, malaysia:Q7960758
+city:neufchâteau (grand est, france):Q210787
+city:neufchâteau (vosges, france):Q210787
+city:neufchâteau, france:Q210787
+city:neufchâteau (frankrijk):Q210787
+city:seven oaks, kent, england, uk:Q977450
+city:seven oaks, england:Q977450
+city:new orleans, la.:Q34404
+city:vilvorde:Q31573419
+city:maida (cz):Q53645
+city:maida, italie:Q53645
+city:san giuseppe vesuviano (na):Q72503
+city:kontich:Q31824055
+city:vicoigne (nord):Q1881164
+city:prato, tuscany, italy:Q13377
+city:rimini, emilia-romagna, italy:Q13369
+city:prato, itálie:Q13377
+city:прато:Q13377
+city:rimini, provincia di rimini, emilia-romagna, italy:Q13369
+city:prato:Q13377
+city:rimini:Q13369
+city:prato, italy:Q13377
+city:rimini, italy:Q13369
+city:prato, italie:Q13377
+city:rimini, italie:Q13369
+city:prato (italia):Q13377
+city:madeley (shropshire, england, united kingdom):Q2552430
+city:arequipa (perú):Q159273
+city:lima (perú):Q2868
+city:garden grove (californië):Q50054
+city:garden grove (orange county, california, united states):Q50054
+city:terst (trieste):Q546
+city:tourcoing (nord, france):Q182481
+city:northampton, northamptonshire, england, uk:Q192240
+city:valenciennes, nord, france:Q163795
+city:valenciennes-nord:Q163795
+city:valenciennes (nord, france):Q163795
+city:saint-paul-sur-isère (savoie):Q778641
+city:saint-paul-sur-isère:Q778641
+city:scourmont, belgique:Q3476373
+city:chimay:Q95380
+city:abbaye de scourmont:Q943599
+city:rouen, seine-maritime (76), france:Q30974
+city:salzburg, salzburg, austria:Q34713
+city:salzbourg (autriche):Q34713
+city:salisburgo:Q34713
+city:sappemeer:Q2056073
+city:直隸常熟縣:Q1015805
+city:廣西桂林:Q15176
+city:plymouth, litchfield county, connecticut, usa:Q753869
+city:brookline, norfolk county, massachusetts, usa:Q49142
+city:plymouth (connecticut, états-unis):Q753869
+city:arnhem, gelderland, netherlands:Q49280467
+city:arnhem, gelderland, nizozemsko:Q49280467
+city:eibergen:Q1025665
+city:eibergen (pays-bas):Q1025665
+city:den helder, nederland:Q33432868
+city:sellières, hameau de baudin:Q533988
 theater-occupation:company,:XXX
 theater-occupation:designer,:Q26869657
 theater-occupation:choreographer:Q2490358
 theater-occupation:author,:Q214917
 theater-occupation:translator,:Q333634
 theater-occupation:set design,:Q2707485
+theater-occupation:emilie,:XXX
+theater-occupation:anna grant,:XXX
+theater-occupation:julia field,:XXX
+theater-occupation:sybil emerson,:XXX
 group:the new york contemporary five:Q3339052
 group:motörhead:Q19697
 group:mike & the mechanics:Q653632
@@ -4697,6 +4883,10 @@ degree:doktor:Q752297
 degree:prof. dr. med.:Q913404
 degree:ba:Q1765120
 degree:ma, dr.:Q4618975
+degree:professor:XXX
+degree:profesor:XXX
+degree:promotie:Q4618975
+degree:doctor:Q4618975
 instrument:guitarist:Q6607
 instrument:fedaral republic of germany:XXX
 instrument:producer:XXX
@@ -4825,6 +5015,19 @@ instrument:1974:XXX
 instrument:1972:XXX
 instrument:american composer:XXX
 instrument:british composer:XXX
+instrument:spain:XXX
+instrument:06:XXX
+instrument:died 26:XXX
+instrument:01:XXX
+instrument:2001:XXX
+instrument:born:XXX
+instrument:1674:XXX
+instrument:died 1980:XXX
+instrument:french organist:Q1444
+instrument:france:XXX
+instrument:u:XXX
+instrument:s:XXX
+instrument:danish lyricist:XXX
 museum:trerice, cornwall:Q1327188
 museum:musée des beaux-arts de mons (mons):Q2893370
 museum:metropolitan museum of art:Q160236
@@ -5000,6 +5203,13 @@ museum:san francisco museum of modern art, san francisco, ca:Q913672
 museum:county hall, worcester:Q66716016
 museum:derby museum and art gallery:Q8012
 museum:museet på koldinghus:Q16324161
+museum:magdalen college, university of oxford:Q81162
+museum:carlyle's house, london:Q5043126
+museum:museum of art and design, new york, ny:Q6940773
+museum:metropolitan museum of art, new york, ny:Q160236
+museum:corning museum of glass, corning, ny:Q1134188
+museum:thorvaldsens museum:Q1992413
+museum:dorneywood house and gardens, buckinghamshire:Q5298117
 cemetery:santi bonifacio e alessio (roma):Q1076439
 cemetery:катедралата на трани:Q513023
 cemetery:catedral de winchester:Q476529
@@ -5038,6 +5248,7 @@ cemetery:opactwo cystersów w henrykowie:Q1775330
 cemetery:bazilika superga:Q1145261
 cemetery:žiče charterhouse (''seitz''):Q995126
 cemetery:{{coord:XXX
+cemetery:ústřední hřbitov v brně:Q11088399
 actor:carole lombard:Q207739
 actor:firdha razak:Q12482971
 actor:parker posey:Q204586
@@ -5409,10 +5620,22 @@ source:internet movie database:XXX
 source:blkö::Q665807
 source:don juan archiv wien::Q56296818
 source:südosteurop. biogr. archiv (wbis):Q20830705
+source:oxford music online:Q1422837
+source:quelle::XXX
+source:ak ub basel:Q683842
+source:copac:Q5168253
+source:jaarboek van de maatschappij der nederlandse letterkunde, 1985 (1985) in de digitale bibliotheek voor de nederlandse letteren:Q65785082
+source:verweisformen pnd:XXX
+source:glasius, godgeleerd nederland:Q98542596
+source:biogr. archief van de benelux:Q94453284
+source:viaf.org:XXX
+source:vorl.:XXX
 olympics:1984 summer:Q8456
 olympics:1988 summer:Q8470
 film:''un homme est passé'':Q963045
 film:br:XXX
+film:''les amants diaboliques'':Q547226
+film:''les frissons de l'angoisse'':Q1516994
 militarybranch:bestand:flag of the british army (1938-present).svg british army:Q222595
 militarybranch:nederlandsche leger:Q1123768
 militarybranch:staatse leger:Q2240425
@@ -9873,6 +10096,165 @@ occupation:geografowie:Q901402
 occupation:insegnante e precettore:Q37226
 occupation:abbé:Q3430033
 occupation:musicus:Q639669
+occupation:kubánský geograf:Q901402
+occupation:social psychologists:Q16611554
+occupation:psicologo:Q212980
+occupation:kroat. photograph:Q33231
+occupation:gräzistin:Q18916625
+occupation:spain:XXX
+occupation:lid raad van judicature over de middelen te water en te lande (koninkrijk 2):Q599151
+occupation:rakouský architekt:Q42973
+occupation:bailitheoir amhrán:Q67775924
+occupation:ollamh:Q3400985
+occupation:billedhugger:Q1281618
+occupation:professeur d'orgue:Q2675537
+occupation:historien américain:Q201788
+occupation:puis administrateur:Q1162163
+occupation:čínský konfuciánský učenec:Q9397505
+occupation:americký filmový scenárista:Q28389
+occupation:1930:XXX
+occupation:annandale-on-hudson:XXX
+occupation:y:XXX
+occupation:american photojournalist:Q957729
+occupation:born 11:XXX
+occupation:06:XXX
+occupation:died 26:XXX
+occupation:01:XXX
+occupation:2001:XXX
+occupation:érudit:Q20826540
+occupation:francouzský benediktín:Q95993979
+occupation:církevní historik:Q1743122
+occupation:tenente:Q189290
+occupation:1674:XXX
+occupation:slovenský hudební skladatel:Q36834
+occupation:maliar:Q1028181
+occupation:laurent:XXX
+occupation:jean-baptiste:XXX
+occupation:artista visual:Q3391743
+occupation:french organist:Q765778
+occupation:cembalaro:Q39069833
+occupation:redatelj:Q2526255
+occupation:scenarist:Q28389
+occupation:montažer:Q7042855
+occupation:produkcijski dizajner:Q2962070
+occupation:professeur de théologie à bâle:Q1234713
+occupation:traduisit du latin en français:Q333634
+occupation:a été kinésithérapeute:Q23702859
+occupation:sophrologue:Q30113326
+occupation:université de montréal:XXX
+occupation:centre international du crime comparé:XXX
+occupation:animateur:Q266569
+occupation:computer art:Q22812879
+occupation:facteur d'orgue:Q1937431
+occupation:italský sbormistr:Q1076502
+occupation:booksellers:Q998550
+occupation:bookselling:Q998550
+occupation:u:XXX
+occupation:s:XXX
+occupation:guitariste:Q855091
+occupation:- compositeur:Q36834
+occupation:geograph:Q901402
+occupation:hispanist:Q2505739
+occupation:klavierlehrer:Q17303149
+occupation:7:XXX
+occupation:zemřel 2:XXX
+occupation:médecin vétérinaire français.:Q202883
+occupation:professeur de pathologie:Q3368718
+occupation:1633:XXX
+occupation:buchwissenschaftler:Q33386280
+occupation:bibliotheksdirektor:Q63970319
+occupation:maďarský historik umění:Q1792450
+occupation:též knihovník:Q182436
+occupation:president van het kohier van de verponding ministerie van financiën:Q599151
+occupation:administrateur van het kohier der verpondingen ministerie van financiën:Q599151
+occupation:hoogleraar microbiologie:Q3779582
+occupation:pays-bas (en 1999):XXX
+occupation:scientifique:Q901
+occupation:microbiologo:Q3779582
+occupation:accademico:Q414528
+occupation:winnaar:XXX
+occupation:predikant:Q1423891
+occupation:lid staten (provisionele representanten) van het kwartier van de veluwe:Q82955
+occupation:actresses:Q33999
+occupation:spanish jesuit priest:Q63173086
+occupation:o:XXX
+occupation:a été trésorier payeur général:Q3541361
+occupation:financier:Q1979607
+occupation:1897:XXX
+occupation:journaliste agricole:Q1930187
+occupation:calvados:XXX
+occupation:danish lyricist:Q822146
+occupation:landscape architect:Q2815948
+occupation:poeta latino:Q49757
+occupation:ital. adliger:Q2478141
+occupation:xvi secolo:XXX
+occupation:basnici:Q49757
+occupation:ital. dichter:Q49757
+occupation:pelakon:Q33999
+occupation:model:Q4610556
+occupation:pelagak ngeri:Q465501
+occupation:penari:Q5716684
+occupation:deejay:Q130857
+occupation:naukowiec:Q901
+occupation:nauczyciel akademicki:Q1622272
+occupation:medalist:Q1708232
+occupation:orfèvre:Q211423
+occupation:médailliste:Q1708232
+occupation:skandinavistin:Q26700841
+occupation:americký profesor anglického jazyka:Q16308156
+occupation:literatury:XXX
+occupation:urbana-champaign:XXX
+occupation:charlottesville:XXX
+occupation:puis university of virginia:XXX
+occupation:university of illinois:XXX
+occupation:ecrivain italien:Q36180
+occupation:écrivain italien:Q36180
+occupation:bisschoppelijk afgevaardigde:Q2259532
+occupation:grecista:Q18916625
+occupation:philologue (littérature classique):Q16267607
+occupation:père jésuite:Q63173086
+occupation:attrice cinematografica:Q10800557
+occupation:filmroller 1938:XXX
+occupation:italská filmová herečka:Q10800557
+occupation:actrice de cinéma:Q10800557
+occupation:színész:Q33999
+occupation:attrice:Q33999
+occupation:tiskari:Q175151
+occupation:nakladatele a vydavatele:Q2516866
+occupation:německý tiskař:Q175151
+occupation:monks:Q733786
+occupation:chartreux:XXX
+occupation:ilustrado:Q644687
+occupation:ital. maler:Q1028181
+occupation:artiste italien:Q483501
+occupation:drukarz w lipsku:Q175151
+occupation:německý tiskař působící v lipsku:Q175151
+occupation:scholar:Q2248623
+occupation:historiens de lart:Q1792450
+occupation:francouzský umělecký kritik:Q4164507
+occupation:politický aktivista:Q11499147
+occupation:1926:XXX
+occupation:religionswissenschaftlerin:Q19829980
+occupation:bibelwissenschaftlerin:Q19829990
+occupation:organisci:Q765778
+occupation:rakouský hudební skladatel:Q36834
+occupation:historien du livre:Q37311684
+occupation:médecin de formation:Q39631
+occupation:spécialiste de la bible:Q19829990
+occupation:american illustrator:Q644687
+occupation:politiek tekenaar:Q3024627
+occupation:libreros:Q998550
+occupation:impresores:Q175151
+occupation:vannes:XXX
+occupation:orléans:XXX
+occupation:nantes:XXX
+occupation:1712:XXX
+occupation:redemptorista:Q733786
+occupation:moraltheologe:Q98594162
+occupation:zensor:Q22272441
+occupation:traduit du grec ancien en français:Q333634
+occupation:francouzský univerzitní profesor:Q1622272
+occupation:professor of canon law:Q12027957
 type:inhabited place:Q486972
 type:ridge:Q740445
 type:peak:Q8502
@@ -9894,6 +10276,9 @@ movement:art deco:Q173782
 movement:moderne devotie:Q756170
 movement:baroque era:Q37853
 movement:continental philosophy:Q59104
+movement:peinture de paysage:XXX
+movement:peinture baroque flamande:Q1994273
+movement:barok:Q3624106
 function:apartment building:Q13402009
 commune:Lyon:Q456
 religion:catholicisme romain:Q1841
@@ -9947,6 +10332,7 @@ religion:буддизм (гелуг):Q319218
 religion:christkatholisch:Q5169816
 religion:католицтво:Q1841
 religion:gereformeerd (ned. hervormd):Q515880
+religion:katholisch?:XXX
 firstname:sveta:XXX
 firstname:sergej:Q18946707
 firstname:emile:Q17623487
@@ -10819,6 +11205,50 @@ firstname:wenzel:Q19597963
 firstname:constantin:Q5163687
 firstname:ottavio:Q765222
 firstname:gerhardus:Q21034772
+firstname:estéban:Q17496543
+firstname:angèle:Q533686
+firstname:nick:Q13137230
+firstname:françoise:Q1244936
+firstname:herwig:Q21400609
+firstname:tomás:Q19888139
+firstname:deborah:Q18558974
+firstname:guglielmo:Q1553386
+firstname:jacqueline:Q391321
+firstname:mort:Q60589574
+firstname:achille:Q340285
+firstname:guillemette:Q28123321
+firstname:andrea:Q493293
+firstname:pascal:Q256463
+firstname:bernat:Q17486279
+firstname:bohuslav:Q19818095
+firstname:ivan:Q830350
+firstname:reymond:Q19968314
+firstname:p.:XXX
+firstname:f.:XXX
+firstname:péter:Q19018108
+firstname:léonce:Q1295976
+firstname:valerie:Q1068242
+firstname:valeriano:Q43371148
+firstname:ingeborg:Q656590
+firstname:peder:Q10622039
+firstname:thorkild:Q30584729
+firstname:ippolito:Q19001528
+firstname:lelio:Q1816681
+firstname:saskia:Q337257
+firstname:ferdinando:Q17523781
+firstname:juliaan:Q20205045
+firstname:baldassarre:Q18190446
+firstname:baldassare:Q19967483
+firstname:clara:Q1114146
+firstname:benedetto:Q12898987
+firstname:carmelo:Q1043555
+firstname:anselme:Q19882945
+firstname:venâncio:Q21286102
+firstname:erastus:Q20030196
+firstname:carola:Q229227
+firstname:w.:XXX
+firstname:jean-marie:Q3167523
+firstname:cino:Q3677254
 club:wellington olympic afc:Q3559228
 club:manawatu united:Q1811079
 club:{{cite web:XXX
@@ -11861,6 +12291,82 @@ lastname:caletti:Q96071925
 lastname:claes:Q27237744
 lastname:brasseur:Q21492332
 lastname:söhn:Q21475345
+lastname:pichardo:Q7190622
+lastname:latané:Q6495094
+lastname:latane:Q6495094
+lastname:latané:Q6495094
+lastname:temple:Q21500480
+lastname:glasner:Q36934708
+lastname:beilenson:Q55757021
+lastname:soprano:Q37553758
+lastname:frazier:Q411924
+lastname:velarde:Q37276572
+lastname:ó máille:Q54869213
+lastname:dietsch:Q16862930
+lastname:jarvie:Q37224544
+lastname:bracony:Q96405465
+lastname:pound:Q20997663
+lastname:lavalard:Q89716011
+lastname:briskin:Q4968691
+lastname:wolff:Q2588593
+lastname:marrier:Q37532536
+lastname:strawn:Q16815092
+lastname:dubief:Q65102723
+lastname:rothschild:Q2200026
+lastname:valsecchi:Q55087999
+lastname:kidwell:Q27260195
+lastname:trebeschi:Q96622152
+lastname:todd:Q16884749
+lastname:barral:Q37508516
+lastname:rohling:Q37234876
+lastname:ramsdell:Q37435234
+lastname:palomino:Q37007921
+lastname:taskin:Q21449635
+lastname:martinac:Q37051097
+lastname:gross:Q14290163
+lastname:macy:Q16876218
+lastname:tonneau:Q65114243
+lastname:tremblay:Q27311843
+lastname:albrechtsen:Q21508907
+lastname:aikman:Q21507543
+lastname:guichard:Q27924270
+lastname:döring:Q23640223
+lastname:döring:Q23640223
+lastname:saint-cyr:Q63405801
+lastname:hering:Q1609969
+lastname:kulcsár:Q56539131
+lastname:kulcsár:Q56539131
+lastname:imbault:Q63760287
+lastname:white:Q1215200
+lastname:hassenstein:Q97619375
+lastname:ordóñez:Q11044990
+lastname:truelle:Q65114416
+lastname:borup:Q37503538
+lastname:børup:Q50017562
+lastname:ferwerda:Q37149056
+lastname:gribble:Q27206004
+lastname:colomb:Q41785644
+lastname:wakeman:Q16879300
+lastname:di giorgi:Q55063659
+lastname:anciaux:Q23817392
+lastname:ammendola:Q98165953
+lastname:staudinger:Q21511604
+lastname:dodd:Q16869600
+lastname:haest:Q98170071
+lastname:calamai:Q56537911
+lastname:zeidler:Q28150676
+lastname:tonk:Q67201136
+lastname:zotti:Q56244719
+lastname:meidell:Q20726914
+lastname:jeyes:Q98337632
+lastname:dimier:Q71814373
+lastname:deslandes:Q36938514
+lastname:blakeslee:Q21508488
+lastname:biggs:Q21452543
+lastname:gijsbers:Q65104977
+lastname:borde:Q37232390
+lastname:jacques:Q18577291
+lastname:campani:Q42864926
 musician:mike rutherford:Q321092
 musician:adrian lee:Q4685177
 musician:anthony drennan:Q4772428
@@ -11953,6 +12459,10 @@ award:prix montyon:Q372160
 award:british fantasy society:Q908485
 award:anexo:premio del festival de cannes al mejor actor:Q586140
 award:nagroda:XXX
+award:prix d’académie:Q3405501
+award:2014:XXX
+award:{{order:XXX
+award:prix langlois:Q56324978
 director:Rouzbeh Rashidi:Q7371649
 director:Fred van der Kooij:Q54819875
 organization:association normande pour le progrès de l'agriculture, l'industrie, les sciences et arts:Q65963242
@@ -11998,6 +12508,22 @@ organization:societé française de photographie:Q590548
 organization:de vergadering van notabelen:XXX
 organization:free painters and sculptors:Q39052975
 organization:pulchri studio (den haag):Q1515087
+organization:black star (photo agency):Q4921898
+organization:société d'agriculture de lyon:Q63790107
+organization:the royal netherlands academy of arts and sciences:Q253439
+organization:aartsbisdom mechelen / archidiocèse de malines (1801-1961):XXX
+organization:sint-pieterscollege, leuven (1890-heden):XXX
+organization:grootseminarie, mechelen (1595-2006):XXX
+organization:aartsbisdom mechelen-brussel / archidiocèse de malines-bruxelles (1961-):XXX
+organization:katholieke universiteit leuven (1970-heden):XXX
+organization:gelovige gezinsgroepen vlaanderen (1952-):Q44812724
+organization:christelijk vlaams kunstenaarsverbond (1951-heden):Q45750970
+organization:boerenbond en landelijke gilden (1890-):Q45033905
+organization:the action française:Q49629
+organization:académie des sciences, belles-lettres et arts de besançon et de franche-comté:Q2822385
+organization:société d'émulation du jura:Q16677214
+organization:société française d'archéologie:Q3488285
+organization:société nationale des antiquaires de france:Q3488100
 genre:vampires:Q1425557
 genre:magical realism:Q24205155
 genre:(2),:XXX
@@ -12370,6 +12896,10 @@ genre:social commentary:XXX
 genre:boslandschap:Q191163
 genre:duinlandschap:Q191163
 genre:rivierlandschap:Q191163
+genre:genre:Q214127
+genre:figuren:Q5448026
+genre:portretten:Q134307
+genre:barok:Q3624106
 screenwriter:Rouzbeh Rashidi:Q7371649
 screenwriter:Fred van der Kooij:Q54819875
 ethnicity (us):jewish:Q7325
@@ -12394,6 +12924,7 @@ instanceof:mitglied regierender fürstenhäuser:Q5
 instanceof:biographical entry:Q5
 instanceof:werk:Q386724
 instanceof:pseudonym:Q5
+instanceof:artist:Q5
 county:klamath county, oregon:Q484388
 county:washington county, oregon:Q484538
 county:monmouth county, new jersey:Q502424
@@ -12594,6 +13125,7 @@ language:anglais américain:Q7976
 language:tcheque:Q9056
 language:tha:Q9217
 language:marathi:Q1571
+language:grec ancien:Q35497
 artist:savitsky, konstantin apollonovich:Q958052
 artist:maratti, carlo:Q538998
 artist:robertson, archibald:Q17747277
@@ -12679,6 +13211,12 @@ artist:meijer, gerhardus:Q41268999
 artist:serné, samuel hendrik:Q96104459
 artist:meijer, joan willem:Q41318784
 artist:meijer, louis:Q2680843
+artist:kügelgen, franz gerhard von (1772-1820):Q697499
+artist:bertin, jean-victor:Q331884
+artist:poussin, nicolas:Q41554
+artist:claude lorrain:Q214074
+artist:delaroche, paul:Q322582
+artist:benvenuti, pietro:Q447308
 voice:sprechstimme:XXX
 voice:bass:Q27911
 voice:vocal:XXX
@@ -12942,7 +13480,7 @@ country:{{gbr}}:Q145
 country:dxde:Q43287
 country:ang.:Q145
 country:canadees:Q16
-country:lékař:Q39631
+country:lékař:XXX
 country:dutch:Q29999
 country:britons:Q145
 country:rumunsko:Q218
@@ -13440,6 +13978,32 @@ country:{{fr}}:Q142
 country:paryż (francja):Q142
 country:ecuadorian:Q736
 country:japans:Q17
+country:kubánský:Q241
+country:hrvaška:Q224
+country:avstrija:Q40
+country:čínský:Q29520
+country:미국(국명)[美國]:Q30
+country:združene države amerike:Q30
+country:nemčija:Q183
+country:américaine:Q30
+country:yu:Q36704
+country:wielka brytania.:Q145
+country:hungary:Q28
+country:maďarský:Q28
+country:pays-bas espagnols:Q622783
+country:zuidelijke nederlanden (voor 1830):Q6581823
+country:{{drapeau2:XXX
+country:{{nl}}se:Q29999
+country:danska:Q35
+country:italiensk:Q38
+country:italija:Q38
+country:italiana:Q38
+country:{{it-1861}}:Q172579
+country:francija:Q142
+country:austria.:Q40
+country:kaisertum österreich:Q131964
+country:austriaco:Q40
+country:大明:Q9903
 university:université paris 7:Q1235608
 university:university of michigan:Q230492
 university:university of texas at austin:Q49213
@@ -13585,6 +14149,26 @@ university:hanley castle high school:Q5648588
 university:königliche kunstgewerbeschule (münchen):Q1796130
 university:university of pittsburgh:Q235034
 university:akademie van beeldende kunsten (den haag):Q511291
+university:university of north carolina, chapel hill:Q192334
+university:university of minnesota:Q238101
+university:hunter college:Q1446181
+university:beverly hills high school:Q1185037
+university:akademie der bildenden künste (dresden):Q464752
+university:art students league of new york:Q705737
+university:facultat bbaa cuenca:Q941806
+university:wageningen university:Q422208
+university:groningenin yliopisto (ph.d.):Q850730
+university:wageningen universiteit:Q422208
+university:university of twente:Q1547084
+university:instytut badań jądrowych:Q11712952
+university:uniwersytet warszawski wydział matematyki i fizyki:Q144488
+university:university of illinois at urbana–champaign:Q457281
+university:university of virginia:Q213439
+university:rice university:Q842909
+university:accademia di belle arti e liceo artistico (florence):Q4585397
+university:école des beaux-arts (parijs):Q273593
+university:technische universiteit eindhoven:Q280824
+university:jan van eyck academie (maastricht):Q1682433
 work:lohengrin:Q23085
 work:recurrence-based time series analysis by means of complex network methods:Q63964890
 work:2. buch der chronik:Q209720
@@ -13621,6 +14205,8 @@ work:''la vie est un long fleuve tranquille'':Q638315
 work:''les petits mouchoirs'':Q1446504
 work:''cloclo'':Q2979521
 work:''la french '':Q16314359
+work:''les amants diaboliques'':Q547226
+work:''les frissons de l'angoisse'':Q1516994
 label:arista records:Q664167
 label:atlantic (us:Q202440
 label:レコード:XXX
@@ -13662,6 +14248,7 @@ label:atlantic:Q202440
 label:atlantic records:Q202440
 label:ヴァージン:Q203059
 label:rhino (états-unis:Q56404384
+label:spinnin' records:Q2310883
 gens:claudia:Q385338
 gens:pomponia:Q1363180
 gens:aemilia:Q380886
@@ -14426,6 +15013,10 @@ person:prault, louis françois:Q60843453
 person:prault, pierre:Q59532009
 person:prault, laurent françois:Q22937694
 person:prault, laurent françois, 1712-1780:Q22937694
+person:röhling, carl:Q51556223
+person:röhling, ernst august:Q96996572
+person:wouter abts, alias: gautier abs / aps / apts:Q4021004
+person:(annulled:XXX
 title:graaf van vianden:Q66051630
 title:graaf van hamaland:Q65660493
 title:duke of gniezno:Q166886
@@ -14692,6 +15283,7 @@ gender:u:XXX
 gender:donna:Q6581072
 gender:male:Q6581097
 gender:mann:Q6581097
+gender:fear:Q6581097
 cemetary:geertruidenberg:Q10639634
 cemetary:fort scott national cemetery:Q5472002
 cemetary:highland lawn cemetery:Q5758873
@@ -15225,6 +15817,10 @@ position:abdis van elten:Q65934993
 position:lord of brederode:Q64495367
 position:heer van vlierden:Q65561223
 position:герцог штирии:Q65498159
+position:nunzio apostolico per la repubblica di venezia:Q157037
+position:vescovo di fano:Q611644
+position:profesor zwyczajny:Q11827483
+position:profesor:Q121594
 causedeath:natuurlijke dood (watersught):Q152234
 causedeath:ataque al corazón:Q12152
 causedeath:neumonía:Q12192
@@ -15408,3 +16004,8 @@ employer:katholische kirche:Q9592
 employer:swisspeace:Q682348
 employer:université de lyon. faculté de médecine:Q2383462
 employer:università degli studi di macerata:Q1742507
+employer:biblioteca de menéndez pelayo (santander):Q5728090
+employer:(assoc. prof.):XXX
+employer:georgia institute of technology:Q864855
+employer:(direktor):XXX
+employer:institut d'études européennes (brüssel):Q3151954

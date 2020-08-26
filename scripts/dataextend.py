@@ -6,7 +6,7 @@ Script to add properties, identifiers and sources to Wikidata items.
 Usage: dataextend <item> [<property>[+*]] [args]
 
 In the basic usage, where no property is specified, item is the Q-number of the
-item to work on.from html import unescape
+item to work on.
 
 If a property (P-number, or the special value 'Wiki' or 'Data') is specified,
 only the data from that identifier are added. With a '+' after it, work starts
@@ -158,6 +158,7 @@ class DataExtendBot:
             "P1667": TgnAnalyzer,
             # "P1695": NlpAnalyzer, <id doesn't work anymore>
             "P1707": DaaoAnalyzer,
+            # "P1711": BritishMuseumAnalyzer, <does not load>
             "P1741": GtaaAnalyzer,
             "P1749": ParlementPolitiekAnalyzer,
             "P1795": AmericanArtAnalyzer,
@@ -281,8 +282,10 @@ class DataExtendBot:
             'P6188': BdfaAnalyzer,
             "P6194": AustrianBiographicalAnalyzer,
             "P6231": BdelAnalyzer,
+            "P6295": ArticArtistAnalyzer,
             "P6517": WhoSampledAnalyzer,
             "P6578": MutualAnalyzer,
+            "P6815": UvaAlbumAnalyzer,
             "P6844": AbartAnalyzer,
             "P6873": IntraTextAnalyzer,
             "P7032": RepertoriumAnalyzer,
@@ -521,7 +524,7 @@ class DataExtendBot:
         if re.match("\d{4}-\d{2}$", text):
             year = int(text[:4])
             month = int(text[-2:])
-        m = re.match("(\d{1,2})-(\d{4})", text)
+        m = re.match("(\d{1,2})[-/](\d{4})", text)
         if m:
             year = int(m.group(2))
             month = int(m.group(1))
@@ -1258,6 +1261,7 @@ class Analyzer:
             (self.findadvisors, "P184"),
             (self.findinfluences, "P737"),
             (self.finddegrees, "P512"),
+            (self.findmajors, "P812"),
             (self.findparticipations, "P1344"),
             (self.findnationalities, "P27"),
             (self.findreligions, "P140"),
@@ -1819,6 +1823,9 @@ class Analyzer:
     def finddegrees(self, html):
         return None
 
+    def findmajors(self, html):
+        return None
+    
     def findparticipations(self, html):
         return None
 
@@ -1928,7 +1935,7 @@ class Analyzer:
             ("P2454", self.findbyre(r'https?://www.dwc.knaw.nl/[^\'"\s]+=(\w+)', html)),
             ("P2456", self.findbyre(r'https?://dblp.uni-trier.de/pid/([\w/]+)', html)),
             ("P2469", self.findbyre(r'theatricalia.com/person/(\w+)', html)),
-            ("P2693", self.findbyre(r'filmportal.de/person/(\w+)', html)),
+            ("P2639", self.findbyre(r'filmportal.de/person/(\w+)', html)),
             ("P2722", self.findbyre(r'deezer.com/artist/(\w+)', html)),
             ("P2909", self.findbyre(r'https?://www.secondhandsongs.com/artist/(\w+)', html)),
             ("P2941", self.findbyre(r'munksroll.rcplondon.ac.uk/Biography/Details/(\d+)', html)),
@@ -2001,6 +2008,8 @@ class Analyzer:
             alt = []
         m = re.search(regex, html)
         if m:
+            if dtype:
+                alt = [dtype] + alt
             for alttype in alt:
                 if self.getdata(alttype, m.group(1), ask=False) and \
                         self.getdata(alttype, m.group(1), ask=False) != 'XXX':
@@ -2233,7 +2242,6 @@ class ViafAnalyzer(Analyzer):
             ("P1005", self.getid("PTBNP", html)),
             ("P1006", self.getid("NTA", html)),
             ("P1015", self.getid("BIBSYS", html)),
-            ('P1017', self.getid('BAV', html)),
             ("P1207", self.getid("NUKAT", html)),
             ('P1255', self.getid("SWNL", html)),
             ("P1273", self.getid("BNC", html)),
@@ -2251,6 +2259,7 @@ class ViafAnalyzer(Analyzer):
             ("P5034", self.getid("KRNLK", html)),
             ("P5504", self.getid("DE663", html)),
             ("P7369", (self.getid('BNCHL', html) or "")[-9:] or None),
+            ('P8034', (self.getid('BAV', html) or "").replace("_", "/") or None),
             ("P268", self.findbyre(r'"http://catalogue.bnf.fr/ark:/\d+/cb(\w+)"', html)),
             ("P1566", self.findbyre(r'"http://www.geonames.org/(\w+)"', html)),
         ]
@@ -2335,14 +2344,16 @@ class GndAnalyzer(Analyzer):
                 return self.findallbyre(r'([\w\s]+)\(', section, 'country')
 
     def findbirthplace(self, html):
-        return self.findbyre(r'(?s)Geburtsort:\s*(?:<[^<>]*>)?([^<>&]*)', html, 'city')
+        return self.findbyre(r'(?s)Geburtsort:\s*(?:<[^<>]*>)?([^<>&]*)', html, 'city') or\
+            self.findbyre(r'(?s)([\s\w]+)\(Geburtsort\)', html, 'city')
 
     def finddeathplace(self, html):
         return self.findbyre(r'(?s)Sterbeort:\s*(?:<[^<>]*>)?([^<>&]*)', html, 'city')
 
     def findworkplaces(self, html):
-        return self.findallbyre(r'(?s)Wirkungsort:\s*(?:<[^<>]*>)?([^<>]*)\(\d{3}', html, 'city') or \
-               self.findallbyre(r'(?s)Wirkungsort:\s*(?:<[^<>]*>)?([^<>]*)', html, 'city')
+        return (self.findallbyre(r'(?s)Wirkungsort:\s*(?:<[^<>]*>)?([^<>]*)\(\d{3}', html, 'city') or \
+               self.findallbyre(r'(?s)Wirkungsort:\s*(?:<[^<>]*>)?([^<>]*)', html, 'city')) +\
+               self.findallbyre(r'(?s)([\s\w]+)\(Wirkungsort\)', html, 'city')
 
     def findoccupations(self, html):
         result = []
@@ -2624,7 +2635,7 @@ class UlanAnalyzer(Analyzer):
 
     def findfirstname(self, html):
         if self.isperson:
-            return self.findbyre(r'(?s)<SPAN CLASS=page><B>[^<>]*?,\s*(\w+)', html, 'firstname')
+            return self.findbyre(r'(?s)<SPAN CLASS=page><B>[^<>]*?,\s*([\w\-]+)', html, 'firstname')
 
     def findnationality(self, html):
         if self.isperson:
@@ -2734,8 +2745,8 @@ class BnfAnalyzer(Analyzer):
                 result = self.findallbyre(r'([\w&;]{3,})', section, 'language')
             result += self.findallbyre(r'aussi(?: écrit)? en ([\w]+)', html, 'language')
             result += self.findallbyre(r'aussi(?: écrit)? en [\w\s]+ et en ([\w]+)', html, 'language')
-            result += self.findallbyre(r'[tT]raducteur du ([\w\s]+) en ', html, 'language')
-            result += self.findallbyre(r'[tT]raducteur[\w\s]+ en ([\w\s]+)', html, 'language')
+            result += self.findallbyre(r'[tT]radu(?:cteur|it) du (.+?) en ', html, 'language')
+            result += self.findallbyre(r'[tT]radu(?:cteur|it) .+? en ([\w\s]+)', html, 'language')
             return result
 
     def findgender(self, html):
@@ -2886,7 +2897,7 @@ class CiniiAnalyzer(Analyzer):
         return "Q5"
 
     def findfirstname(self, html):
-        return self.findbyre(r'(?s)<h1[^<>]*>[^<>]*<span>[^<>]*?,\s*(\w+)', html, 'firstname')
+        return self.findbyre(r'(?s)<h1[^<>]*>[^<>]*<span>[^<>]*?,\s*([\w\-]+)', html, 'firstname')
 
     def findlastname(self, html):
         return self.findbyre(r'(?s)<h1[^<>]*>[^<>]*<span>([^<>]+?),', html, 'lastname')
@@ -3337,7 +3348,7 @@ class BneAnalyzer(Analyzer):
         return self.findbyre(r'<h1>([^<>]+),', html, 'lastname')
 
     def findfirstname(self, html):
-        return self.findbyre(r'<h1>[^<>]+,\s*(\w+)', html, 'firstname')
+        return self.findbyre(r'<h1>[^<>]+,\s*([\w\-]+)', html, 'firstname')
 
     def findbirthdate(self, html):
         result = self.findbyre(r'(?s)Año de nacimiento:\s*<span>(.*?)<', html) or \
@@ -3556,7 +3567,7 @@ class IpniAuthorsAnalyzer(Analyzer):
         return self.findbyre(r'(?s)<h3>([^<>]*?),', html, 'lastname')
 
     def findfirstname(self, html):
-        return self.findbyre(r'(?s)<h3>[^<>]*,\s*(\w+)', html, 'firstname')
+        return self.findbyre(r'(?s)<h3>[^<>]*,\s*([\w\-]+)', html, 'firstname')
 
     def findlongtext(self, html):
         return self.findbyre(r'(?s)<h4>Comment:\s*</h4>(.*?)<h\d', html)
@@ -4047,7 +4058,7 @@ class SikartAnalyzer(Analyzer):
         return self.findbyre(r'token.lastname=(\w+)', html, 'lastname')
 
     def findfirstname(self, html):
-        return self.findbyre(r'token.firstname=(\w+)', html, 'firstname')
+        return self.findbyre(r'token.firstname=([\w\-]+)', html, 'firstname')
 
     def findbirthdate(self, html):
         dates = self.getvalue('Lebensdaten', html)
@@ -4254,7 +4265,7 @@ class PtbnpAnalyzer(Analyzer):
             return result
 
     def findfirstname(self, html):
-        return self.findbyre(r'>200<.*?\$b</b></font>([^<>]*)<', html, 'firstname')
+        return self.findbyre(r'>200<.*?\$b</b></font>([^<>]*?),?\s*<', html, 'firstname')
 
     def findlastname(self, html):
         return self.findbyre(r'>200<.*?\$a</b></font>(.*?),?<', html, 'lastname')
@@ -4318,7 +4329,7 @@ class KunstindeksAnalyzer(Analyzer):
         return self.findbyre(r'(?s)<b>Name: </b>([^<>]*),', html, 'lastname')
 
     def findfirstname(self, html):
-        return self.findbyre(r'(?s)<b>Name: </b>[^<>]*,\s*(\w+)', html, 'firstname')
+        return self.findbyre(r'(?s)<b>Name: </b>[^<>]*,\s*([\w\-]+)', html, 'firstname')
 
     def findbirthplace(self, html):
         return self.findbyre(r'(?s)<b>Born: </b>([^<>]*),', html, 'city')
@@ -4592,7 +4603,7 @@ class IsfdbAnalyzer(Analyzer):
         return "Q5"
 
     def findfirstname(self, html):
-        return self.findbyre(r'(?s)Legal Name:</b>[^<>]+,\s*(\w+)', html, 'firstname')
+        return self.findbyre(r'(?s)Legal Name:</b>[^<>]+,\s*([\w\-]+)', html, 'firstname')
 
     def findlastname(self, html):
         return self.findbyre(r'(?s)Legal Name:</b>([^<>]*),', html, 'lastname')
@@ -4846,7 +4857,7 @@ class PeopleAustraliaAnalyzer(Analyzer):
         return self.findbyre(r'(?s)<h1>[^<>]+\([^<>\)]*-([^<>\)]*)\)', html)
 
     def findfirstname(self, html):
-        return self.findbyre(r'(?s)<h1>[^<>,\(\)]+,\s*(\w+)', html, 'firstname')
+        return self.findbyre(r'(?s)<h1>[^<>,\(\)]+,\s*([\w\-]+)', html, 'firstname')
 
     def findlastname(self, html):
         return self.findbyre(r'(?s)<h1>([^<>,\(\)]+),', html, 'lastname')
@@ -5623,6 +5634,44 @@ class DaaoAnalyzer(Analyzer):
             return self.findallbyre(r'(?s)<li>(.*?)<', section, 'language')
 
 
+class BritishMuseumAnalyzer(Analyzer):
+    def setup(self):
+        self.dbproperty = 'P1711'
+        self.dbid = 'Q18785969'
+        self.dbname = 'British Museum'
+        self.urlbase = 'https://www.britishmuseum.org/collection/term/BIOG{id}'
+        self.hrtre = '<div class="section__inner">.*?<dl>(.*?)(?:Biography|</dl>)'
+        self.language = 'en'
+
+    def finddetails(self, html):
+        return self.findbyre('(?s)Details</dt>\s*<dd[^<>]*>(.*?)</dd>', html) or ''
+
+    def findnames(self, html):
+        return self.findallbyre('(?s)name:</span>(.*?)<', html)
+
+    def findlongtext(self, html):
+        return self.findbyre('(?s)Biography</dt>\s*<dd[^<>]*>(.*?)</dd>', html)
+
+    def findinstanceof(self, html):
+        return self.findbyre('([^;]+)', self.finddetails(html), 'instanceof')
+
+    def findoccupations(self, html):
+        return self.findallbyre('([^;/]+)', self.finddetails(html), 'occupation')
+
+    def findnationalities(self, html):
+        parts = self.findallbyre('([^;]+)', self.finddetails(html))
+        return self.findallbyre('(.+)', parts[-2], 'country')
+
+    def findgender(self, html):
+        return self.findbyre('([^;]+)$', self.finddetails(html), 'gender')
+
+    def findbirthdate(self, html):
+        return self.findbyre('(?s) dates</dt>\s*<dd[^<>]*>([^<>]*)-', html)
+
+    def finddeathdate(self, html):
+        return self.findbyre('(?s) dates</dt>\s*<dd[^<>]*>[^<>]*-([^<>]*)', html)
+
+
 class GtaaAnalyzer(Analyzer):
     def setup(self):
         self.dbproperty = 'P1741'
@@ -5686,7 +5735,7 @@ class ParlementPolitiekAnalyzer(Analyzer):
         section = self.getsection('[vV]oorna[^<>]*', html)
         if section:
             return self.findbyre(r'\((.*?)\)', section, 'firstname') or \
-                   self.findbyre(r'(\w+)', section, 'firstname')
+                   self.findbyre(r'([\w\-]+)', section, 'firstname')
 
     def findbirthplace(self, html):
         return self.findbyre(r'(?s)geboorteplaats en -datum</b><br>([^<>]*),', html, 'city')
@@ -5741,7 +5790,7 @@ class AmericanArtAnalyzer(Analyzer):
         return self.findallbyre(r'(?s)>([^<>]+)<', '\n'.join(section))
 
     def findlongtext(self, html):
-        return self.findbyre(r'(?s)</h1>(.*?)<dt class="field--label visually-hidden">', html)
+        return self.findbyre(r'(?s)<div class="body">(.*?)</div>', html)
 
     def findbirthplace(self, html):
         section = self.findbyre(r'(?s)Born</dt>.*?<span>(.*?)</span>', html)
@@ -6197,7 +6246,7 @@ class ItalianPeopleAnalyzer(Analyzer):
 
     def findfirstname(self, html):
         return self.findbyre(r'<span class="sc">(.*?)<', html, 'firstname') or \
-               self.findbyre(r'<span class="sc">\s*(\w+)', html, 'firstname')
+               self.findbyre(r'<span class="sc">\s*([\w\-]+)', html, 'firstname')
 
     def findbirthplace(self, html):
         return self.findbyre(r"[nN]acque (?:nell)?a (.*?)(?:,|\.| il| l'| l&#039;| nel)", html, 'city')
@@ -6677,7 +6726,7 @@ class ArtHistoriansAnalyzer(Analyzer):
         return "Q5"
 
     def findfirstname(self, html):
-        return self.findbyre(r'dcterms.title" content="[^<>"]+,\s*(\w+)', html, 'firstname')
+        return self.findbyre(r'dcterms.title" content="[^<>"]+,\s*([\w\-]+)', html, 'firstname')
 
     def findlastname(self, html):
         return self.findbyre(r'dcterms.title" content="([^<>"]+),', html, 'lastname')
@@ -7680,7 +7729,7 @@ class RostochiensiumAnalyzer(Analyzer):
         return self.findbyre(r'(?s)<h1>([^<>]*?),', html, 'lastname')
 
     def findfirstname(self, html):
-        return self.findbyre(r'(?s)<h1>[^<>]*,\s*(\w+)', html, 'firstname')
+        return self.findbyre(r'(?s)<h1>[^<>]*,\s*([\w\-]+)', html, 'firstname')
 
     def finddegrees(self, html):
         return [self.findbyre(r'(?s)</h2>\s*</div><div class="docdetails-values">(.*?)<', html, 'degree')]
@@ -8014,7 +8063,7 @@ class NationalArchivesAnalyzer(Analyzer):
         return self.findbyre(r'(?s)Gender:</th>.*?<td[^<>]*>(.*?)<', html, 'gender')
 
     def findfirstname(self, html):
-        return self.findbyre(r'(?s)Forenames:</th>.*?<td[^<>]*>\s*(\w*)', html, 'firstname')
+        return self.findbyre(r'(?s)Forenames:</th>.*?<td[^<>]*>\s*([\w\-]*)', html, 'firstname')
 
     def findlastname(self, html):
         return self.findbyre(r'(?s)Surname:</th>.*?<td[^<>]*>(.*?)<', html, 'lastname')
@@ -8259,7 +8308,7 @@ class RunebergAuthorAnalyzer(Analyzer):
         return self.findbyre(r'(?s)<b>([^<>]*),', html, 'lastname')
 
     def findfirstname(self, html):
-        return self.findbyre(r'(?s)<b>[^<>]*,\s*(\w+)', html, 'firstname')
+        return self.findbyre(r'(?s)<b>[^<>]*,\s*([\w\-]+)', html, 'firstname')
 
     def findbirthdate(self, html):
         return self.findbyre(r'(?s)<b>[^<>]+\(([^<>\(\)]*?)-', html)
@@ -9185,7 +9234,7 @@ class ItauAnalyzer(Analyzer):
                                  # for works and possible other it can be extended later
         self.hrtre = '<h1[^<>]*>\s*Outras informações.*?<div class="section_content">(.*?)</section>'
         self.language = 'pt'
-        self.htmlescape = True
+        self.escapehtml = True
 
     @property
     def isperson(self):
@@ -9320,7 +9369,7 @@ class OnlineBooksAnalyzer(Analyzer):
         return [self.findbyre(r'<title>(.*?)[\(\|<]', html)]
 
     def findfirstname(self, html):
-        return self.findbyre(r'<h3[^<>]*>[^<>]*\([^<>,]*?,\s*(\w+)', html, 'firstname')
+        return self.findbyre(r'<h3[^<>]*>[^<>]*\([^<>,]*?,\s*([\w\-]+)', html, 'firstname')
 
     def findlastname(self, html):
         return self.findbyre(r'<h3[^<>]*>[^<>]*\(([^<>,]*?),', html, 'lastname')
@@ -9359,6 +9408,14 @@ class DacsAnalyzer(Analyzer):
 
     def findlongtext(self, html):
         return self.findbyre(r'(?s)(<h1.*?)<h2', html)
+
+    def findnames(self, html):
+        f = open('result.html', 'w')
+        f.write(html)
+        f.close()
+        section = self.findbyre('(?s)Pseudonyms">(.*?)<', html)
+        if section:
+            return self.findallbyre('([^;]+)', section)
 
     def findnationalities(self, html):
         return self.findallbyre(r'lbNationality">(.*?)<', html, 'country')
@@ -9875,7 +9932,7 @@ class ArtistsCanadaAnalyzer(Analyzer):
         return result
 
     def findfirstname(self, html):
-        return self.findbyre(r'(?s)Artist/Maker\s*</dt>\s*<dd[^<>]*>[^<>]*,\s*(\w+)', html, 'firstname')
+        return self.findbyre(r'(?s)Artist/Maker\s*</dt>\s*<dd[^<>]*>[^<>]*,\s*([\w\-]+)', html, 'firstname')
 
     def findlastname(self, html):
         return self.findbyre(r'(?s)Artist/Maker\s*</dt>\s*<dd[^<>]*>([^<>]*?),', html, 'lastname')
@@ -9891,8 +9948,7 @@ class ArtistsCanadaAnalyzer(Analyzer):
     def findbirthplace(self, html):
         section = self.findbyre(r'(?s)<dt>Birth.*?<dd[^<>]*>(.*?)</dd>', html)
         if section:
-            return self.findbyre(r'(?s)>([^,<>]*),[^<>]*</li>', section, 'city') or \
-                   self.findbyre(r'(?s)>([^,<>]*)</li>', section, 'city')
+            return self.findbyre(r'(?s)>([^<>]*)</li>', section, 'city')
 
     def findbirthdate(self, html):
         section = self.findbyre(r'(?s)<dt>Birth.*?<dd[^<>]*>(.*?)</dd>', html)
@@ -9902,8 +9958,7 @@ class ArtistsCanadaAnalyzer(Analyzer):
     def finddeathplace(self, html):
         section = self.findbyre(r'(?s)<dt>Death.*?<dd[^<>]*>(.*?)</dd>', html)
         if section:
-            return self.findbyre(r'(?s)>([^,<>]*),[^<>]*</li>', section, 'city') or \
-                   self.findbyre(r'(?s)>([^,<>]*)</li>', section, 'city')
+            return self.findbyre(r'(?s)>([^<>]*)</li>', section, 'city')
 
     def finddeathdate(self, html):
         section = self.findbyre(r'(?s)<dt>Death.*?<dd[^<>]*>(.*?)</dd>', html)
@@ -11211,6 +11266,39 @@ class BdelAnalyzer(Analyzer):
         return self.finddefaultmixedrefs(html)
 
 
+class ArticArtistAnalyzer(Analyzer):
+    def setup(self):
+        self.dbproperty = 'P6295'
+        self.dbid = 'Q64732761'
+        self.dbname = 'ARTIC'
+        self.urlbase = 'https://www.artic.edu/artists/{id}'
+        self.hrtre = '(<dl>.*?</dl>)'
+        self.language = 'en'
+
+    def findinstanceof(self, html):
+        return self.findbyre('<meta name="description"\s*content="(.*?)"', html, 'instanceof')
+
+    def findnames(self, html):
+        return (self.findbyre('<dd itemprop="additionalName">(.*?)</dd>', html) or '').split(',') +\
+            self.findallbyre('title"\d*content="(.*?)["|]', html)
+
+    def findlongtext(self, html):
+        return self.findbyre('(?s)itemprop="description">(.*?)</div>', html)
+
+    def finddescriptions(self, html):
+        return self.findallbyre('<meta name="description"\s*content="(.*?)"', html)
+
+    def findbirthdate(self, html):
+        return self.findbyre('"birthDate">(.*?)<', html)
+
+    def finddeathdate(self, html):
+        return self.findbyre('"deathDate">(.*?)<', html)
+
+    def findincollections(self, html):
+        if 'See all' in html:
+            return ['Q239303']
+
+
 class WhoSampledAnalyzer(Analyzer):
     def setup(self):
         self.dbproperty = 'P6517'
@@ -11264,6 +11352,92 @@ class MutualAnalyzer(Analyzer):
 
     def finddeathdate(self, html):
         return self.findbyre(r'(?s)<span class="separator">.</span>[^<>]*-(.*?)<', html)
+
+
+class UvaAlbumAnalyzer(Analyzer):
+    def setup(self):
+        self.dbproperty = 'P6815'
+        self.dbid = 'Q63962284'
+        self.dbname = 'Album Academicum UvA'
+        self.urlbase = 'http://albumacademicum.uva.nl/id/{id}'
+        self.hrtre = 'nextPrevLinks -->(.*?)<table id="profdata">'
+        self.language = 'nl'
+
+    def prepare(self, html):
+        return html.replace('&nbsp;', ' ')
+
+    def getvalue(self, field, html, dtype=None, alt=None):
+        return self.findbyre('(?s)<th>%s</th><td>(?:<a[^<>]*>)?(.*?)<'%field, html, dtype, alt=alt)
+
+    def getvalues(self, field, html, dtype=None, alt=None):
+        return self.findallbyre('(?s)<th>%s</th><td>(?:<a[^<>]*>)?(.*?)<'%field, html, dtype, alt=alt)
+
+    def findinstanceof(self, html):
+        return 'Q5'
+
+    def findnames(self, html):
+        name = self.getvalue('Naam', html)
+        fullname = self.getvalue('Voornamen', html)
+        if name and fullname and '. ' in name:
+            return [name, fullname + name[name.find('. ')+1:]]
+        else:
+            return [name]
+
+    def findfirstname(self, html):
+        section = self.getvalue('Voornamen', html)
+        return self.findbyre('([\w\-]+)', section, 'firstname')
+        
+    def findgender(self, html):
+        return self.getvalue('Geslacht', html, 'gender')
+
+    def findbirthdate(self, html):
+        birthdata = self.getvalue('Geboren', html)
+        if birthdata:
+            return self.findbyre('(.*\d),', birthdata)
+
+    def findbirthplace(self, html):
+        birthdata = self.getvalue('Geboren', html)
+        if birthdata:
+            return self.findbyre('.*\d,(.*)', birthdata, 'city')
+    
+    def finddeathdate(self, html):
+        deathdata = self.getvalue('Overleden', html)
+        if deathdata:
+            return self.findbyre('(.*\d),', deathdata)
+
+    def finddeathplace(self, html):
+        deathdata = self.getvalue('Overleden', html)
+        if deathdata:
+            return self.findbyre('.*\d,(.*)', deathdata, 'city')
+    
+    def finddegrees(self, html):
+        return [self.getvalue('Titels', html, 'degree')] +\
+            self.getvalues('Examentype', html, 'degree') +\
+            self.findallbyre('<h2 class="recordCodes">(.*?)<', html, 'degree')
+
+    def findnationalities(self, html):
+        return [self.getvalue('Nationaliteit', html, 'country')]
+
+    def findschools(self, html):
+        return self.getvalues('Instelling \(opleiding\)', html, 'university')
+
+    def findadvisors(self, html):
+        return self.getvalues('Promotor\(en\)', html, 'scientist')
+
+    def findoccupations(self, html):
+        return self.getvalues('Aanstelling', html, 'occupation')
+
+    def findpositions(self, html):
+        return self.getvalues('Aanstelling', html, 'position')
+
+    def findemployers(self, html):
+        return self.getvalues('Instelling \(aanstelling\)', html, 'employer', alt=['university'])
+
+    def findworkfields(self, html):
+        return self.getvalues('Discipline', html, 'subject')
+
+    def findmajors(self, html):
+        return self.getvalues('Opleiding', html, 'subject')
 
 
 class AbartAnalyzer(Analyzer):
@@ -11606,8 +11780,8 @@ class WikiAnalyzer(Analyzer):
              '[\w\s]*vardas', 'ook bekend als', 'alias', 'otros nombres', '[\w\s]*שם[\w\s]*', '[\w\s]*név', 'ふりがな',
              '別名義', "ім'я[\w\s\_]*", 'псевдонім', 'прізвисько', 'pseudônimos?', '[\w\s-]*όνομα', '[\w\s]*есімі',
              'isim', '[\w\s_]*isimleri', 'adı', 'نام', 'لقب', '[\w\s]*imię[\w\s]*', 'alcume', '芸名', '本名', '\w*이름',
-             '본명', 'anarana', 'ime', 'jina[\w\s]*', 'nom de naissance', '\w*namen',
-             ], html)
+             '본명', 'anarana', '[\w\s]*ime', 'jina[\w\s]*', 'nom de naissance', '\w*namen', '姓名', '原名',
+            ], html)
         for section in sections:
             result += self.findallbyre(r'([^,;]*)', section)
         return [
@@ -11652,11 +11826,11 @@ class WikiAnalyzer(Analyzer):
             ['fineincipit', 'commentaire', 'kurzbeschreibung', 'fets_destacables', 'описание', 'bekendvan',
              'postcognome', 'postnazionalità', 'known_for', 'description', 'başlık'], html) + \
                [self.removewiki(
-                   self.findbyre(r" %s (?:e[ei]?n |an? |u[nm][ea]? |eine[nr]? |'n |ne |e )?(.*?)[\.;]" % word, html)) for
+                   self.findbyre(r" %s(?: stato)? (?:e[ei]?n |an? |u[nm][ea]? |eine[nr]? |'n |ne |e )?(.*?)[\.;]" % word, html)) for
                 word in [
-                    'is', 'w[ao]s', 'ist', 'wao?r', 'est', 'était', 'fu', 'fou', '—', 'era', 'е', 'היה', 'by[łl]',
+                    'is', 'w[ao]s', 'ist', 'wao?r', 'est', 'était', 'fu', 'fou', '—', '-', 'era', 'е', 'היה', 'by[łl]',
                     'foi', 'был', 'fue', 'oli', 'bio', 'wie', 'var', 'je', 'იყო', 'adalah', 'é', 'ήταν', 'هو', 'стала',
-                    'és', 'er', 'est[ia]s', 'एक',
+                    'és', 'er', 'est[ia]s', 'एक', 'یک', 'كان', 'è', 'бил', 'là'
                 ]] + \
                self.findallbyre(r'{{short description\|(.*?)}', html) + \
                self.findallbyre(r'\[\[[^\[\]\|]+?:([^\[\]\|]+)\]\]', html) + \
@@ -11667,7 +11841,8 @@ class WikiAnalyzer(Analyzer):
             ['charte', 'attività\s*(?:altre)?\d*', 'occupation', 'zawód', 'functie', 'spfunc', 'beroep',
              'рід_діяльності', 'المهنة', 'ocupación', 'עיסוק', '職業', 'ocupação', 'ιδιότητα', 'мамандығы',
              'zanimanje', 'meslek', 'mesleği', 'activités?', 'پیشه', 'профессия', 'profesión', '직업',
-             'asa', 'kazi yake', '(?:antaŭ|aliaj)?okupoj?\d*',
+             'asa', 'kazi yake', '(?:antaŭ|aliaj)?okupoj?\d*', 'работил', 'ocupacio', 'aktywność zawodowa',
+             'funkcja',
              ], html, 'occupation') + \
                self.findallbyre(r'(?i)info(?:box|boks|taula)([\w\s]+)', html, 'occupation') + self.findallbyre(
             '基礎情報([\w\s]+)', html, 'occupation') + \
@@ -11677,10 +11852,11 @@ class WikiAnalyzer(Analyzer):
 
     def findpositions(self, html):
         return self.getinfos(
-            ['functie\d?', 'titre\d', 'stanowiko', '(?:\d+\. )?funkcja', 'должность(?:_\d+)?', 'títulos?\d*',
+            ['functie\d?', 'titre\d', 'stanowisko\d*', '(?:\d+\. )?funkcja', 'должность(?:_\d+)?', 'títulos?\d*',
              'tytuł', 'titles', 'chức vị', 'amt\d*', 'jabatan', 'carica', '(?:altri)?titol[oi]', 'титул_?\d*',
              'anderwerk', 'titels', 'autres fonctions', 'апісанне выявы', 'titul(?:y|as)?\d*', 'title',
-             '\w*ambt(?:en)?', 'carica', 'other_post', 'посада', '事務所'], html, 'position') + \
+             '\w*ambt(?:en)?', 'carica', 'other_post', 'посада', '事務所', '最高職務',
+            ], html, 'position') + \
                self.findallbyre(r'S-ttl\|title\s*=(.*?)\|', html, 'position') + self.findallbyre(
             "Categor[ií]a:((?:Re[iy]e?|Conde)s d['e].*?)(?:\]|del siglo)", html, 'position') + \
                self.findallbyre(r'Kategorie:\s*(König \([^\[\]]*\))', html, 'position') + self.findallbyre(
@@ -11709,7 +11885,7 @@ class WikiAnalyzer(Analyzer):
              'echtgenoot', 'echtgenote', '配偶者\d*', '(?:\d+\. )?związek(?: z)?', 'чоловік', 'phối ngẫu',
              'vợ', 'chồng', 'الزوج', 'жонка', 'královna', 'sutuoktin(?:ė|is)', 'partners?', 'supružnik',
              'gade', 'cónyuge', 'conjoint', 'házastárs', 'дружина', 'cônjuge', 'σύζυγος', 'همسر',
-             'współmałżonek', 'c[ôo]njuge', 'cónxuxe', '배우자', 'ndoa',
+             'współmałżonek', 'c[ôo]njuge', 'cónxuxe', '배우자', 'ndoa', 'supruga?', '配偶',
              ], html, 'person', splitters='<>,;)') + \
                self.findallbyre(r'{(?:marriage|matrimonio)\|(.*?)[\|}]', html, 'person')
 
@@ -11736,7 +11912,7 @@ class WikiAnalyzer(Analyzer):
         return self.getinfos(
             ['issue', 'figli', 'enfants', 'children', 'kinder(?:en|s)', '(?:\d+\. )?dzieci', 'дети', 'потомство',
              '子女', 'діти', 'con cái', 'descendencia', 'الأولاد', 'potostvo', 'vaikai', 'hijos', 'enfant',
-             'fil[hl]os', 'діти', 'τέκνα', 'deca', 'çocukları', 'والدین', '자녀', 'watoto',
+             'fil[hl]os', 'τέκνα', 'deca', 'çocukları', 'والدین', '자녀', 'watoto', 'деца'
              ], html, 'person')
 
     def findsiblings(self, html):
@@ -11773,7 +11949,8 @@ class WikiAnalyzer(Analyzer):
                              'date de naissance', 'дата нараджэння', 'data de nascimento', 'datum narození', 'gimė',
                              'תאריך לידה', 'születési dátum', 'дата народження', 'jaiotza data', 'nascimento_data',
                              'ημερομηνία γέννησης', 'туған күні', 'datum_rođenja', 'تاریخ تولد', 'teraka', 'alizaliwa',
-                             'naskiĝjaro', ], html) or \
+                             'naskiĝjaro', 'rođenje', '出生日期',
+               ], html) or \
                self.findbyre(r'Category:\s*(\d+) births', html) or self.findbyre(r'Kategorie:\s*Geboren (\d+)', html) or \
                self.findbyre(r'Catégorie:\s*Naissance en ([^\[\]]*)\]', html) or self.findbyre(
             'Categorie:\s*Nașteri în (.*?)\]', html) or \
@@ -11790,7 +11967,7 @@ class WikiAnalyzer(Analyzer):
                     'datum_smrti', 'дата смерці', 'dta da morte', 'datum úmrtí', 'mirė', 'oorlede',
                     'fecha de fallecimiento', 'תאריך פטירה', 'halál dátuma', 'дата смерті', 'heriotza data',
                     'morte_data', 'ημερομηνία θανάτου', 'қайтыс болған күн7і', 'datum_smrti', 'ölüm_tarihi',
-                    'تاریخ مرگ', 'falecimento', 'maty', 'alikufa', 'mortjaro',
+                    'تاریخ مرگ', 'falecimento', 'maty', 'alikufa', 'mortjaro', 'smrt', '逝世日期',
                     ], html) or \
                self.findbyre(r'Category:\s*(\d+) deaths', html) or \
                self.findbyre(r'Catégorie:\s*Décès en ([^\[\]]*)\]', html) or \
@@ -11812,8 +11989,8 @@ class WikiAnalyzer(Analyzer):
              'geboorteplaats', 'miejsce urodzenia', 'lloc_naixement', 'gbplaats', 'место рождения', 'място на раждане',
              '生地', 'місце_народження', 'lugar\s*de\s*nac[ei]mi?ento', 'مكان الولادة', 'lieu de naissance',
              'месца нараджэння', 'local de nascimento', 'místo narození', 'gimimo vieta', 'geboortestad',
-             'geboorteplek', 'תאריך לידה', 'születési hely', '出生地', 'місце народження', 'nascimento_local',
-             'τόπος γέννησης', 'туған жері', 'mj?esto_rođenja', 'doğum_yeri', 'محل تولد', 'local_nascimento',
+             'geboorteplek', 'תאריך לידה', 'születési hely', '出生地點?', 'місце народження', 'nascimento_local',
+             'τόπος γέννησης', 'туған жері', 'mj?esto[\s_]rođenja', 'doğum_yeri', 'محل تولد', 'local_nascimento',
              'роден-място', '출생지', 'naskiĝloko',
              ], html, 'city') or \
                self.findbyre(r'Category:Births in(.*?)\]', html, 'city')
@@ -11821,12 +11998,12 @@ class WikiAnalyzer(Analyzer):
     def finddeathplace(self, html):
         return self.getinfo(
             ['death[_ ]?place', 'luogo di morte', 'luogomorte', 'lieu de décès', 'gestorven_in', 'sterbeort',
-             'dødested', 'miejsce śmierci', 'lloc_defuncio', 'sterfplaats', 'место смерти', 'място на смъртта',
+             'dødested', 'miejsce śmierci', 'lloc_defuncio', 'sterfplaats', 'место смерти', 'място на смърт(?:та)?',
              '没地', 'місце_смерті', 'nơi mất', 'overlijdensplaats', 'lugar de defunción', 'مكان الوفاة',
              'месца смерці', 'local da morte', 'místo úmrtí', 'mirties vieta', 'stadvanoverlijden', 'מקום פטירה',
              'sterfteplek', 'lugar de fallecimiento', 'halál helye', '死没地', 'місце смерті', 'morte_local',
-             'τόπος θανάτου', 'қайтыс болған жері', 'mj?esto_smrti', 'ölüm_yeri', 'محل مرگ', 'починал-място',
-             'lugardefalecemento', '사망지', 'mortloko',
+             'τόπος θανάτου', 'қайтыс болған жері', 'mj?esto_[\s_]mrti', 'ölüm_yeri', 'محل مرگ', 'починал-място',
+             'lugardefalecemento', '사망지', 'mortloko', '逝世地點',
              ], html, 'city') or \
                self.findbyre(r'{{МестоСмерти\|([^{}\|]*)', html, 'city') or \
                self.findbyre(r'Category:Deaths in(.*?)\]', html, 'city')
@@ -11835,7 +12012,8 @@ class WikiAnalyzer(Analyzer):
         return self.getinfo(
             ['place of burial', 'sepoltura', 'begraven', 'gravsted', 'resting_place', 'miejsce spoczynku', 'sepultura',
              'похоронен', 'погребан', '埋葬地', '陵墓', 'burial_place', 'lugar de entierro', 'مكان الدفن',
-             'local de enterro', 'místo pohřbení', 'palaidotas', 'поховання', 'مدفن'], html, 'cemetery',
+             'local de enterro', 'místo pohřbení', 'palaidotas', 'поховання', 'مدفن', '墓葬',
+            ], html, 'cemetery',
             alt=['city']) or \
                self.findbyre(r'Category:Burials at (.*?)\]', html, 'cemetery')
 
@@ -11851,7 +12029,7 @@ class WikiAnalyzer(Analyzer):
              'нац[іи]ональ?н[іо]сть?', 'الجنسية', 'nacionalnost', 'nationalité', 'na[ts]ionaliteit', 'citizenship',
              'geboorteland', 'nacionalidade?', 'מדינה', '国籍', 'підданство', 'εθνικότητα', 'υπηκοότητα',
              'nazione\d*', 'азаматтығы', 'ملیت', 'гражданство', 'nacionalitat', 'firenena', 'nchi',
-             'nationalteam\d*', 'ŝtato',
+             'nationalteam\d*', 'ŝtato', '國家',
              ], html, 'country') or \
                self.findallbyre(r'Category:\d+th-century people of (.*?)\]\]', html, 'country') or \
                self.findallbyre(r'Categorie:\s*Persoon in([^\[\]]+)in de \d+e eeuw', html, 'country') or \
@@ -11867,8 +12045,8 @@ class WikiAnalyzer(Analyzer):
                self.findbyre(r'(?:DEFAULTSORT|SORTIERUNG):([^{},]+),', html, 'lastname')
 
     def findfirstname(self, html):
-        return self.getinfo(['antaŭnomo'], html, 'firstname') or \
-               self.findbyre(r'(?:DEFAULTSORT|SORTIERUNG|ORDENA):[^{},]+,\s*(\w+)', html, 'firstname')
+        return self.getinfo(['antaŭnomo', 'nome'], html, 'firstname') or \
+               self.findbyre(r'(?:DEFAULTSORT|SORTIERUNG|ORDENA):[^{},]+,\s*([\w\-]+)', html, 'firstname')
 
     def findgender(self, html):
         return self.getinfo(['sesso'], html, 'gender') or \
@@ -11898,8 +12076,8 @@ class WikiAnalyzer(Analyzer):
         ]
 
     def findschools(self, html):
-        return self.getinfos(['education', 'alma[ _]m[aá]ter', 'edukacja', 'uczelnia', 'formation', 'skool',
-                              'universiteit',
+        return self.getinfos(['education', 'alma[ _]?m[aá]ter', 'edukacja', '[\w\s]*uczelnia', 'formation', 'skool',
+                              'universiteit', 'educacio',
                               ], html, 'university') + \
                self.findallbyre(r'Kategorie:\s*Absolvent de[rs] (.*?)\]', html, 'university') + \
                self.findallbyre(r'Category:\s*Alumni of(?: the)?(.*?)\]', html, 'university') + \
@@ -11907,8 +12085,9 @@ class WikiAnalyzer(Analyzer):
                self.findallbyre(r'Category:([^\[\]]+) alumni\]', html, 'university')
 
     def findemployers(self, html):
-        return self.getinfos(['employer', 'pracodawca', 'work_institutions', 'empleador'], html, 'employer',
-                             alt=['university'])
+        return self.getinfos(['employer', 'pracodawca', 'work_institutions', 'empleador', 'jednostka podrz\d* nazwa',
+                             ], html, 'employer', alt=['university']) +\
+               self.findallbyre(r'Category:([^\[\]]+) faculty', html, 'university')
 
     def findteachers(self, html):
         return self.getinfos(['maîtres?', 'leraren'], html, 'artist')
@@ -11952,18 +12131,20 @@ class WikiAnalyzer(Analyzer):
     def findawards(self, html):
         return self.getinfos(['odznaczenia', 'onderscheidingen', 'الجوائز', 'distinctions', 'prizes',
                               'pr[eé]mios[\w\s]*', 'ou?tros premios', 'awards', 'нагороди', 'марапаттары',
-                              'apdovanojimai', 'جوایز', 'nagrody', '수상', 'toekennings',
+                              'apdovanojimai', 'جوایز', 'nagrody', '수상', 'toekennings', 'premis',
+                              'oscar', 'emmy', 'tony', 'zlatni globus', 'bafta', 'cesar', 'goya', 'afi',
+                              'olivier', 'saturn', '[\w\s_]*nagrade',
                               ], html, 'award')
 
     def findranks(self, html):
         return self.getinfos(['rang', 'grade militaire', 'військове звання'], html, 'rank')
 
     def findimage(self, html):
-        result = self.getinfo(['image[nm]?', 'immagine', 'изображение(?: за личността)?', '画像', 'grafika',
+        result = self.getinfo(['image[nm]?', 'immagine', 'изображение(?: за личността)?', '画像', 'grafika?',
                                'afbeelding', 'hình', '圖像', 'зображення', 'afbeelding', 'صورة', 'выява',
                                'obrázek', 'vaizdas', 'slika', 'beeld', 'kép', '画像ファイル', 'зображення',
                                'εικόνα', 'сурет', 'foto', 'slika', 'resim', 'تصویر', 'награды', 'портрет',
-                               'imaxe', '사진', 'sary', 'picha', 'dosiero',
+                               'imaxe', '사진', 'sary', 'picha', 'dosiero', 'imatge', '圖片名稱',
                                ], html)
         if result and '.' in result:
             return result.split(':')[-1]
@@ -11972,8 +12153,8 @@ class WikiAnalyzer(Analyzer):
         return self.getinfo(['герб', 'herb', 'escudo', 'icone', 'пасада', 'герб'], html)
 
     def findsignature(self, html):
-        return self.getinfo(['подпис', 'faksymile', 'توقيع', 'po[dt]pis', 'handtekening', 'автограф',
-                             'підпис', 'imza', 'sinatura',
+        return self.getinfo(['п[оі]дпис', 'faksymile', 'توقيع', 'po[dt]pis', 'handtekening', 'автограф',
+                             'imza', 'sinatura',
                              ], html)
 
     def findbranches(self, html):
@@ -11991,7 +12172,7 @@ class WikiAnalyzer(Analyzer):
                self.findallbyre(r'Categorie:\s*Persoon uit(.*?)\]', html, 'work')
 
     def findethnicities(self, html):
-        return self.getinfos(['عرقية', 'ethnicity'], html, 'ethnicity')
+        return self.getinfos(['عرقية', 'ethnicity', '族裔'], html, 'ethnicity')
 
     def findbloodtype(self, html):
         return self.getinfo(['血液型'], html, 'bloodtype')
@@ -12006,22 +12187,25 @@ class WikiAnalyzer(Analyzer):
         return self.getinfo(['ordre'], html, 'religious order')
 
     def findgenres(self, html):
-        return self.getinfos(['stijl', 'gene?re\d*', 'estilo', 'ジャンル', ], html, 'genre')
+        return self.getinfos(['stijl', 'gene?re\d*', 'estilo', 'ジャンル', 'жанрове'], html, 'genre')
 
     def findmovements(self, html):
         return self.getinfos(['stroming', 'mou?vement', 'style', 'school_tradition', 'movimento', 'stijl',
                               ], html, 'movement')
 
     def findnotableworks(self, html):
-        return self.getinfos(['notable\s?works?', 'bekende-werken', '\w+ notables', '主な作品',
+        return self.getinfos(['notable[\s_]?works?', 'bekende-werken', '\w+ notables', '主な作品',
                               'œuvres principales', 'principais_trabalhos', 'bitna uloga', 'obra-prima',
+                              '著作',
                               ], html, 'work') + \
                self.getinfos(['films notables', 'значими филми', 'millors_films', 'znameniti_filmovi',
-                              'noemenswaardige rolprente',
+                              'noemenswaardige rolprente', 'važniji filmovi',
                               ], html, 'film', alt=['work'])
 
     def findworkfields(self, html):
-        return self.getinfos(['field', '(?:main_)?interests', 'known_for', 'زمینه فعالیت'], html, 'subject')
+        return self.getinfos(['field', '(?:main_)?interests', 'known_for', 'زمینه فعالیت', 'specjalność',
+                              '[\w\s_]*dyscyplina',
+                              ], html, 'subject')
 
     def finddocstudents(self, html):
         return self.getinfos(['doctoral_students'], html, 'scientist')
@@ -12045,7 +12229,7 @@ class WikiAnalyzer(Analyzer):
         return self.getinfos(['influences', 'influências', 'influence de', 'invloeden'], html, 'person')
 
     def findpseudonyms(self, html):
-        return self.getinfos(['псевдонім', 'pseudonie?m', 'psudônimos?'], html)
+        return self.getinfos(['псевдонім', 'pseudon[iy]e?m', 'psudônimos?'], html)
 
     def findinstruments(self, html):
         return self.getinfos(['instrumento?', 'strumento'], html, 'instrument')
@@ -12064,10 +12248,10 @@ class WikiAnalyzer(Analyzer):
 
 
 class UrlAnalyzer(Analyzer):
-    def __init__(self, id, data=None, item=None):
+    def __init__(self, id, data=None, item=None, bot=None):
         if data is None:
             data = defaultdict(dict)
-        super().__init__(id.split('/', 3)[-1], data, item)
+        super().__init__(id.split('/', 3)[-1], data, item, bot)
         self.urlbase = id
         self.dbproperty = None
         self.isurl = True
@@ -12229,7 +12413,7 @@ class BenezitUrlAnalyzer(UrlAnalyzer):
         return self.findbyre(r'"pf:contentName" : "([^"]+?),', html, 'lastname')
 
     def findfirstname(self, html):
-        return self.findbyre(r'"pf:contentName" : "[^",]+,\s*(\w+)', html, 'firstname')
+        return self.findbyre(r'"pf:contentName" : "[^",]+,\s*([\w\-]+)', html, 'firstname')
 
     def findnationality(self, html):
         return self.findbyre(r'<abstract><p>([^<>]*?),', html, 'country')
