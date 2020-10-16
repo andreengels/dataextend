@@ -228,6 +228,7 @@ religious order:jesuiten:Q36380
 religious order:jezuité:Q36380
 religious order:benediktiner:Q131132
 religious order:zisterzienser:Q166861
+religious order:sulpizianer:Q522379
 rank:non:XXX
 rank:luitenant-generaal:Q152951
 rank:ss-untersturmführer:Q310761
@@ -242,6 +243,7 @@ rank:bestand:sd-untersturmführer.svg sd-obersturmführer:Q161112
 rank:bestand:ss-oberscharführer.svg ss-oberscharführer:Q310732
 rank:oberst:Q3756713
 rank:capitaine:Q19100
+rank:fitxer:sp-06 general de brigada.svg general de brigada:Q91779224
 dynasty:清:Q8733
 dynasty:明:Q9903
 mannerdeath:natuurlijke dood (watersught):Q3739104
@@ -360,10 +362,32 @@ scientist:stanley schachter:Q290285
 scientist:frederic ouellet:Q51816224
 scientist:jan roelof van der meer:Q47007197
 scientist:arjeh m. cohen:Q51762557
+scientist:uc berkeley:XXX
+scientist:uc santa cruz:XXX
+scientist:caixue lin:Q97555345
+scientist:sage a. weil:Q18353329
+scientist:lin, caixue:Q97555345
+scientist:krejčiřík, david:Q92370070
+scientist:jean peytard:Q55621377
+scientist:cremers, cas:Q18921585
+scientist:johannes (jan) aldert bergstra:Q15462007
+scientist:prof. dr. j.a. bergstra, universiteit van amsterdam:Q15462007
+scientist:goga, nicolae:Q62058090
+scientist:loe (laurentius) michiel gerardus feijs:Q96064313
+scientist:sjoerd harder:Q1610008
+scientist:université de strasbourg:XXX
+scientist:charles sadron:Q2960178
+scientist:vanderbilt:XXX
+scientist:tero kilpeläinen:Q23039816
+scientist:fällström, anders:Q18242058
+scientist:persson, leif:Q87821725
+scientist:christer oscar kiselman:Q5911266
+scientist:richard clyde diprima:Q93372124
 commonwealth-games:1986:Q1116471
 commonwealth-games:1990:Q1116512
 commonwealth-games:2006:Q659207
 sport:swimming:Q31920
+sport:nohejbal:Q855880
 film-occupation:монтажер:Q7042855
 film-occupation:producer:Q3282637
 film-occupation:directing:Q2526255
@@ -380,6 +404,7 @@ film-occupation:editor:Q7042855
 film-occupation:director:Q2526255
 film-occupation:writer:Q28389
 film-occupation:actor:Q33999
+film-occupation:animation department:Q266569
 ethnicity:white:Q235155
 ethnicity:<!-- ethnicity should be supported with a citation from a reliable source -->:XXX
 ethnicity:漢族:Q42740
@@ -885,6 +910,61 @@ subject:la bible:Q1845
 subject:historia de la ciencia:Q201486
 subject:letteren:Q2018526
 subject:imprenta:Q11034
+subject:papirologia:Q757248
+subject:docencia:Q352842
+subject:muzykologia:Q164204
+subject:sermones:Q60797
+subject:klassische philologe:Q495527
+subject:medicine:Q11190
+subject:chirurgia:Q40821
+subject:mikrobiologie und immunologie:Q7193
+subject:naratologie:Q382451
+subject:literární teorie:Q459381
+subject:didáctica de la matemática:Q16556796
+subject:education:Q8434
+subject:biomedical invention:Q327092
+subject:botánico:Q441
+subject:micólogo:Q7175
+subject:chemia:Q2329
+subject:chimie industrielle:Q6745636
+subject:japanologie:Q875592
+subject:politikwissenschaft:Q36442
+subject:farmacja:Q614304
+subject:medical parasitology:Q10344696
+subject:mycology:Q7175
+subject:information and communication theory, circuits:Q5268834
+subject:wiskunde en informatica:Q395
+subject:problematiku sociální politiky:Q828395
+subject:pilsetas vesture:Q28747937
+subject:pilsetas planosana:Q69883
+subject:sociální dějiny:Q908604
+subject:pilsētas plānošana:Q69883
+subject:컴퓨터computer:Q68
+subject:컴퓨터 프로그래밍computer programming:Q80006
+subject:tibet:Q17252
+subject:modern dance:Q850130
+subject:mathematics education:Q853077
+subject:secondary education:Q14623204
+subject:teacher training education:Q1374230
+subject:kulturni dejiny:Q858517
+subject:education history:Q1062194
+subject:dejiny vychovy a vzdelavani:Q1062194
+subject:cirkevni dejiny:Q235329
+subject:dějiny vzdělávání:Q1062194
+subject:macromolecules:Q178593
+subject:calvin:Q37577
+subject:영미 문학英美㒚学:Q233762
+subject:teoria literatury:Q459381
+subject:literatura nowozelandzka:Q936855
+subject:jezyk angielski amerykanski:Q7976
+subject:filologia angielska:Q55693889
+subject:biomedical:Q327092
+subject:functions of a complex variable:Q3754567
+subject:matematyka:Q395
+subject:potential theory:Q1154848
+subject:motion pictures:Q11424
+subject:만화漫划:Q627603
+subject:graphic novels:Q725377
 city:فرنسا:Q142
 city:st.gillis-dendermonde:Q898394
 city:cziffer, hongrie:Q1020250
@@ -4830,6 +4910,180 @@ city:eibergen:Q1025665
 city:eibergen (pays-bas):Q1025665
 city:den helder, nederland:Q33432868
 city:sellières, hameau de baudin:Q533988
+city:corigliano calabro, italie:Q53870
+city:menzingen:Q66050
+city:münster (duitsland):Q2742
+city:asunción, paraguay:Q2933
+city:villarrica, paraguay:Q288685
+city:settimello:Q2616067
+city:settimello, italie:Q2616067
+city:porretta (bologna):Q94983
+city:porretta (bo):Q94983
+city:porretta, italie:Q94983
+city:kirov, kirovskaya oblast&#x27;, russia:Q5384
+city:san casciano (fi):Q82822
+city:nièvre:Q12657
+city:cosne-sur-loire:Q476253
+city:alligny-cosne (nièvre):Q4967
+city:sheerness (kent, england, united kingdom):Q1003196
+city:saint-quentin (hauts-de-france, france):Q182744
+city:moret-sur-loing (île-de-france, france):Q839537
+city:saint-quentin, aisne (02), france:Q182744
+city:moret-sur-loing, seine-et-marne (77), france:Q839537
+city:morges (vaud):Q69401
+city:morges:Q69401
+city:nogent-le-rotrou, eure-et-loir, france:Q214432
+city:saint-denis, seine-saint-denis, france:Q160506
+city:brugg (aargau):Q64099
+city:hofstetten (zwitserland):Q65792
+city:brugg:Q64099
+city:soissons:Q167152
+city:gosport, hampshire:Q936263
+city:konstantinopel:Q16869
+city:douai:Q193826
+city:douai, nord (59), france:Q193826
+city:caen (normandie, france):Q41185
+city:london, greater london england:Q84
+city:toledo, españa:Q5836
+city:madrid, españa:Q2807
+city:choisy-le-roi:Q212987
+city:(frança / ile de france / choisy-le-roi):Q212987
+city:choisy-le-roi, val-de-marne (94), france:Q212987
+city:choisy-le-roi (val-de-marne):Q212987
+city:rochefort-en-yvelines (yvelines):Q675023
+city:manosque:Q234274
+city:san francisco, california, usa:Q62
+city:santa barbara, california, usa:Q159288
+city:los angeles, kalifornie, usa:Q65
+city:worcester (gb):Q1646181
+city:oberlößnitz:Q2010329
+city:gera:Q3750
+city:albaida, espagne:Q1917834
+city:valence, espagne:Q8818
+city:albaida (valencia):Q1917834
+city:chantilly (hauts-de-france, france):Q126675
+city:chantilly:Q126675
+city:portland (multnomah county, oregon, united states):Q6106
+city:ecouen, val-d'oise (95), france:Q273695
+city:st. vital, manitoba, canada:Q3463513
+city:winnipeg, manitoba, canada:Q2135
+city:eigenbrakel, belgium:Q31511377
+city:braine l'alleud (belgique):Q31511377
+city:finistère:Q3389
+city:brest, france:Q12193
+city:deux-sèvres (79), france:Q12765
+city:la mothe-saint-heraye:Q919713
+city:namur, belgique:Q134121
+city:kaliningrad:Q1829
+city:hamburg (hamburg state, germany):Q1055
+city:bastia, corsica, france:Q134698
+city:bergerac, dordogne, france:Q187911
+city:bergerac, dordogne, nouvelle-aquitaine, france:Q187911
+city:bastia, korsika, francie:Q134698
+city:bastia (haute-corse):Q134698
+city:bergerac (dordogne):Q187911
+city:bastia:Q134698
+city:bergerac:Q187911
+city:baasrode:Q787775
+city:beringen-mijn:Q1863666
+city:caden (morbihan):Q69292
+city:tessé-la- madeleine (orne):Q9357562
+city:naumburg (saale):Q15986
+city:cannes, alpes-maritimes (06), france:Q39984
+city:issy-les-moulineaux:Q135265
+city:lyon, france:Q456
+city:melun (seine-et-marne):Q41139
+city:busan, südkorea:Q16520
+city:désertines (allier):Q243686
+city:nîmes:Q42807
+city:montauban:Q172593
+city:nîmes, gard, france:Q42807
+city:montluçon, allier (03), france:Q193256
+city:lourmarin, vaucluse (84), france:Q458748
+city:montluçon (allier):Q193256
+city:lourmarin (vaucluse):Q458748
+city:montluçon:Q193256
+city:lourmarin:Q458748
+city:ravenne:Q13364
+city:ravenna:Q13364
+city:windsor, ontario, canada:Q182625
+city:windsor (ontario):Q182625
+city:alcalá de henares:Q46940
+city:palma de mallorca (islas baleares):Q8826
+city:{{flagicon|tch|style=vertical-align:0;}} československo:Q33946
+city:{{vlajka a název|československo}}:Q33946
+city:trenčianske teplice:Q532555
+city:valdavida, španělsko:Q19361147
+city:jove, španělsko:Q5195503
+city:بالتیمور، ایالات متحده آمریکا:Q5092
+city:trujillo, {{per}}:Q214173
+city:würzburg (allemagne):Q2999
+city:wiesbaden (allemagne):Q1721
+city:ویسبادن:Q1721
+city:santafé de bogotá (colombia):Q2841
+city:loir-et-cher:Q12564
+city:selommes:Q1383910
+city:selommes (loir et cher):Q1383910
+city:amsterdam, nederland:Q727
+city:vancouver, british columbia, canada:Q24639
+city:westborough, massachusetts, usa:Q386170
+city:bratislava:Q1780
+city:tifton, georgia, usa:Q2729512
+city:port-au-prince, haiti:Q34261
+city:paris, 15e arrondissement (france):Q191066
+city:aachen, germany:Q1017
+city:brussels, belgium:Q239
+city:enghien, belgique:Q666238
+city:verviers:Q202954
+city:clamecy, nièvre (58), france:Q213294
+city:ixelles, belgique:Q208713
+city:elsene:Q208713
+city:bruxelles - ixelles:Q208713
+city:clamecy [nièvre, f]:Q213294
+city:brussels - ixelles:Q208713
+city:samoëns, haute-savoie (74), france:Q741646
+city:samoëns:Q741646
+city:samoëns [savoy, f]:Q741646
+city:missouri, usa:Q1581
+city:washington, d.c., u.s.:Q61
+city:hörsching:Q675816
+city:strasbourg (france):Q6602
+city:bonneville, haute-savoie, france.:Q460795
+city:forest gate, east london, england:Q1656032
+city:brooklyn, new york, new york, united states:Q18419
+city:brooklyn, n.y.:Q18419
+city:garsten (oberösterreich):Q683068
+city:linz (oostenrijk):Q41329
+city:toronto, canada:Q172
+city:montreal (québec province, canada):Q340
+city:montreal, canada:Q340
+city:valleraugue (gard):Q322688
+city:gard:Q12515
+city:perth (western australia, australia):Q3183
+city:busselton, wa:Q642631
+city:bunbury, wa:Q256711
+city:hampstead, camden london, greater london england:Q25610
+city:great britain, london:Q84
+city:east stonehouse, devon:Q7619235
+city:blackfriars (londen):Q880829
+city:swindon, wiltshire, england:Q200942
+city:villers-cotterêts:Q213883
+city:château d'oiron, oiron, france:Q905650
+city:nantes, loire-atlantique, france:Q12191
+city:castellamonte, piémont, italie:Q9224
+city:hal, flandre, belgique:Q210003
+city:halle (vlaams-brabant):Q210003
+city:hartford, connecticut, u.s.:Q33486
+city:darmstadt, allemagne:Q2973
+city:liverpool, england:Q24826
+city:east grinstead, england:Q1277887
+city:winnipeg, canada:Q2135
+city:frankfurt nad mohanem (frankfurt am main):Q1794
+city:las vegas, nevada, usa:Q23768
+city:monroe, washington, usa:Q1055861
+city:mosnang:Q65775
+city:kansas city, kansas:Q486472
+city:rouen (france):Q30974
 theater-occupation:company,:XXX
 theater-occupation:designer,:Q26869657
 theater-occupation:choreographer:Q2490358
@@ -4840,6 +5094,10 @@ theater-occupation:emilie,:XXX
 theater-occupation:anna grant,:XXX
 theater-occupation:julia field,:XXX
 theater-occupation:sybil emerson,:XXX
+theater-occupation:associate choreographer,:Q2490358
+theater-occupation:unknown,:XXX
+theater-occupation:music by,:Q639669
+theater-occupation:music by / performer,:Q639669
 group:the new york contemporary five:Q3339052
 group:motörhead:Q19697
 group:mike & the mechanics:Q653632
@@ -4857,6 +5115,12 @@ group:commodores:Q287206
 group:metallica:Q15920
 group:flook:Q3052881
 group:jango edwards & friends roadshow:Q55829437
+group:infernal noise brigade:Q2250512
+group:flatlist:XXX
+group:lloyd cole & the commotions:Q6662342
+group:lloyd cole and the commotions:Q6662342
+group:del amitri:Q1183784
+group:texas:Q916484
 degree:madison:XXX
 degree:prof., dr.:Q4618975
 degree:dr. phil.:Q752297
@@ -4887,6 +5151,7 @@ degree:professor:XXX
 degree:profesor:XXX
 degree:promotie:Q4618975
 degree:doctor:Q4618975
+degree:victoria university of wellington (phd):Q752297
 instrument:guitarist:Q6607
 instrument:fedaral republic of germany:XXX
 instrument:producer:XXX
@@ -5028,6 +5293,24 @@ instrument:france:XXX
 instrument:u:XXX
 instrument:s:XXX
 instrument:danish lyricist:XXX
+instrument:engraver:XXX
+instrument:is a french director:XXX
+instrument:scriptwriter:XXX
+instrument:south african born poet:XXX
+instrument:sister of:XXX
+instrument:hobo:Q8377
+instrument:soprano vocalist:Q17172850
+instrument:vienna:XXX
+instrument:october 12:XXX
+instrument:1980:XXX
+instrument:australia:XXX
+instrument:sopraan:Q17172850
+instrument:accordion:Q79838
+instrument:melodica:Q512191
+instrument:engineer:XXX
+instrument:swiss pianist:Q5994
+instrument:slagwerk:Q133163
+instrument:texas:XXX
 museum:trerice, cornwall:Q1327188
 museum:musée des beaux-arts de mons (mons):Q2893370
 museum:metropolitan museum of art:Q160236
@@ -5210,6 +5493,30 @@ museum:metropolitan museum of art, new york, ny:Q160236
 museum:corning museum of glass, corning, ny:Q1134188
 museum:thorvaldsens museum:Q1992413
 museum:dorneywood house and gardens, buckinghamshire:Q5298117
+museum:castle ward, county down:Q3663083
+museum:lacock abbey and the fox talbot museum, wiltshire:Q1148460
+museum:shugborough estate, staffordshire:Q7504671
+museum:museum of the hispanic society of america:Q2420849
+museum:niepce museum:Q16034352
+museum:art institute of chicago:Q239303
+museum:rijksmuseum:Q190804
+museum:amgueddfa cymru - national museum wales:Q2046319
+museum:frick art and historical center:Q3753155
+museum:frick collection:Q682827
+museum:national gallery of victoria:Q1464509
+museum:the wallace collection:Q1327919
+museum:the walters art museum:Q210081
+museum:art fund for uk museums:Q3519818
+museum:collection lambert, avignon °:Q2982855
+museum:espace croisé, roubaix:Q100149502
+museum:frac occitanie montpellier:Q100149567
+museum:brandts - (foto) museum for kunst &amp; visuel kultur:Q3362210
+museum:bornholms kunstmuseum:Q3614063
+museum:international center of photography:Q636942
+museum:national portrait gallery uk:Q238587
+museum:j. paul getty museum:Q731126
+museum:national media museum:Q3054692
+museum:the whitaker:Q29470958
 cemetery:santi bonifacio e alessio (roma):Q1076439
 cemetery:катедралата на трани:Q513023
 cemetery:catedral de winchester:Q476529
@@ -5376,6 +5683,14 @@ actor:marianne w\xc3\xbcnscher:Q1896934
 actor:peter wight:Q7177704
 actor:hansj\xc3\xbcrgen h\xc3\xbcrrig:Q1525835
 actor:anna khaja:Q56161717
+actor:owen moore:Q966972
+actor:br:XXX
+actor:hedda nova:Q17413870
+actor:hector v. sarno:Q5696942
+actor:sydney deane:Q7659895
+actor:tully marshall:Q2063267
+actor:gertrude claire:Q275104
+actor:alec b. francis:Q2068010
 mountainrange:southern oregon cascades:Q28790552
 mountainrange:oregon coast range:Q2029517
 source:nieuw nederlandsch biografisch woordenboek. deel 3:Q1989413
@@ -5630,6 +5945,13 @@ source:glasius, godgeleerd nederland:Q98542596
 source:biogr. archief van de benelux:Q94453284
 source:viaf.org:XXX
 source:vorl.:XXX
+source:sikart:Q683543
+source:hls:Q642074
+source:jaarboek van de maatschappij der nederlandse letterkunde, 1808 (1808) in de digitale bibliotheek voor de nederlandse letteren:Q65785082
+source:kb:Q1526131
+source:österreichisches musiklexikon online:Q96943184
+source:cv:XXX
+source:wbis, vorlage:XXX
 olympics:1984 summer:Q8456
 olympics:1988 summer:Q8470
 film:''un homme est passé'':Q963045
@@ -6157,7 +6479,7 @@ occupation:malířka:Q1028181
 occupation:singer:Q177220
 occupation:film director:Q2526255
 occupation:australský filmový režisér:Q2526255
-occupation:comicautor:Q20870256
+occupation:comicautor:Q715301
 occupation:historienne de l'art:Q1792450
 occupation:polská botanička:Q2374149
 occupation:cabinetmaker:Q559597
@@ -7940,7 +8262,7 @@ occupation:goldschmied:Q211423
 occupation:marionettiste:Q2629392
 occupation:en 1119:XXX
 occupation:herzogin:Q1409420
-occupation:zakonnicy:Q191808
+occupation:zakonnicy:Q733786
 occupation:lid comité tot de zaken van de marine:Q82955
 occupation:archivmaterial:XXX
 occupation:modène:XXX
@@ -10255,6 +10577,174 @@ occupation:zensor:Q22272441
 occupation:traduit du grec ancien en français:Q333634
 occupation:francouzský univerzitní profesor:Q1622272
 occupation:professor of canon law:Q12027957
+occupation:amerikanerin:XXX
+occupation:gegenwart:XXX
+occupation:papyrologue:Q16267158
+occupation:papyrologist:Q16267158
+occupation:grafikdesigner:Q627325
+occupation:paraguayský historik:Q201788
+occupation:traduit du grec en français:Q333634
+occupation:muzykolodzy:Q14915627
+occupation:astrologe:Q155647
+occupation:- médecin:Q39631
+occupation:astrologue:Q155647
+occupation:philosophe confucéen:Q9397505
+occupation:duca:Q2478141
+occupation:duc:Q2478141
+occupation:dramaturge italien:Q214917
+occupation:verfasser historischer schriften:Q201788
+occupation:alfort:XXX
+occupation:docteur-vétérinaire:Q202883
+occupation:veterinär:Q202883
+occupation:portraitiste en miniature:Q28947943
+occupation:first officer:Q10669499
+occupation:marineoffizier:Q10669499
+occupation:personen zu telekommunikation und verkehr:XXX
+occupation:fremdenverkehr:XXX
+occupation:officier de marine:Q10669499
+occupation:pastoor:Q152002
+occupation:oradores:Q12859263
+occupation:spanischer priester:Q42603
+occupation:personen zu wirtschaftsgeschichte:XXX
+occupation:engl. landadliger:Q2478141
+occupation:artista plástico:Q3391743
+occupation:peintre de scènes de genre:Q59939051
+occupation:jesuit theologian:Q1234713
+occupation:kresliar:Q15296811
+occupation:classicista:Q2468727
+occupation:docente universitario di grammatica greca e latina:Q1622272
+occupation:lid staatsraad:Q372436
+occupation:lid departementaal bestuur van holland (1802-1805):Q82955
+occupation:dessinateur de costumes:Q1323191
+occupation:maîtrise de littérature anglaise:Q16308156
+occupation:médecin militaire:Q4002666
+occupation:filologo classico:Q16267607
+occupation:traducteur de l'allemand vers l'italien:Q333634
+occupation:belgická historička umění:Q1792450
+occupation:byzantiniste:Q26132815
+occupation:bruxelles:XXX
+occupation:byzantinistin:Q26132815
+occupation:chirurdzy:Q774306
+occupation:belgický duchovní:Q2259532
+occupation:- auteur dramatique:Q214917
+occupation:parolier:Q822146
+occupation:libretistas:Q8178443
+occupation:cantantes:Q177220
+occupation:filmer 1957:XXX
+occupation:filmer 1947:XXX
+occupation:1956:XXX
+occupation:regiassistent:Q1757008
+occupation:1967:XXX
+occupation:1984:XXX
+occupation:filmer 1977:XXX
+occupation:فیلم‌نامه‌نویس:Q28389
+occupation:filologo:Q13418253
+occupation:photographe français:Q33231
+occupation:bibliothécaire anglais:Q182436
+occupation:paris 11:XXX
+occupation:1978:XXX
+occupation:musicienne:Q639669
+occupation:documentation personnalités:XXX
+occupation:administrateur:Q1162163
+occupation:homme politique français:Q82955
+occupation:argentinský profesor fyziky:Q169470
+occupation:frescoschilder:Q22669155
+occupation:fondeur:Q19435686
+occupation:indiana university:XXX
+occupation:militar:Q47064
+occupation:jurista:Q185351
+occupation:abogado:Q40348
+occupation:fotbalista:Q937857
+occupation:sportovec:Q2066131
+occupation:medaile:XXX
+occupation:americký sběratel grafických designů:Q10732476
+occupation:traduttrice:Q333634
+occupation:redattrice:Q1607826
+occupation:insegnante di lingue:Q30002353
+occupation:biomedical engineer:Q19902880
+occupation:jutubisto:Q17125263
+occupation:chemicy:Q593644
+occupation:technologe:Q16026109
+occupation:personen zu chemie:XXX
+occupation:chemischer technologe:Q5090503
+occupation:sinologue:Q15255771
+occupation:1766:XXX
+occupation:french mathematician:Q170790
+occupation:south african born poet:Q49757
+occupation:sister of:XXX
+occupation:university of luxembourg:XXX
+occupation:nizozemský sociolog:Q2306091
+occupation:britská profesorka:Q3400985
+occupation:vēsturniece:Q201788
+occupation:프로그래머programmer:Q5482740
+occupation:컴퓨터 프로그래머:Q5482740
+occupation:univ. of utrecht (the netherlands):XXX
+occupation:utrecht:XXX
+occupation:université d'utrecht:XXX
+occupation:promoter:Q2378505
+occupation:slovenský fotograf:Q33231
+occupation:interviewer:Q46034607
+occupation:play-by-play commentator:Q2986228
+occupation:choreographer:Q2490358
+occupation:creative consultant:Q5183567
+occupation:kirchenmusiker:Q355493
+occupation:francouzská operní pěvkyně (soprán):Q2865819
+occupation:joséphine:XXX
+occupation:marie:XXX
+occupation:chanteuse:Q177220
+occupation:soprano vocalist:Q98834068
+occupation:sopranistin:Q98834068
+occupation:artiste lyrique (soprano):Q98834068
+occupation:학자学者:Q2248623
+occupation:음악학자:Q14915627
+occupation:muzikologove:Q14915627
+occupation:adaptateur:Q61875042
+occupation:autres-metiers:XXX
+occupation:musikkritiker:Q1350157
+occupation:vienna:XXX
+occupation:october 12:XXX
+occupation:multimedia artist:Q6934789
+occupation:italský univerzitní profesor:Q1622272
+occupation:argentinian music producer:Q183945
+occupation:uk jungle artist:Q639669
+occupation:incredible:XXX
+occupation:tech house dj:Q130857
+occupation:guitarists:Q855091
+occupation:chanteuse de jazz:Q66314404
+occupation:francouzský profesor fyziky:Q169470
+occupation:université louis pasteur:XXX
+occupation:architect (architect / interior architect / landscape architect):Q42973
+occupation:designer (industrial / product designer):Q15977509
+occupation:artist (draughtsman):Q15296811
+occupation:manufacturer:Q18244268
+occupation:personen zu fotografie:XXX
+occupation:osoba:XXX
+occupation:pisarze:Q36180
+occupation:verzamelaar:Q3243461
+occupation:sammler:Q3243461
+occupation:equerry:Q1785507
+occupation:grand ecuyer de france:Q372436
+occupation:mécène français:Q15472169
+occupation:소설가小說傢:Q6625963
+occupation:powiesciopisarki:Q6625963
+occupation:pisarze nowozelandzcy:Q36180
+occupation:filolodzy:Q13418253
+occupation:scenáristka:Q28389
+occupation:houslistka:Q1259917
+occupation:uměleckoprůmyslový návrhář:Q15977509
+occupation:maďarský architekt:Q42973
+occupation:návrhář užitého umění:Q88108832
+occupation:comedien:Q33999
+occupation:matematycy:Q170790
+occupation:acteur argentin:Q33999
+occupation:swiss pianist:Q486748
+occupation:réalisateur de films:Q2526255
+occupation:německý psycholog:Q212980
+occupation:german percussionist:Q4351403
+occupation:self-described:XXX
+occupation:만화가漫划傢:Q1114448
+occupation:scénariste de bandes dessinées:Q11892507
+occupation:americký vědec:Q901
 type:inhabited place:Q486972
 type:ridge:Q740445
 type:peak:Q8502
@@ -10279,6 +10769,9 @@ movement:continental philosophy:Q59104
 movement:peinture de paysage:XXX
 movement:peinture baroque flamande:Q1994273
 movement:barok:Q3624106
+movement:رنسانس:Q4692
+movement:vertical-align:0:XXX
+movement:surrealisme:Q39427
 function:apartment building:Q13402009
 commune:Lyon:Q456
 religion:catholicisme romain:Q1841
@@ -11249,11 +11742,70 @@ firstname:carola:Q229227
 firstname:w.:XXX
 firstname:jean-marie:Q3167523
 firstname:cino:Q3677254
+firstname:kathryn:Q6377001
+firstname:horacio:Q16290301
+firstname:efraím:Q16422853
+firstname:arcady:Q39275021
+firstname:enrico:Q16908530
+firstname:jean-loup:Q27919016
+firstname:noble:Q16880479
+firstname:nicholas:Q42771
+firstname:charles-louis:Q98300970
+firstname:rene-louis:Q98902642
+firstname:kelly:Q3664058
+firstname:jean-chrysostome:Q84080571
+firstname:ferdinand:Q3276175
+firstname:cyriel:Q18786285
+firstname:madeleine:Q4273929
+firstname:pete:Q16269170
+firstname:sejong:Q69507695
+firstname:raoul:Q11487195
+firstname:severo:Q3958489
+firstname:isabelle:Q6078151
+firstname:ina:Q655722
+firstname:petr:Q15897830
+firstname:ángel:Q2605655
+firstname:merrill:Q21286851
+firstname:grayce:Q65068743
+firstname:ignacio:Q18220016
+firstname:sjouke:Q21143396
+firstname:rik:Q21031108
+firstname:eva:Q829665
+firstname:sebastião:Q10369061
+firstname:colette:Q16275223
+firstname:fulvio:Q18020497
+firstname:xavier:Q1066712
+firstname:felisa:Q29075064
+firstname:carlos:Q364753
+firstname:natalia:Q6296301
+firstname:blair:Q16532835
+firstname:sunny:Q19968383
+firstname:elsie:Q16423214
+firstname:marlene:Q1402673
+firstname:jean daniel:Q19688649
+firstname:jean-daniel:Q19688649
+firstname:jorge:Q14346236
+firstname:winifred:Q13422280
+firstname:gaetano:Q4134361
+firstname:maría elena:Q52319701
+firstname:ashley:Q2655374
+firstname:urban:Q15732140
+firstname:misael:Q47527035
+firstname:juliane:Q351311
+firstname:davide:Q18039918
+firstname:erling:Q472066
+firstname:ulrich:Q18011418
+firstname:maría:Q18088640
+firstname:buzz:Q16275129
 club:wellington olympic afc:Q3559228
 club:manawatu united:Q1811079
 club:{{cite web:XXX
 club:ref:XXX
 club:houston cougars:Q1752534
+club:{{flagicon:XXX
+club:flagicon:XXX
+club:flagicon|tch|style=vertical-align:0:XXX
+club:sk šacung benešov 1947:Q12050724
 lastname:fleury:Q19887989
 lastname:alm:Q23133442
 lastname:ushakov:Q37206452
@@ -12367,6 +12919,134 @@ lastname:gijsbers:Q65104977
 lastname:borde:Q37232390
 lastname:jacques:Q18577291
 lastname:campani:Q42864926
+lastname:walker:Q1158605
+lastname:grillo:Q16870312
+lastname:zürcher:Q55847007
+lastname:cardozo:Q19919890
+lastname:périchon:Q32856280
+lastname:parigi:Q31212603
+lastname:friedman:Q1451887
+lastname:capponi:Q36999113
+lastname:manni:Q28737216
+lastname:vries:Q7942749
+lastname:velu:Q37126603
+lastname:tower:Q13560083
+lastname:olivares:Q37239621
+lastname:williot:Q98799038
+lastname:ferrière:Q62102864
+lastname:ferriere:Q62102864
+lastname:milnes:Q21489018
+lastname:cornilleau:Q98817709
+lastname:cunningham:Q7849873
+lastname:füchslin:Q98831193
+lastname:peard:Q37295362
+lastname:quesnel:Q36906549
+lastname:soens:Q37110470
+lastname:ravenel:Q16879511
+lastname:nájera:Q41588102
+lastname:toke:Q37450497
+lastname:dorn:Q21227176
+lastname:sampson:Q16882578
+lastname:patrick:Q203052
+lastname:worth:Q28812109
+lastname:robert:Q2156271
+lastname:cima:Q37535455
+lastname:daignan:Q65100841
+lastname:setti:Q36902703
+lastname:rochard:Q42592613
+lastname:aubin:Q37550017
+lastname:o'meara:Q63434694
+lastname:neumann:Q21502212
+lastname:longchamp:Q37070459
+lastname:castillo:Q21493053
+lastname:bastia:Q57911718
+lastname:este:Q36927672
+lastname:de baere:Q40217454
+lastname:gautier:Q16870137
+lastname:ley:Q37476695
+lastname:laurenti:Q56245698
+lastname:virgili:Q21493532
+lastname:vallet:Q27943273
+lastname:laver:Q16871923
+lastname:park:Q20007284
+lastname:muckle:Q3327368
+lastname:dautry:Q96146071
+lastname:calzetta:Q99518796
+lastname:ravenna:Q37534987
+lastname:luciani:Q21449042
+lastname:dinter:Q21502063
+lastname:eakin:Q21509882
+lastname:otten:Q21422177
+lastname:brandt:Q11941314
+lastname:novotný:Q16287199
+lastname:stejskal:Q21492673
+lastname:matejka:Q37454436
+lastname:newburgh:Q99670533
+lastname:berman:Q21493593
+lastname:sills:Q26234551
+lastname:kendall:Q16871334
+lastname:yvon:Q16860482
+lastname:johansson:Q1699018
+lastname:duclos:Q21450529
+lastname:neher:Q1974526
+lastname:grenouillet:Q65105452
+lastname:berkel:Q30433288
+lastname:meller:Q21509872
+lastname:gessinger:Q56538471
+lastname:allinger:Q37096615
+lastname:brandsma:Q36941193
+lastname:grubbs:Q16870337
+lastname:kikuchi:Q16871383
+lastname:saladin:Q37447175
+lastname:andrade:Q15181057
+lastname:torterolo:Q100066960
+lastname:fettweis:Q65562050
+lastname:herzog:Q20520130
+lastname:goléa:Q56246021
+lastname:golea:Q56246021
+lastname:de giorgi:Q99907911
+lastname:galvin:Q16870091
+lastname:canadell:Q57006184
+lastname:paton:Q12798362
+lastname:elizondo:Q21504827
+lastname:froideval:Q28033670
+lastname:monck:Q37455566
+lastname:ehm:Q25631005
+lastname:vecchi:Q21430067
+lastname:asemota:Q37273883
+lastname:potts:Q21450795
+lastname:dick:Q5272610
+lastname:rea:Q21448980
+lastname:benoît:Q26225403
+lastname:benoît:Q26225403
+lastname:benoit:Q23722326
+lastname:thwaites:Q32856322
+lastname:robins:Q28157148
+lastname:mena:Q16290702
+lastname:beard:Q16479662
+lastname:gouffier:Q74081663
+lastname:leunens:Q66764568
+lastname:casson:Q37484904
+lastname:irving:Q36897514
+lastname:gatti:Q23038817
+lastname:forrest:Q13560450
+lastname:errington:Q16869840
+lastname:padilla:Q16880902
+lastname:bourne:Q14915265
+lastname:howe:Q16870901
+lastname:cegrell:Q42368659
+lastname:saavedra:Q100339018
+lastname:chabloz:Q76417622
+lastname:vogel:Q1715412
+lastname:bradley:Q896987
+lastname:ravasio:Q99672088
+lastname:hodne:Q30086981
+lastname:raatz:Q37529216
+lastname:kogelman:Q37220156
+lastname:slutzky:Q37452208
+lastname:dean:Q383113
+lastname:ozanam:Q21449866
+lastname:stern:Q21468509
 musician:mike rutherford:Q321092
 musician:adrian lee:Q4685177
 musician:anthony drennan:Q4772428
@@ -12387,6 +13067,16 @@ musician:gary wallis:Q1371073
 musician:robbie rivera:Q776897
 musician:tim howar:Q7803678
 musician:jonathan antoine:Q16643816
+musician:eddy françois:Q12890755
+musician:''lead singer'':XXX
+musician:''lead guitar'':XXX
+musician:''bass guitar'':XXX
+musician:''guitar'':XXX
+musician:''keyboards'':XXX
+musician:''drummer'':XXX
+musician:''percussion'':XXX
+musician:''chorus'':XXX
+musician:d double e:Q29033346
 female person:ishak & rebeka:Q40520
 award:arthur c. clarke award:Q708830
 award:nagroda mythopoeic:Q243960
@@ -12463,6 +13153,12 @@ award:prix d’académie:Q3405501
 award:2014:XXX
 award:{{order:XXX
 award:prix langlois:Q56324978
+award:grand officier de la légion d'honneur:Q10855216
+award:small:XXX
+award:(1968):XXX
+award:fitxer:esp gran cruz merito militar (distintivo blanco) pasador.svg gran creu del mèrit militar amb distintiu blanc:Q35795612
+award:(1971):XXX
+award:!-- slegs noemenswaardiges --:XXX
 director:Rouzbeh Rashidi:Q7371649
 director:Fred van der Kooij:Q54819875
 organization:association normande pour le progrès de l'agriculture, l'industrie, les sciences et arts:Q65963242
@@ -12524,382 +13220,402 @@ organization:académie des sciences, belles-lettres et arts de besançon et de f
 organization:société d'émulation du jura:Q16677214
 organization:société française d'archéologie:Q3488285
 organization:société nationale des antiquaires de france:Q3488100
-genre:vampires:Q1425557
-genre:magical realism:Q24205155
-genre:(2),:XXX
-genre:laika:XXX
-genre:heavy metal:Q38848
-genre:atlanta:XXX
-genre:rumpelstiltskin:XXX
-genre:precognition:XXX
-genre:musikfilm:Q842256
-genre:quantum computing:XXX
-genre:siblings:XXX
+organization:académie vétérinaire de france:Q2822462
+organization:société des artistes français:Q175779
+organization:koninklijke academie voor nederlandse taal- en letterkunde (1886-heden):Q1268453
+organization:davidsfonds-gewest brussel:Q49424351
+organization:académie des sciences morales et politiques:Q337543
+organization:the académie des sciences morales et politiques:Q337543
+organization:teekengenootschap pictura (dordrecht):Q2215695
+organization:association belge de photographie:Q55496328
+literature-genre:vampires:Q1425557
+literature-genre:magical realism:Q24205155
+literature-genre:(2),:XXX
+literature-genre:laika:XXX
+literature-genre:atlanta:XXX
+literature-genre:rumpelstiltskin:XXX
+literature-genre:precognition:XXX
+literature-genre:quantum computing:XXX
+literature-genre:siblings:XXX
+literature-genre:horror:Q16575965
+literature-genre:prehistoric:XXX
+literature-genre:urban fantasy:Q1188977
+literature-genre:(16),:XXX
+literature-genre:magic:XXX
+literature-genre:domed cities:XXX
+literature-genre:horor:Q16575965
+literature-genre:subway:XXX
+literature-genre:young adult:Q1233720
+literature-genre:interstellar flight:XXX
+literature-genre:military sf:Q904447
+literature-genre:hard sf:Q725757
+literature-genre:vampire:Q1425557
+literature-genre:china:XXX
+literature-genre:generation ships:XXX
+literature-genre:little red riding hood:XXX
+literature-genre:egypt:XXX
+literature-genre:snow white and rose red:XXX
+literature-genre:werecat:XXX
+literature-genre:star wars:XXX
+literature-genre:k.a.:XXX
+literature-genre:music:XXX
+literature-genre:killer satellites:XXX
+literature-genre:horses:XXX
+literature-genre:littérature blanche:Q30751799
+literature-genre:(25),:XXX
+literature-genre:ecological collapse:XXX
+literature-genre:human-animal communication:XXX
+literature-genre:dysfunctional family:XXX
+literature-genre:jabba the hutt:XXX
+literature-genre:dragons:XXX
+literature-genre:bones:XXX
+literature-genre:poetry:Q482
+literature-genre:داستان جنایی:Q19842222
+literature-genre:orpheus myth:XXX
+literature-genre:brothers and sisters:XXX
+literature-genre:(6),:XXX
+literature-genre:dinosaurs:XXX
+literature-genre:into-tv:XXX
+literature-genre:adventure:Q21802675
+literature-genre:beauty and the beast:XXX
+literature-genre:looking backward sequel by other hands:XXX
+literature-genre:1991 best anthology:XXX
+literature-genre:philip k. dick:XXX
+literature-genre:hibernation:XXX
+literature-genre:japan:XXX
+literature-genre:cold:XXX
+literature-genre:linguistics:XXX
+literature-genre:royal navy:XXX
+literature-genre:slavery:XXX
+literature-genre:augmented reality:XXX
+literature-genre:time travel:XXX
+literature-genre:england:XXX
+literature-genre:central asia:XXX
+literature-genre:poésie:Q482
+literature-genre:internet:XXX
+literature-genre:revenge:XXX
+literature-genre:california:XXX
+literature-genre:(1) and 1 additional tags.:XXX
+literature-genre:pandemic:XXX
+literature-genre:historical romance:Q3440984
+literature-genre:ottoman empire:XXX
+literature-genre:vampire-like:XXX
+literature-genre:first person point of view:XXX
+literature-genre:single parent families:XXX
+literature-genre:young adult fantasy:Q3811649
+literature-genre:dannik jerriko:XXX
+literature-genre:the snow queen:XXX
+literature-genre:nanobots:XXX
+literature-genre:utopia:Q27022970
+literature-genre:artificial intelligence:XXX
+literature-genre:historical:Q136472
+literature-genre:children's fiction:Q56451354
+literature-genre:far future:XXX
+literature-genre:children's historical fantasy:Q603291
+literature-genre:antarctica:XXX
+literature-genre:golems:XXX
+literature-genre:(24),:XXX
+literature-genre:strong female characters:XXX
+literature-genre:domestic violence:XXX
+literature-genre:the sleeping beauty:XXX
+literature-genre:puisi:Q482
+literature-genre:dog:XXX
+literature-genre:physics:XXX
+literature-genre:young-adult fantasy:Q3811649
+literature-genre:(13),:XXX
+literature-genre:(31),:XXX
+literature-genre:(18),:XXX
+literature-genre:faster than light travel:XXX
+literature-genre:cozy mystery:Q5180160
+literature-genre:juvenile fantasy:Q3811649
+literature-genre:new york city:XXX
+literature-genre:first contact:XXX
+literature-genre:barn- och vuxenlitteratur:Q131539
+literature-genre:1989 best anthology:XXX
+literature-genre:novelization:Q2421000
+literature-genre:transhuman:XXX
+literature-genre:(17),:XXX
+literature-genre:mega-engineering:XXX
+literature-genre:(23),:XXX
+literature-genre:snow white:XXX
+literature-genre:demons:XXX
+literature-genre:(3),:XXX
+literature-genre:supernatural:Q7644030
+literature-genre:korea:XXX
+literature-genre:kindergedichten:Q5098270
+literature-genre:horreur:Q16575965
+literature-genre:(8),:XXX
+literature-genre:himalayas:XXX
+literature-genre:sword and sorcery:XXX
+literature-genre:near future:XXX
+literature-genre:bob dylan:XXX
+literature-genre:ganymede:XXX
+literature-genre:literary fiction:Q6647667
+literature-genre:(10),:XXX
+literature-genre:(12),:XXX
+literature-genre:jeugdliteratuur:Q1233720
+literature-genre:military life:XXX
+literature-genre:virtual reality:XXX
+literature-genre:anzati:XXX
+literature-genre:beer:XXX
+literature-genre:ireland:XXX
+literature-genre:mars:XXX
+literature-genre:literature & fiction:Q38072107
+literature-genre:cruelty:XXX
+literature-genre:fairy tale inspiration:XXX
+literature-genre:artificial personalities:XXX
+literature-genre:roman policier:Q208505
+literature-genre:prose:Q676
+literature-genre:radio disk jockey:XXX
+literature-genre:advanced military technology:XXX
+literature-genre:romance:Q738473
+literature-genre:wizards:XXX
+literature-genre:arctic:XXX
+literature-genre:(9),:XXX
+literature-genre:from-board game:XXX
+literature-genre:epistolary:Q2250271
+literature-genre:werewolf:XXX
+literature-genre:inspirational:Q6038556
+literature-genre:(15),:XXX
+literature-genre:sf: the 100 best novels 1949-1984:XXX
+literature-genre:shapechangers:XXX
+literature-genre:(1),:XXX
+literature-genre:nanotechnology:XXX
+literature-genre:1990 best anthology:XXX
+literature-genre:juvenile sf:Q63705147
+literature-genre:historical mystery:Q1093312
+literature-genre:(4),:XXX
+literature-genre:interstellar warfare:XXX
+literature-genre:jupiter:XXX
+literature-genre:(7),:XXX
+literature-genre:moon:XXX
+literature-genre:post atomic war:XXX
+literature-genre:young-adult:Q1233720
+literature-genre:zombies:XXX
+literature-genre:retold fairy tales:Q699
+literature-genre:great britain:XXX
+literature-genre:liebe/romantik:Q738473
+literature-genre:clear island:XXX
+literature-genre:pollution:XXX
+literature-genre:(14),:XXX
+literature-genre:aliens:XXX
+literature-genre:enhanced biology:XXX
+literature-genre:contemporary fantasy:Q1128592
+literature-genre:cinderella:XXX
+literature-genre:racism:XXX
+literature-genre:lions:XXX
+literature-genre:war:XXX
+literature-genre:han solo:XXX
+literature-genre:sagas:Q180494
+literature-genre:serial killer:XXX
+literature-genre:historical fiction:Q1196408
+literature-genre:clones:XXX
+literature-genre:non-planetary life:XXX
+literature-genre:princes:XXX
+literature-genre:(11),:XXX
+literature-genre:napoleonic wars:XXX
+literature-genre:cannibalism:XXX
+literature-genre:(5),:XXX
+literature-genre:ドラマ:Q25372
+literature-genre:education:XXX
+literature-genre:young-adult sf:Q24925
+literature-genre:young adult fiction:Q1233720
+literature-genre:swords:XXX
+literature-genre:bluebeard:XXX
+literature-genre:gedichten:Q482
+literature-genre:young-adult time-travel:XXX
+literature-genre:desert:XXX
+literature-genre:dolphins:XXX
+literature-genre:thumbelina:XXX
+literature-genre:into-movie:XXX
+literature-genre:social commentary:XXX
+literature-genre:angels:XXX
+literature-genre:literary fantasy:Q132311
+music-genre:heavy metal:Q38848
+music-genre:speed metal:Q211723
+music-genre:アヴァンギャルド・ジャズ:Q790188
+music-genre:bebop:Q105513
+music-genre:ハード・バップ:Q181010
+music-genre:フリー・ジャズ:Q211781
+music-genre:musica pop:Q37073
+music-genre:rock:Q11399
+music-genre:hard rock:Q83270
+music-genre:world music:Q205049
+music-genre:poprock:Q484641
+music-genre:pop rock:Q484641
+music-genre:musica leggera:Q848399
+music-genre:nwobhm:Q370515
+music-genre:schlager:Q959583
+music-genre:ヘヴィメタル:Q38848
+music-genre:trance:Q170435
+music-genre:big room:Q15300817
+music-genre:jazz:Q8341
+music-genre:new wave:Q187760
+music-genre:フュージョン:Q105527
+music-genre:pop:Q37073
+music-genre:soft rock:Q217191
+music-genre:classical crossover:Q65281021
+music-genre:experimental:Q1640319
+music-genre:jazz fusion:Q105527
+music-genre:クラシック音楽:Q9730
+music-genre:klasik:Q9730
+music-genre:ロック:Q11399
+music-genre:free jazz:Q211781
+music-genre:ハードロック:Q83270
+music-genre:progressive trance:Q2260696
+music-genre:スイング:Q203775
+music-genre:avant-garde jazz:Q790188
+music-genre:progressive house:Q915152
+music-genre:zarzuela:Q148163
+music-genre:adult contemporary music:Q378988
+music-genre:space music:Q2342263
+music-genre:ポップ:Q37073
+music-genre:rock progressivo:Q49451
+music-genre:celtic rock:Q2662148
+film-genre:musikfilm:Q842256
+film-genre:family:Q1361932
+film-genre:adult:Q185529
+film-genre:biography:Q645928
+film-genre:comedy:Q40831
+film-genre:melodram:Q1919632
+film-genre:dokumentarfilm:Q4164344
+film-genre:biografie:Q645928
+film-genre:experimentalfilm:Q790192
+film-genre:horrorfilm:Q200092
+film-genre:krimi:Q959790
+film-genre:tanzfilm:Q3072043
+film-genre:short:Q24862
+film-genre:animation:Q202866
+film-genre:crime:Q959790
+film-genre:kinder-/familienfilm:Q1361932
+film-genre:biographie:Q645928
+film-genre:sport:Q1339864
+film-genre:talk-show:Q622812
+film-genre:literaturverfilmung:Q52162262
+film-genre:dokumentation:Q93204
+film-genre:documentary:Q4164344
+film-genre:kriminalfilm:Q959790
+film-genre:war:Q369747
+film-genre:abenteuer:Q319221
+film-genre:krieg:Q369747
 genre:sci-fi:Q24925
-genre:horror:Q16575965
-genre:speed metal:Q211723
-genre:prehistoric:XXX
-genre:urban fantasy:Q1188977
-genre:(16),:XXX
-genre:magic:XXX
 genre:science fiction & fantasy:Q24925
-genre:domed cities:XXX
-genre:horor:Q16575965
-genre:subway:XXX
-genre:young adult:Q1233720
-genre:interstellar flight:XXX
-genre:military sf:Q904447
-genre:bloemstilleven:Q12303833
-genre:hard sf:Q725757
-genre:vampire:Q1425557
-genre:china:XXX
-genre:documentaire fotografie:Q615498
-genre:internet archive:XXX
-genre:stillevens:Q170571
-genre:vedute:Q166030
-genre:generation ships:XXX
-genre:little red riding hood:XXX
 genre:br:XXX
-genre:family:Q1361932
-genre:egypt:XXX
-genre:snow white and rose red:XXX
-genre:werecat:XXX
-genre:star wars:XXX
-genre:k.a.:XXX
-genre:music:XXX
-genre:killer satellites:XXX
-genre:horses:XXX
 genre:サイエンス・フィクション:Q24925
-genre:littérature blanche:Q30751799
 genre:space opera:Q468478
 genre:crime fiction:Q19842222
 genre:br/:XXX
-genre:(25),:XXX
-genre:adult:Q185529
-genre:ecological collapse:XXX
-genre:straatfotografie:Q1851397
-genre:アヴァンギャルド・ジャズ:Q790188
-genre:architectuur (genre):Q18353841
-genre:human-animal communication:XXX
-genre:stilleven:Q170571
-genre:dysfunctional family:XXX
-genre:heraldische wapens:Q56877007
 genre:recursive sf:Q7303349
-genre:jabba the hutt:XXX
-genre:dragons:XXX
-genre:figuurstudie (hoofdonderwerp):Q28742595
-genre:bones:XXX
-genre:biography:Q645928
-genre:poetry:Q482
-genre:داستان جنایی:Q19842222
-genre:geometrische abstractie:Q2316866
-genre:comedy:Q40831
-genre:bebop:Q105513
-genre:orpheus myth:XXX
-genre:portrait historié:Q30303254
-genre:brothers and sisters:XXX
-genre:(6),:XXX
-genre:dinosaurs:XXX
-genre:into-tv:XXX
-genre:adventure:Q21802675
-genre:beauty and the beast:XXX
-genre:landschap (als genre):Q191163
-genre:marine (als genre):Q158607
-genre:ハード・バップ:Q181010
-genre:looking backward sequel by other hands:XXX
 genre:sf:Q24925
-genre:1991 best anthology:XXX
-genre:philip k. dick:XXX
-genre:フリー・ジャズ:Q211781
 genre:fantasi:Q132311
-genre:hibernation:XXX
-genre:japan:XXX
-genre:cold:XXX
-genre:linguistics:XXX
 genre:kom\xc3\xb6die:Q40831
-genre:berglandschap:Q191163
 genre:ref name="am":XXX
-genre:melodram:Q1919632
-genre:abstractie:Q128115
-genre:royal navy:XXX
 genre:historical fantasy:Q603291
 genre:mystery:Q6585139
 genre:{{cita web:XXX
-genre:dokumentarfilm:Q4164344
-genre:slavery:XXX
-genre:musica pop:Q37073
-genre:augmented reality:XXX
-genre:rock:Q11399
-genre:time travel:XXX
-genre:england:XXX
-genre:central asia:XXX
 genre:ghosts:Q1519335
-genre:hard rock:Q83270
-genre:world music:Q205049
-genre:biografie:Q645928
-genre:poésie:Q482
-genre:internet:XXX
-genre:horror: 100 best books:XXX
 genre:ref:XXX
-genre:revenge:XXX
-genre:california:XXX
-genre:poprock:Q484641
-genre:(1) and 1 additional tags.:XXX
-genre:karikatuur:Q482919
-genre:experimentalfilm:Q790192
-genre:pandemic:XXX
-genre:historical romance:Q3440984
-genre:horrorfilm:Q200092
 genre:paranormal romance:Q1192185
-genre:ottoman empire:XXX
 genre:fantasy:Q132311
-genre:vampire-like:XXX
-genre:first person point of view:XXX
-genre:single parent families:XXX
-genre:vruchtenstilleven:Q61409754
-genre:krimi:Q959790
 genre:original anthology:Q105420
-genre:pop rock:Q484641
-genre:musica leggera:Q848399
-genre:nwobhm:Q370515
 genre:komã¶die:Q40831
-genre:schlager:Q959583
 genre:fiksi ilmiah:Q24925
-genre:landschappen:Q191163
 genre:br /:XXX
-genre:young adult fantasy:Q3811649
-genre:tanzfilm:Q3072043
-genre:short:Q24862
-genre:ヘヴィメタル:Q38848
 genre:western:Q21590660
-genre:dannik jerriko:XXX
-genre:the snow queen:XXX
 genre:speculative fiction:Q5967378
-genre:nanobots:XXX
-genre:geometrisch-abstract:Q2316866
 genre:science fiction:Q24925
-genre:utopia:Q27022970
-genre:artificial intelligence:XXX
-genre:historical:Q136472
-genre:children's fiction:Q56451354
-genre:far future:XXX
-genre:children's historical fantasy:Q603291
-genre:antarctica:XXX
-genre:golems:XXX
-genre:historie (als genre):Q742333
-genre:trance:Q170435
-genre:(24),:XXX
-genre:strong female characters:XXX
-genre:animation:Q202866
-genre:domestic violence:XXX
-genre:the sleeping beauty:XXX
-genre:militairengenre:Q383898
 genre:fiksi spekulatif:Q5967378
-genre:puisi:Q482
 genre:thriller:Q182015
-genre:kafkaesque:XXX
-genre:prophecies:XXX
-genre:dog:XXX
+genre:kafkaesque:Q287215
 genre:arthurian fantasy:Q132311
-genre:fotojournalistiek:Q506858
-genre:physics:XXX
-genre:young-adult fantasy:Q3811649
-genre:ornament:Q335261
-genre:kerkinterieur:Q21074330
-genre:(13),:XXX
-genre:(31),:XXX
 genre:noir:Q26221026
 genre:alternate history:Q224989
-genre:(18),:XXX
-genre:faster than light travel:XXX
-genre:landschapsfotografie:Q1353984
-genre:crime:Q959790
-genre:cozy mystery:Q5180160
-genre:kinder-/familienfilm:Q1361932
-genre:stadsgezicht:Q1935974
-genre:biographie:Q645928
-genre:juvenile fantasy:Q3811649
-genre:big room:Q15300817
-genre:new york city:XXX
-genre:jazz:Q8341
-genre:first contact:XXX
-genre:zelfportret:Q192110
-genre:barn- och vuxenlitteratur:Q131539
 genre:steampunk:Q223685
-genre:1989 best anthology:XXX
-genre:diervoorstelling (genre):Q16875712
-genre:new wave:Q187760
-genre:novelization:Q2421000
-genre:transhuman:XXX
-genre:(17),:XXX
 genre:cyberpunk:Q174526
-genre:sport:Q1339864
-genre:mega-engineering:XXX
-genre:minimal art:Q173436
-genre:(23),:XXX
 genre:superhero:Q7643432
-genre:snow white:XXX
-genre:demons:XXX
-genre:(3),:XXX
-genre:フュージョン:Q105527
-genre:supernatural:Q7644030
-genre:botanische voorstelling:Q3796486
 genre:historical fantasy/alternate history:Q603291
-genre:korea:XXX
-genre:kindergedichten:Q5098270
-genre:mythologie:Q3374376
-genre:horreur:Q16575965
-genre:(8),:XXX
-genre:himalayas:XXX
 genre:ヒロイック・ファンタジー:Q2625243
-genre:naaktfiguur:Q40446
-genre:sword and sorcery:XXX
-genre:near future:XXX
-genre:bob dylan:XXX
-genre:ganymede:XXX
-genre:pop:Q37073
-genre:literary fiction:Q6647667
-genre:(10),:XXX
-genre:jachtstilleven:Q76474827
-genre:(12),:XXX
-genre:jeugdliteratuur:Q1233720
-genre:military life:XXX
-genre:virtual reality:XXX
 genre:thriller/mystery:Q182015
-genre:anzati:XXX
-genre:beer:XXX
-genre:ireland:XXX
-genre:mars:XXX
-genre:literature & fiction:Q38072107
-genre:animal fantasy:Q12301679
-genre:talk-show:Q622812
-genre:cruelty:XXX
-genre:soft rock:Q217191
-genre:conversatiestukken:Q939654
-genre:fairy tale inspiration:XXX
+genre:animal fantasy:Q11857634
 genre:epic fantasy:Q326439
 genre:{{cite web:XXX
 genre:スリラー、ミステリ:Q182015
-genre:artificial personalities:XXX
-genre:landschap:Q191163
-genre:roman policier:Q208505
 genre:gothic:Q19715429
-genre:classical crossover:Q65281021
-genre:prose:Q676
-genre:allegorie:Q2839016
-genre:radio disk jockey:XXX
-genre:advanced military technology:XXX
-genre:romance:Q738473
-genre:modefotografie:Q1146354
-genre:wizards:XXX
-genre:arctic:XXX
-genre:(9),:XXX
-genre:from-board game:XXX
-genre:epistolary:Q2250271
-genre:werewolf:XXX
-genre:religieuze figuren:Q2864737
-genre:experimental:Q1640319
-genre:inspirational:Q6038556
-genre:bloemstillevens:Q12303833
-genre:(15),:XXX
-genre:jazz fusion:Q105527
-genre:sf: the 100 best novels 1949-1984:XXX
-genre:クラシック音楽:Q9730
-genre:shapechangers:XXX
 genre:science-fiction:Q24925
 genre:ref name="la":XXX
-genre:(1),:XXX
-genre:klasik:Q9730
-genre:historie:Q742333
-genre:nanotechnology:XXX
-genre:1990 best anthology:XXX
-genre:ロック:Q11399
-genre:genrevoorstelling:Q214127
-genre:veldslag:Q3374353
-genre:free jazz:Q211781
-genre:literaturverfilmung:Q52162262
-genre:christelijk religieuze voorstelling:Q2864737
-genre:juvenile sf:Q63705147
-genre:historical mystery:Q1093312
-genre:dokumentation:Q93204
-genre:(4),:XXX
-genre:interstellar warfare:XXX
-genre:jupiter:XXX
-genre:portret:Q134307
-genre:(7),:XXX
-genre:moon:XXX
-genre:italianiserend:Q1675071
-genre:winterlandschap:Q3373687
-genre:ハードロック:Q83270
-genre:post atomic war:XXX
-genre:young-adult:Q1233720
-genre:zombies:XXX
 genre:dark fantasy:Q794912
-genre:retold fairy tales:Q699
-genre:great britain:XXX
-genre:progressive trance:Q2260696
-genre:liebe/romantik:Q738473
 genre:drama:Q21010853
-genre:clear island:XXX
-genre:documentary:Q4164344
-genre:pollution:XXX
-genre:(14),:XXX
-genre:aliens:XXX
 genre:mystery & thrillers:Q182015
-genre:enhanced biology:XXX
-genre:スイング:Q203775
-genre:avant-garde jazz:Q790188
-genre:progressive house:Q915152
-genre:archeologic museum:XXX
-genre:zarzuela:Q148163
-genre:contemporary fantasy:Q1128592
-genre:adult contemporary music:Q378988
-genre:cinderella:XXX
-genre:racism:XXX
-genre:lions:XXX
 genre:{{allmusic:XXX
-genre:war:XXX
-genre:han solo:XXX
-genre:space music:Q2342263
-genre:sagas:Q180494
-genre:serial killer:XXX
-genre:historical fiction:Q1196408
-genre:clones:XXX
-genre:non-planetary life:XXX
 genre:!-- or::XXX
-genre:portretfotografie:Q182956
-genre:princes:XXX
-genre:ポップ:Q37073
-genre:(11),:XXX
-genre:miniaturization:XXX
-genre:napoleonic wars:XXX
-genre:cannibalism:XXX
-genre:(5),:XXX
-genre:ドラマ:Q25372
-genre:rock progressivo:Q49451
-genre:education:XXX
-genre:young-adult sf:Q24925
-genre:young adult fiction:Q1233720
-genre:swords:XXX
-genre:bluebeard:XXX
-genre:gedichten:Q482
-genre:young-adult time-travel:XXX
-genre:kriminalfilm:Q959790
-genre:figuurvoorstelling:Q29527347
-genre:celtic rock:Q2662148
-genre:desert:XXX
-genre:dolphins:XXX
-genre:thumbelina:XXX
-genre:kustgezicht:Q158607
-genre:into-movie:XXX
-genre:social commentary:XXX
-genre:boslandschap:Q191163
-genre:duinlandschap:Q191163
-genre:rivierlandschap:Q191163
-genre:genre:Q214127
-genre:figuren:Q5448026
-genre:portretten:Q134307
-genre:barok:Q3624106
+genre:''mizik rasin'':Q7295057
+genre:jungle:Q1102161
+genre:flatlist:XXX
+genre:grime:Q1166726
+genre:dubstep:Q20474
+genre:uk garage:Q1165777
+genre:pop:Q37073
+genre:rock:Q11399
+genre:indie pop:Q842324
+genre:literary fiction:Q6647667
+genre:non-fiction:Q213051
+genre:autobiography:Q4184
+art-genre:bloemstilleven:Q12303833
+art-genre:documentaire fotografie:Q615498
+art-genre:stillevens:Q170571
+art-genre:vedute:Q166030
+art-genre:straatfotografie:Q1851397
+art-genre:architectuur (genre):Q18353841
+art-genre:stilleven:Q170571
+art-genre:heraldische wapens:Q56877007
+art-genre:figuurstudie (hoofdonderwerp):Q28742595
+art-genre:geometrische abstractie:Q2316866
+art-genre:portrait historié:Q30303254
+art-genre:landschap (als genre):Q191163
+art-genre:marine (als genre):Q158607
+art-genre:berglandschap:Q191163
+art-genre:abstractie:Q128115
+art-genre:karikatuur:Q482919
+art-genre:vruchtenstilleven:Q61409754
+art-genre:landschappen:Q191163
+art-genre:geometrisch-abstract:Q2316866
+art-genre:historie (als genre):Q742333
+art-genre:militairengenre:Q383898
+art-genre:fotojournalistiek:Q506858
+art-genre:ornament:Q335261
+art-genre:kerkinterieur:Q21074330
+art-genre:landschapsfotografie:Q1353984
+art-genre:stadsgezicht:Q1935974
+art-genre:zelfportret:Q192110
+art-genre:diervoorstelling (genre):Q16875712
+art-genre:minimal art:Q173436
+art-genre:botanische voorstelling:Q3796486
+art-genre:mythologie:Q3374376
+art-genre:naaktfiguur:Q40446
+art-genre:jachtstilleven:Q76474827
+art-genre:conversatiestukken:Q939654
+art-genre:landschap:Q191163
+art-genre:allegorie:Q2839016
+art-genre:modefotografie:Q1146354
+art-genre:religieuze figuren:Q2864737
+art-genre:bloemstillevens:Q12303833
+art-genre:historie:Q742333
+art-genre:genrevoorstelling:Q214127
+art-genre:veldslag:Q3374353
+art-genre:christelijk religieuze voorstelling:Q2864737
+art-genre:portret:Q134307
+art-genre:italianiserend:Q1675071
+art-genre:winterlandschap:Q3373687
+art-genre:portretfotografie:Q182956
+art-genre:figuurvoorstelling:Q29527347
+art-genre:kustgezicht:Q158607
+art-genre:boslandschap:Q191163
+art-genre:duinlandschap:Q191163
+art-genre:rivierlandschap:Q191163
+art-genre:genre:Q214127
+art-genre:figuren:Q5448026
+art-genre:portretten:Q134307
+art-genre:strandgezicht:Q98915788
 screenwriter:Rouzbeh Rashidi:Q7371649
 screenwriter:Fred van der Kooij:Q54819875
 ethnicity (us):jewish:Q7325
@@ -12925,6 +13641,8 @@ instanceof:biographical entry:Q5
 instanceof:werk:Q386724
 instanceof:pseudonym:Q5
 instanceof:artist:Q5
+instanceof:non_vocal_instrumentalist:Q5
+instanceof:group_or_band:Q215380
 county:klamath county, oregon:Q484388
 county:washington county, oregon:Q484538
 county:monmouth county, new jersey:Q502424
@@ -13126,6 +13844,15 @@ language:tcheque:Q9056
 language:tha:Q9217
 language:marathi:Q1571
 language:grec ancien:Q35497
+language:a traduit de:XXX
+language:kor:Q9176
+language:coréen:Q9176
+language:korean:Q9176
+language:anglès (muda):Q1860
+language:xxx:XXX
+language:angleški:Q1860
+language:francoski:Q150
+language:nemški:Q188
 artist:savitsky, konstantin apollonovich:Q958052
 artist:maratti, carlo:Q538998
 artist:robertson, archibald:Q17747277
@@ -13217,6 +13944,12 @@ artist:poussin, nicolas:Q41554
 artist:claude lorrain:Q214074
 artist:delaroche, paul:Q322582
 artist:benvenuti, pietro:Q447308
+artist:bonnat, léon:Q170259
+artist:boulanger, gustave-clarence-rodolphe:Q726564
+artist:delaunay, elie:Q745313
+artist:goebel, carl (1824-1899):Q1038315
+artist:giaquinto, corrado:Q740934
+artist:murray, john somerset:Q52157090
 voice:sprechstimme:XXX
 voice:bass:Q27911
 voice:vocal:XXX
@@ -14004,6 +14737,37 @@ country:austria.:Q40
 country:kaisertum österreich:Q131964
 country:austriaco:Q40
 country:大明:Q9903
+country:paraguayský:Q733
+country:paraguaya:Q733
+country:paraguái:Q733
+country:xk:Q18097
+country:corée avant 1948:Q18097
+country:russia:Q159
+country:belgija:Q31
+country:belgická:Q31
+country:فرانسوی{{flagicon:Q142
+country:sã¼dkorea:Q884
+country:{{fra-d}} français:Q142
+country:argentina:Q414
+country:argentinský:Q414
+country:ایتالیا:Q38
+country:alemán:Q183
+country:dx:Q43287
+country:آلمان:Q183
+country:nizozemska:Q29999
+country:slovak:Q214
+country:lithuania:Q37
+country:프랑스(국명)[france]:Q142
+country:루마니아(국명)[rumania]:Q218
+country:kingdom of england:Q179876
+country:벨기에(국명)[belgium]:Q31
+country:뉴질랜드(국명)[new zealand]:Q664
+country:nowa zelandia.:Q664
+country:nowa zelandia:Q664
+country:new zealander:Q664
+country:neozelandese:Q664
+country:los angeles:Q30
+country:czech republic:Q213
 university:université paris 7:Q1235608
 university:university of michigan:Q230492
 university:university of texas at austin:Q49213
@@ -14169,6 +14933,34 @@ university:accademia di belle arti e liceo artistico (florence):Q4585397
 university:école des beaux-arts (parijs):Q273593
 university:technische universiteit eindhoven:Q280824
 university:jan van eyck academie (maastricht):Q1682433
+university:university of california, berkeley:Q168756
+university:university of naples federico ii:Q691851
+university:académie de la grande chaumière (parijs):Q337504
+university:école polytechnique:Q273626
+university:university of california, santa cruz:Q1047293
+university:university of colorado at boulder:Q736674
+university:akademie múzických umění v praze:Q414221
+university:harvard college:Q49123
+university:columbia business school:Q907481
+university:university of oxford:Q34433
+university:university of queensland:Q866012
+university:school of visual arts:Q1279835
+university:vanderbilt university:Q29052
+university:heidelberg university:Q151510
+university:university of franche-comté, besançon:Q829449
+university:universiteit van amsterdam:Q214341
+university:utrecht university:Q221653
+university:massachusetts institute of technology:Q49108
+university:university of east anglia:Q1045828
+university:pembroke college, cambridge:Q956501
+university:radley college:Q3417076
+university:victoria university of wellington:Q1150437
+university:soas:Q220144
+university:soas university of london:Q220144
+university:jyväskylän yliopisto:Q578326
+university:uppsala universitet:Q185246
+university:rensselaer polytechnic institute:Q49211
+university:california institute of technology:Q161562
 work:lohengrin:Q23085
 work:recurrence-based time series analysis by means of complex network methods:Q63964890
 work:2. buch der chronik:Q209720
@@ -14207,6 +14999,8 @@ work:''cloclo'':Q2979521
 work:''la french '':Q16314359
 work:''les amants diaboliques'':Q547226
 work:''les frissons de l'angoisse'':Q1516994
+work:''the day that went missing: a family's story'':Q65059471
+work:jojo rabbit:Q54862508
 label:arista records:Q664167
 label:atlantic (us:Q202440
 label:レコード:XXX
@@ -14249,6 +15043,8 @@ label:atlantic records:Q202440
 label:ヴァージン:Q203059
 label:rhino (états-unis:Q56404384
 label:spinnin' records:Q2310883
+label:xenophile:Q8043649
+label:flatlist:XXX
 gens:claudia:Q385338
 gens:pomponia:Q1363180
 gens:aemilia:Q380886
@@ -15017,6 +15813,9 @@ person:röhling, carl:Q51556223
 person:röhling, ernst august:Q96996572
 person:wouter abts, alias: gautier abs / aps / apts:Q4021004
 person:(annulled:XXX
+person:thandiswa mazwai:Q4348940
+person:léonor chabot, comte de charny et de buzancais:Q3271719
+person:gilbert gouffier, 3.duc de roannaz:Q16034253
 title:graaf van vianden:Q66051630
 title:graaf van hamaland:Q65660493
 title:duke of gniezno:Q166886
@@ -15284,6 +16083,8 @@ gender:donna:Q6581072
 gender:male:Q6581097
 gender:mann:Q6581097
 gender:fear:Q6581097
+gender:women:Q6581072
+gender:none:XXX
 cemetary:geertruidenberg:Q10639634
 cemetary:fort scott national cemetery:Q5472002
 cemetary:highland lawn cemetery:Q5758873
@@ -15821,6 +16622,7 @@ position:nunzio apostolico per la repubblica di venezia:Q157037
 position:vescovo di fano:Q611644
 position:profesor zwyczajny:Q11827483
 position:profesor:Q121594
+position:mučedník:Q6498826
 causedeath:natuurlijke dood (watersught):Q152234
 causedeath:ataque al corazón:Q12152
 causedeath:neumonía:Q12192
@@ -16009,3 +16811,31 @@ employer:(assoc. prof.):XXX
 employer:georgia institute of technology:Q864855
 employer:(direktor):XXX
 employer:institut d'études européennes (brüssel):Q3151954
+employer:university of california berkeley:Q168756
+employer:observatoire français des conjonctures economiques:Q3348440
+employer:bisdom gent (1834-heden):Q869096
+employer:sint-lievenscollege, gent (1865-heden):Q2525974
+employer:université catholique de l'ouest:Q1476738
+employer:centre sèvres:Q788592
+employer:australian national university:Q127990
+employer:julius-maximilians-universität würzburg:Q161976
+employer:exzellenzcluster asien und europa im globalen kontext:Q695286
+employer:(bis 2019):XXX
+employer:institut d'études politiques de paris:Q859363
+employer:pontificia universidad católica de chile:Q1129925
+employer:universidad alberto hurtado:Q4712073
+employer:università degli studi di modena e reggio emilia:Q1243705
+employer:universidad pontificia de salamanca:Q179501
+employer:universität konstanz:Q835440
+employer:institüt für germanistik, universität wien:Q74553694
+film-color:color:Q22006653
+filmmaker:park se-jong:Q22115074
+filmmaker:hugo ballin:Q3787466
+filmmaker:rex beach:Q545381
+filmmaker:oliver t. marsh:Q743092
+filmmaker:reginald barker:Q1751094
+filmmaker:letterboxd — your life in film:XXX
+filmmaker:justwatch:XXX
+filmcompany:goldwyn pictures:Q179922
+filmcompany:br:XXX
+filmcompany:goldwyn pictures corporation:Q179922
