@@ -229,6 +229,8 @@ religious order:jezuité:Q36380
 religious order:benediktiner:Q131132
 religious order:zisterzienser:Q166861
 religious order:sulpizianer:Q522379
+religious order:dominikaner:Q131479
+religious order:dominikáni:Q131479
 rank:non:XXX
 rank:luitenant-generaal:Q152951
 rank:ss-untersturmführer:Q310761
@@ -383,6 +385,121 @@ scientist:fällström, anders:Q18242058
 scientist:persson, leif:Q87821725
 scientist:christer oscar kiselman:Q5911266
 scientist:richard clyde diprima:Q93372124
+scientist:mervyn archdall ellison:Q4531321
+scientist:ucsd:XXX
+scientist:carlos hervés-beloso:Q20535465
+scientist:pieter van romburgh:Q1463162
+scientist:askey, richard:Q1406404
+scientist:calabi, eugenio:Q4922
+scientist:cheeger, jeff:Q526247
+scientist:furstenberg, harry:Q556862
+scientist:gunning, robert:Q2157386
+scientist:halperin, israel:Q2815662
+scientist:hausner, melvin:Q19562198
+scientist:helgason, sigurdur:Q1601312
+scientist:herz, carl:Q15995125
+scientist:karlin, samuel:Q667074
+scientist:knapp, anthony:Q573490
+scientist:lagerstrom, paco:Q2045741
+scientist:loomis, lynn:Q1878869
+scientist:rauch, harry:Q1586709
+scientist:recillas juarez, felix:Q94842779
+scientist:regensburger, martin:Q43261387
+scientist:scarf, herbert:Q1360655
+scientist:veech, william:Q2580857
+scientist:washnitzer, gerard:Q1510203
+scientist:erhard schmidt:Q61766
+scientist:paco axel lagerstrom:Q2045741
+scientist:princeton:XXX
+scientist:samuel karlin:Q667074
+scientist:herbert scarf:Q1360655
+scientist:hillel furstenberg:Q556862
+scientist:issai schur:Q72599
+scientist:richard askey:Q1406404
+scientist:br:XXX
+scientist:eugenio calabi:Q4922
+scientist:jeff cheeger:Q526247
+scientist:m. t. cheng:Q6713188
+scientist:charles l. dolph:Q87463173
+scientist:robert gunning:Q2157386
+scientist:israel halperin:Q2815662
+scientist:sigurdur helgason:Q1601312
+scientist:carl herz:Q15995125
+scientist:gilbert hunt:Q16018157
+scientist:anthony knapp:Q573490
+scientist:paco lagerstrom:Q2045741
+scientist:lynn loomis:Q1878869
+scientist:harry rauch:Q1586709
+scientist:william a. veech:Q2580857
+scientist:gerard washnitzer:Q1510203
+scientist:mathgenealogy:XXX
+scientist:ref:XXX
+scientist:en:XXX
+scientist:robert gunning (mathematician):Q2157386
+scientist:john allan donaldson:Q71307716
+scientist:carleton university:XXX
+scientist:leah edelstein-keshet:Q6509207
+scientist:t. a. (tonny albert) springer:Q2442209
+scientist:hanspeter kraft:Q1566036
+scientist:j. brian (john) conrey:Q265466
+scientist:torsten tage gillis carleman:Q526581
+scientist:farach-colton, martin:Q20656908
+scientist:lewenstein, moshe:Q64830956
+scientist:dov m. gabbay:Q220076
+scientist:martin farach-colton:Q20656908
+scientist:dov gabbay:Q220076
+scientist:bar-ilan:XXX
+scientist:françois louis baccelli:Q17001177
+scientist:suny buffalo:XXX
+scientist:nancy y. kiang:Q56516319
+scientist:gretchen r. miller:Q57829576
+scientist:youngryel ryu:Q57470633
+scientist:martin beland:Q77456243
+scientist:matteo detto:Q90118382
+scientist:lianhong gu:Q56755522
+scientist:alexander knohl:Q54086471
+scientist:oliver sonnentag:Q96617462
+scientist:cove s. sturtevant:Q58177950
+scientist:jianwu tang:Q55686476
+scientist:rodrigo v. vargas:Q54993270
+scientist:jorge curiel yuste:Q56756204
+scientist:noaa:XXX
+scientist:patty oikawa:Q57428807
+scientist:housen chu:Q56755360
+scientist:elke eichelmann:Q58177965
+scientist:university of nebraska - lincoln:XXX
+scientist:noaa, oak ridge, tn:XXX
+scientist:william a. catterall:Q1666427
+scientist:hartmut glossmann:Q17575414
+scientist:seth c. murray:Q90729734
+scientist:university of south carolina:XXX
+scientist:nadia shakoor:Q63646434
+scientist:seth c murray:Q90729734
+scientist:!--(or:XXX
+scientist:bruce alan beutler:Q104592
+scientist:andreas detlef keiling:Q93091479
+scientist:douglas edward rowland:Q43170197
+scientist:lynn b. wilson iii:Q57420439
+scientist:scott a. thaller:Q89832205
+scientist:forrest s. mozer:Q5470511
+scientist:peter michael robinson:Q30069361
+scientist:purdue:XXX
+scientist:george wolberg:Q102311934
+scientist:wenwey hseush:Q102311936
+scientist:bulent yener:Q29259917
+scientist:lisa gottesfeld brown:Q102311935
+scientist:ming chao chiang:Q96098062
+scientist:walter j. scheirer:Q102415909
+scientist:fawaz e. alsaadi:Q103832952
+scientist:joseph f. traub:Q6283016
+scientist:columbia university (usa):XXX
+scientist:hseush, wenwey:Q102311936
+scientist:lerner, michah:Q102311939
+scientist:wolberg, george:Q102311934
+scientist:xie, binglong:Q102338928
+scientist:yener, bulent:Q29259917
+scientist:joseph frederick traub:Q6283016
+scientist:krzysztof sikorski:Q83465536
 commonwealth-games:1986:Q1116471
 commonwealth-games:1990:Q1116512
 commonwealth-games:2006:Q659207
@@ -405,6 +522,7 @@ film-occupation:director:Q2526255
 film-occupation:writer:Q28389
 film-occupation:actor:Q33999
 film-occupation:animation department:Q266569
+film-occupation:coloană sonoră:Q639669
 ethnicity:white:Q235155
 ethnicity:<!-- ethnicity should be supported with a citation from a reliable source -->:XXX
 ethnicity:漢族:Q42740
@@ -965,6 +1083,168 @@ subject:potential theory:Q1154848
 subject:motion pictures:Q11424
 subject:만화漫划:Q627603
 subject:graphic novels:Q725377
+subject:order, lattices, ordered algebraic structures:Q24175351
+subject:la préservation des monuments historiques:Q358
+subject:philosophie à l:Q5891
+subject:veřejných financí:Q274490
+subject:combustion:Q133235
+subject:european history:Q7787
+subject:modern history:Q3281534
+subject:cooperative societies:Q4539
+subject:college teaching:Q352842
+subject:histoire moderne et contemporaine:Q3281534
+subject:filología griega:Q64968842
+subject:motion picture authorship:Q3429919
+subject:acting:Q222749
+subject:análisis matemático:Q7754
+subject:britska literatura:Q764912
+subject:anglistika:Q27968
+subject:americka literatura:Q233762
+subject:아동 문학儿童㒚学:Q131539
+subject:dynamical systems and ergodic theory:Q3174497
+subject:oblasti automatizační:Q184199
+subject:germanic languages:Q21200
+subject:filologia germanska:Q76996465
+subject:langue et littérature allemandes:Q188
+subject:english literature history and criticism:Q186579
+subject:english literature--history and criticism:Q186579
+subject:latin american literature:Q1147454
+subject:african literature:Q386319
+subject:anglais à l:Q1860
+subject:conceptual art:Q203209
+subject:installation art:Q212431
+subject:ศิลปะจัดวาง:Q212431
+subject:ประติมากรรม:Q11634
+subject:จิตรกรรม:Q11629
+subject:history and biography:Q309
+subject:bochner integral:Q889019
+subject:br:XXX
+subject:bochner's theorem:Q4936242
+subject:en:XXX
+subject:universities and colleges administration:Q4671162
+subject:geology:Q1069
+subject:earth sciences:Q8008
+subject:fisheries and aquaculture agriculture:Q180538
+subject:commutative algebra:Q727659
+subject:nonassociative rings and algebras:Q13512116
+subject:algebraic geometry:Q180969
+subject:classical literature:Q20873098
+subject:ancient history:Q435608
+subject:historia starozytna:Q41493
+subject:matematika:Q395
+subject:clinique de chirurgie orthopédique:Q216685
+subject:droit de la famille:Q384014
+subject:종교학宗敎学:Q34187
+subject:photojournalism:Q506858
+subject:photography:Q11633
+subject:government:Q7188
+subject:fotografia:Q11633
+subject:statistical machine learning:Q2539
+subject:scalable data analytics:Q1988917
+subject:computational genomics:Q2091816
+subject:철학 사상 哲学:Q5891
+subject:사회학社会学:Q21201
+subject:교육敎毓:Q8434
+subject:fiskální politiku:Q187021
+subject:game theory, economics, finance, and other social and behavioral sciences:Q34749
+subject:ethnic and racial studies:Q41870
+subject:cultural anthropology:Q28598
+subject:big band music:Q207378
+subject:psychiatrie:Q7867
+subject:mentálního zdraví:Q317309
+subject:biogeosciences:Q101432870
+subject:klimatologie:Q52139
+subject:fyzicka geografie:Q52107
+subject:biometeorologie:Q864590
+subject:environmental sciences:Q188847
+subject:biogeochemistry:Q864379
+subject:umwelttechnik:Q743030
+subject:sztuka:Q735
+subject:muzejni sbirky:Q27699276
+subject:rap (music):Q62019146
+subject:rap music:Q62019146
+subject:poetry:Q482
+subject:calcium channels:Q246819
+subject:marketing:Q39809
+subject:biblia:Q1845
+subject:산업디자인:Q243606
+subject:디자인design:Q82604
+subject:stredoveka hudba:Q163775
+subject:renesancni hudba:Q201405
+subject:prawo pracy:Q628967
+subject:droit du travail:Q628967
+subject:finance:Q43015
+subject:화학化学:Q2329
+subject:botany biology:Q441
+subject:molecular biology:Q7202
+subject:managementem:Q2920921
+subject:informačních systémů:Q121182
+subject:řízení výroby:Q1227507
+subject:management business administration:Q18564125
+subject:general business administration:Q2043282
+subject:teatrologia:Q960543
+subject:dramat:Q25372
+subject:composition (language arts):Q2791145
+subject:dějin přírodních věd:Q201486
+subject:science philosophy:Q59115
+subject:infektologie:Q788926
+subject:마케팅marketing:Q39809
+subject:경영학経営学:Q2043282
+subject:soziologie:Q21201
+subject:public administration:Q31728
+subject:commerce:Q26643
+subject:business economics:Q24208053
+subject:french history:Q7778
+subject:culture:Q11042
+subject:sociologie umeni:Q1792635
+subject:kulturní sociologii:Q1570681
+subject:sociologii umění:Q1792635
+subject:lingüística general:Q14357850
+subject:linguistique:Q8162
+subject:linguistique à l:Q8162
+subject:teologia systematyczna:Q875490
+subject:teologia biblijna:Q1203109
+subject:ekumenizm:Q156112
+subject:информатика:Q21198
+subject:아프리카 문학 㒚学:Q386319
+subject:filología hispánica:Q3381164
+subject:lingüística contrastiva:Q1758140
+subject:lengua española-didáctica-hablantes extranjeros:Q5840041
+subject:jezykoznawstwo:Q8162
+subject:space plasma physics:Q5615097
+subject:malarstwo:Q11629
+subject:british history:Q113162
+subject:intelektuální dějiny:Q1195695
+subject:역사历史:Q309
+subject:bibliotekzinatne:Q7075
+subject:bibliotēkzinātne:Q7075
+subject:독일 철학独逸哲学:Q1203683
+subject:logiky:Q8078
+subject:autor biografií:Q36279
+subject:전자 공학电只工学:Q126095
+subject:전기 공학电气工学:Q126095
+subject:elektroniky:Q11650
+subject:ekonomika:Q8134
+subject:informatyka:Q21198
+subject:미술:Q735
+subject:조각:Q11634
+subject:일러스트:Q178659
+subject:조각:Q11634
+subject:일러스트:Q178659
+subject:미술 예술 美术:Q219625
+subject:socjologia:Q21201
+subject:종교 신앙 宗敎:Q9174
+subject:신학:Q34178
+subject:종교:Q9174
+subject:신학:Q34178
+subject:television production and direction:Q1407228
+subject:cinematography:Q590870
+subject:instrumentala muzika:Q639197
+subject:instrumentālā mūzika:Q639197
+subject:arabe:Q13955
+subject:edicion:Q3972943
+subject:engineering:Q11023
+subject:geologia:Q1069
 city:فرنسا:Q142
 city:st.gillis-dendermonde:Q898394
 city:cziffer, hongrie:Q1020250
@@ -5084,6 +5364,174 @@ city:monroe, washington, usa:Q1055861
 city:mosnang:Q65775
 city:kansas city, kansas:Q486472
 city:rouen (france):Q30974
+city:trelawny parish, jamaica:Q1123340
+city:sheffield:Q42448
+city:sheffield, united kingdom:Q42448
+city:{{eng}} シェフィールド:Q42448
+city:sheffield, south yorkshire, england:Q42448
+city:rimavská pila:Q535087
+city:milton (massachusetts):Q739428
+city:ostrava (ostrava-město):Q8385
+city:{{পতাকা|বাংলাদেশ}}:Q902
+city:bangladesh:Q902
+city:hagen:Q2871
+city:- bangalow, nsw:Q4855087
+city:sydney, nsw:Q3130
+city:wollombi, nsw:Q3569722
+city:hunter valley, nsw:Q1638164
+city:sankt gallen (zwitserland):Q25607
+city:oberbrügge:Q2009245
+city:wattwil:Q66601
+city:wales, uk:Q25
+city:tredegar, blaenau gwent, wales, united kingdom:Q1529978
+city:tredegar, monmouthshire, wales:Q1529978
+city:leidschendam:Q1616233
+city:wolfenbüttel:Q4122
+city:provo (utah):Q23443
+city:торонто, канада:Q172
+city:toronto, kanada:Q172
+city:トロント:Q172
+city:토론토:Q172
+city:toronto, toronto municipality, ontario, canada:Q172
+city:santa monica, los angeles county, california, usa:Q47164
+city:pittsburgh (pennsylvania):Q1342
+city:pittsburgh, pa usa:Q1342
+city:us, pa, pittsburgh:Q1342
+city:pittsburgh, pennsylvanie, états-unis d'amérique:Q1342
+city:pittsburgh, usa:Q1342
+city:pittsburgh (états-unis):Q1342
+city:พิตส์เบิร์ก, เพนซิลเวเนีย, สหรัฐอเมริกา:Q1342
+city:kraków, małopolskie, poland:Q31487
+city:houston, harris county, texas, usa:Q16555
+city:houston, texas, vereinigte staaten:Q16555
+city:미국 텍사스주 휴스턴:Q16555
+city:brno, čehija:Q14960
+city:brno, république tchèque:Q14960
+city:lausanne (vd):Q807
+city:kaarina, finské velkoknížectví, ruské impérium:Q735563
+city:kaarina:Q735563
+city:kaarina (finland):Q735563
+city:helsinki (finland):Q1757
+city:rhône:Q46130
+city:pont-de-beauvoisin (isère):Q1072118
+city:douar-chott (tunisie):Q28151514
+city:isère:Q12559
+city:pont-de-beauvoisin:Q1072118
+city:douar-chott:Q28151514
+city:lyon, rhône, auvergne-rhône-alpes, france:Q456
+city:1956:XXX
+city:brest (belorussia):Q140147
+city:lunnon, ingland:Q84
+city:london {{flagikon|storbritannien}}:Q84
+city:london, vereinigtes königreich:Q84
+city:londres, inglaterra:Q84
+city:{{flagicon|uk}} {{flagicon|england}} londra, anglia:Q84
+city:bermbach:Q556751
+city:perzië (hist.):Q3746183
+city:bédarieux, hérault, france:Q274412
+city:minsk:Q2280
+city:kišiněv (chişinău):Q21197
+city:chaville (france):Q494125
+city:chaville (hauts-de-seine):Q494125
+city:chaville, seine-et-oise, france:Q494125
+city:chaville:Q494125
+city:chaville (seine-at-oise):Q494125
+city:paříž (paris):Q90
+city:chaville, departement des hauts-de-seine, île-de-france, france:Q494125
+city:paris, city of paris, île-de-france, france:Q90
+city:chaville, francuska:Q494125
+city:chaville, {{vlajka a název|francie}}:Q494125
+city:paříž, {{vlajka a název|francie}}:Q90
+city:او-دو-سن:Q12543
+city:پاریس:Q90
+city:{{fra}}、パリ:Q90
+city:bublitz:Q511956
+city:bublitz (germany):Q511956
+city:versailles (france):Q621
+city:pomerania (europe):Q104520
+city:pommeren:Q104520
+city:bobolice, poland:Q511956
+city:bublitz (gmina bobolice):Q511956
+city:bublitz, allemagne:Q511956
+city:versailles, seine-et-oise, france:Q621
+city:versailles bei paris:Q621
+city:bublitz allemagne:Q511956
+city:bublitz, pommern:Q511956
+city:bublitz ({{empire allemand}}):Q511956
+city:havana (cuba):Q1563
+city:meaux,  seine-et-marne, france:Q207620
+city:austria:Q40
+city:viedeň, rakúsko:Q1741
+city:philadelphia (pa.):Q80021
+city:daugavpils (latvia):Q80021
+city:czech republic:Q213
+city:manchester, gb:Q18125
+city:coutances (manche):Q202565
+city:coutances, manche (50), france:Q202565
+city:the united kingdom:Q145
+city:peckham, southwark, london, england, united kingdom:Q2690524
+city:brooklyn:Q18419
+city:berlin, deutschland:Q64
+city:archivo:flag of austria.svg austria:Q40
+city:zurich (zürich, switzerland):Q72
+city:locarno (ticino, switzerland):Q11935
+city:china lake, calif.:Q5099759
+city:nemours (seine-et-marne):Q321067
+city:toulouse (haute-garonne):Q7880
+city:nemours:Q321067
+city:richmond hill, queens:Q59006
+city:hückeswagen:Q11038
+city:milwaukee, wisconsin, u.s.:Q37836
+city:skwierzyna:Q994585
+city:rijsel (lille):Q648
+city:rijssel (frankrijk):Q648
+city:mexico city, distrito federal, mexiko:Q1489
+city:leningrad / udssr (st. petersburg / russland):Q656
+city:bischofszell/schweiz:Q64865
+city:zug/schweiz:Q68144
+city:bree:Q275863
+city:san francisco, san francisco county, california, usa:Q62
+city:brabant:Q159856
+city:noord-brabant (prov.):Q1101
+city:bar-le-duc (meuse):Q185721
+city:{{мр|}}:XXX
+city:urbana, illinois, usa:Q462184
+city:- australia:Q408
+city:montreal, quebec, canada:Q340
+city:paris, ile-de-france, france:Q90
+city:wilmington, ohio:Q949651
+city:katovice, polija:Q588
+city:bochum, nordrhein-westfalen, germany:Q2103
+city:bochum:Q2103
+city:croissy-sur-seine, yvelines:Q491391
+city:kriens:Q14571
+city:cleveland, ohio, vereinigte staaten:Q37320
+city:cleveland, ohio, u.s.:Q37320
+city:{{usa}}オハイオ州クリーブランド:Q37320
+city:오하이오주 클리블랜드:Q37320
+city:little wymondley (england):Q6652613
+city:cleveland, ohio, abd:Q37320
+city:hārtfordšīra (lielbritānija):Q3410
+city:sremska mitrovica (serbie):Q242733
+city:washington, d.c.:Q61
+city:watertown, massachusetts, united states:Q54172
+city:la rochelle (charente-maritime):Q82185
+city:la rochelle:Q82185
+city:caen (france):Q41185
+city:damprichard (doubs):Q838026
+city:brethel (orne):Q1095852
+city:froidefontaine:Q583043
+city:froidefontaine (territoire de belfort):Q583043
+city:dole (jura):Q205586
+city:ann arbor, mich.:Q485172
+city:bordeaux (gironde):Q1479
+city:agen:Q6625
+city:agen (france):Q6625
+city:nîmes (france):Q42807
+city:parís):Q90
+city:liège (belgique):Q3992
+city:oudtshoorn cape, south africa:Q951049
+city:saint-étienne:Q42716
 theater-occupation:company,:XXX
 theater-occupation:designer,:Q26869657
 theater-occupation:choreographer:Q2490358
@@ -5098,6 +5546,12 @@ theater-occupation:associate choreographer,:Q2490358
 theater-occupation:unknown,:XXX
 theater-occupation:music by,:Q639669
 theater-occupation:music by / performer,:Q639669
+theater-occupation:director,:Q3387717
+theater-occupation:/ director,:Q3387717
+theater-occupation:producer:Q1759246
+theater-occupation:musical director,:Q1198887
+theater-occupation:player,:Q33999
+theater-occupation:music,:Q639669
 group:the new york contemporary five:Q3339052
 group:motörhead:Q19697
 group:mike & the mechanics:Q653632
@@ -5121,6 +5575,27 @@ group:lloyd cole & the commotions:Q6662342
 group:lloyd cole and the commotions:Q6662342
 group:del amitri:Q1183784
 group:texas:Q916484
+group:kill memory crash:Q1741318
+group:ensemble matheus:Q3054849
+group:alle für alle:Q15263360
+group:le concert des nations:Q3044464
+group:les arts florissants:Q1752532
+group:the london philharmonic orchestra:Q863397
+group:the royal philharmonic orchestra:Q856125
+group:buselli-wallarab jazz orchestra:Q5001326
+group:mara!:Q28225189
+group:the philadelphia orchestra:Q659181
+group:kode9:XXX
+group:franklin delano:Q3752034
+group:psychic tv:Q2115954
+group:sexpod:Q92636649
+group:danny & the juniors:Q1164494
+group:english concert:Q926326
+group:london baroque:Q1868886
+group:musica secreta:Q28407029
+group:new london consort:Q6041498
+group:orchestra of the age of enlightenment:Q2028664
+group:the consort of musicke:Q3986400
 degree:madison:XXX
 degree:prof., dr.:Q4618975
 degree:dr. phil.:Q752297
@@ -5152,6 +5627,14 @@ degree:profesor:XXX
 degree:promotie:Q4618975
 degree:doctor:Q4618975
 degree:victoria university of wellington (phd):Q752297
+degree:professor dr. phil.:Q752297
+degree:prof. dr. habil.:Q308678
+degree:учёная степень:XXX
+degree:prof. ph. d.:Q752297
+degree:mrcs:Q6815098
+degree:frcs:Q3631327
+degree:lrcp:Q42341159
+degree:mb bs london:Q13948235
 instrument:guitarist:Q6607
 instrument:fedaral republic of germany:XXX
 instrument:producer:XXX
@@ -5311,6 +5794,64 @@ instrument:engineer:XXX
 instrument:swiss pianist:Q5994
 instrument:slagwerk:Q133163
 instrument:texas:XXX
+instrument:czech graphic designer:XXX
+instrument:singer:Q17172850
+instrument:drummer:Q128309
+instrument:us:XXX
+instrument:sydney:XXX
+instrument:swedish-american accordion player:Q79838
+instrument:april 25:XXX
+instrument:d:XXX
+instrument:bassoonist:Q159998
+instrument:fagot:Q159998
+instrument:argentina:XXX
+instrument:in 1940:XXX
+instrument:writer:XXX
+instrument:wales:XXX
+instrument:1971:XXX
+instrument:london:XXX
+instrument:disbanded:XXX
+instrument:french balalaïka player:Q178389
+instrument:classical cello player:Q8371
+instrument:cello:Q8371
+instrument:gamba:Q40125
+instrument:3d134970101:XXX
+instrument:3d04127766x:XXX
+instrument:viola da gamba:Q96066477
+instrument:pennsylvania:XXX
+instrument:british classical clarinetist:Q8343
+instrument:klarinet:Q8343
+instrument:translator:XXX
+instrument:journalist:XXX
+instrument:german actress:XXX
+instrument:director:XXX
+instrument:jazz:XXX
+instrument:rhythm:XXX
+instrument:louisiana:XXX
+instrument:in 1919:XXX
+instrument:england:XXX
+instrument:american trumpet player:Q8338
+instrument:flugelhornist:Q382616
+instrument:based in london:XXX
+instrument:french writer:XXX
+instrument:poet:XXX
+instrument:novelist:XXX
+instrument:critic:XXX
+instrument:political activist:XXX
+instrument:american violinist:Q8355
+instrument:latvia:XXX
+instrument:elektronica:Q1327500
+instrument:when:XXX
+instrument:vocalist:Q17172850
+instrument:drummachine:Q831698
+instrument:spanish singer:Q17172850
+instrument:1935:XXX
+instrument:german singer:Q17172850
+instrument:classical alto vocalist:Q17172850
+instrument:organist:Q1444
+instrument:harpsichordist:Q81982
+instrument:toetsinstrument:Q52954
+instrument:klavecimbel:Q81982
 museum:trerice, cornwall:Q1327188
 museum:musée des beaux-arts de mons (mons):Q2893370
 museum:metropolitan museum of art:Q160236
@@ -5362,7 +5903,7 @@ museum:visit site:XXX
 museum:fred jones jr. museum of art at the university of oklahoma:Q5495608
 museum:museum sønderjylland (kunstmuseet i tønder):Q12327938
 museum:library of congress:Q131454
-museum:nypl: photography collection:Q19555
+museum:nypl: photography collection:Q219555
 museum:national trust, felbrigg hall:Q5441630
 museum:wichita art museum:Q7998113
 museum:the bowes museum:Q895434
@@ -5517,6 +6058,45 @@ museum:national portrait gallery uk:Q238587
 museum:j. paul getty museum:Q731126
 museum:national media museum:Q3054692
 museum:the whitaker:Q29470958
+museum:carnegie museum of art:Q1043967
+museum:courtauld institute of art:Q734266
+museum:fonds regional d'art contemporain (frac) bourgogne:Q3075898
+museum:fotomuseum winterthur:Q1350100
+museum:hirshhorn museum and sculpture garden:Q1620553
+museum:indianapolis museum of art:Q1117704
+museum:los angeles county museum of art:Q1641836
+museum:san diego museum of art:Q1368166
+museum:serralves foundation museum of contemporary art:Q1954380
+museum:wadsworth atheneum museum of art:Q403080
+museum:fotomuseum winterthur, winterthur, switzerland:Q1350100
+museum:städel museum, frankfurt/main, germamy:Q163804
+museum:museet for samtidskunst / museum of contemporary art, roskilde, denmark:Q7369018
+museum:queensland art gallery / gallery of modern art, brisbane, australia:Q19917343
+museum:wexner center, ohio state university, columbus, oh, usa:Q2527311
+museum:musée d´art contemporain de montréal, montreal, canada:Q2235294
+museum:centre georges pompidou - musée national d’art moderne, paris, france:Q178065
+museum:fonds national d’art contemporain, france:Q3075877
+museum:frac - picardie, amiens, france:Q3075898
+museum:frac – bretagne, châteaugiron, france:Q3075898
+museum:frac - bourgogne, dijon, france:Q3075898
+museum:tate, london, uk:Q430682
+museum:fogg art museum, cambridge, ma, uk:Q809600
+museum:whitney museum of american art, new york, ny, usa:Q639791
+museum:university art museum university at albany, state university of new york, ny, usa:Q16982578
+museum:moma - museum of modern art, new york, ny, usa:Q188740
+museum:albright-knox art gallery, new york, ny, usa:Q1970945
+museum:national gallery of art, washington, wa, usa:Q214867
+museum:carnegie museum, pittsburgh, pa, usa:Q2263119
+museum:moca grand avenue, los angeles, ca, usa:Q1134646
+museum:los angeles county museum of art, los angeles, ca, usa:Q1641836
+museum:michael c. carlos museum of emory university, atlanta, ga, usa:Q6829008
+museum:ball state university art gallery, muncie, in, usa:Q805122
+museum:paseo, lima / punta del este:Q101932962
+museum:cass sculpture foundation, goodwood °:Q2342140
+museum:owletts, kent:Q15979224
+museum:chartwell, kent:Q1067909
+museum:the argory, county armagh:Q17861948
+museum:quarry bank mill, cheshire:Q7269204
 cemetery:santi bonifacio e alessio (roma):Q1076439
 cemetery:катедралата на трани:Q513023
 cemetery:catedral de winchester:Q476529
@@ -5556,6 +6136,8 @@ cemetery:bazilika superga:Q1145261
 cemetery:žiče charterhouse (''seitz''):Q995126
 cemetery:{{coord:XXX
 cemetery:ústřední hřbitov v brně:Q11088399
+cemetery:モンマルトル墓地:Q746647
+cemetery:<!-- may be used instead of resting_place and resting_place_coordinates (displays "burial place" as label) -->:XXX
 actor:carole lombard:Q207739
 actor:firdha razak:Q12482971
 actor:parker posey:Q204586
@@ -5691,6 +6273,13 @@ actor:sydney deane:Q7659895
 actor:tully marshall:Q2063267
 actor:gertrude claire:Q275104
 actor:alec b. francis:Q2068010
+actor:richard bird:Q7324170
+actor:jaiden kaine:Q24204656
+actor:isis kr\xc3\xbcger:Q1673985
+actor:thomas stiller:Q2427469
+actor:peter hommen:Q95838213
+actor:andreas schmidt:Q102678
+actor:isis krüger:Q1673985
 mountainrange:southern oregon cascades:Q28790552
 mountainrange:oregon coast range:Q2029517
 source:nieuw nederlandsch biografisch woordenboek. deel 3:Q1989413
@@ -5952,6 +6541,16 @@ source:kb:Q1526131
 source:österreichisches musiklexikon online:Q96943184
 source:cv:XXX
 source:wbis, vorlage:XXX
+source:lcauth (ohne lebensdaten):XXX
+source:selibr:XXX
+source:bnf catalogue général:XXX
+source:internet (stand: 31.07.2020)::XXX
+source:lcauth, vorlage:XXX
+source:b 1996:XXX
+source:locauth:XXX
+source:dnb:XXX
+source:kürschner gelehrte (2005):Q1797292
+source:lc auth:XXX
 olympics:1984 summer:Q8456
 olympics:1988 summer:Q8470
 film:''un homme est passé'':Q963045
@@ -7580,7 +8179,7 @@ occupation:germanists:Q2599593
 occupation:chanteur:Q177220
 occupation:graaf van tirol:Q1409420
 occupation:historička umění:Q1792450
-occupation:stredoskolsti ucitele:Q10511368
+occupation:stredoskolsti ucitele:Q5758653
 occupation:1981):XXX
 occupation:german:XXX
 occupation:francouzská psychoterapeutka:Q1900167
@@ -7674,7 +8273,7 @@ occupation:1897):XXX
 occupation:pédagogue:Q37226
 occupation:humoriste:Q12406482
 occupation:bibliophile:Q18120029
-occupation:středoškolský pedagog:Q10511368
+occupation:středoškolský pedagog:Q5758653
 occupation:nizozemská profesorka filozofie:Q4964182
 occupation:kunstschilder:Q1028181
 occupation:lid gedeputeerde staten van drenthe (1814-1861):Q82955
@@ -7748,7 +8347,7 @@ occupation:publikace z oboru:XXX
 occupation:ecrivain:Q36180
 occupation:filozof:Q4964182
 occupation:formed:XXX
-occupation:gymnasiallehrer:Q10511368
+occupation:gymnasiallehrer:Q5758653
 occupation:kunsthistoricus/onderzoeker:Q1792450
 occupation:učitelka jógy:Q2600526
 occupation:classical hornist:Q19729565
@@ -9055,7 +9654,7 @@ occupation:musicologue:Q14915627
 occupation:dramaturge:Q214917
 occupation:humbolt state university:XXX
 occupation:drehbuchautor:Q28389
-occupation:vysokoskolske ucitelky:Q10511368
+occupation:vysokoskolske ucitelky:Q5758653
 occupation:football biography:Q937857
 occupation:spécialiste des arts martiaux:Q11124885
 occupation:leading actor:Q33999
@@ -9446,7 +10045,7 @@ occupation:storico della filosofia:Q24265174
 occupation:pedagožka:Q37226
 occupation:referendaris departement van justitie (1815-1861):Q382887
 occupation:naturaliste:Q18805
-occupation:politolog:Q123857
+occupation:politolog:Q1238570
 occupation:personen zu handel, dienstleistung:XXX
 occupation:museumbeheerder:Q22132694
 occupation:wissenschaftler:Q901
@@ -10745,6 +11344,375 @@ occupation:self-described:XXX
 occupation:만화가漫划傢:Q1114448
 occupation:scénariste de bandes dessinées:Q11892507
 occupation:americký vědec:Q901
+occupation:český výtvarník:Q3391743
+occupation:narozen 15:XXX
+occupation:czech graphic designer:Q627325
+occupation:umělec:Q483501
+occupation:éducateur:Q974144
+occupation:dublin:XXX
+occupation:kensington:XXX
+occupation:university of new south wales:XXX
+occupation:australia:XXX
+occupation:napier university:XXX
+occupation:edimbourg:XXX
+occupation:kostümbild:Q1323191
+occupation:americký gastroenterolog:Q19280221
+occupation:drummer:Q386854
+occupation:marktforscher:Q19768301
+occupation:bratislava:XXX
+occupation:poitiers:XXX
+occupation:scenarzysci:Q28389
+occupation:sydney:XXX
+occupation:kovářství:Q838566
+occupation:m.a.:XXX
+occupation:teacher of economics:Q188094
+occupation:worked as a national and international civil servant:Q212238
+occupation:dacca:XXX
+occupation:bangladesh:XXX
+occupation:swedish-american accordion player:Q1863064
+occupation:april 25:XXX
+occupation:americký profesor managementu:Q89000321
+occupation:wirtschaftswissenschaftlerin:Q188094
+occupation:bochum:XXX
+occupation:allemagne (en 2000):XXX
+occupation:house painter:Q288728
+occupation:hospitality worker:Q87714331
+occupation:ecrit aussi en français:Q36180
+occupation:collaborateur-artistique:Q4797184
+occupation:argentina:XXX
+occupation:in 1940:XXX
+occupation:acteur britannique:Q33999
+occupation:welsh actor:Q33999
+occupation:wales:XXX
+occupation:disbanded:XXX
+occupation:german schlager singer:Q73802176
+occupation:literarni vedci:Q17167049
+occupation:spécialiste de la littérature:Q17167049
+occupation:španělský sociolog:Q2306091
+occupation:lingvista:Q14467526
+occupation:french balalaïka player:Q56418646
+occupation:작가 사람 作傢:Q36180
+occupation:무대 감독舞儓监督:Q3455803
+occupation:scénographe:Q2707485
+occupation:costumière:Q1323191
+occupation:dramatikerin:Q214917
+occupation:regisseurin:Q3455803
+occupation:autrice:Q36180
+occupation:scenographe:Q2707485
+occupation:costumiere:Q1323191
+occupation:restauratorin:Q2145981
+occupation:restauratrice:Q2145981
+occupation:agrarwissenschaftlerin:Q1781198
+occupation:line up:XXX
+occupation:singapour:XXX
+occupation:německý léčitel:Q2518689
+occupation:průmyslový poradce:Q15978655
+occupation:allemagne (en 2004):XXX
+occupation:universität regensburg:XXX
+occupation:germanisci:Q2599593
+occupation:utah (en 1991):XXX
+occupation:brigham young university:XXX
+occupation:syracuse university:XXX
+occupation:professeur de lettres modernes:Q17167049
+occupation:classical cello player:Q13219637
+occupation:celliste:Q13219637
+occupation:francouzská violoncellistka:Q13219637
+occupation:gambistka:Q19760296
+occupation:amerikansk skådespelare:Q33999
+occupation:filmer från 1992:XXX
+occupation:ausführender produzent:Q1053574
+occupation:en skrywer:Q36180
+occupation:flat list:XXX
+occupation:produttore cinematografico:Q3282637
+occupation:배우:Q33999
+occupation:scenarioschrijver:Q28389
+occupation:skuespiller:Q33999
+occupation:reżyser:Q3455803
+occupation:american conceptual artist:Q21550489
+occupation:pennsylvania:XXX
+occupation:wissenschaftshistoriker:Q16063546
+occupation:münich:XXX
+occupation:new jersey:XXX
+occupation:a écrit aussi en français:Q36180
+occupation:anglais:XXX
+occupation:vědec:Q901
+occupation:matematico:Q170790
+occupation:antiquaire:Q5697103
+occupation:university and college administrators:Q21281706
+occupation:earth scientists:Q11424604
+occupation:british classical clarinetist:Q118865
+occupation:metteur-en-scene:Q3387717
+occupation:newcastle upon tyne polytechnic:XXX
+occupation:grande bretagne:XXX
+occupation:specjalisci historii starozytnej:Q201788
+occupation:americký klasický filolog:Q16267607
+occupation:columbia university:XXX
+occupation:narozen 5:XXX
+occupation:fotografické publikace:Q33231
+occupation:fotografs:Q33231
+occupation:fotogrāfs:Q33231
+occupation:americký matematik:Q170790
+occupation:ingénieur électricien:Q1326886
+occupation:finland:XXX
+occupation:a finnish poet:Q49757
+occupation:översättare:Q333634
+occupation:litteraturvetare:Q17167049
+occupation:finn. literaturwiss.:Q17167049
+occupation:rhône:XXX
+occupation:médecin obstétricien:Q13638192
+occupation:jean:XXX
+occupation:paul:XXX
+occupation:francouzský profesor lékařství:Q3400985
+occupation:isère:XXX
+occupation:membre de l'académie de médecine:XXX
+occupation:biologiste français.:Q864503
+occupation:enseignante en droit:Q63860448
+occupation:pianisci:Q486748
+occupation:교수 대학 敎授:Q3400985
+occupation:profesor biblistiky:Q19829990
+occupation:createur-son:Q639669
+occupation:german actress:Q33999
+occupation:fotograficy:Q33231
+occupation:bildjournalist:Q957729
+occupation:casting:Q1049296
+occupation:sonstiges:XXX
+occupation:université de californie:XXX
+occupation:prof. of mechanical engineering at ensta:Q101333
+occupation:britská autorka literárních adaptací:Q61875042
+occupation:együttes:XXX
+occupation:1997:XXX
+occupation:groupe de hard-rock:XXX
+occupation:성리학자性理学者:Q2920595
+occupation:lettré confucéen:Q9397505
+occupation:professeur de sciences de l'éducation:Q1231865
+occupation:mainz:XXX
+occupation:johannes gutenberg universität:XXX
+occupation:1994):XXX
+occupation:textile artist:Q10694573
+occupation:tapestry weaver:Q21117684
+occupation:wandtapijtwever:Q21117684
+occupation:american trumpet player:Q12377274
+occupation:uk multi-instrumentalist:Q1327329
+occupation:based in london:XXX
+occupation:the city university of new york:XXX
+occupation:homme de radio:Q2722764
+occupation:french writer:Q36180
+occupation:political activist:Q11499147
+occupation:rundfunkjournalist:Q24705156
+occupation:نووسەر:Q36180
+occupation:نویسنده:Q36180
+occupation:詩人:Q49757
+occupation:писател:Q36180
+occupation:fotografin:Q33231
+occupation:modeschöpferin:Q3501317
+occupation:filmeditorin:Q7042855
+occupation:kamerafrau:Q1208175
+occupation:fashion designers:Q3501317
+occupation:a traduit du français en allemand:Q333634
+occupation:francouzská fotografka:Q33231
+occupation:módní návrhářka:Q3501317
+occupation:překladatelka:Q333634
+occupation:modedesignerin:Q3501317
+occupation:photographin:Q33231
+occupation:chirurgien des hôpitaux de paris:Q774306
+occupation:1928:XXX
+occupation:1962:XXX
+occupation:chirurgiens:Q774306
+occupation:trance producer:Q3922505
+occupation:dancehall artist:Q483501
+occupation:record producer:Q183945
+occupation:libretiste:Q8178443
+occupation:dramatici:Q214917
+occupation:kubánský dramatik:Q214917
+occupation:geografove:Q901402
+occupation:rakouská hudební skupina:XXX
+occupation:muzeja kuratore:Q674426
+occupation:muzejní kurátorka:Q50551079
+occupation:mākslas vēsturniece:Q1792450
+occupation:american violinist:Q1259917
+occupation:latvia:XXX
+occupation:when:XXX
+occupation:chanteuse de dance music:Q177220
+occupation:assoc. prof.:Q3400985
+occupation:george mason univ.:XXX
+occupation:fairfax:XXX
+occupation:a vocalist:Q2643890
+occupation:britský vokalista:Q2643890
+occupation:rap musicians:Q2252262
+occupation:hudebnici:Q639669
+occupation:hardcoreproducer:Q3922505
+occupation:diskjockey:Q130857
+occupation:professeur d'études chinoises:Q15255771
+occupation:hebrew university of jerusalem:XXX
+occupation:sacerdotes:Q42603
+occupation:profesores:Q3400985
+occupation:biblisci:Q19829990
+occupation:연구원 연구자 硏究员:Q1650915
+occupation:rédacteur au:Q17351648
+occupation:financial times:XXX
+occupation:funny:XXX
+occupation:f:XXX
+occupation:don:XXX
+occupation:1995:XXX
+occupation:spanish singer:Q177220
+occupation:ecrit aussi en italien:Q36180
+occupation:puis secrétaire:Q80687
+occupation:membre:XXX
+occupation:profeseur de droit:Q63860448
+occupation:appears as liner notes translator:Q333634
+occupation:francouzská překladatelka z němčiny:Q333634
+occupation:spécialiste en gestion:Q89000321
+occupation:americký pedagog:Q37226
+occupation:německý paleontolog:Q1662561
+occupation:instalation artist:Q18074503
+occupation:an experimental musician:Q639669
+occupation:e:XXX
+occupation:dramaturdzy:Q214917
+occupation:narozen 1976:XXX
+occupation:teatrolog:Q214917
+occupation:dramaturgist:Q214917
+occupation:theatre researcher:Q10379007
+occupation:photographe allemande:Q33231
+occupation:city university of new york:XXX
+occupation:autor prací z oboru filozofie:Q4964182
+occupation:infektologove:Q11494960
+occupation:prague:XXX
+occupation:république tchèque:XXX
+occupation:tag team wrestler:Q27978698
+occupation:singles wrestler, tag team wrestler:Q27978698
+occupation:1950-:XXX
+occupation:švýcarský kanovník:Q1104153
+occupation:vikář:Q193364
+occupation:infektolog:Q11494960
+occupation:mikrobiolog:Q3779582
+occupation:verwaltungswissenschaftler:Q11626095
+occupation:professeur d'administration publique:Q11626095
+occupation:chercheur à l'institut international sur la politique comparée:Q1650915
+occupation:university of pittsburgh:XXX
+occupation:suisse (en 1989):XXX
+occupation:sociologists:Q2306091
+occupation:sociologove:Q2306091
+occupation:kultursoziologe:Q61831758
+occupation:2007:XXX
+occupation:autriche:XXX
+occupation:nizozemský mědirytec:Q13365770
+occupation:professeurs duniversite:Q1622272
+occupation:nauczyciele akademiccy:Q1622272
+occupation:duchowienstwo katolickie:Q250867
+occupation:directeur de these:Q363802
+occupation:chanoine honoraire:Q1104153
+occupation:americký výzkumný pracovník:Q1650915
+occupation:architecte-paysager:Q2815948
+occupation:vrije universiteit:XXX
+occupation:maker (textile artist / fashion designer):Q10694573
+occupation:agrégé de physique appliquée:Q169470
+occupation:historien des sciences:Q16063546
+occupation:filólogos:Q13418253
+occupation:jezykoznawcy:Q14467526
+occupation:chercheur océanographe:Q3546255
+occupation:malarze:Q1028181
+occupation:il:XXX
+occupation:is a composer:Q36834
+occupation:nebraska:XXX
+occupation:역사학자历史学者:Q201788
+occupation:vesturnieks:Q201788
+occupation:bibliotekas direktors:Q63970319
+occupation:connecticut:XXX
+occupation:vēsturnieks:Q201788
+occupation:bibliotēkas direktors:Q63970319
+occupation:pasniedzējs:Q37226
+occupation:철학자哲学者:Q4964182
+occupation:veterinář:Q202883
+occupation:práce z oboru filozofie:Q4964182
+occupation:malířství:Q1028181
+occupation:전문가:Q381160
+occupation:electrical engineers:Q1326886
+occupation:allemagne (en 1992):XXX
+occupation:german singer:Q177220
+occupation:archeoloog:Q3621491
+occupation:historické práce:Q201788
+occupation:1941:XXX
+occupation:2019:XXX
+occupation:informatycy:Q82594
+occupation:profesor humboldtovy univerzity:Q1622272
+occupation:조각가:Q1281618
+occupation:일러스트레이터:Q644687
+occupation:영상예술가:Q3391743
+occupation:조각가㓮刻傢:Q1281618
+occupation:일러스트레이터illustrator:Q644687
+occupation:illustrateurs:Q644687
+occupation:artistes:Q483501
+occupation:paris 7:XXX
+occupation:francouzský doktor humanitních věd:Q16727193
+occupation:altistin:Q177220
+occupation:classical alto vocalist:Q2643890
+occupation:pěvkyně - altistka:Q177220
+occupation:종교인宗敎人:Q2259532
+occupation:종교인:Q2259532
+occupation:교수:Q37226
+occupation:1987):XXX
+occupation:paris 3:XXX
+occupation:docteur en études anglaises:Q16308156
+occupation:1987:XXX
+occupation:britský doktor filozofie:Q4964182
+occupation:autor prací z oblasti dětské neurologie:Q783906
+occupation:filmer från 1971:XXX
+occupation:directeur de la photographie américain:Q222344
+occupation:americký kameraman:Q222344
+occupation:direttore della fotografia:Q222344
+occupation:撮影監督:Q222344
+occupation:촬영 감독:Q222344
+occupation:diretor de fotografia:Q222344
+occupation:кинооператор:Q222344
+occupation:сша:XXX
+occupation:xxi века:XXX
+occupation:klavesinists:Q5371902
+occupation:harpsichordists:Q5371902
+occupation:ergelnieks:Q765778
+occupation:cembalist:Q5371902
+occupation:claveciniste:Q5371902
+occupation:görüntü yönetmeni:Q222344
+occupation:klavesīnists:Q5371902
+occupation:ērģelnieks:Q765778
+occupation:harpsichordist:Q5371902
+occupation:anglický hudebník (varhany:Q639669
+occupation:philologue classique:Q16267607
+occupation:italianist:Q61790670
+occupation:law teacher:Q63860448
+occupation:university of london:XXX
+occupation:school of oriental and african studies:XXX
+occupation:1903:XXX
+occupation:1903):XXX
+occupation:historien de l'église:Q1743122
+occupation:cirkevni historici:Q1743122
+occupation:historien de l'eglise:Q1743122
+occupation:francouzský dominikán:Q733786
+occupation:francouzská středoškolská pedagožka:Q5758653
+occupation:conservateur du patrimoine:Q2994440
+occupation:administrateur de société:Q16532929
+occupation:en 1899:XXX
+occupation:jura:XXX
+occupation:historien byzantiniste:Q26132815
+occupation:conseiller en numismatique:Q2004963
+occupation:dc:XXX
+occupation:professeur d'arabe:Q620573
+occupation:botaniste:Q2374149
+occupation:écrivain scientifique:Q3745071
+occupation:francouzský botanik:Q2374149
+occupation:autor vědeckých publikací:Q3745071
+occupation:geographers:Q901402
+occupation:1790:XXX
+occupation:1791:XXX
+occupation:imprimeur de la préfecture:Q175151
+occupation:bergingenieur:Q18524075
+occupation:ingénieur des mines:Q18524075
+occupation:ingénieur au corps des mines:Q18524075
+occupation:1953:XXX
+occupation:geologove:Q520549
+occupation:geolodzy:Q520549
+occupation:dulni inzenyri:Q18524075
+occupation:francouzský geolog:Q520549
+occupation:důlní inženýr:Q18524075
 type:inhabited place:Q486972
 type:ridge:Q740445
 type:peak:Q8502
@@ -10772,6 +11740,11 @@ movement:barok:Q3624106
 movement:رنسانس:Q4692
 movement:vertical-align:0:XXX
 movement:surrealisme:Q39427
+movement:ศิลปะคอนเซ็ปชวล:Q203209
+movement:dadaïsme:Q6034
+movement:surréalisme:Q39427
+movement:ダダイスム:Q6034
+movement:надреализам:Q39427
 function:apartment building:Q13402009
 commune:Lyon:Q456
 religion:catholicisme romain:Q1841
@@ -11797,6 +12770,90 @@ firstname:erling:Q472066
 firstname:ulrich:Q18011418
 firstname:maría:Q18088640
 firstname:buzz:Q16275129
+firstname:caleb:Q3650584
+firstname:i:XXX
+firstname:i.:XXX
+firstname:ian:Q18336315
+firstname:vivian:Q650494
+firstname:satoru:Q7426386
+firstname:悟:Q33251187
+firstname:lon:Q27681342
+firstname:ron:Q2165388
+firstname:syed:Q56630227
+firstname:joe:Q17862013
+firstname:lila:Q182861
+firstname:brett:Q19801832
+firstname:willibald:Q1738165
+firstname:karla:Q16430050
+firstname:gareth:Q15628901
+firstname:wendy:Q4018995
+firstname:pilar:Q1163454
+firstname:babette:Q787863
+firstname:karen:Q1221747
+firstname:wout:Q20651054
+firstname:maarten:Q1882274
+firstname:sandra:Q1474819
+firstname:alix:Q2837257
+firstname:kieran:Q20635295
+firstname:hart:Q16256892
+firstname:jay:Q19817029
+firstname:mel:Q4563684
+firstname:salomon:Q18421743
+firstname:amos:Q18216060
+firstname:dan:Q2487038
+firstname:dalibor:Q26775414
+firstname:lauri:Q1303231
+firstname:ennemond:Q19914595
+firstname:emmanuelle:Q1338465
+firstname:marvyn:Q91778580
+firstname:ameet:Q66263989
+firstname:adriana:Q374807
+firstname:ana:Q482671
+firstname:in:Q18125909
+firstname:detlef:Q1201205
+firstname:rolando:Q2163131
+firstname:mavis:Q10296732
+firstname:lauren:Q2274625
+firstname:lawrence:Q15635788
+firstname:edurne:Q4162696
+firstname:tommy:Q1272055
+firstname:william alfred:Q95404330
+firstname:nicolás:Q18066632
+firstname:imma:Q26791805
+firstname:jeremie:Q21032373
+firstname:uta:Q1770991
+firstname:jörg:Q1715186
+firstname:ellis:Q19688407
+firstname:armando:Q18177180
+firstname:rosita:Q4353945
+firstname:sumner:Q16281789
+firstname:eraldo:Q3731050
+firstname:geneviève:Q18188067
+firstname:gregor:Q18156264
+firstname:birgit:Q865198
+firstname:milind:Q102144658
+firstname:rachael:Q19830599
+firstname:alex:Q13258171
+firstname:ali:Q11905003
+firstname:kay:Q16568731
+firstname:klaus:Q15635230
+firstname:sebastian:Q4844560
+firstname:isabel:Q4218918
+firstname:günter:Q18401607
+firstname:vincent:Q4928254
+firstname:randolph:Q21485499
+firstname:wilfrid:Q18176270
+firstname:sol:Q12336325
+firstname:ain:Q12358419
+firstname:ჯონ:Q49254277
+firstname:zvonimir:Q2372503
+firstname:terrance:Q7703250
+firstname:joaquim josé:Q62128672
+firstname:jean-louis:Q18009544
+firstname:aline:Q18180444
+firstname:julien:Q2780036
+firstname:naphtali:Q77985502
+firstname:kamāl:Q1305584
 club:wellington olympic afc:Q3559228
 club:manawatu united:Q1811079
 club:{{cite web:XXX
@@ -13047,6 +14104,163 @@ lastname:slutzky:Q37452208
 lastname:dean:Q383113
 lastname:ozanam:Q21449866
 lastname:stern:Q21468509
+lastname:beneš:Q21450655
+lastname:neelon:Q37312924
+lastname:elliott:Q21449521
+lastname:tazreiter:Q72104417
+lastname:laws:Q16871935
+lastname:jones:Q59853
+lastname:blackstone:Q37562619
+lastname:fujishige:Q37439731
+lastname:hawkins:Q12790801
+lastname:brace:Q16860319
+lastname:duca:Q21450525
+lastname:doz:Q65102596
+lastname:samad:Q37306907
+lastname:hallerberg:Q100618010
+lastname:truett:Q20998128
+lastname:fairbairn:Q21509779
+lastname:steinmetz:Q21501732
+lastname:hofstetter:Q55168490
+lastname:dickens:Q16869553
+lastname:canciani:Q63439010
+lastname:armstrong:Q13627772
+lastname:sloan:Q20997920
+lastname:kloke:Q37198742
+lastname:miernik:Q65539798
+lastname:carrasco:Q16865394
+lastname:hartwieg:Q83354962
+lastname:dunlop:Q13408665
+lastname:crispini:Q100875207
+lastname:ultee:Q100888467
+lastname:levy:Q14626636
+lastname:goebel:Q21492311
+lastname:keele:Q37011848
+lastname:verzier:Q75039966
+lastname:mcgovern:Q6801398
+lastname:bochner:Q21482502
+lastname:<!-- pseudo, autre nom, nom de scène -->:XXX
+lastname:flanigan:Q1427092
+lastname:kerans:Q37265276
+lastname:watmough:Q7974743
+lastname:webster:Q21484845
+lastname:broer:Q15947868
+lastname:birchfield:Q37561728
+lastname:marini:Q21491363
+lastname:kusák:Q82005830
+lastname:farmer:Q5435709
+lastname:mange:Q37499805
+lastname:viljanen:Q38691685
+lastname:trillat:Q101001349
+lastname:simakov:Q4419457
+lastname:mccann:Q16876180
+lastname:mckenty:Q56225609
+lastname:lederlé:Q37451052
+lastname:bacigalupo:Q37099740
+lastname:butow:Q37181479
+lastname:talwalkar:Q101075067
+lastname:axisa:Q101083961
+lastname:gabriel:Q16267060
+lastname:gallegos:Q35659270
+lastname:kim:Q157414
+lastname:garz:Q56476230
+lastname:ossowski:Q27883543
+lastname:gaujal:Q101111448
+lastname:rider:Q28169216
+lastname:arditi:Q16148200
+lastname:pilbeam:Q2094892
+lastname:palombo:Q25114870
+lastname:urkiola:Q53865885
+lastname:mattens:Q101192271
+lastname:werner:Q18012370
+lastname:belshaw:Q16479874
+lastname:soupault:Q65113804
+lastname:hargreaves:Q41793125
+lastname:dorr:Q16869636
+lastname:baldocchi:Q37101522
+lastname:shewan:Q37286302
+lastname:kuhl:Q26001242
+lastname:panis:Q37493187
+lastname:dutton:Q28226010
+lastname:poe:Q16881297
+lastname:gordon:Q2701900
+lastname:striessnig:Q72105104
+lastname:viardot:Q24514422
+lastname:joffe:Q21448968
+lastname:massé:Q24805305
+lastname:lorenz:Q1870035
+lastname:oset:Q73031752
+lastname:ferrer:Q5445301
+lastname:veneziani:Q99672463
+lastname:ellis:Q21452033
+lastname:perreau:Q56540217
+lastname:geffray:Q66816158
+lastname:angeloch:Q102045416
+lastname:curten:Q83345386
+lastname:pegels:Q102047644
+lastname:buxton:Q13552129
+lastname:pez:Q65112112
+lastname:melter:Q37056504
+lastname:drozd:Q16833715
+lastname:stanley:Q2331622
+lastname:sanger:Q21484790
+lastname:lele:Q37554669
+lastname:mönch:Q1957962
+lastname:yocom:Q37494435
+lastname:marsh:Q16876476
+lastname:brandenberg:Q37118300
+lastname:braude:Q34999981
+lastname:farazmand:Q102186266
+lastname:emery:Q16275674
+lastname:gielen:Q36910941
+lastname:pfenninger:Q37472468
+lastname:stevens:Q1797561
+lastname:bernaerts:Q102218961
+lastname:schmitt:Q2246512
+lastname:lieberman:Q37009553
+lastname:love:Q15616682
+lastname:jacobs:Q1158566
+lastname:easson:Q5327554
+lastname:hertig:Q37108819
+lastname:mcnutt:Q21511160
+lastname:day:Q5242796
+lastname:wygant:Q37464491
+lastname:hieronymus:Q37032051
+lastname:silva:Q6327150
+lastname:stratford:Q20727133
+lastname:stephens:Q16473357
+lastname:turner:Q12804512
+lastname:samuelson:Q2219079
+lastname:hübner:Q1652067
+lastname:hübner:Q1652067
+lastname:markus:Q17516268
+lastname:seiler:Q28150673
+lastname:heiduk:Q66813551
+lastname:hearn:Q30433436
+lastname:canter:Q16865348
+lastname:tardy:Q23793569
+lastname:gaulejac:Q98209990
+lastname:wirz:Q21448166
+lastname:tasker:Q37005674
+lastname:rotgé:Q65113114
+lastname:james:Q12188082
+lastname:prensky:Q103982254
+lastname:sarv:Q50196897
+lastname:toll:Q35955562
+lastname:ricci:Q21493176
+lastname:boult:Q25114228
+lastname:tournade:Q65965941
+lastname:duval:Q21491525
+lastname:henriques:Q16870705
+lastname:boucharlat:Q104092265
+lastname:feuvrier:Q65103899
+lastname:hendy:Q5714065
+lastname:kinberg:Q16285446
+lastname:greg:Q18857387
+lastname:filipović:Q21451062
+lastname:pini:Q21509478
+lastname:habets:Q37431394
+lastname:blondel:Q20995853
 musician:mike rutherford:Q321092
 musician:adrian lee:Q4685177
 musician:anthony drennan:Q4772428
@@ -13077,6 +14291,59 @@ musician:''drummer'':XXX
 musician:''percussion'':XXX
 musician:''chorus'':XXX
 musician:d double e:Q29033346
+musician:bernd meinunger:Q471348
+musician:david brandes:Q123913
+musician:richard darbyshire:Q16193538
+musician:kenny thomas:Q6391227
+musician:andrew matheson:Q27862513
+musician:stein groven:Q11963256
+musician:casino steel (stein groven):Q11963256
+musician:dave vanian:Q2293089
+musician:roman jugg:Q7362023
+musician:dave vanian (vocals):Q2293089
+musician:roman jugg (guitars):Q7362023
+musician:rat scabies (drums):Q2527738
+musician:bryn merrick (bass):Q4980907
+musician:bertel abildgaard:Q12303300
+musician:charles vernon:Q2087495
+musician:easley blackwood:Q2644646
+musician:george vosburgh:Q16937992
+musician:jay friedman:Q6166622
+musician:john bruce yeh:Q6223639
+musician:rex martin:Q7319247
+musician:wilbur simpson:Q8000238
+musician:jason mendonca:Q6163103
+musician:peter theobald:Q16214232
+musician:peter theobalds:Q16214232
+musician:jason mendonça:Q6163103
+musician:laulu:XXX
+musician:kitara:XXX
+musician:!-- --:XXX
+musician:basso:XXX
+musician:rummut:XXX
+musician:small:XXX
+musician:(seit 2010):XXX
+musician:citation:XXX
+musician:maurice engelen:Q17189293
+musician:frank glover:Q964985
+musician:joey tartell:Q99673213
+musician:luke gillespie:Q19880014
+musician:mark buselli:Q101202349
+musician:rob dixon:Q2156017
+musician:jaroslav lenk:Q12024048
+musician:bernhard landauer:Q90528
+musician:johannes chum:Q1697369
+musician:marco ambrosini:Q346354
+musician:michael posch:Q11882373
+musician:norbert zeilberger:Q1997325
+musician:thomas wimmer:Q16934647
+musician:michael posch (director):Q11882373
+musician:darren white:Q3016553
+musician:yhtye:XXX
+musician:tietorivi:XXX
+musician:trumpetti:XXX
+musician:pasuuna:XXX
+musician:jq:Q85865807
 female person:ishak & rebeka:Q40520
 award:arthur c. clarke award:Q708830
 award:nagroda mythopoeic:Q243960
@@ -13159,6 +14426,36 @@ award:(1968):XXX
 award:fitxer:esp gran cruz merito militar (distintivo blanco) pasador.svg gran creu del mèrit militar amb distintiu blanc:Q35795612
 award:(1971):XXX
 award:!-- slegs noemenswaardiges --:XXX
+award:prix biguet:Q3404395
+award:ref:XXX
+award:cite web:XXX
+award:url = http::XXX
+award:~history:XXX
+award:biographies:XXX
+award:societies:XXX
+award:en:XXX
+award:steele prize:Q925929
+award:1979):XXX
+award:grand prix de poésie:Q1542729
+award:grand prix de poésie de l'académie française:Q1542729
+award:fr:XXX
+award:grand prix de littérature de la sgdl:Q3114792
+award:仮リンク:XXX
+award:grand prix national des lettres:Q3114808
+award:prix saint-simon:Q3405270
+award:prix pierre de régnier:Q56397940
+award:prix broquette-gonin (littérature):Q56285490
+award:!--:XXX
+award:awd:XXX
+award:award:XXX
+award:year:XXX
+award:title:XXX
+award:role:XXX
+award:name:XXX
+award:(optional) --:XXX
+award:academy award for best cinematography:Q131520
+award:prix aurel:Q87837395
+award:prix rené bardet:Q72739939
 director:Rouzbeh Rashidi:Q7371649
 director:Fred van der Kooij:Q54819875
 organization:association normande pour le progrès de l'agriculture, l'industrie, les sciences et arts:Q65963242
@@ -13228,6 +14525,11 @@ organization:académie des sciences morales et politiques:Q337543
 organization:the académie des sciences morales et politiques:Q337543
 organization:teekengenootschap pictura (dordrecht):Q2215695
 organization:association belge de photographie:Q55496328
+organization:société littéraire, historique et archéologique de lyon:Q46858575
+organization:académie des sciences, belles-lettres et arts de savoie:Q2822331
+organization:société préhistorique française:Q3488615
+organization:société de géographie:Q2297128
+organization:société géologique de france:Q1567296
 literature-genre:vampires:Q1425557
 literature-genre:magical realism:Q24205155
 literature-genre:(2),:XXX
@@ -13431,6 +14733,7 @@ literature-genre:into-movie:XXX
 literature-genre:social commentary:XXX
 literature-genre:angels:XXX
 literature-genre:literary fantasy:Q132311
+literature-genre:young-adult historical fantasy:Q603291
 music-genre:heavy metal:Q38848
 music-genre:speed metal:Q211723
 music-genre:アヴァンギャルド・ジャズ:Q790188
@@ -13472,6 +14775,20 @@ music-genre:space music:Q2342263
 music-genre:ポップ:Q37073
 music-genre:rock progressivo:Q49451
 music-genre:celtic rock:Q2662148
+music-genre:(none):XXX
+music-genre:punk:Q3071
+music-genre:,:XXX
+music-genre:death metal:Q483251
+music-genre:progressive metal:Q484344
+music-genre:blackened death metal:Q2599472
+music-genre:metal:Q38848
+music-genre:boom bap:Q529742
+music-genre:east coast hip hop:Q876171
+music-genre:hip hop:Q2529400
+music-genre:medieval:Q163775
+music-genre:classical:Q9730
+music-genre:ambient:Q193207
+music-genre:drone:Q650316
 film-genre:musikfilm:Q842256
 film-genre:family:Q1361932
 film-genre:adult:Q185529
@@ -13560,6 +14877,70 @@ genre:indie pop:Q842324
 genre:literary fiction:Q6647667
 genre:non-fiction:Q213051
 genre:autobiography:Q4184
+genre:reggae:Q9794
+genre:lovers rock:Q1872505
+genre:cite web:XXX
+genre:funk:Q164444
+genre:sophisti-pop:Q264289
+genre:synth pop:Q1298934
+genre:q37073:Q37073
+genre:sophistipop:Q264289
+genre:blue-eyed soul:Q885561
+genre:synthpop:Q1298934
+genre:new wave:Q187760
+genre:glam rock:Q76092
+genre:power pop:Q837837
+genre:glam punk:Q1123745
+genre:protopunk:Q27190
+genre:proto-punk:Q27190
+genre:ref name="allmusic.com":XXX
+genre:ref name="allmusic.com1":XXX
+genre:[http::XXX
+genre:www.allmusic.com:XXX
+genre:punk rock:Q3071
+genre:artist:XXX
+genre:gothic rock:Q485395
+genre:gothabilly:Q1538765
+genre:psychobilly:Q13627677
+genre:masculin:XXX
+genre:noise rock:Q181861
+genre:pop punk:Q487914
+genre:progressive metal:Q484344
+genre:death metal:Q483251
+genre:black metal:Q132438
+genre:blackened death metal:Q2599472
+genre:q2599472:Q2599472
+genre:metal progressif:Q484344
+genre:ref name="metallum":XXX
+genre:cita web:XXX
+genre:url=http::XXX
+genre:www.metal-archives.com:XXX
+genre:bands:XXX
+genre:progressive death metal:Q542971
+genre:blackened daith metal:Q2599472
+genre:progressive daith metal:Q484344
+genre:progressiv metal:Q484344
+genre:progressiv dødsmetal:Q542971
+genre:cytuj stronę:XXX
+genre:блэк-дэт-метал:Q2599472
+genre:jazz:Q8341
+genre:swing:Q203775
+genre:poésie:Q482
+genre:essai:Q35760
+genre:詩:Q482
+genre:dance-pop:Q211756
+genre:elektronik:Q9778
+genre:house:Q20502
+genre:elektronická hudba:Q9778
+genre:fiction:Q8253
+genre:spoken word:Q1428637
+genre:q2529400:Q2529400
+genre:hardcore hip hop:Q966564
+genre:q483251:Q483251
+genre:portret:Q134307
+genre:historiestukken:Q742333
+genre:dance:Q316930
+genre:elektro:Q217597
 art-genre:bloemstilleven:Q12303833
 art-genre:documentaire fotografie:Q615498
 art-genre:stillevens:Q170571
@@ -13643,6 +15024,12 @@ instanceof:pseudonym:Q5
 instanceof:artist:Q5
 instanceof:non_vocal_instrumentalist:Q5
 instanceof:group_or_band:Q215380
+instanceof:solo_singer:Q5
+instanceof:grupp_eller_band:Q215380
+instanceof:gruppe_eller_band:Q215380
+instanceof:grupo_o_banda:Q215380
+instanceof:grup sau orchestră:Q215380
+instanceof:band:Q215380
 county:klamath county, oregon:Q484388
 county:washington county, oregon:Q484538
 county:monmouth county, new jersey:Q502424
@@ -13853,6 +15240,15 @@ language:xxx:XXX
 language:angleški:Q1860
 language:francoski:Q150
 language:nemški:Q188
+language:češki:Q9056
+language:английский:Q1860
+language:slovenski:Q9063
+language:italijanski:Q652
+language:nizozemski:Q7411
+language:swahili:Q7838
+language:swa:Q7838
+language:španski:Q1321
+language:hrvaški:Q6654
 artist:savitsky, konstantin apollonovich:Q958052
 artist:maratti, carlo:Q538998
 artist:robertson, archibald:Q17747277
@@ -13950,6 +15346,8 @@ artist:delaunay, elie:Q745313
 artist:goebel, carl (1824-1899):Q1038315
 artist:giaquinto, corrado:Q740934
 artist:murray, john somerset:Q52157090
+artist:johannes itten:Q123138
+artist:picart, bernard:Q559929
 voice:sprechstimme:XXX
 voice:bass:Q27911
 voice:vocal:XXX
@@ -14768,6 +16166,63 @@ country:new zealander:Q664
 country:neozelandese:Q664
 country:los angeles:Q30
 country:czech republic:Q213
+country:cs:Q33946
+country:nova zelandija:Q664
+country:avstralija:Q408
+country:md:XXX
+country:bd:Q902
+country:পতাকা:XXX
+country:পাকিস্তান:Q843
+country:বাংলাদেশ:Q902
+country:bangladesh:Q902
+country:amsterdam:Q29999
+country:regno unito:Q145
+country:nigeria:Q1033
+country:kanadees:Q16
+country:canadese:Q16
+country:can1921:Q16
+country:drapeau2:XXX
+country:อเมริกัน.:Q30
+country:weimar republic:Q41304
+country:austria-hungary:Q28513
+country:polacco:Q36
+country:tunisian:Q948
+country:češka:Q213
+country:velika britanija:Q145
+country:eng:Q145
+country:한국(국명)[韓國]:Q18097
+country:korea:Q18097
+country:독일(국명)[獨逸]:Q183
+country:ekonom:XXX
+country:فەڕەنسی:Q142
+country:پرچم فرانسه:Q142
+country:французин:Q142
+country:allemande:Q183
+country:spojené:XXX
+country:영국(국명)[英國]:Q145
+country:north american indian%25255c%2c sioux:Q4421193
+country:stati uniti d'america:Q30
+country:slovenija:Q215
+country:milwaukee:Q30
+country:allemagne (république fédérale).:Q713750
+country:tsjechoslowakije:Q33946
+country:švica:Q39
+country:네덜란드(국명)[netherlands]:Q29999
+country:izrael:Q801
+country:ke:Q114
+country:케냐(국명)[kenya]:Q114
+country:우간다(국명)[uganda]:Q1036
+country:ug:Q1036
+country:španija:Q29
+country:polska.:Q36
+country:veterinář:XXX
+country:politolog:XXX
+country:프랑스 (파리):Q142
+country:캐나다(국명)[canada]:Q16
+country:pěvkyně:XXX
+country:estonian:Q191
+country:washington, d.c.:Q30
+country:algeria:Q262
 university:université paris 7:Q1235608
 university:university of michigan:Q230492
 university:university of texas at austin:Q49213
@@ -14961,38 +16416,64 @@ university:jyväskylän yliopisto:Q578326
 university:uppsala universitet:Q185246
 university:rensselaer polytechnic institute:Q49211
 university:california institute of technology:Q161562
+university:trinity college, dublin:Q258464
+university:hankuk university of foreign studies:Q208736
+university:university of california, san diego:Q622664
+university:university of saskatchewan:Q1514848
+university:bishop gore school:Q4917566
+university:universidade de santiago de compostela:Q1473677
+university:princeton university:Q21578
+university:university of ibadan:Q1169487
+university:university of south florida:Q500606
+university:bowling green state university:Q895457
+university:ba english literature, uc san diego:Q622664
+university:carnegie mellon university college of fine arts:Q5043948
+university:university of british columbia:Q391028
+university:university of new brunswick (canada):Q1112515
+university:oklahoma state university:Q2017355
+university:university of toronto:Q180865
+university:university of calgary:Q1067471
+university:école polytechnique fédérale de lausanne:Q262760
+university:stockholm university:Q221645
+university:bar-ilan university:Q1124657
+university:université de nice-sophia antipolis:Q1198571
+university:state university of new york, buffalo:Q681025
+university:swarthmore college:Q1378320
+university:bauhaus:Q124354
+university:berkeley:Q168756
+university:university of innsbruck:Q875788
+university:universität für angewandte kunst (wenen):Q877686
+university:staatliche kunstakademie (düsseldorf):Q662355
+university:clemson university:Q631066
+university:washington and jefferson college:Q7971641
+university:texas a&m university:Q49212
+university:ohio state university:Q309331
+university:university of florida, gainesville:Q501758
+university:florida atlantic university:Q429863
+university:university of minnesota, twin cities:Q238101
+university:university of london:Q170027
+university:kansas state university:Q31249
+university:purdue university:Q217741
+university:lehigh university:Q622137
+university:university of colorado, colorado springs:Q2495841
 work:lohengrin:Q23085
-work:recurrence-based time series analysis by means of complex network methods:Q63964890
 work:2. buch der chronik:Q209720
-work:''un homme est passé'':Q963045
-work:puranas.:Q188602
 work:de hebreeuwse bijbel:Q732870
 work:works by geoffrey of monmouth:Q238693
 work:living years:Q588311
 work:ägyptische helena:Q1220040
 work:csi:Q264198
-work:achtzigjährigen krieg:XXX
-work:the old man and the sea (john sturges):Q1198269
 work:the deuterocanonical books:Q201410
 work:ring des nibelungen:Q190237
-work:la corte aragonese di napoli:XXX
-work:de geschiedenis van de voc:XXX
-work:the slow professor : challenging the culture of speed in the academy:Q28859310
-work:la muerte de un burócrata:Q6466264
 work:1. buch der chronik:Q9813916
 work:2. buch samuel:Q209719
 work:l'ancien testament:Q19786
 work:tanakh:Q83367
 work:br:XXX
 work:woordeboek van die afrikaanse taal.:Q3643211
-work:ciudad y los perros:Q9019195
 work:!-- or::XXX
-work:physique nucléaire:Q81197
 work:götterdämmerung:Q272029
-work:superfamily phenomena and motifs of networks induced from time series:Q37018775
-work:complex network from pseudoperiodic time series: topology versus dynamics:Q51172322
 work:--:XXX
-work:inorganic chemistry:Q11165
 work:''la vie est un long fleuve tranquille'':Q638315
 work:''les petits mouchoirs'':Q1446504
 work:''cloclo'':Q2979521
@@ -15000,7 +16481,11 @@ work:''la french '':Q16314359
 work:''les amants diaboliques'':Q547226
 work:''les frissons de l'angoisse'':Q1516994
 work:''the day that went missing: a family's story'':Q65059471
-work:jojo rabbit:Q54862508
+work:!--皆が認める代表作品を入力--:XXX
+work:carmina burana:Q253716
+work:legends of the fall:Q913324
+work:gone baby gone:Q247182
+work:tropic thunder:Q380981
 label:arista records:Q664167
 label:atlantic (us:Q202440
 label:レコード:XXX
@@ -15045,6 +16530,33 @@ label:rhino (états-unis:Q56404384
 label:spinnin' records:Q2310883
 label:xenophile:Q8043649
 label:flatlist:XXX
+label:jet star:Q6188915
+label:chrysalis:Q1088453
+label:クリサリス:Q1088453
+label:chrysalis records:Q1088453
+label:nems:Q11883834
+label:mercury:Q165745
+label:cherry red:Q2494570
+label:mercury records:Q165745
+label:cherry red records:Q2494570
+label:polydor:Q155152
+label:peaceville:Q1465200
+label:earache:Q838544
+label:earache records:Q838544
+label:peaceville records:Q1465200
+label:owl:Q19944490
+label:''sic'':XXX
+label:zooland:Q220176
+label:hyperdub:Q2994824
+label:jive:Q27184
+label:naxos:Q1579196
+label:pneuma:Q7205953
+label:rainbow entertainment:Q7284620
+label:jvcケンウッド:Q1676719
+label:ビクターエンタテインメント:Q1202628
+label:connectone:Q30925723
+label:（jvcケンウッド:Q1676719
+label:ビクターエンタテインメント）:Q1202628
 gens:claudia:Q385338
 gens:pomponia:Q1363180
 gens:aemilia:Q380886
@@ -15816,6 +17328,11 @@ person:(annulled:XXX
 person:thandiswa mazwai:Q4348940
 person:léonor chabot, comte de charny et de buzancais:Q3271719
 person:gilbert gouffier, 3.duc de roannaz:Q16034253
+person:sir thomas whitmore, of apley, 1st baronet:Q7529308
+person:soupault, ré:Q2178652
+person:アポリネール:Q133855
+person:soupault, philippe:Q336467
+person:!--(or:XXX
 title:graaf van vianden:Q66051630
 title:graaf van hamaland:Q65660493
 title:duke of gniezno:Q166886
@@ -16093,6 +17610,8 @@ cemetary:sidon:Q163490
 cemetary:hollywood forever:Q1624932
 cemetary:mount sinai memorial park:Q6923684
 cemetary:groote kerk, rotterdam:Q17605773
+cemetary:westwood memorial park:Q1358639
+cemetary:cimetiere de montmartre:Q746647
 position:lid provinciale staten van gelderland:Q27334756
 position:könig (zypern):Q51778507
 position:assyrian king:Q28124026
@@ -16623,6 +18142,9 @@ position:vescovo di fano:Q611644
 position:profesor zwyczajny:Q11827483
 position:profesor:Q121594
 position:mučedník:Q6498826
+position:top album sales:XXX
+position:billboard japan hot 100:XXX
+position:billboard japan radio songs:XXX
 causedeath:natuurlijke dood (watersught):Q152234
 causedeath:ataque al corazón:Q12152
 causedeath:neumonía:Q12192
@@ -16828,6 +18350,43 @@ employer:università degli studi di modena e reggio emilia:Q1243705
 employer:universidad pontificia de salamanca:Q179501
 employer:universität konstanz:Q835440
 employer:institüt für germanistik, universität wien:Q74553694
+employer:university of new south wales, kensington, australie:Q734764
+employer:university of new south wales:Q734764
+employer:kyōto daigaku:Q336264
+employer:ōsaka daigaku:Q651233
+employer:university of the west of england:Q2002520
+employer:hertie school of governance:Q317156
+employer:university of southern california:Q4614
+employer:(non-resident fellow):XXX
+employer:universität bielefeld:Q24382
+employer:ruhr-universität, bochum, allemagne:Q309948
+employer:universidade de vigo:Q666916
+employer:universidad de málaga:Q958650
+employer:gemäldegalerie (berlin, ost):Q165631
+employer:university of minnesota. department of agricultural and applied economics:Q238101
+employer:weltbank:Q7164
+employer:(1991-):XXX
+employer:university of sheffield:Q823917
+employer:(2005-):XXX
+employer:radboud universiteit nijmegen:Q632004
+employer:the university of texas at austin:Q49213
+employer:columbia university, new york:Q49088
+employer:internationaler währungsfonds. european department:Q7804
+employer:institut national de recherche en informatique et en automatique:Q1146208
+employer:aix-marseille université:Q2302586
+employer:staatliches bauhaus weimar:Q124354
+employer:stiftung schleswig-holsteinische landesmuseen schloß gottorf:Q39695701
+employer:school for policy studies, univ. of bristol:Q459506
+employer:universität zürich:Q206702
+employer:universität salzburg. fachbereich anglistik und amerikanistik:Q27265
+employer:(assoziierte professorin):XXX
+employer:vrije universiteit amsterdam:Q1065414
+employer:(vorsitzender):XXX
+employer:universitätsbibliothek duisburg-essen:Q2496293
+employer:szkoła główna handlowa w warszawie:Q1394594
+employer:université de paris x: nanterre:Q1394262
+employer:ecole des mines (saint-etienne):Q3578252
+employer:(professor):XXX
 film-color:color:Q22006653
 filmmaker:park se-jong:Q22115074
 filmmaker:hugo ballin:Q3787466
@@ -16836,6 +18395,15 @@ filmmaker:oliver t. marsh:Q743092
 filmmaker:reginald barker:Q1751094
 filmmaker:letterboxd — your life in film:XXX
 filmmaker:justwatch:XXX
+filmmaker:j\xc3\xb6rg kalt:Q1432658
+filmmaker:jörg kalt:Q1432658
+filmmaker:tom tykwer:Q57231
+filmmaker:frank griebe:Q95805
+filmmaker:katja dringenberg:Q17493395
 filmcompany:goldwyn pictures:Q179922
 filmcompany:br:XXX
 filmcompany:goldwyn pictures corporation:Q179922
+filmcompany:filmakademie wien (wien):Q1414348
+muziekgenre:drum & bass:Q188994
+female-person:<!-- overrides mother and father parameters -->:XXX
+composer:tom tykwer:Q57231
