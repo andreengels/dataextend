@@ -216,9 +216,12 @@ family:piast:Q201615
 family:luxembourg:Q122293
 family:house of hesse:Q689115
 family:přemysl:Q287652
+family:howard acting:Q104213057
 male-person:johannes dou (i):Q15877072
 male-person:hendrik carré (i):Q5713854
 male-person:petrus christus i:Q312616
+male-person:crocker, charles frederick:Q5077841
+male-person:roman, jacob pietersz:Q4766256
 religious order:wageningen universiteit:XXX
 religious order:minoriten:Q692799
 religious order:[email protected]:XXX
@@ -246,6 +249,7 @@ rank:bestand:ss-oberscharführer.svg ss-oberscharführer:Q310732
 rank:oberst:Q3756713
 rank:capitaine:Q19100
 rank:fitxer:sp-06 general de brigada.svg general de brigada:Q91779224
+rank:oberleutnant:Q2673216
 dynasty:清:Q8733
 dynasty:明:Q9903
 mannerdeath:natuurlijke dood (watersught):Q3739104
@@ -254,6 +258,8 @@ mannerdeath:heart failure:Q3739104
 mannerdeath:ataque al corazón:Q3739104
 mannerdeath:natural causes:Q3739104
 mannerdeath:neumonía:Q3739104
+mannerdeath:enfermedades respiratorias:Q3739104
+mannerdeath:drowning:Q171558
 date:12 juni:Q2619
 date:18 juni:Q2670
 date:15 de junio:Q2613
@@ -500,6 +506,225 @@ scientist:xie, binglong:Q102338928
 scientist:yener, bulent:Q29259917
 scientist:joseph frederick traub:Q6283016
 scientist:krzysztof sikorski:Q83465536
+scientist:moses, ashley:Q102362308
+scientist:william buhmann johnson:Q2577912
+scientist:ashley n. moses:Q102362308
+scientist:kumar, mrinal:Q102759166
+scientist:kurt mehlhorn:Q90313
+scientist:günter ewald:Q1560446
+scientist:arbeiter, matthias:Q103234939
+scientist:gigliola staffilani:Q18706069
+scientist:paul gregory goerss:Q15839699
+scientist:paul g. goerss:Q15839699
+scientist:northwestern:XXX
+scientist:marc rosso:Q62936044
+scientist:mennuni, rosario:Q102110405
+scientist:hölzl, rupert:Q102429838
+scientist:klaus ambos-spies:Q102112814
+scientist:epstein, leah:Q102268605
+scientist:gutner, shai:Q102351167
+scientist:noga m. alon:Q92927
+scientist:lasoń, michał:Q102407333
+scientist:lenarcik, tomasz:Q102618306
+scientist:stasica, anna:Q102165276
+scientist:uw madison:XXX
+scientist:henry tye:Q1296057
+scientist:julian seymour schwinger:Q186465
+scientist:behunin, ryan:Q103353334
+scientist:camporesi, roberto:Q102195444
+scientist:cumming, nick:Q102315183
+scientist:eftekharzadeh, ardeshir:Q102315181
+scientist:galley, chad:Q102315182
+scientist:habib, salman:Q102315166
+scientist:ho, kwan-yuet:Q102399176
+scientist:hu, anzi:Q102315185
+scientist:matacz, andrew:Q102303961
+scientist:o'connor, denjoe:Q102315163
+scientist:pupillo, guido:Q64018762
+scientist:ramsey, stephen:Q102315172
+scientist:raval, alpan:Q102315170
+scientist:shen, tsung-chen:Q102314934
+scientist:shiokawa, kazutomu:Q102315173
+scientist:shresta, sanjiv:Q102315177
+scientist:sinha, kanu:Q102447108
+scientist:sinha, sukanya:Q102315169
+scientist:sprouse, chad:Q102315186
+scientist:stephens, gregory:Q102315176
+scientist:stylianapoulos, aris:Q102315168
+scientist:subasi, yigit:Q103353343
+scientist:john archibald wheeler:Q202631
+scientist:tullio regge:Q1394712
+scientist:salman habib:Q102315166
+scientist:university of maryland:XXX
+scientist:kanu sinha:Q102447108
+scientist:philip r johnson:Q102315175
+scientist:gregory j. stephens:Q102315176
+scientist:sanjiv shresta:Q102315177
+scientist:andrew j. skinner:Q102315180
+scientist:ardeshir eftekharzadeh:Q102315181
+scientist:chad r. galley:Q102315182
+scientist:ryan o. behunin:Q89031277
+scientist:anzi hu:Q102315185
+scientist:nicholas i. cummings:Q102315183
+scientist:chris h. fleming:Q102315184
+scientist:yigit subasi:Q103353343
+scientist:jonathan z. simon:Q47161635
+scientist:clinical affective neuroimaging laboratory:XXX
+scientist:pierre-emmanuel caprace:Q25894298
+scientist:raymond b. cranfill:Q21340306
+scientist:prof. dr. j. bruyn, universiteit van amsterdam:Q1708851
+scientist:ioannis rousochatzakis:Q57075252
+scientist:iowa state:XXX
+scientist:gregor wentzel:Q91669
+scientist:chicago:XXX
+scientist:rutgers, new brunswick:XXX
+scientist:michael turner (cosmologist):Q1372347
+scientist:snider, dale:Q103334067
+scientist:geoffrey foucar chew:Q376617
+scientist:léon c. p. van hove:Q726083
+scientist:agarwal, prarit:Q103245458
+scientist:nardoni, emily:Q103245435
+scientist:pal, sridip:Q95963832
+scientist:stergiou, andreas:Q50992398
+scientist:sudano, matthew:Q103245518
+scientist:wecht, brian:Q20873229
+scientist:cumrun vafa:Q1143841
+scientist:brian a. wecht:Q20873229
+scientist:edwin f. barnes:Q103245596
+scientist:matthew c. sudano:Q103245518
+scientist:andreas stergiou:Q50992398
+scientist:julie dee blum:Q103369255
+scientist:anthony french:Q573268
+scientist:cambridge:XXX
+scientist:edinburgh:XXX
+scientist:peter j. w. debye:Q103835
+scientist:eth zürich:XXX
+scientist:leon kaganovskiy:Q102346161
+scientist:henry a. boateng:Q62051849
+scientist:peter a. bosler:Q102409040
+scientist:zoltan ligeti:Q59673532
+scientist:weizmann institute:XXX
+scientist:tomer volansky:Q66100238
+scientist:yonit hochberg:Q96864041
+scientist:haim harari:Q873499
+scientist:dimitrios kominis:Q102649221
+scientist:vassilios koulovassilopoulos:Q102649209
+scientist:bogdan dobrescu:Q18977922
+scientist:baradhwaj panayancheri-coleppa:Q102648993
+scientist:arsham farzinnia:Q102648969
+scientist:pawin ittisamai:Q102648950
+scientist:howard m. georgi:Q951426
+scientist:coleppa, baradhwaj:Q102648993
+scientist:dichiara, stefano:Q102649013
+scientist:dobrescu, bogdan:Q18977922
+scientist:farzinnia, arsham:Q102648969
+scientist:ittisamai, pawin:Q102648950
+scientist:kominis, dimitrios:Q102649221
+scientist:koulovassilopoulos, vassilios:Q102649209
+scientist:howard mason georgi, iii:Q951426
+scientist:naama barkai:Q21196050
+scientist:rockefeller:XXX
+scientist:marileen dogterom:Q21264363
+scientist:université paris-sud, orsay:XXX
+scientist:michael b. elowitz:Q6830114
+scientist:calin c. guet:Q88592314
+scientist:yuichi wakamoto:Q89428355
+scientist:erik winfree:Q5388915
+scientist:thomas surrey:Q28773351
+scientist:roy kishony:Q66087927
+scientist:pierre-gilles de gennes:Q187224
+scientist:zhi-cheng yang:Q60398521
+scientist:xiao-gang wen:Q2514375
+scientist:eduardo hector fradkin:Q30513259
+scientist:grebogi, celso:Q15429334
+scientist:allan n. kaufman:Q102114828
+scientist:mark b. wise:Q1770175
+scientist:caltech:XXX
+scientist:agnew, alfonso:Q102192412
+scientist:barrett, johnner:Q102415336
+scientist:boersma, stuart:Q102183288
+scientist:hickethier, don:Q102368040
+scientist:wangberg, aaron:Q102340992
+scientist:rainer kurt sachs:Q1489211
+scientist:gerard 't hooft:Q184592
+scientist:rainer k. sachs:Q1489211
+scientist:rainer sachs:Q1489211
+scientist:alben, silas:Q7514135
+scientist:fast, petri:Q102188046
+scientist:huang, jinzi:Q103291837
+scientist:huang, yi-hong:Q102188051
+scientist:lushi, enkeleida:Q50236075
+scientist:spagnolie, saverio:Q96765966
+scientist:wlodarski, krzysztof:Q102188045
+scientist:gregory richard baker:Q102079459
+scientist:chris m. bouchard:Q86629948
+scientist:john benjamin kogut:Q1700732
+scientist:case western:XXX
+scientist:litvak, alexander:Q4263554
+scientist:carrasco, john joseph:Q56722328
+scientist:chalmers, gordon:Q102392524
+scientist:dennen, tristan:Q102419290
+scientist:rozowsky, joel:Q37390171
+scientist:martin brent halpern:Q102112063
+scientist:john j. carrasco:Q56722328
+scientist:tristan l. dennen:Q102419290
+scientist:martin b. halpern:Q102112063
+scientist:frank j. tackmann:Q33615889
+scientist:sourav k. mandal:Q63993563
+scientist:tokyo university, ipmu:XXX
+scientist:hironari miyazawa:Q563068
+scientist:university of tokyo:XXX
+scientist:hirotaka sugawara:Q1620298
+scientist:!-- 博士課程指導学生 --:XXX
+scientist:!-- 博士課程指導教員 --:XXX
+scientist:guang-hong chen:Q57847880
+scientist:feng-li lin:Q68707483
+scientist:yijing wu:Q89920359
+scientist:james hough:Q6136272
+scientist:joshua levin:Q67487196
+scientist:iva susan greenwald:Q85940999
+scientist:paul w. sternberg:Q55778919
+scientist:ronald e ellis:Q41529107
+scientist:junying yuan:Q15893961
+scientist:harvard & mit:XXX
+scientist:scott g clark:Q57714197
+scientist:shai shaham:Q87419436
+scientist:yi-chun wu:Q56481269
+scientist:tory g. herman:Q9619627
+scientist:gillian stanfield:Q46713857
+scientist:peter w. reddien:Q88073376
+scientist:melissa m harrison:Q89694778
+scientist:erik c. andersen:Q57159442
+scientist:shunji nakano:Q77373092
+scientist:victor ambros:Q983858
+scientist:andrew d. chisholm:Q42602483
+scientist:barbara conradt:Q21255101
+scientist:yishi jin:Q78210842
+scientist:erik jorgensen:Q57413029
+scientist:joshua m. kaplan:Q88008569
+scientist:michael r. koelle:Q42356909
+scientist:niels ringstad:Q57339778
+scientist:skirball institute, nyu school of medicine:XXX
+scientist:gary ruvkun:Q504021
+scientist:gian garriga:Q88397797
+scientist:cori bargmann:Q5042508
+scientist:dengke k. ma:Q61089107
+scientist:matthias c truttmann:Q57329979
+scientist:walter gilbert:Q217486
+scientist:james d. watson:Q83333
+scientist:sydney brenner:Q234463
+scientist:mrc-lmb:XXX
+scientist:sternberg, paul:Q55778919
+scientist:epfl:XXX
+scientist:ibm research laboratory - rüschlikon:XXX
+scientist:ajoy kapat:Q59942529
+scientist:laurent chabaud:Q60332444
+scientist:universität bern:XXX
+scientist:ciril jimeno:Q60483973
+scientist:eoin m. scanlan:Q54646107
+scientist:dieter seebach:Q91415
+scientist:marye anne fox:Q6781172
+scientist:prof. dr. j.c. matthes, universiteit van amsterdam:Q67198253
 commonwealth-games:1986:Q1116471
 commonwealth-games:1990:Q1116512
 commonwealth-games:2006:Q659207
@@ -523,9 +748,18 @@ film-occupation:writer:Q28389
 film-occupation:actor:Q33999
 film-occupation:animation department:Q266569
 film-occupation:coloană sonoră:Q639669
+film-occupation:costume and wardrobe department:Q1323191
+film-occupation:kostymérská:Q1323191
+film-occupation:scriitor:Q28389
+film-occupation:producätor:Q3282637
+film-occupation:mulå£umiri:XXX
 ethnicity:white:Q235155
 ethnicity:<!-- ethnicity should be supported with a citation from a reliable source -->:XXX
 ethnicity:漢族:Q42740
+ethnicity:russian:Q49542
+ethnicity:american:XXX
+ethnicity:americann:Q846570
+ethnicity:hispanic:Q1211934
 subject:théologie dogmatique:Q938714
 subject:kimija organiska:Q11351
 subject:koroška:Q2300043
@@ -697,7 +931,7 @@ subject:krška škofija:Q254887
 subject:미학:Q35986
 subject:neurovývojovými poruchami:Q3450985
 subject:childrens literature:Q131539
-subject:syphiligraphie.:Q41083
+subject:syphiligraphie:Q41083
 subject:disabled people:Q15978181
 subject:privacy:Q188728
 subject:politische wissenschaft:Q36442
@@ -819,7 +1053,7 @@ subject:series de television:Q5398426
 subject:educacion:Q8434
 subject:filozofija:Q5891
 subject:oblasti emergentní psychoterapie:Q183257
-subject:littérature médicale.:Q5977147
+subject:littérature médicale:Q5977147
 subject:hegel:Q9235
 subject:littérature fantastique:Q132311
 subject:information and communication, circuits:Q5628834
@@ -1245,6 +1479,302 @@ subject:arabe:Q13955
 subject:edicion:Q3972943
 subject:engineering:Q11023
 subject:geologia:Q1069
+subject:statni sprava:Q11771944
+subject:statni rozpocet:Q271855
+subject:media:Q11033
+subject:lidsky kapital:Q165687
+subject:rozpočet:Q41263
+subject:lidské zdroje:Q5467169
+subject:právo:Q7748
+subject:média:Q11033
+subject:geographie:Q1071
+subject:harmonic analysis on euclidean spaces:Q17295
+subject:functional analysis:Q190549
+subject:영어 교육英語敎毓:Q1860
+subject:langue et littérature celtique:Q25293
+subject:klawesyn:Q81982
+subject:homeopatickou léčbu:Q81058
+subject:homéopathie:Q81058
+subject:knihovnictvo:Q199655
+subject:etnografia:Q132151
+subject:bibliografia:Q134995
+subject:éthique chrétienne:Q2665156
+subject:기독교基督敎:Q5043
+subject:기독교:Q5043
+subject:americka poezie:Q3099146
+subject:popular music:Q373342
+subject:krytyka muzyczna:Q11748889
+subject:protestantismo:Q23540
+subject:protestantisme:Q23540
+subject:kaplanstwo:Q10366773
+subject:astronomia:Q333
+subject:podroze:Q61509
+subject:kompozycja muzyka:Q207628
+subject:duchowienstwo:Q177826
+subject:астрономия:Q333
+subject:música:Q638
+subject:music research:Q164204
+subject:geneeskunde:Q11190
+subject:linguistics language:Q8162
+subject:measure and integration:Q15614122
+subject:applied mathematics:Q33521
+subject:algebraic topology:Q212803
+subject:manifolds and cell complexes:Q203920
+subject:associative rings and algebras:Q2030545
+subject:scenografia:Q737201
+subject:teatr:Q11635
+subject:영화:Q16144339
+subject:literatura angielska:Q186579
+subject:english language:Q1860
+subject:children's stories:Q131539
+subject:childrens stories illustrations:Q21156438
+subject:childrens stories:Q131539
+subject:아동 문학:Q131539
+subject:디자인:Q82604
+subject:komparatistik:Q834903
+subject:langues et littératures classiques:Q841090
+subject:book cover art:Q1125338
+subject:영미 문학:Q186579
+subject:anglican church music:Q4763552
+subject:law--history:Q680004
+subject:historia de américa:Q690256
+subject:calendar:Q12132
+subject:dějinami měst:Q28747937
+subject:réthorique:Q81009
+subject:several complex variables and analytic spaces:Q4751141
+subject:geometry:Q8087
+subject:철학:Q5891
+subject:platonists:Q193589
+subject:philosophy ancient:Q204100
+subject:philosophy, ancient:Q204100
+subject:études classiques:Q439072
+subject:dějin filozofie:Q27654
+subject:pedagog:Q7922
+subject:medievalistika:Q119190
+subject:histoire médiévale:Q27992545
+subject:elementary particles and high energy physics:Q43116
+subject:physics:Q413
+subject:gravitational theory:Q11412
+subject:quantum coherence:Q193147
+subject:information theory:Q131222
+subject:muzyka klezmerska:Q212944
+subject:muzyka amerykanska:Q2267955
+subject:식품 공학食品工学:Q6631525
+subject:사회 복지社会福祉:Q12002092
+subject:동물학动物学:Q431
+subject:동물학:Q431
+subject:사회 복지:Q66306401
+subject:식품 공학:Q6631525
+subject:music composition:Q207628
+subject:topological groups, lie groups:Q1046291
+subject:mamalogía:Q183904
+subject:entomología:Q39286
+subject:botanik:Q441
+subject:conopidae:Q591730
+subject:diptera:Q25312
+subject:heteroptera:Q27191
+subject:lepidoptera:Q28319
+subject:coleoptera:Q22671
+subject:hymenoptera:Q22651
+subject:의학医学:Q11190
+subject:aptiekas:Q13107184
+subject:의학:Q11190
+subject:teaching:Q352842
+subject:curatorship:Q63386008
+subject:biblistika:Q794605
+subject:california flora:Q105130934
+subject:botanical history:Q2495041
+subject:1870:XXX
+subject:1945:XXX
+subject:przemysl wlokienniczy:Q607081
+subject:piano:Q5994
+subject:paläontologie:Q7205
+subject:clinique médicale:Q1774898
+subject:과학 학문 科学:Q336
+subject:출판:Q3972943
+subject:과학:Q336
+subject:editing:Q194105
+subject:oblasti dětské oftalmologie:Q7159228
+subject:oční klinika:Q101471265
+subject:oftalmologie:Q161437
+subject:detska oftalmologie:Q7159228
+subject:패션:Q12684
+subject:언론:Q17502905
+subject:패션fashion:Q12684
+subject:arqueología:Q23498
+subject:littérature américaine:Q233762
+subject:vergelijkende literatuurwetenschap:Q834903
+subject:radiochemia:Q750955
+subject:금융金融:Q43015
+subject:경제 경제학 経济:Q8134
+subject:경제:Q159810
+subject:금융:Q43015
+subject:la grèce antique:Q11772
+subject:oceanography:Q43518
+subject:hydrography:Q182468
+subject:fishery sciences:Q1420050
+subject:biology:Q420
+subject:inzynieria mechaniczna:Q101333
+subject:aerosol:Q104541
+subject:bibliotekoznawstwo:Q199655
+subject:stredoveka literatura:Q963619
+subject:literarni historie:Q6497044
+subject:불교仏敎:Q748
+subject:불교:Q748
+subject:asyrologia:Q156859
+subject:socialni dejiny:Q908604
+subject:analýzu vody:Q105542499
+subject:sanitární techniku:Q67415125
+subject:středověké umění:Q3624153
+subject:condensed matter physics:Q214781
+subject:electricity and magnetism physics:Q11406
+subject:천문학天㒚学:Q333
+subject:물리학物理学:Q413
+subject:천문학:Q333
+subject:물리학:Q413
+subject:dejiny vedy:Q201486
+subject:dejiny fyziky:Q212881
+subject:dějiny vědy:Q201486
+subject:la littérature française:Q6689
+subject:particle physics:Q18334
+subject:theory physics:Q18362
+subject:nuclear physics:Q81197
+subject:physique théorique:Q18362
+subject:synthetic biology:Q862838
+subject:systems biology:Q815297
+subject:زیست‌شناسی دستگاه‌ها:Q815297
+subject:فیزیک:Q413
+subject:زیست‌شناسی مصنوعی:Q862838
+subject:high energy theory:Q350265
+subject:mathematical physics:Q156495
+subject:acoustics physics:Q82811
+subject:만화:Q1004
+subject:tiesibu zinatne:Q4932206
+subject:human rights:Q8458
+subject:constitutionalism:Q1194747
+subject:politics and public administration:Q31728
+subject:veřejné právo:Q207892
+subject:občanskou svobodu:Q29556
+subject:lidská práva:Q8458
+subject:trestní řízení:Q146071
+subject:tiesību zinātne:Q4932206
+subject:history study and teaching:Q1066186
+subject:antisemitism:Q22649
+subject:cosmology:Q338
+subject:!-- 研究分野 --:XXX
+subject:物理学:Q413
+subject:!-- 主な業績 --:XXX
+subject:elementary particle physics:Q43116
+subject:이탈리아 문학:Q74217
+subject:이탈리아 문학 㒚学:Q74217
+subject:교육:Q8434
+subject:histoire ancienne du proche orient:Q269678
+subject:psychiatria:Q7867
+subject:pédagogie:Q7922
+subject:archeologia:Q23498
+subject:la grèce:Q41
+subject:ornitologia:Q44703
+subject:divadelni veda:Q960543
+subject:shakespearova dramata:Q2724880
+subject:biblioteconomía y documentación:Q199655
+subject:historia contemporánea:Q186075
+subject:histoire contemporaine:Q186075
+subject:prehistoria:Q11756
+subject:religionistikou:Q34187
+subject:mezinárodními vztahy:Q166542
+subject:politickou filozofií:Q179805
+subject:etikou:Q9465
+subject:konfliktem:Q180684
+subject:lidskými právy:Q8458
+subject:burvju triki:Q45999579
+subject:alternative medizin:Q188504
+subject:문학 예술 㒚学:Q8242
+subject:문학:Q8242
+subject:bibliothéconomie:Q199655
+subject:literatura porownawcza:Q834903
+subject:ecuador history:Q926416
+subject:ecuador--history:Q926416
+subject:zarzuela:Q148163
+subject:opereta:Q170384
+subject:musica:Q638
+subject:littérature portugaise:Q548144
+subject:간호학看护学:Q3475757
+subject:간호학:Q3475757
+subject:botanique:Q441
+subject:glyptique:Q929254
+subject:spanelske malirstvi:Q86364859
+subject:restauratorstvi:Q217102
+subject:historia sztuki:Q50637
+subject:droit international à l:Q4394526
+subject:로맨스소설:Q858330
+subject:로맨스소설:Q858330
+subject:سینما:Q590870
+subject:translating and interpreting:Q7553
+subject:oriental languages:Q2030542
+subject:latin language:Q397
+subject:languages modern:Q1288568
+subject:음악 예술 音乐:Q638
+subject:muzikologie:Q164204
+subject:음악:Q638
+subject:pediatrie:Q123028
+subject:gynekologie:Q1221899
+subject:detska gynekologie:Q25091402
+subject:pédiatrie:Q123028
+subject:anglicka literatura:Q186579
+subject:정보 통신情報通伩:Q5268834
+subject:컴퓨터:Q68
+subject:정보 통신:Q11661
+subject:영어 영문학英語英㒚学:Q186579
+subject:여성학女性学:Q170912
+subject:영어 영문학:Q186579
+subject:여성학:Q35069
+subject:videjie austrumi politika un parvalde:Q49001362
+subject:starptautiskas attiecibas:Q166542
+subject:starptautiskās attiecības:Q166542
+subject:vidējie austrumi -- politika un pārvalde:Q49001362
+subject:young adult fiction:Q1233720
+subject:biography:Q36279
+subject:authorship:XXX
+subject:verejny sektor:Q294217
+subject:svetova ekonomika:Q473750
+subject:soukromy sektor:Q591763
+subject:atlantismus:Q388698
+subject:traduccion e interpretacion:Q7553
+subject:filosofia:Q5891
+subject:brazilian literature:Q849186
+subject:과학사 역사 科学史:Q201486
+subject:과학사:Q201486
+subject:জীববিজ্ঞান:Q420
+subject:apoptosis research:Q14599311
+subject:زیست‌شناسی:Q420
+subject:アポトーシス:Q14599311
+subject:биология:Q420
+subject:celična biologija:Q7141
+subject:razvojna biologija:Q213713
+subject:raziskave apoptoze:Q14599311
+subject:حیاتیات:Q420
+subject:استماتت:Q14599311
+subject:sinh học:Q420
+subject:bioloogia:Q420
+subject:生物学:Q420
+subject:细胞凋亡研究:Q14599311
+subject:인테리어 디자인interior design:Q179232
+subject:architecture:Q12271
+subject:인테리어 디자인:Q179232
+subject:syphiligraphie.:Q41083
+subject:littérature médicale.:Q5977147
+subject:archeologia srodziemnomorska:Q1669589
+subject:fiction:Q8253
+subject:journalisme:Q11030
+subject:vie artistique et littéraire:XXX
+subject:enseignement:Q352842
+subject:chant:Q27939
+subject:traduction:Q7553
+subject:bibliothèque:Q7075
+subject:diplomatie:Q1889
+subject:buchgeschichte:Q998434
+subject:historie vzácných knih:Q203490
+subject:godgeleerdheid:Q34178
 city:فرنسا:Q142
 city:st.gillis-dendermonde:Q898394
 city:cziffer, hongrie:Q1020250
@@ -1252,7 +1782,7 @@ city:batenburg, wijchen, gelderland,netherlands:Q2891187
 city:blaenavon, monmouthshire, pays de galles, {{royaume-uni}}:Q804282
 city:montfaucon, besançon, franche-comté:Q518781
 city:nottingham:Q41262
-city:oakland, calif.:Q17042
+city:oakland, calif:Q17042
 city:ムルシダーバード:Q1017175
 city:uithoorn:Q33510004
 city:oxford, oh:Q990940
@@ -1268,7 +1798,7 @@ city:lincoln, nebraska, {{états-unis}}:Q28260
 city:erfurt:Q1729
 city:århus:Q25319
 city:bradford (england, united kingdom):Q22905
-city:birmingham, alabama, u.s.:Q79867
+city:birmingham, alabama, u.s:Q79867
 city:toulouse, haute-garonne (31), france:Q7880
 city:liverpool, england, uk:Q24826
 city:mount vernon, new york:Q835831
@@ -1336,7 +1866,7 @@ city:harpenden, gb:Q19785
 city:breslau (dolnośla̜skie, poland):Q1799
 city:harwich (massachusetts):Q971430
 city:east orange (n.j.):Q988515
-city:charlottesville, va.:Q123766
+city:charlottesville, va:Q123766
 city:highlands, nc usa:Q2025093
 city:strasbourg, bas-rhin (67), france:Q6602
 city:cassandrea:Q81045
@@ -1344,11 +1874,11 @@ city:santpoort, noord-holland, netherlands:Q1955776
 city:pouilly-les-feurs:Q1116353
 city:huntington, west virginia:Q241808
 city:tunica, mississippi, usa:Q658447
-city:jacksonville, florida, u.s.:Q16568
+city:jacksonville, florida, u.s:Q16568
 city:newton, massachusetts, usa:Q49196
 city:london (england):Q84
 city:dorénaz/vallese (schweiz):Q68487
-city:chicago, ill.:Q1297
+city:chicago, ill:Q1297
 city:domodossola (piemont):Q23325
 city:armonk, ny:Q688830
 city:ternate:Q333483
@@ -1390,7 +1920,7 @@ city:reinhausen (allemagne):Q2141277
 city:new york city, new york, \xc9tats-unis:Q60
 city:portugal:Q45
 city:نیویورک:Q60
-city:zagreb.:Q1435
+city:zagreb:Q1435
 city:ukraine (europe):Q212
 city:assen:Q49280472
 city:sluis:Q2065987
@@ -1422,7 +1952,7 @@ city:wenen:Q1741
 city:philadelphia county:Q496900
 city:sint-petersburg (rusland):Q656
 city:newark, new jersey, usa:Q25395
-city:guilford, conn.:Q753857
+city:guilford, conn:Q753857
 city:par&iacute;s:Q90
 city:cremona:Q6231
 city:wesel am rhein, duitsland:Q4011
@@ -1488,7 +2018,7 @@ city:mori (south tyrol):Q296217
 city:dorsten:Q3886
 city:mulhouse (france):Q79815
 city:marburg, hessen-nassau, deutschland:Q3869
-city:new brunswick, n.j.:Q138338
+city:new brunswick, n.j:Q138338
 city:trieste (italie):Q546
 city:cincinnati (hamilton county, ohio, united states):Q43196
 city:bristol (royaume-uni):Q23154
@@ -1501,7 +2031,7 @@ city:مصر القديمة:Q11768
 city:łódź:Q580
 city:portogruaro:Q47143
 city:london:Q84
-city:milano.:Q490
+city:milano:Q490
 city:b&acirc;le (suisse):Q78
 city:japan:Q17
 city:champlain (clinton county, new york state, united states):Q692297
@@ -1513,7 +2043,7 @@ city:santa fe, nouveau mexique, \xc9tats-unis:Q38555
 city:denver:Q16554
 city:yonkers, new york:Q128114
 city:belfort (bourgogne-franche-comté, france):Q171545
-city:mexico, mexique.:Q1489
+city:mexico, mexique:Q1489
 city:barrahuys:Q17412927
 city:huntington (w. va.):Q241808
 city:kyoto (kyōto, japan):Q34600
@@ -1562,6 +2092,16 @@ city:deir el-medina:Q750212
 city:uppsala:Q25286
 city:beverly hills, california:Q127856
 city:san giovanni valdarno (arezzo):Q52097
+city:oakland, calif.:Q17042
+city:birmingham, alabama, u.s.:Q79867
+city:charlottesville, va.:Q123766
+city:jacksonville, florida, u.s.:Q16568
+city:chicago, ill.:Q1297
+city:zagreb.:Q1435
+city:guilford, conn.:Q753857
+city:new brunswick, n.j.:Q138338
+city:milano.:Q490
+city:mexico, mexique.:Q1489
 city:clermont-ferrand, puy-de-d&#244:Q42168
 city:zurzach:Q64186
 city:limburg a. d. lahn:Q16026
@@ -2585,7 +3125,6 @@ city:bleiswijk:Q883690
 city:altensteig:Q157967
 city:springfield (illinois):Q28515
 city:southend-on-sea (southend-on-sea, united kingdom):Q203995
-city:charlottesville, va:Q123766
 city:stuttgart, allemagne:Q1022
 city:albany (albany county, new york state, united states):Q24861
 city:berne:Q70
@@ -4320,7 +4859,6 @@ city:heřmanměstec:Q1617117
 city:kalisz:Q52842
 city:hüfingen:Q83132
 city:mississippi, usa:Q1494
-city:zagreb:Q1435
 city:washington:Q61
 city:long island (staat new york):Q18438
 city:emden:Q4174
@@ -4510,7 +5048,6 @@ city:the bronx:Q18426
 city:charlotte, n.c.:Q16565
 city:londra:Q84
 city:livonia, michigan, united states:Q853552
-city:milano:Q490
 city:nizza:Q33959
 city:alençon, orne (61), france:Q181269
 city:ню йорк, сащ:Q60
@@ -5532,6 +6069,2516 @@ city:parís):Q90
 city:liège (belgique):Q3992
 city:oudtshoorn cape, south africa:Q951049
 city:saint-étienne:Q42716
+city:seregno, italie:Q40813
+city:chieti, italie:Q13138
+city:us, tx, fort worth:Q16558
+city:lamboing:Q66844
+city:saint-imier:Q66390
+city:orvin:Q67016
+city:villeneuve (zwitserland):Q69972
+city:vevey (vaud, switzerland):Q68160
+city:bienne:Q1034
+city:biel:Q1034
+city:sao paulo:Q174
+city:canton de vaud, suisse:Q12771
+city:kölliken:Q68106
+city:ag:XXX
+city:rohrbachgraben:Q67246
+city:be:XXX
+city:zollikon:Q22658040
+city:kaboul:Q5838
+city:paris (75), france:Q90
+city:andhra pradesh, inde:Q1159
+city:dulwich (londen):Q146766
+city:zuiderwoude:Q3576261
+city:broek:Q2127947
+city:houten:Q33446293
+city:gorinchem (netherlands):Q33439227
+city:legnano:Q42782
+city:varese:Q6285
+firstname:vaughn:Q4009024
+firstname:sveta:XXX
+firstname:sergej:Q18946707
+firstname:emile:Q17623487
+firstname:jason:Q2630093
+firstname:riccardo:Q15720880
+firstname:rob:Q1795088
+firstname:teodoro:Q15885216
+firstname:binse:Q66798542
+firstname:steve:Q18336566
+firstname:roy:Q2170752
+firstname:séraphin:Q3511103
+firstname:marion:Q18686588
+firstname:balthasar:Q18190444
+firstname:francesco:Q2268455
+firstname:dalton:Q13634227
+firstname:francesca:Q2695945
+firstname:manfredo:Q17525018
+firstname:jerome:Q647875
+firstname:cody:Q16542780
+firstname:bruno:Q1874605
+firstname:pedro:Q15897419
+firstname:hedy:Q19967613
+firstname:felícitas:Q18012404
+firstname:1942:XXX
+firstname:hieronymus:Q18180930
+firstname:egbert:Q3720286
+firstname:edward:Q278835
+firstname:alberto:Q16799105
+firstname:lodewijk:Q5039608
+firstname:hermann:Q1158570
+firstname:lord:XXX
+firstname:nasiruddin:Q65640392
+firstname:jakob:Q16747395
+firstname:queen:XXX
+firstname:augustin:Q18398186
+firstname:viliam:Q1282843
+firstname:g&ouml;ran:Q1559427
+firstname:frederic:Q16275883
+firstname:rodolphus:Q7357234
+firstname:berend:Q17522398
+firstname:elisabeth:Q17524931
+firstname:jacob:Q25999604
+firstname:clemens:Q18180166
+firstname:kazuo:Q1737568
+firstname:laura:Q429948
+firstname:olaf:Q3881452
+firstname:andre:Q16274896
+firstname:louis:Q2897866
+firstname:joel:Q588700
+firstname:f:XXX
+firstname:michael:Q4927524
+firstname:herbert:Q4926833
+firstname:girolamo:Q1527012
+firstname:p:XXX
+firstname:eustace:Q18915235
+firstname:joscelin:Q63399478
+firstname:harry:Q668885
+firstname:lisa:Q1588186
+firstname:guy:Q1159023
+firstname:bernardus:Q19370861
+firstname:leonardo:Q18220847
+firstname:vincenzo:Q16741113
+firstname:lloyd:Q13478831
+firstname:claudia:Q2936353
+firstname:tashi:Q20001544
+firstname:heinz:Q11682369
+firstname:cornelis:Q850449
+firstname:franc:Q15303979
+firstname:ladislav:Q1160233
+firstname:richeza:Q65122443
+firstname:étienne:Q15727982
+firstname:colin:Q495635
+firstname:maurits:Q8315038
+firstname:amedee:Q482154
+firstname:melvin:Q3854316
+firstname:carlo:Q4205426
+firstname:andré:Q6298851
+firstname:victor:Q539581
+firstname:poul:Q2106710
+firstname:sue:Q16281769
+firstname:simeon:Q1557
+firstname:richard:Q1249148
+firstname:mikuláš:Q19692512
+firstname:édouard:Q221774
+firstname:anton:Q5401576
+firstname:bernhard:Q221978
+firstname:frank:Q220546
+firstname:hazelton:Q91765679
+firstname:emily:Q18121477
+firstname:susanna:Q14936808
+firstname:giambattista:Q18341958
+firstname:philippe:Q15727189
+firstname:christian:Q18001597
+firstname:christophe:Q16274785
+firstname:melissa:Q830357
+firstname:therese:Q18177305
+firstname:v:XXX
+firstname:damien:Q18552173
+firstname:gilles:Q2700518
+firstname:leo:Q606764
+firstname:gladys:Q13422277
+firstname:tvrtko:Q7857380
+firstname:lilla:Q830177
+firstname:dora:Q987115
+firstname:hanzo:Q56561638
+firstname:octave:Q18001648
+firstname:luis:Q2598693
+firstname:fred:Q913073
+firstname:guillaume de:Q18190448
+firstname:adolf:Q18145837
+firstname:1843:XXX
+firstname:k:XXX
+firstname:duncan:Q18915230
+firstname:1847:XXX
+firstname:pellegrino:Q16280543
+firstname:pasquale:Q18204128
+firstname:arent:Q15888090
+firstname:olivier:Q16280379
+firstname:pascual:Q18204275
+firstname:bob:Q18105736
+firstname:gene:Q19802209
+firstname:margot:Q1895358
+firstname:rafael:Q16424000
+firstname:raffaele:Q18184582
+firstname:marc:Q17520944
+firstname:pushpendra:Q66894239
+firstname:carl:Q2529610
+firstname:akihiko:Q4700908
+firstname:julie:Q15725563
+firstname:lucas:Q12325000
+firstname:maurizio:Q1158848
+firstname:franz:Q4925932
+firstname:léon:Q17781870
+firstname:hermanus:Q1290839
+firstname:arie:Q18326155
+firstname:florence:Q950780
+firstname:angelo:Q18814789
+firstname:aldo:Q2305904
+firstname:andreas:Q4926263
+firstname:noël:Q19688263
+firstname:russell:Q14816494
+firstname:eugène:Q18012535
+firstname:hatto:Q40201357
+firstname:lluis:Q21282985
+firstname:césare:Q18341985
+firstname:leopoldo:Q18559561
+firstname:erwin:Q16747215
+firstname:adolphe:Q365625
+firstname:landgrave:XXX
+firstname:israel:Q19819746
+firstname:jeanlouis:Q18916826
+firstname:сафія:Q2302787
+firstname:leonard:Q948418
+firstname:babu:Q16274994
+firstname:ambrogio:Q18551920
+firstname:amelia:Q461718
+firstname:iii:XXX
+firstname:yves:Q1920728
+firstname:agustín:Q17486172
+firstname:g:XXX
+firstname:henri:Q1605665
+firstname:julius:Q1102114
+firstname:véronique:Q17496626
+firstname:reynaldo:Q21285963
+firstname:luigi:Q4245067
+firstname:nina:Q1508902
+firstname:maximilian:Q18133228
+firstname:phoebe:Q4848819
+firstname:henry:Q1158477
+firstname:cathryn:Q16947202
+firstname:ernest:Q595105
+firstname:gijsbertus:Q18762226
+firstname:rufus:Q605821
+firstname:renato:Q348946
+firstname:gaston:Q18086818
+firstname:kenneth:Q2492643
+firstname:edna:Q746548
+firstname:götz:Q19819805
+firstname:renate:Q17561028
+firstname:konrad:Q18156186
+firstname:françois:Q1166840
+firstname:enrique:Q681468
+firstname:dennis:Q639292
+firstname:lodovico:Q19830582
+firstname:nicolaas:Q17518680
+firstname:stanislao:Q19688976
+firstname:hugo:Q1242555
+firstname:lesley:Q18658557
+firstname:antoine:Q15235674
+firstname:edmund:Q401836
+firstname:brian:Q15930574
+firstname:hyacinthe:Q3143564
+firstname:marieanne:Q19689737
+firstname:granville:Q19870795
+firstname:dominicus:Q20968145
+firstname:sabine:Q18182622
+firstname:de:XXX
+firstname:sicco:Q65826008
+firstname:elizabeth:Q385468
+firstname:max:Q16422172
+firstname:hersch:Q66095816
+firstname:ronald:Q2532287
+firstname:helmut:Q18191106
+firstname:1887:XXX
+firstname:domenico:Q1765453
+firstname:comino:Q64989420
+firstname:a:XXX
+firstname:danny:Q17863942
+firstname:jens:Q2246251
+firstname:susan:Q14936243
+firstname:sylvain:Q16281827
+firstname:octavia:Q28734646
+firstname:martina:Q4963627
+firstname:dirk jacobsz:Q1605531
+firstname:gerard:Q1261347
+firstname:hassan:Q16276444
+firstname:kurt:Q1158489
+firstname:ida:Q644599
+firstname:edwin:Q240931
+firstname:michel:Q14626626
+firstname:serge:Q13415966
+firstname:elie:Q3587713
+firstname:guiomar:Q62092258
+firstname:zacharias:Q20174193
+firstname:hugh:Q839387
+firstname:emmanuel:Q18001873
+firstname:burkard:Q19967796
+firstname:helena:Q1035239
+firstname:virendra:Q42318257
+firstname:hindrik:Q21143550
+firstname:jordi:Q17523812
+firstname:georg:Q1985538
+firstname:wouter:Q18611510
+firstname:charlene:Q786923
+firstname:warren:Q2256715
+firstname:johann:Q11122389
+firstname:le:XXX
+firstname:roemer:Q65589181
+firstname:wallace:Q2542509
+firstname:edouard:Q19688398
+firstname:gerald:Q2131007
+firstname:jim:Q15868042
+firstname:antonius:Q16898983
+firstname:bolesław:Q19819786
+firstname:hendrik:Q1158181
+firstname:lewis:Q768196
+firstname:dermot:Q1200261
+firstname:stephen:Q4927100
+firstname:etienne:Q18180827
+firstname:jacobo:Q19688634
+firstname:eugene:Q545971
+firstname:earl:Q8933847
+firstname:prosper:Q17711245
+firstname:valentina:Q13589249
+firstname:lambert:Q492730
+firstname:wolfgang:Q2589157
+firstname:edmond:Q12788174
+firstname:jorden:Q24045788
+firstname:fern:Q1406445
+firstname:bryan:Q3894860
+firstname:damascenus:Q65952217
+firstname:jean-pierre:Q6169840
+firstname:james:Q677191
+firstname:gerrit:Q1514735
+firstname:gautier:Q19914643
+firstname:joannes:Q18638754
+firstname:furio:Q537566
+firstname:ingrid:Q903741
+firstname:sterling:Q16291072
+firstname:harm:Q2021163
+firstname:liesbeth:Q18108390
+firstname:edgardo:Q1284293
+firstname:steven:Q17501985
+firstname:charlaine:Q68891040
+firstname:jeffrey:Q13028078
+firstname:bradley:Q538847
+firstname:alejandro:Q1707169
+firstname:jacobus:Q15921890
+firstname:doug:Q18533467
+firstname:fredrick:Q21147789
+firstname:maximilien:Q19688708
+firstname:rex:Q1517287
+firstname:ernie:Q19816583
+firstname:marcia:Q1464882
+firstname:maffeo:Q3843047
+firstname:robert:Q4927937
+firstname:keno:Q20002208
+firstname:douglas:Q463035
+firstname:daniel:Q14516546
+firstname:sperindio:Q73517033
+firstname:paulus:Q18760932
+firstname:judith:Q5954149
+firstname:everett:Q19828983
+firstname:fernando:Q18115751
+firstname:benjamin:Q4926472
+firstname:oskar:Q18145769
+firstname:gonzalo:Q19901997
+firstname:jacopo:Q12044861
+firstname:clarence:Q3373079
+firstname:timothy:Q15885954
+firstname:pieter:Q1237447
+firstname:romano:Q18182625
+firstname:coen:Q20830189
+firstname:frans:Q3480175
+firstname:lucantonio:Q86901432
+firstname:amato:Q18547869
+firstname:euphemia:Q992341
+firstname:dirk:Q1605531
+firstname:randall:Q16280793
+firstname:philip:Q827311
+firstname:jeremias:Q659150
+firstname:godfrey:Q19828531
+firstname:montague:Q21079652
+firstname:isidore:Q16868223
+firstname:barbara:Q153957
+firstname:chiara:Q942786
+firstname:ivor:Q20025095
+firstname:david:Q18057751
+firstname:volker:Q1576766
+firstname:archibald:Q19767773
+firstname:gordon:Q18402571
+firstname:w:XXX
+firstname:daisy:Q4472145
+firstname:rudolf:Q18028491
+firstname:kuno:Q19967528
+firstname:maggie:Q1625970
+firstname:wybe:Q62757260
+firstname:valentino:Q19819809
+firstname:matthias:Q4927273
+firstname:rené:Q2624417
+firstname:rachel:Q935489
+firstname:gianfrancesco:Q18130785
+firstname:elder:Q18210883
+firstname:pablo:Q2045138
+firstname:george:Q15921732
+firstname:gertrude:Q509729
+firstname:reinier:Q7310389
+firstname:tito:Q6147511
+firstname:deanne:Q55739455
+firstname:alfred:Q3480335
+firstname:tom:Q3354498
+firstname:adélard:Q27922404
+firstname:lucrezia:Q18196477
+firstname:gilbert:Q1675463
+firstname:john:Q4925477
+firstname:paolo:Q15731774
+firstname:mikael:Q15620350
+firstname:saint:XXX
+firstname:tommaso:Q15654302
+firstname:martinus:Q17520926
+firstname:ramzi:Q60589646
+firstname:pavel:Q43082565
+firstname:albert:Q577011
+firstname:alan:Q294833
+firstname:aurelio:Q2484382
+firstname:jordan:Q14021944
+firstname:eugeen:Q51045851
+firstname:helen:Q13376892
+firstname:osvaldo:Q18190931
+firstname:wieland:Q19688790
+firstname:milton:Q16290730
+firstname:king:XXX
+firstname:b:XXX
+firstname:ben:Q816407
+firstname:vilmos:Q2526270
+firstname:bertran:Q4895841
+firstname:lucius:Q12382759
+firstname:bartolomeo:Q939850
+firstname:gunnar:Q120416
+firstname:barthelemy:Q17782076
+firstname:nathalie:Q16279976
+firstname:markus:Q17520949
+firstname:sophie:Q14942517
+firstname:anice:Q20855990
+firstname:countess:XXX
+firstname:sophia:Q2302787
+firstname:bolko:Q65259542
+firstname:charlotte:Q264002
+firstname:rene:Q19827830
+firstname:sam:Q12800694
+firstname:corneille:Q19997445
+firstname:reinhard:Q18177338
+firstname:adrian:Q372250
+firstname:philippine:Q21097012
+firstname:michelangelo:Q19003508
+firstname:ren&eacute;:Q2624417
+firstname:miquel:Q15620341
+firstname:bertha:Q16420820
+firstname:cyprien:Q18177167
+firstname:g&uuml;nther:Q3294006
+firstname:alfonso:Q18180808
+firstname:reinhart:Q18182685
+firstname:leonhard:Q18226374
+firstname:karl:Q15731830
+firstname:ray:Q2133832
+firstname:gustavo:Q15646190
+firstname:gustave:Q18020453
+firstname:willy:Q416744
+firstname:paulin:Q11813758
+firstname:luisa:Q18092018
+firstname:clovis:Q16275220
+firstname:simon:Q4117588
+firstname:linda:Q1136594
+firstname:martha:Q16279062
+firstname:faye:Q16275806
+firstname:bruce:Q579371
+firstname:germana:Q1514073
+firstname:mario:Q3362622
+firstname:alžběta:Q18073645
+firstname:marie:Q632104
+firstname:sally:Q19816532
+firstname:herman:Q16276646
+firstname:maria:Q325872
+firstname:michelle:Q15621047
+firstname:laurens:Q2227957
+firstname:laurent:Q16763977
+firstname:hanna:Q15729076
+firstname:grove:Q75976043
+firstname:frederick:Q3273004
+firstname:melanie:Q1064920
+firstname:aimé:Q833882
+firstname:hanns:Q16276296
+firstname:erasmus:Q18670572
+firstname:abraham:Q17997608
+firstname:thomas:Q16428906
+firstname:brenda:Q4732148
+firstname:danjel:Q10466585
+firstname:lobsang:Q65285921
+firstname:charles:Q2958359
+firstname:teresa:Q2793617
+firstname:percy:Q1329662
+firstname:adriaan:Q17497496
+firstname:gamaliel:Q15618266
+firstname:henricus:Q16908634
+firstname:savinien:Q24759673
+firstname:dorothy:Q2647244
+firstname:naomi:Q18508449
+firstname:fons:Q1435760
+firstname:eelko:Q21147689
+firstname:hendrick:Q21031071
+firstname:hugues:Q16276979
+firstname:élie:Q3587713
+firstname:louise:Q3215140
+firstname:claude:Q17523984
+firstname:betsy:Q832242
+firstname:otis:Q19830625
+firstname:lorenzo:Q4267021
+firstname:heinrich:Q2018484
+firstname:jaroslav:Q35000543
+firstname:gideon:Q1523103
+firstname:georg landgraf:Q1985538
+firstname:rafał:Q15712891
+firstname:monica:Q14013933
+firstname:beau:Q19962582
+firstname:samuel:Q629347
+firstname:jitka:Q1689666
+firstname:harmen:Q18071681
+firstname:gilson:Q21285753
+firstname:janneke:Q19523024
+firstname:christopher:Q1084472
+firstname:murray:Q19802961
+firstname:agostino:Q18645188
+firstname:johanna:Q4120836
+firstname:katharina:Q16277712
+firstname:alexander:Q923
+firstname:randal:Q20165761
+firstname:h:XXX
+firstname:lois:Q3836481
+firstname:cosimo:Q18252061
+firstname:roger:Q4925304
+firstname:onno:Q2024529
+firstname:vito:Q12805843
+firstname:gerardo:Q5550225
+firstname:maurice:Q1472321
+firstname:giselbert:Q65120788
+firstname:éduard:Q18031774
+firstname:filips:Q25917078
+firstname:1920:XXX
+firstname:alessandro:Q17501723
+firstname:romuald:Q19938339
+firstname:irving:Q19819747
+firstname:sean:Q19801202
+firstname:stanley:Q3541269
+firstname:león:Q20000925
+firstname:günther:Q3294006
+firstname:lee:Q2061957
+firstname:cornelius:Q17518364
+firstname:bernard:Q14649171
+firstname:félix:Q16868070
+firstname:harvey:Q19767732
+firstname:jean maurice:Q27117915
+firstname:ralph:Q18156180
+firstname:prince:XXX
+firstname:r:XXX
+firstname:gian:Q1522259
+firstname:sílvia:Q837124
+firstname:ira:Q11864996
+firstname:nathaniel:Q18978396
+firstname:august:Q370731
+firstname:miroslav:Q2582701
+firstname:sebastiaan:Q17525467
+firstname:cedric:Q1385122
+firstname:hrafn:Q11682625
+firstname:c:XXX
+firstname:josias:Q18181294
+firstname:norbert:Q917408
+firstname:გიორგი:Q17534804
+firstname:émile:Q13426635
+firstname:edgar:Q2660560
+firstname:constantina:Q21142915
+firstname:s:XXX
+firstname:theophil:Q1596198
+firstname:dana:Q1559603
+firstname:fernand:Q1406472
+firstname:nils:Q16423038
+firstname:ernst:Q292691
+firstname:rodney:Q16597664
+firstname:györgy:Q942625
+firstname:doede:Q21142812
+firstname:ch:XXX
+firstname:dominique:Q509951
+firstname:jeff:Q18609696
+firstname:kazimiera:Q10544591
+firstname:thierry:Q18001848
+firstname:leon:Q37080
+firstname:gualterus:Q62757814
+firstname:ermelinda:Q990834
+firstname:dirck:Q21031073
+firstname:werner:Q676823
+firstname:denis:Q1187221
+firstname:ignacy:Q18220021
+firstname:tony:Q15238167
+firstname:constant:Q2294971
+firstname:nicola:Q951924
+firstname:nicole:Q14753732
+firstname:reijnier:Q29950774
+firstname:oliver:Q2110096
+firstname:howard:Q3595959
+firstname:bertrand:Q3637880
+firstname:barry:Q808995
+firstname:silvia:Q837124
+firstname:sara:Q833345
+firstname:junru:Q69481046
+firstname:mark:Q13610143
+firstname:johannes:Q2117521
+firstname:geoffrey:Q7041317
+firstname:umanath:Q64915460
+firstname:victorine:Q20202366
+firstname:václav:Q1602218
+firstname:noel:Q261113
+firstname:julian:Q17856012
+firstname:carel:Q18670193
+firstname:caren:Q19689389
+firstname:michele:Q12901049
+firstname:eelco:Q2380934
+firstname:mike:Q361309
+firstname:kalman:Q12793278
+firstname:caterina:Q1050684
+firstname:elvis:Q1174817
+firstname:andrew:Q18042461
+firstname:anthony:Q12241622
+firstname:hippolyte:Q18009967
+firstname:fritz:Q1158596
+firstname:giacomo:Q18020485
+firstname:isabella:Q16290308
+firstname:margit:Q3354086
+firstname:hanuš:Q12019033
+firstname:bill:Q18245781
+firstname:arnold:Q3623461
+firstname:n:XXX
+firstname:petrus:Q15897708
+firstname:guido:Q639762
+firstname:edmar:Q20998468
+firstname:gerhard:Q7996169
+firstname:siegfried:Q3483397
+firstname:robin:Q1158139
+firstname:jeanette:Q2300098
+firstname:uberto:Q43381902
+firstname:henk:Q1605227
+firstname:dieter:Q18177026
+firstname:maximiliaan:Q20643238
+firstname:evelyn:Q1381706
+firstname:von:XXX
+firstname:ivo:Q686532
+firstname:rüdiger:Q29001841
+firstname:marcel:Q4927589
+firstname:ii:XXX
+firstname:antonina:Q1961700
+firstname:nalini:Q1964079
+firstname:jared:Q2001193
+firstname:margitta:Q19689484
+firstname:petar:Q12798587
+firstname:rodrigo:Q4927979
+firstname:thalia:Q373803
+firstname:felice:Q18324880
+firstname:pat:Q19801119
+firstname:jelle:Q1686706
+firstname:romilla:Q66725295
+firstname:ștefan:Q4927128
+firstname:juan:Q475210
+firstname:daniël:Q18040588
+firstname:matthew:Q4927231
+firstname:wilhelm:Q11027623
+firstname:roland:Q1068487
+firstname:otto:Q18029644
+firstname:shai:Q20000855
+firstname:ludwig:Q14159020
+firstname:paula:Q847179
+firstname:gastón:Q19832216
+firstname:giulio:Q17596118
+firstname:constantijn:Q18061028
+firstname:raymond:Q2127728
+firstname:theodore:Q15875484
+firstname:paavo:Q2045089
+firstname:josef:Q15730712
+firstname:évelyne:Q19869473
+firstname:gaspar:Q18200023
+firstname:hans:Q632842
+firstname:josep:Q16429820
+firstname:antun:Q16274713
+firstname:reinaldo:Q2140291
+firstname:regnerus:Q21148402
+firstname:sebastián:Q18095344
+firstname:gyorgy:Q942625
+firstname:faustino:Q5856769
+firstname:sigismund:Q10667549
+firstname:charlie:Q16275193
+firstname:reginald:Q16280865
+firstname:antonio:Q7141520
+firstname:theodor:Q1165126
+firstname:corinne:Q16275238
+firstname:seumas:Q58493689
+firstname:salvatore:Q610111
+firstname:zweder:Q65518995
+firstname:jean:Q7521081
+firstname:johan:Q10989273
+firstname:adalbert:Q347243
+firstname:derrick:Q1200323
+firstname:janet:Q13553631
+firstname:carrie:Q16275174
+firstname:gijsbrecht:Q21143321
+firstname:sigismondo:Q19851033
+firstname:toby:Q13099113
+firstname:liliane:Q16278441
+firstname:pol:Q21018786
+firstname:roderick:Q18978420
+firstname:meinrad:Q1918138
+firstname:paul:Q4925623
+firstname:griffith:Q16276064
+firstname:janne:Q1477134
+firstname:nicolas:Q7029481
+firstname:jesús:Q18327976
+firstname:mathias:Q1818817
+firstname:blanche:Q881391
+firstname:patricia:Q1231089
+firstname:jules:Q1711638
+firstname:friedrich:Q14038597
+firstname:vorname:XXX
+firstname:ekaterina:Q17317988
+firstname:sydney:Q18915128
+firstname:manfred:Q15627437
+firstname:harald:Q1530266
+firstname:wim:Q1459852
+firstname:ross:Q2043428
+firstname:mihailo:Q20000710
+firstname:gustav:Q746076
+firstname:marco:Q17520955
+firstname:godefridus:Q20738810
+firstname:marcus:Q4642
+firstname:menno:Q2551723
+firstname:aristomenis:Q60589189
+firstname:paljor:Q65595176
+firstname:virginia:Q607350
+firstname:amy:Q481809
+firstname:jeanjoseph:Q16277329
+firstname:wijnand:Q5082404
+firstname:piet:Q1439952
+firstname:pier:Q15897166
+firstname:d:XXX
+firstname:philibert:Q19832214
+firstname:karel:Q15731850
+firstname:lincoln:Q18610169
+firstname:jacinto:Q6903537
+firstname:georges:Q15921764
+firstname:christine:Q2087646
+firstname:bobby:Q4564223
+firstname:eric:Q12788459
+firstname:patrick:Q18002623
+firstname:nanning:Q21143249
+firstname:barro:Q66480936
+firstname:théodore:Q18145734
+firstname:alice:Q650689
+firstname:niels:Q2001572
+firstname:vonnick:Q83130994
+firstname:arthur:Q1778168
+firstname:giovan:Q19819816
+firstname:donna:Q1993601
+firstname:martin:Q18002399
+firstname:giuseppe:Q15720844
+firstname:alexandre:Q16002466
+firstname:clementine:Q1043415
+firstname:algirdas:Q1138718
+firstname:louis de:Q2897866
+firstname:dean:Q1796595
+firstname:jan:Q12173670
+firstname:pierre:Q2093070
+firstname:l:XXX
+firstname:seiki:Q25114289
+firstname:donald:Q13422248
+firstname:francisco:Q7201446
+firstname:aldemar:Q65129714
+firstname:peter:Q2793400
+firstname:alphonse:Q14898421
+firstname:lars:Q15635262
+firstname:ursula:Q1087262
+firstname:marinus:Q16278998
+firstname:zahra:Q8064727
+firstname:josé:Q29043257
+firstname:per:Q13582800
+firstname:1857:XXX
+firstname:graeme:Q18342976
+firstname:christer:Q1078504
+firstname:léonie:Q20000100
+firstname:guillaume:Q18190448
+firstname:anne:Q564684
+firstname:francois:Q21142479
+firstname:anna:Q666578
+firstname:t:XXX
+firstname:sarah:Q18201513
+firstname:camilo:Q19830576
+firstname:nella:Q11884164
+firstname:stefan:Q4927128
+firstname:eduard:Q18031774
+firstname:myron:Q18607970
+firstname:pietro:Q15897583
+firstname:secondo:Q43381863
+firstname:a.:XXX
+firstname:leopold:Q1076652
+firstname:clementina:Q18122829
+firstname:sieghard:Q23598866
+firstname:sebastiaõ:Q10369061
+firstname:pere:Q18219701
+firstname:oneca:Q3352689
+firstname:stuart:Q7626248
+firstname:gregory:Q922983
+firstname:jacques:Q941049
+firstname:duke:XXX
+firstname:hessel:Q21142774
+firstname:gérard:Q13480879
+firstname:christoffel:Q18194758
+firstname:glenn:Q19802199
+firstname:marshall:Q19819759
+firstname:sergio:Q18061657
+firstname:catherine:Q2218095
+firstname:terence:Q5556418
+firstname:gary:Q1820274
+firstname:thérèse:Q17651236
+firstname:raphaël:Q11702145
+firstname:moriz:Q6912445
+firstname:bohumil:Q833463
+firstname:willi:Q18179743
+firstname:van:XXX
+firstname:francis:Q1441346
+firstname:mack:Q16290555
+firstname:lodewyk:Q6666288
+firstname:joseph:Q471788
+firstname:ettore:Q17524296
+firstname:luke:Q4927045
+firstname:lou:Q3260107
+firstname:jane:Q1682564
+firstname:daniela:Q1096053
+firstname:mathilde:Q12326416
+firstname:vicente:Q16741111
+firstname:fabio:Q1766887
+firstname:alain:Q2829505
+firstname:arrigo:Q3623754
+firstname:jacky:Q19729999
+firstname:lino:Q3833063
+firstname:ignaz:Q18177333
+firstname:larry:Q18094568
+firstname:trinley:Q47158980
+firstname:marge:Q20898965
+firstname:chrétien:Q18081133
+firstname:gail:Q19819754
+firstname:osmund:Q7107242
+firstname:don:Q16275555
+firstname:walburga:Q181346
+firstname:nicol:Q1299422
+firstname:stanisław:Q19801658
+firstname:joachim:Q4926961
+firstname:count:XXX
+firstname:gilberto:Q18177262
+firstname:minna:Q8095855
+firstname:jonathan:Q1158394
+firstname:jonas:Q16646115
+firstname:emil:Q989320
+firstname:erich:Q15277196
+firstname:arnt:Q15888082
+firstname:gerardus:Q18282500
+firstname:j:XXX
+firstname:gottfried:Q16746939
+firstname:mary:Q734578
+firstname:roelof:Q2161431
+firstname:miguel:Q15620295
+firstname:saladin:Q19387392
+firstname:manuel:Q11113719
+firstname:walter:Q499249
+firstname:arno:Q11852704
+firstname:eduardo:Q18130894
+firstname:willem:Q15282375
+firstname:amédée:Q482154
+firstname:taylor:Q3981665
+firstname:shin:Q2577411
+firstname:pio:Q19800570
+firstname:hedwig:Q19689438
+firstname:m:XXX
+firstname:felix:Q18177136
+firstname:erik:Q750186
+firstname:ine:Q3022128
+firstname:pir:Q1800447
+firstname:esteban:Q17496543
+firstname:graham:Q642254
+firstname:geertrui:Q21141831
+firstname:mauro:Q1167150
+firstname:suzanne:Q13138161
+firstname:heather:Q7498915
+firstname:hector:Q1811874
+firstname:joan:Q16652258
+firstname:tara:Q1611595
+firstname:gregorius:Q18558712
+firstname:norbu:Q20001963
+firstname:tim:Q1369663
+firstname:germaine:Q1513814
+firstname:andries:Q510402
+firstname:giovanni:Q1158906
+firstname:svetnica:XXX
+firstname:wladislaw:Q65306601
+firstname:dale:Q3701009
+firstname:erica:Q1351783
+firstname:robbrecht:Q21148444
+firstname:warmolt:Q65552472
+firstname:irma:Q647872
+firstname:istvan:Q19967989
+firstname:hermina:Q20643425
+firstname:william:Q12344159
+firstname:margaret:Q4963612
+firstname:maureen:Q2318855
+firstname:chris:Q339346
+firstname:leszek:Q1821009
+firstname:viscount:XXX
+firstname:1807:XXX
+firstname:clément:Q18180151
+firstname:claudius:Q19869364
+firstname:e:XXX
+firstname:gheorghe:Q19826490
+firstname:justus:Q11166789
+firstname:miklós:Q15728988
+firstname:felicitas:Q18012404
+firstname:adam:Q347181
+firstname:ottokar:Q20010152
+firstname:warde:Q21008900
+firstname:jennifer:Q4677161
+firstname:ernesto:Q16323364
+firstname:diego:Q3579048
+firstname:benoît:Q18341911
+firstname:benoit:Q19967779
+firstname:germain:Q1303342
+firstname:mitchell:Q3859417
+firstname:wenzel:Q19597963
+firstname:constantin:Q5163687
+firstname:ottavio:Q765222
+firstname:gerhardus:Q21034772
+firstname:estéban:Q17496543
+firstname:angèle:Q533686
+firstname:nick:Q13137230
+firstname:françoise:Q1244936
+firstname:herwig:Q21400609
+firstname:tomás:Q19888139
+firstname:deborah:Q18558974
+firstname:guglielmo:Q1553386
+firstname:jacqueline:Q391321
+firstname:mort:Q60589574
+firstname:achille:Q340285
+firstname:guillemette:Q28123321
+firstname:andrea:Q493293
+firstname:pascal:Q256463
+firstname:bernat:Q17486279
+firstname:bohuslav:Q19818095
+firstname:ivan:Q830350
+firstname:reymond:Q19968314
+firstname:p.:XXX
+firstname:f.:XXX
+firstname:péter:Q19018108
+firstname:léonce:Q1295976
+firstname:valerie:Q1068242
+firstname:valeriano:Q43371148
+firstname:ingeborg:Q656590
+firstname:peder:Q10622039
+firstname:thorkild:Q30584729
+firstname:ippolito:Q19001528
+firstname:lelio:Q1816681
+firstname:saskia:Q337257
+firstname:ferdinando:Q17523781
+firstname:juliaan:Q20205045
+firstname:baldassarre:Q18190446
+firstname:baldassare:Q19967483
+firstname:clara:Q1114146
+firstname:benedetto:Q12898987
+firstname:carmelo:Q1043555
+firstname:anselme:Q19882945
+firstname:venâncio:Q21286102
+firstname:erastus:Q20030196
+firstname:carola:Q229227
+firstname:w.:XXX
+firstname:jean-marie:Q3167523
+firstname:cino:Q3677254
+firstname:kathryn:Q6377001
+firstname:horacio:Q16290301
+firstname:efraím:Q16422853
+firstname:arcady:Q39275021
+firstname:enrico:Q16908530
+firstname:jean-loup:Q27919016
+firstname:noble:Q16880479
+firstname:nicholas:Q42771
+firstname:charles-louis:Q98300970
+firstname:rene-louis:Q98902642
+firstname:kelly:Q3664058
+firstname:jean-chrysostome:Q84080571
+firstname:ferdinand:Q3276175
+firstname:cyriel:Q18786285
+firstname:madeleine:Q4273929
+firstname:pete:Q16269170
+firstname:sejong:Q69507695
+firstname:raoul:Q11487195
+firstname:severo:Q3958489
+firstname:isabelle:Q6078151
+firstname:ina:Q655722
+firstname:petr:Q15897830
+firstname:ángel:Q2605655
+firstname:merrill:Q21286851
+firstname:grayce:Q65068743
+firstname:ignacio:Q18220016
+firstname:sjouke:Q21143396
+firstname:rik:Q21031108
+firstname:eva:Q829665
+firstname:sebastião:Q10369061
+firstname:colette:Q16275223
+firstname:fulvio:Q18020497
+firstname:xavier:Q1066712
+firstname:felisa:Q29075064
+firstname:carlos:Q364753
+firstname:natalia:Q6296301
+firstname:blair:Q16532835
+firstname:sunny:Q19968383
+firstname:elsie:Q16423214
+firstname:marlene:Q1402673
+firstname:jean daniel:Q19688649
+firstname:jean-daniel:Q19688649
+firstname:jorge:Q14346236
+firstname:winifred:Q13422280
+firstname:gaetano:Q4134361
+firstname:maría elena:Q52319701
+firstname:ashley:Q2655374
+firstname:urban:Q15732140
+firstname:misael:Q47527035
+firstname:juliane:Q351311
+firstname:davide:Q18039918
+firstname:erling:Q472066
+firstname:ulrich:Q18011418
+firstname:maría:Q18088640
+firstname:buzz:Q16275129
+firstname:caleb:Q3650584
+firstname:i:XXX
+firstname:i.:XXX
+firstname:ian:Q18336315
+firstname:vivian:Q650494
+firstname:satoru:Q7426386
+firstname:悟:Q33251187
+firstname:lon:Q27681342
+firstname:ron:Q2165388
+firstname:syed:Q56630227
+firstname:joe:Q17862013
+firstname:lila:Q182861
+firstname:brett:Q19801832
+firstname:willibald:Q1738165
+firstname:karla:Q16430050
+firstname:gareth:Q15628901
+firstname:wendy:Q4018995
+firstname:pilar:Q1163454
+firstname:babette:Q787863
+firstname:karen:Q1221747
+firstname:wout:Q20651054
+firstname:maarten:Q1882274
+firstname:sandra:Q1474819
+firstname:alix:Q2837257
+firstname:kieran:Q20635295
+firstname:hart:Q16256892
+firstname:jay:Q19817029
+firstname:mel:Q4563684
+firstname:salomon:Q18421743
+firstname:amos:Q18216060
+firstname:dan:Q2487038
+firstname:dalibor:Q26775414
+firstname:lauri:Q1303231
+firstname:ennemond:Q19914595
+firstname:emmanuelle:Q1338465
+firstname:marvyn:Q91778580
+firstname:ameet:Q66263989
+firstname:adriana:Q374807
+firstname:ana:Q482671
+firstname:in:Q18125909
+firstname:detlef:Q1201205
+firstname:rolando:Q2163131
+firstname:mavis:Q10296732
+firstname:lauren:Q2274625
+firstname:lawrence:Q15635788
+firstname:edurne:Q4162696
+firstname:tommy:Q1272055
+firstname:william alfred:Q95404330
+firstname:nicolás:Q18066632
+firstname:imma:Q26791805
+firstname:jeremie:Q21032373
+firstname:uta:Q1770991
+firstname:jörg:Q1715186
+firstname:ellis:Q19688407
+firstname:armando:Q18177180
+firstname:rosita:Q4353945
+firstname:sumner:Q16281789
+firstname:eraldo:Q3731050
+firstname:geneviève:Q18188067
+firstname:gregor:Q18156264
+firstname:birgit:Q865198
+firstname:milind:Q102144658
+firstname:rachael:Q19830599
+firstname:alex:Q13258171
+firstname:ali:Q11905003
+firstname:kay:Q16568731
+firstname:klaus:Q15635230
+firstname:sebastian:Q4844560
+firstname:isabel:Q4218918
+firstname:günter:Q18401607
+firstname:vincent:Q4928254
+firstname:randolph:Q21485499
+firstname:wilfrid:Q18176270
+firstname:sol:Q12336325
+firstname:ain:Q12358419
+firstname:ჯონ:Q49254277
+firstname:zvonimir:Q2372503
+firstname:terrance:Q7703250
+firstname:joaquim josé:Q62128672
+firstname:jean-louis:Q18009544
+firstname:aline:Q18180444
+firstname:julien:Q2780036
+firstname:naphtali:Q77985502
+firstname:kamāl:Q1305584
+firstname:marianne:Q18760860
+firstname:raimundo:Q19819793
+firstname:jayne:Q20798991
+firstname:hughes:Q18324337
+firstname:stephane:Q18650470
+firstname:stéphane:Q3501543
+firstname:sylvie:Q18066679
+firstname:edith:Q987673
+firstname:horst:Q381702
+firstname:giovanni francesco:Q55118937
+firstname:bernadette:Q4961354
+lastname:crawford:Q20731004
+lastname:fleury:Q19887989
+lastname:alm:Q23133442
+lastname:ushakov:Q37206452
+lastname:beckert:Q37239819
+lastname:bottoni:Q36869907
+lastname:riedel:Q18412625
+lastname:correr:Q47085801
+lastname:fahraeus:Q19970012
+lastname:dutkiewicz:Q27890782
+lastname:archambault:Q632406
+lastname:rieder:Q37484633
+lastname:cameron:Q2665316
+lastname:mercer:Q16876828
+lastname:grenier:Q25343999
+lastname:senn:Q18523781
+lastname:schiff:Q21451083
+lastname:zoni:Q92009991
+lastname:swan:Q16884096
+lastname:santen:Q55636941
+lastname:alberti:Q4747910
+lastname:sheil:Q37515465
+lastname:surland:Q83441516
+lastname:dickinson:Q10471460
+lastname:hermann:Q25160173
+lastname:tschudi:Q21449590
+lastname:specht:Q2308143
+lastname:brown:Q13421990
+lastname:acocella:Q36921316
+lastname:damery:Q37487907
+lastname:endter:Q37444819
+lastname:fintushel:Q73131772
+lastname:escudero:Q29470545
+lastname:groell:Q92263142
+lastname:sabin:Q25114876
+lastname:coolman:Q37218159
+lastname:egmond:Q56558878
+lastname:faggi:Q58216232
+lastname:doré:Q21492134
+lastname:montfoort:Q48965331
+lastname:lluch:Q16872383
+lastname:lópez portillo:Q61745897
+lastname:poppe:Q27678615
+lastname:mcneile:Q77025204
+lastname:knight:Q1777139
+lastname:michael:Q1926724
+lastname:louwers:Q37010914
+lastname:herbert:Q16870718
+lastname:donovan:Q21446653
+lastname:reich:Q2139077
+lastname:nuñes:Q21510934
+lastname:small:Q16883455
+lastname:becker:Q813701
+lastname:philpot:Q21450314
+lastname:steininger:Q21517800
+lastname:metternich:Q36913325
+lastname:kemper:Q37072734
+lastname:beason:Q37464977
+lastname:carter:Q16101731
+lastname:waterson:Q27864195
+lastname:almond:Q16147841
+lastname:krajewska:Q60817633
+lastname:colin:Q19014728
+lastname:richaud:Q21509654
+lastname:haan:Q17144241
+lastname:booth:Q13156704
+lastname:reeman:Q72845599
+lastname:carli:Q16865378
+lastname:friedlander:Q21449589
+lastname:barbarigo:Q20519461
+lastname:baets:Q65562031
+lastname:schumacher, von:Q76418087
+lastname:parisot:Q36974230
+lastname:hansson:Q21507480
+lastname:burch:Q16865171
+lastname:abels:Q4666719
+lastname:rotter:Q21449595
+lastname:steiner:Q1719303
+lastname:haze:Q37255486
+lastname:schleh:Q21475277
+lastname:wenzel:Q1719790
+lastname:okelly:Q37108557
+lastname:brambilla:Q1143178
+lastname:wehner:Q21448560
+lastname:montefiore:Q21430989
+lastname:wiedemann:Q21493657
+lastname:zach:Q21487206
+lastname:plátek:Q37531216
+lastname:lalive d'epinay:Q86072275
+lastname:burnett:Q16865190
+lastname:lange:Q16102227
+lastname:seaver:Q21492945
+lastname:leo:Q6523505
+lastname:giles:Q16870187
+lastname:brooks:Q1354011
+lastname:hampden:Q57600107
+lastname:canet:Q37280281
+lastname:strong:Q16883933
+lastname:bruylants:Q65465304
+lastname:hansen:Q2712367
+lastname:gay:Q16870140
+lastname:medici:Q23039018
+lastname:banga:Q37542499
+lastname:maguire:Q4274203
+lastname:mitchell:Q179205
+lastname:lipschutz:Q16802033
+lastname:conti:Q21448867
+lastname:tanner:Q13560243
+lastname:geiser:Q36944917
+lastname:kidd:Q16871372
+lastname:bom:Q37575514
+lastname:olivier:Q16880711
+lastname:harrington:Q16870533
+lastname:solis:Q37557715
+lastname:milks:Q37569834
+lastname:churchill:Q16865587
+lastname:rosenberg:Q1159003
+lastname:stepan:Q36966644
+lastname:konkle:Q37535743
+lastname:peabody:Q16881051
+lastname:van den berghe:Q21482431
+lastname:basco:Q36897611
+lastname:welch:Q17144396
+lastname:velsen:Q7913727
+lastname:dorling:Q86083674
+lastname:seligman:Q23596199
+lastname:reckitt:Q76527737
+lastname:redon:Q37534184
+lastname:noël:Q19688731
+lastname:paulton:Q37519317
+lastname:may:Q1751954
+lastname:ariel:Q37488790
+lastname:gocha:Q37492476
+lastname:scheel:Q21450610
+lastname:hudson:Q2720681
+lastname:assen:Q65768910
+lastname:macnicol:Q6722062
+lastname:asser:Q4384197
+lastname:andreae:Q21561348
+lastname:paterson:Q13580461
+lastname:kühn:Q1796980
+lastname:butler:Q2664624
+lastname:briceño:Q42855503
+lastname:zonca:Q37092593
+lastname:hahn:Q1362661
+lastname:giraud:Q21504906
+lastname:schroeder:Q28745233
+lastname:greenhill:Q16870293
+lastname:zimmer:Q203541
+lastname:courtin:Q21507582
+lastname:bock:Q889117
+lastname:meister:Q1370531
+lastname:downing:Q26709934
+lastname:mansfield:Q16876392
+lastname:bruton:Q16860603
+lastname:bartoli:Q21475450
+lastname:ibert:Q37325407
+lastname:brugge:Q37155872
+lastname:ware:Q17128250
+lastname:alderman:Q16002427
+lastname:adolphus:Q37499301
+lastname:hohenzollern-sigmaringen:Q55435789
+lastname:uhde:Q28745195
+lastname:khuri:Q37534112
+lastname:reed:Q2136484
+lastname:rosenthal:Q2167274
+lastname:debourg:Q63759853
+lastname:wade:Q13581093
+lastname:van der noot:Q56546875
+lastname:moen:Q16394183
+lastname:westbrook:Q16920898
+lastname:barbé-marbois:Q60782314
+lastname:roos:Q10656802
+lastname:stallcop:Q37518075
+lastname:mees:Q21506704
+lastname:meer:Q37286756
+lastname:caracciolo:Q47543396
+lastname:boudin:Q2921472
+lastname:wang:Q12010385
+lastname:breard:Q36921183
+lastname:verkerk:Q7921459
+lastname:novik:Q22250022
+lastname:kees:Q11122299
+lastname:bennett:Q449411
+lastname:herbort:Q37514152
+lastname:pons:Q21506833
+lastname:tricht:Q51885858
+lastname:davidow:Q37530000
+lastname:hazledine:Q63525191
+lastname:spalteholz:Q65005422
+lastname:lindeman:Q18286230
+lastname:robinson:Q2798428
+lastname:clair:Q16865610
+lastname:fontaine:Q1394815
+lastname:cushing:Q16865955
+lastname:johnston:Q1565753
+lastname:townshend:Q28146521
+lastname:munday:Q37495776
+lastname:rubio:Q20018784
+lastname:rudnick:Q21507342
+lastname:burley:Q16865185
+lastname:winslow:Q20727240
+lastname:granier:Q24774548
+lastname:snellen:Q37511827
+lastname:sato:Q26000610
+lastname:schultz:Q21507622
+lastname:pöppelmann:Q2120788
+lastname:colquhoun:Q21492943
+lastname:giovannetti:Q37542613
+lastname:müller:Q8157228
+lastname:nerinckx:Q65428845
+lastname:courtenay:Q37553656
+lastname:levi:Q16458527
+lastname:albarda:Q65706473
+lastname:ricker:Q37121421
+lastname:garnier:Q16638644
+lastname:cnockaert:Q29033233
+lastname:de vos:Q1180464
+lastname:alphen:Q42594042
+lastname:beetz:Q28150972
+lastname:johnson:Q1158485
+lastname:faccioli:Q56538332
+lastname:schneider:Q11703653
+lastname:frigerio:Q3753303
+lastname:roberson:Q21451073
+lastname:chapman:Q1158558
+lastname:blyth:Q16860143
+lastname:sergi:Q37513674
+lastname:green:Q2703137
+lastname:roeser:Q37322057
+lastname:auger:Q19607232
+lastname:alland:Q37497395
+lastname:renne:Q36912165
+lastname:martini:Q16478446
+lastname:fockens:Q89643553
+lastname:morenas:Q30524160
+lastname:bayly:Q21493476
+lastname:schwartz:Q2253414
+lastname:nevins:Q21513066
+lastname:hollmann:Q21126288
+lastname:fraser:Q2696422
+lastname:rotheram:Q55137084
+lastname:nachname:XXX
+lastname:pfluger:Q37513728
+lastname:cole:Q1128028
+lastname:hock:Q18330987
+lastname:schilter:Q28745214
+lastname:kramer:Q1158524
+lastname:contenuti consigliati:XXX
+lastname:baar:Q16479593
+lastname:marangon:Q21451979
+lastname:tori:Q37327684
+lastname:leventhal:Q56244347
+lastname:strang:Q16883900
+lastname:franckenstein:Q91434238
+lastname:goetschel:Q37521471
+lastname:sluijs:Q7913871
+lastname:schmidt:Q15240355
+lastname:lüssi:Q1877710
+lastname:grohé:Q37523582
+lastname:pittman:Q16881259
+lastname:chiesa:Q21430947
+lastname:curtis:Q12787162
+lastname:heemstra:Q37574192
+lastname:oehl:Q36943857
+lastname:coley:Q16865679
+lastname:colombani:Q20996004
+lastname:hunter:Q12020943
+lastname:newman:Q1983554
+lastname:valkenburg:Q37492972
+lastname:anson:Q22062007
+lastname:ferguson:Q2694490
+lastname:thurner:Q37285554
+lastname:gannon:Q21509302
+lastname:thiele:Q21493150
+lastname:nivelle:Q65111420
+lastname:torralba:Q37488875
+lastname:joscelin 02:XXX
+lastname:de vries:Q1180481
+lastname:alford:Q16479361
+lastname:kerr:Q4042166
+lastname:drake:Q16869662
+lastname:sully:Q27651517
+lastname:gärtner:Q22058341
+lastname:grammatico:Q36916633
+lastname:valentin:Q31212711
+lastname:clerck:Q21507425
+lastname:anastasio:Q27106049
+lastname:burgh:Q16739657
+lastname:malpass:Q6744585
+lastname:ragaini:Q37536256
+lastname:fish:Q16869951
+lastname:kane:Q13570642
+lastname:snodgrass:Q21506588
+lastname:alejandro:Q21450574
+lastname:weinberg:Q15853853
+lastname:reuschenberg:Q31841840
+lastname:argenti:Q37527400
+lastname:buma:Q37470688
+lastname:hacker:Q27628281
+lastname:neff:Q21501972
+lastname:meijer:Q16876776
+lastname:le roy:Q23772866
+lastname:thapar:Q21482769
+lastname:mangelsdorf:Q37431595
+lastname:fouquet:Q25372925
+lastname:douglas:Q2677358
+lastname:mccarthy:Q24419041
+lastname:fürer:Q76422293
+lastname:échard:Q5332361
+lastname:schnabel:Q41696534
+lastname:turau:Q21994316
+lastname:kent:Q1739021
+lastname:valdes:Q37531876
+lastname:danielsson:Q23597719
+lastname:beavis:Q36872211
+lastname:forti:Q16869999
+lastname:burke:Q1679720
+lastname:coolidge:Q20748941
+lastname:thone:Q37529043
+lastname:lawrence:Q1544163
+lastname:stieglitz:Q19817652
+lastname:avshalomov:Q16479436
+lastname:backer:Q21504772
+lastname:durgin:Q36909482
+lastname:wolfart:Q87184665
+lastname:nisbet:Q16880446
+lastname:graaff:Q62757499
+lastname:fégely:Q37431218
+lastname:schulz:Q15730693
+lastname:moore:Q10588869
+lastname:polidoro:Q37564274
+lastname:zadnik:Q28750907
+lastname:hermes:Q19902356
+lastname:muller:Q28800754
+lastname:boulton:Q21508567
+lastname:baurenfeind:Q16479531
+lastname:brockett:Q4972789
+lastname:bates:Q16479442
+lastname:stearns:Q28943656
+lastname:routh:Q37053928
+lastname:burgwyn:Q4998743
+lastname:demoor:Q37510438
+lastname:keen:Q16871318
+lastname:cullen:Q40386
+lastname:davis:Q12652678
+lastname:spaulding:Q16883653
+lastname:breckel:Q37570439
+lastname:chavepeyer:Q91302725
+lastname:fredrikson:Q21510998
+lastname:picker:Q16881203
+lastname:benivieni:Q91867158
+lastname:fischer:Q11231408
+lastname:malkin:Q37537322
+lastname:navrátil:Q21492186
+lastname:guan:Q1930521
+lastname:averbukh:Q37103539
+lastname:strahorn:Q37519789
+lastname:dufay:Q47493364
+lastname:bazelon:Q56537670
+lastname:kobe:Q12793820
+lastname:mossé:Q56539930
+lastname:prince:Q16881414
+lastname:cozens:Q5180128
+lastname:blanc:Q11158094
+lastname:paine:Q16880907
+lastname:little:Q20671646
+lastname:grimm:Q1422706
+lastname:caumont:Q18074198
+lastname:desai:Q21502264
+lastname:paver:Q37465553
+lastname:beekman:Q27824311
+lastname:lejeune:Q24037059
+lastname:powelson:Q37304828
+lastname:dennett:Q56245388
+lastname:wigglesworth:Q37507181
+lastname:alingh:Q74200810
+lastname:ton:Q37458595
+lastname:松野:Q26203591
+lastname:wiegand:Q21484517
+lastname:reynst:Q21452664
+lastname:nelson:Q2782528
+lastname:hand:Q16870476
+lastname:williams:Q1688722
+lastname:loring:Q16872487
+lastname:o'kelly:Q21492593
+lastname:charbonnier:Q21482766
+lastname:kohler:Q1778615
+lastname:werro:Q78753493
+lastname:cutts:Q5197015
+lastname:grund:Q37512370
+lastname:braun:Q354330
+lastname:grandjean:Q65105381
+lastname:rivoire:Q37495865
+lastname:michielsen:Q37452396
+lastname:grunt:Q60644681
+lastname:rawn:Q37568048
+lastname:sayers:Q16882782
+lastname:lansbury:Q21509249
+lastname:bek:Q21492307
+lastname:nathan:Q16877804
+lastname:matthys:Q25126085
+lastname:drouhin:Q65102663
+lastname:ballard:Q16479781
+lastname:solomos:Q37537376
+lastname:roberts:Q1646493
+lastname:leroy:Q20997179
+lastname:solomon:Q18607854
+lastname:street:Q16883913
+lastname:alleaume:Q64219762
+lastname:prescott:Q16881390
+lastname:sophie:Q37224859
+lastname:cailliet:Q87413267
+lastname:trento:Q37041917
+lastname:johnstone:Q21509274
+lastname:raynolds:Q37199930
+lastname:jansz:Q21491101
+lastname:zacher:Q37563380
+lastname:lewandowski:Q21494292
+lastname:bacot:Q56537585
+lastname:bragge:Q47514754
+lastname:carré:Q16865396
+lastname:milakovich:Q37434085
+lastname:cohen:Q1158586
+lastname:corrigan:Q16865781
+lastname:oliphant:Q16880709
+lastname:briceño:Q42855503
+lastname:kyle:Q16257621
+lastname:metcalf:Q16876873
+lastname:mosse:Q21512247
+lastname:louys:Q55669373
+lastname:spada:Q37521039
+lastname:sokolík:Q82013374
+lastname:ulmer:Q15730695
+lastname:röder:Q28150968
+lastname:nott:Q21488819
+lastname:wilson:Q1645480
+lastname:verbeek:Q21493465
+lastname:jansz.:Q21491101
+lastname:boyd:Q14915266
+lastname:bauernfeind:Q16479531
+lastname:stoever:Q37328006
+lastname:verbeke:Q21450217
+lastname:mills:Q5195456
+lastname:berlingieri:Q36946241
+lastname:phillips:Q2793828
+lastname:goodman:Q4151606
+lastname:caesar:Q14873084
+lastname:jahn:Q1678548
+lastname:vlahović:Q21509031
+lastname:mayer:Q13725587
+lastname:lunn:Q21451972
+lastname:visser:Q18340752
+lastname:ulrich:Q21504626
+lastname:patterson:Q2792882
+lastname:jantzen:Q37308709
+lastname:huhn:Q54982968
+lastname:price:Q21242872
+lastname:hoff:Q16870820
+lastname:tschümperlin:Q76425586
+lastname:caslon:Q87276556
+lastname:rego:Q21492137
+lastname:nolan:Q20900701
+lastname:skinner:Q16883409
+lastname:merkle:Q21449175
+lastname:soriano:Q21448758
+lastname:britton:Q16860476
+lastname:dillenschneider:Q83346413
+lastname:caroff:Q83131058
+lastname:bradford:Q23542895
+lastname:sutton:Q16884069
+lastname:götsch:Q76422328
+lastname:mauro:Q16868736
+lastname:rogers:Q16471355
+lastname:grove:Q16870334
+lastname:meurer:Q28150702
+lastname:trotter:Q29535046
+lastname:reeb:Q37533786
+lastname:mesnard:Q36876616
+lastname:paulsen:Q780747
+lastname:clements:Q16865623
+lastname:tornau:Q56246571
+lastname:raap:Q36938588
+lastname:link:Q16872194
+lastname:martens:Q16876487
+lastname:landry:Q16871810
+lastname:masson:Q11172443
+lastname:cradock:Q21529306
+lastname:niquet:Q63439182
+lastname:sokolik:Q37515937
+lastname:glazebrook:Q37262279
+lastname:lewis:Q426463
+lastname:escobar:Q16463330
+lastname:dicker:Q21502285
+lastname:matthison:Q1243346
+lastname:hočevar:Q5923161
+lastname:soutou:Q87398148
+lastname:gerlach:Q1513700
+lastname:proby:Q37182357
+lastname:espinós:Q53060080
+lastname:abbema:Q62994151
+lastname:montuori:Q28135003
+lastname:faure:Q21509802
+lastname:borri:Q37567296
+lastname:odam:Q37519001
+lastname:knowles:Q4327710
+lastname:engel:Q19694228
+lastname:viollet:Q21510258
+lastname:schlitter:Q37435777
+lastname:dubois:Q16798403
+lastname:wood:Q1158452
+lastname:moreschi:Q37454440
+lastname:arnesen:Q11959110
+lastname:tizio:Q37532492
+lastname:da passano:Q65100778
+lastname:keijzer:Q55615781
+lastname:combe:Q16865706
+lastname:le blanc:Q19611239
+lastname:vigor:Q36921605
+lastname:cowan:Q16166336
+lastname:martinet:Q37429658
+lastname:janssens:Q21491099
+lastname:klein:Q428024
+lastname:löhr:Q20997209
+lastname:perdoux:Q86429347
+lastname:bear:Q16479893
+lastname:delarue:Q16869496
+lastname:alberda van ekenstein:Q63978896
+lastname:wallis:Q17032906
+lastname:bernays:Q53189956
+lastname:michaud:Q24513419
+lastname:schelhorn:Q37331274
+lastname:lebel:Q37252889
+lastname:nastasi:Q37510657
+lastname:mcdowall:Q16876675
+lastname:gray:Q1544042
+lastname:hardin:Q16870506
+lastname:bas:Q16175496
+lastname:sibilia:Q37079681
+lastname:mcculloch:Q21492120
+lastname:colet:Q21492935
+lastname:ciceri:Q90051194
+lastname:dupont:Q18627472
+lastname:gelabert:Q37180399
+lastname:jilek:Q37502926
+lastname:poliquin:Q37554867
+lastname:veber:Q21452294
+lastname:gärtner:Q22058341
+lastname:vincent:Q2526475
+lastname:rombouts:Q7362938
+lastname:plotho:Q57781689
+lastname:geary:Q16870143
+lastname:blackwell:Q16860065
+lastname:albertini:Q21494596
+lastname:bles:Q37192193
+lastname:adamec:Q21446271
+lastname:sitter:Q37286269
+lastname:jazwinski:Q37177891
+lastname:campbell:Q2665383
+lastname:keenan:Q25977557
+lastname:montejo:Q28800751
+lastname:janssen:Q16871136
+lastname:hoey:Q1375012
+lastname:mckay:Q932128
+lastname:hoogveld:Q21509420
+lastname:cornelius:Q18536476
+lastname:konagaya:Q28870252
+lastname:irr:Q37309946
+lastname:aveline:Q21491441
+lastname:frizon:Q65104326
+lastname:porzio:Q55064127
+lastname:whitcombe:Q17094503
+lastname:forejtová:Q67369059
+lastname:gottlieb:Q27651154
+lastname:reus:Q37164419
+lastname:châtillon:Q74087678
+lastname:weidmann:Q21510529
+lastname:grisel:Q37111283
+lastname:mui:Q37487817
+lastname:brune:Q24699696
+lastname:marsal:Q36902407
+lastname:torresani:Q92279851
+lastname:jamieson:Q28553124
+lastname:abensour:Q41351215
+lastname:wildhaber:Q37501089
+lastname:bauer:Q1965022
+lastname:dreher:Q20996104
+lastname:addis:Q26986610
+lastname:cousin:Q23902153
+lastname:frykman:Q27824209
+lastname:venturi:Q16892518
+lastname:室田:Q63974173
+lastname:barbé-marbois:Q60782314
+lastname:marty:Q16876493
+lastname:hansmann:Q37536818
+lastname:lass:Q21501976
+lastname:wittenburg:Q37448090
+lastname:alberda:Q20995576
+lastname:stöver:Q61970427
+lastname:bunnell:Q37523805
+lastname:horsman:Q5906401
+lastname:gardeweg:Q89979459
+lastname:geille:Q24720474
+lastname:bachmann:Q19760472
+lastname:denslow:Q36972665
+lastname:brierley:Q16860444
+lastname:eilers:Q21491573
+lastname:stratton:Q16883905
+lastname:grumach:Q64171511
+lastname:fairbanks:Q16869881
+lastname:andrews:Q2652654
+lastname:bury:Q9182324
+lastname:seabury:Q16281235
+lastname:bell:Q1444604
+lastname:denton:Q16869520
+lastname:bruneau:Q21431153
+lastname:kirkpatrick:Q16277998
+lastname:bortier:Q42443823
+lastname:cartwright:Q16865407
+lastname:novák:Q16516593
+lastname:nicolaus:Q37316392
+lastname:witzenmann:Q66819514
+lastname:meunier:Q23769748
+lastname:colom:Q16827440
+lastname:delalain:Q92471190
+lastname:lelong:Q21492962
+lastname:gohl:Q37452785
+lastname:chardon:Q37288814
+lastname:ferrero:Q21493848
+lastname:smith:Q1158446
+lastname:rousselet:Q59315795
+lastname:krenn:Q37319606
+lastname:lyman:Q24122088
+lastname:howard:Q908051
+lastname:west:Q2564123
+lastname:kleinholz:Q37112639
+lastname:robertazzi:Q37524126
+lastname:sachs:Q406384
+lastname:stebbins:Q21488901
+lastname:lusini:Q43075905
+lastname:pistre:Q27987855
+lastname:beer:Q814067
+lastname:bianchi:Q912131
+lastname:schröder:Q11703657
+lastname:noel:Q16880488
+lastname:craig:Q15278582
+lastname:westra:Q37509534
+lastname:retz:Q37016561
+lastname:fry:Q12184718
+lastname:alewijn:Q21142429
+lastname:cecchini:Q21492855
+lastname:corke:Q5170852
+lastname:pierce:Q14921982
+lastname:strauch:Q28150763
+lastname:vinci:Q36856555
+lastname:zampaglione:Q28130664
+lastname:rubi:Q37240539
+lastname:foucault:Q16870004
+lastname:berthelin:Q65098038
+lastname:orange:Q16280394
+lastname:fritz:Q18643458
+lastname:oppenheim:Q16880761
+lastname:kühn:Q1796980
+lastname:kuntz:Q21492327
+lastname:brevi:Q56537853
+lastname:o'daly:Q55385296
+lastname:la roche:Q18410597
+lastname:elst:Q56381872
+lastname:srivastava:Q21507684
+lastname:uehara:Q21493246
+lastname:jope:Q56538830
+lastname:mount:Q16877483
+lastname:castro:Q1049855
+lastname:hayes:Q1591888
+lastname:lesser:Q21449105
+lastname:berkman:Q23045974
+lastname:dufour:Q415460
+lastname:steinberg:Q1570233
+lastname:štěpán:Q10425698
+lastname:voet:Q21506903
+lastname:hinlopen:Q56244230
+lastname:pouget:Q28169355
+lastname:siegfried:Q24566677
+lastname:leland:Q26710063
+lastname:aldin:Q21507237
+lastname:piercy:Q37083136
+lastname:rovira:Q21498514
+lastname:schaep:Q65032539
+lastname:planas:Q36952245
+lastname:hoberg:Q37434909
+lastname:carpentier:Q20890442
+lastname:portugal:Q14110517
+lastname:brewer:Q13552882
+lastname:owen:Q1158545
+lastname:pitt:Q29002296
+lastname:coeverden:Q7913247
+lastname:casati:Q21487774
+lastname:echard:Q5332361
+lastname:andringa:Q37036948
+lastname:tharrats:Q51099169
+lastname:ready:Q16881918
+lastname:serra:Q16882987
+lastname:busch:Q1017270
+lastname:pozzi:Q21506907
+lastname:robbiati:Q56540479
+lastname:hubbard:Q16870910
+lastname:shaw:Q7491146
+lastname:blount:Q16726240
+lastname:grant:Q17864440
+lastname:cosway:Q20996013
+lastname:barnes:Q2658970
+lastname:molinaro:Q21492660
+lastname:matsuno:Q21493955
+lastname:felten:Q37574480
+lastname:pourcher:Q89765530
+lastname:snoek:Q21507508
+lastname:ventura:Q11879325
+lastname:ball:Q805107
+lastname:kloppenburg:Q21510393
+lastname:raymond:Q2134042
+lastname:bali:Q16275001
+lastname:welsh:Q17143287
+lastname:voss:Q15712767
+lastname:boven:Q34016306
+lastname:schulthess:Q36927311
+lastname:kleber:Q6420036
+lastname:harris:Q10859343
+lastname:deering:Q37116752
+lastname:ogden:Q16280349
+lastname:norris:Q16880515
+lastname:châtillon:Q74087678
+lastname:costa:Q2671589
+lastname:zeising:Q85301472
+lastname:william 04:XXX
+lastname:ashley:Q725719
+lastname:lucas:Q1873014
+lastname:middlemore:Q29573229
+lastname:gyeltshen:Q16492614
+lastname:fiske:Q21510555
+lastname:schindler:Q2236136
+lastname:abreu:Q16057995
+lastname:lewisohn:Q21492211
+lastname:eler:Q90415052
+lastname:calleja:Q5021886
+lastname:spencer:Q1261064
+lastname:la torre:Q64027098
+lastname:mclean:Q20046430
+lastname:wolfenstein:Q47462066
+lastname:miethke:Q86081726
+lastname:rosenbaum:Q21491519
+lastname:buchanan:Q15616677
+lastname:gendt:Q21513311
+lastname:van schaick:Q56546914
+lastname:coussens:Q36896162
+lastname:risler:Q36873336
+lastname:štědroñ:Q81311005
+lastname:de la rive:Q20996061
+lastname:casper:Q16865422
+lastname:lavallée:Q63350640
+lastname:badran:Q37532287
+lastname:griffith:Q263542
+lastname:hugh 01:XXX
+lastname:garruto:Q37476266
+lastname:fernholz:Q37279530
+lastname:clark:Q1119151
+lastname:nicolau:Q7029903
+lastname:sabbagh:Q37495280
+lastname:gaddi:Q16275895
+lastname:russo:Q2177260
+lastname:rücker:Q65498409
+lastname:erskine:Q16869843
+lastname:walkinshaw:Q16964089
+lastname:parenti:Q20997587
+lastname:wright:Q2594455
+lastname:mcnamara:Q21450738
+lastname:greenaway:Q1261077
+lastname:köhler:Q21449065
+lastname:duncan:Q1158195
+lastname:de carli:Q63759820
+lastname:blok:Q20519863
+lastname:engberg:Q21510297
+lastname:ross:Q908629
+lastname:bernardi:Q21493594
+lastname:van merode:Q56292117
+lastname:stein:Q2339506
+lastname:corréard:Q91188597
+lastname:steib:Q56245143
+lastname:dearle:Q56037553
+lastname:earle:Q16869749
+lastname:haus:Q21507773
+lastname:adema:Q37442564
+lastname:plitt:Q37544677
+lastname:leon:Q4258715
+lastname:goldinger:Q30131305
+lastname:mayr:Q21449653
+lastname:dumoulin:Q25058808
+lastname:forman:Q12016761
+lastname:heer:Q37553243
+lastname:lamarr:Q37476193
+lastname:heslop:Q21509415
+lastname:beecher:Q16479562
+lastname:macarthur:Q16876177
+lastname:adams:Q351735
+lastname:ocahan:Q7071694
+lastname:kennedy:Q120401
+lastname:waelbroeck:Q27561856
+lastname:godin:Q12790002
+lastname:lawson:Q13553861
+lastname:bahamón:Q37235779
+lastname:moreno:Q10613677
+lastname:llabrés:Q89332450
+lastname:martin:Q12035675
+lastname:claye:Q89129097
+lastname:conrad:Q12652033
+lastname:anemaet:Q62679317
+lastname:webb:Q2553367
+lastname:friman:Q27887530
+lastname:battaglia:Q16479857
+lastname:brandenburgh:Q37115006
+lastname:brandstetter:Q24689090
+lastname:church:Q16865586
+lastname:bors:Q37249769
+lastname:springer:Q16883693
+lastname:osorio:Q37483500
+lastname:mooney:Q27391736
+lastname:munford:Q37544587
+lastname:vernet:Q21508349
+lastname:angelopoulos:Q21426148
+lastname:odebrecht:Q16880655
+lastname:sommer:Q4428696
+lastname:lenormand:Q21506697
+lastname:barbe-marbois:Q60782314
+lastname:asbeck:Q37160275
+lastname:nicolaisen:Q21513547
+lastname:garrett:Q21487489
+lastname:cordier:Q175753
+lastname:fox:Q1158210
+lastname:meier:Q6582006
+lastname:wesseling:Q37487416
+lastname:moor:Q27675797
+lastname:haller:Q7486798
+lastname:chatillon:Q61014276
+lastname:štědroň:Q81311005
+lastname:smyth:Q27106112
+lastname:mur:Q37265108
+lastname:kirkland:Q16871429
+lastname:veuthey:Q91918868
+lastname:forde:Q16869989
+lastname:krüger:Q1790692
+lastname:watson:Q1184721
+lastname:garcía:Q980636
+lastname:graeff:Q1541306
+lastname:colley:Q16865684
+lastname:mcleish:Q21511146
+lastname:knyff:Q75496851
+lastname:o'connell:Q16880650
+lastname:weil:Q17035149
+lastname:solmi:Q55087949
+lastname:schumann:Q21450751
+lastname:post:Q21491634
+lastname:crone:Q37198333
+lastname:candy:Q16275152
+lastname:pellissier:Q56245754
+lastname:blocq fan scheltinga:Q60225303
+lastname:bertoldo:Q36866514
+lastname:knijff:Q75496851
+lastname:andel:Q37512549
+lastname:wolf:Q16093204
+lastname:urosevic:Q56541176
+lastname:gaines:Q16870080
+lastname:brummett:Q30315780
+lastname:cock:Q17190129
+lastname:schober:Q37538443
+lastname:curry:Q5195197
+lastname:osborn:Q16880804
+lastname:block:Q884653
+lastname:brook:Q16860536
+lastname:almeida:Q4062787
+lastname:wildt:Q37509485
+lastname:zangpo:Q8066196
+lastname:vlahović:Q21509031
+lastname:altena:Q3658698
+lastname:lennep:Q63078318
+lastname:morin:Q21449200
+lastname:carey:Q5039154
+lastname:musier:Q93443147
+lastname:luna:Q27897338
+lastname:roachford:Q36920477
+lastname:penfold:Q7162656
+lastname:bouttats:Q56537826
+lastname:bazan:Q37267581
+lastname:bergen:Q56546850
+lastname:storrer:Q37252808
+lastname:borbone:Q23038495
+lastname:musard:Q46852367
+lastname:barck:Q28148458
+lastname:smit:Q2122984
+lastname:moulin:Q20997408
+lastname:hasse:Q37555285
+lastname:anderson:Q1848748
+lastname:joseph:Q15297160
+lastname:silvestri:Q21450862
+lastname:cassidy:Q16865428
+lastname:mapes:Q36881161
+lastname:treat:Q37543308
+lastname:peterle:Q12798677
+lastname:harel:Q21450044
+lastname:north:Q11790733
+lastname:oesterreich:Q37536289
+lastname:bos:Q16860264
+lastname:ben-david:Q50368994
+lastname:brimeu:Q56641890
+lastname:cudahy:Q21502210
+lastname:shute:Q29359883
+lastname:baffi:Q56245925
+lastname:berg:Q12785738
+lastname:schurig:Q37061889
+lastname:laing:Q1800738
+lastname:vitale:Q18190892
+lastname:könig:Q1795948
+lastname:marsden:Q16876475
+lastname:valdés:Q28891767
+lastname:greaves:Q16870288
+lastname:ziégler:Q198857
+lastname:krengel:Q37180167
+lastname:volkmann:Q28150674
+lastname:pieck:Q25630924
+lastname:kuhn:Q1791251
+lastname:lundborg:Q21491813
+lastname:sturges:Q21449779
+lastname:lambdin:Q6481174
+lastname:hammill:Q21507471
+lastname:geurts:Q21507200
+lastname:bushby:Q37458564
+lastname:dufourmantelle:Q94087580
+lastname:eckardt:Q23639883
+lastname:taylor:Q15080511
+lastname:blommaertdesoye:Q64210757
+lastname:puget:Q7258917
+lastname:orsi:Q21489139
+lastname:maury:Q20982280
+lastname:murota:Q26450440
+lastname:rollé:Q22926516
+lastname:mauri:Q420128
+lastname:tomassi:Q37509014
+lastname:norcross:Q16880506
+lastname:pfister:Q12798731
+lastname:bishop:Q1158188
+lastname:willes:Q21498320
+lastname:cuno:Q20996036
+lastname:lormier:Q18414687
+lastname:grider:Q56244541
+lastname:weck:Q37569327
+lastname:nicoláu:Q7029903
+lastname:puppe:Q37556901
+lastname:phelan:Q2085453
+lastname:collin:Q24251425
+lastname:štědroň:Q81311005
+lastname:killigrew:Q34981554
+lastname:macomber:Q16876214
+lastname:lessore:Q94132131
+lastname:barth:Q809264
+lastname:franquesa:Q75512624
+lastname:bréard:Q20995923
+lastname:sibert:Q37170304
+lastname:slaney:Q37077344
+lastname:andrieu:Q25272832
+lastname:boon:Q27257614
+lastname:foresti:Q42956429
+lastname:roest:Q49987285
+lastname:raine:Q21507748
+lastname:mertens:Q21447885
+lastname:staiti:Q37165532
+lastname:griesbach:Q36982692
+lastname:mensinga:Q64982504
+lastname:dijckmeester:Q65741232
+lastname:anethan:Q63485123
+lastname:coyner:Q37476058
+lastname:clift:Q36865766
+lastname:lens:Q16816200
+lastname:henry iii:XXX
+lastname:febvre:Q56245160
+lastname:rey:Q419161
+lastname:broquet:Q65098879
+lastname:brands:Q37430848
+lastname:sharma:Q2277230
+lastname:molinder:Q55403859
+lastname:michelini:Q27500043
+lastname:wirtz:Q28745064
+lastname:fendt:Q37330609
+lastname:anthony:Q4771950
+lastname:perreault:Q21452632
+lastname:baker:Q2658150
+lastname:linebarger:Q36947493
+lastname:asioli:Q56118775
+lastname:bergt:Q37517284
+lastname:foreest:Q2509815
+lastname:benet:Q21451115
+lastname:dyer:Q16869738
+lastname:arcangeli:Q37227860
+lastname:nash:Q1965666
+lastname:nowak:Q15073902
+lastname:simpson:Q2800825
+lastname:hurn:Q37445617
+lastname:hardie:Q21510527
+lastname:prinet:Q95622658
+lastname:brandi:Q21482862
+lastname:zieseniss:Q42565271
+lastname:windt:Q21493664
+lastname:caner:Q37441350
+lastname:gooden:Q21507386
+lastname:heylen:Q5154633
+lastname:morales:Q6023513
+lastname:ferretti:Q21491423
+lastname:schenck:Q21489161
+lastname:tejera y garcía:Q21498071
+lastname:budd:Q16865114
+lastname:carree:Q37255040
+lastname:carre:Q36900853
+lastname:magimel:Q95725125
+lastname:prault:Q63863248
+lastname:clerc:Q21507426
+lastname:paget:Q29548283
+lastname:freese:Q1453625
+lastname:rothé:Q21452690
+lastname:king:Q535214
+lastname:malagoli:Q56539725
+lastname:malagòli:Q56539725
+lastname:malagòli:Q56539725
+lastname:monro:Q41588071
+lastname:wagner:Q2539239
+lastname:troya:Q37453303
+lastname:ziegler:Q198857
+lastname:nahm:Q36930592
+lastname:caletti:Q96071925
+lastname:claes:Q27237744
+lastname:brasseur:Q21492332
+lastname:söhn:Q21475345
+lastname:pichardo:Q7190622
+lastname:latané:Q6495094
+lastname:latane:Q6495094
+lastname:latané:Q6495094
+lastname:temple:Q21500480
+lastname:glasner:Q36934708
+lastname:beilenson:Q55757021
+lastname:soprano:Q37553758
+lastname:frazier:Q411924
+lastname:velarde:Q37276572
+lastname:ó máille:Q54869213
+lastname:dietsch:Q16862930
+lastname:jarvie:Q37224544
+lastname:bracony:Q96405465
+lastname:pound:Q20997663
+lastname:lavalard:Q89716011
+lastname:briskin:Q4968691
+lastname:wolff:Q2588593
+lastname:marrier:Q37532536
+lastname:strawn:Q16815092
+lastname:dubief:Q65102723
+lastname:rothschild:Q2200026
+lastname:valsecchi:Q55087999
+lastname:kidwell:Q27260195
+lastname:trebeschi:Q96622152
+lastname:todd:Q16884749
+lastname:barral:Q37508516
+lastname:rohling:Q37234876
+lastname:ramsdell:Q37435234
+lastname:palomino:Q37007921
+lastname:taskin:Q21449635
+lastname:martinac:Q37051097
+lastname:gross:Q14290163
+lastname:macy:Q16876218
+lastname:tonneau:Q65114243
+lastname:tremblay:Q27311843
+lastname:albrechtsen:Q21508907
+lastname:aikman:Q21507543
+lastname:guichard:Q27924270
+lastname:döring:Q23640223
+lastname:döring:Q23640223
+lastname:saint-cyr:Q63405801
+lastname:hering:Q1609969
+lastname:kulcsár:Q56539131
+lastname:kulcsár:Q56539131
+lastname:imbault:Q63760287
+lastname:white:Q1215200
+lastname:hassenstein:Q97619375
+lastname:ordóñez:Q11044990
+lastname:truelle:Q65114416
+lastname:borup:Q37503538
+lastname:børup:Q50017562
+lastname:ferwerda:Q37149056
+lastname:gribble:Q27206004
+lastname:colomb:Q41785644
+lastname:wakeman:Q16879300
+lastname:di giorgi:Q55063659
+lastname:anciaux:Q23817392
+lastname:ammendola:Q98165953
+lastname:staudinger:Q21511604
+lastname:dodd:Q16869600
+lastname:haest:Q98170071
+lastname:calamai:Q56537911
+lastname:zeidler:Q28150676
+lastname:tonk:Q67201136
+lastname:zotti:Q56244719
+lastname:meidell:Q20726914
+lastname:jeyes:Q98337632
+lastname:dimier:Q71814373
+lastname:deslandes:Q36938514
+lastname:blakeslee:Q21508488
+lastname:biggs:Q21452543
+lastname:gijsbers:Q65104977
+lastname:borde:Q37232390
+lastname:jacques:Q18577291
+lastname:campani:Q42864926
+lastname:walker:Q1158605
+lastname:grillo:Q16870312
+lastname:zürcher:Q55847007
+lastname:cardozo:Q19919890
+lastname:périchon:Q32856280
+lastname:parigi:Q31212603
+lastname:friedman:Q1451887
+lastname:capponi:Q36999113
+lastname:manni:Q28737216
+lastname:vries:Q7942749
+lastname:velu:Q37126603
+lastname:tower:Q13560083
+lastname:olivares:Q37239621
+lastname:williot:Q98799038
+lastname:ferrière:Q62102864
+lastname:ferriere:Q62102864
+lastname:milnes:Q21489018
+lastname:cornilleau:Q98817709
+lastname:cunningham:Q7849873
+lastname:füchslin:Q98831193
+lastname:peard:Q37295362
+lastname:quesnel:Q36906549
+lastname:soens:Q37110470
+lastname:ravenel:Q16879511
+lastname:nájera:Q41588102
+lastname:toke:Q37450497
+lastname:dorn:Q21227176
+lastname:sampson:Q16882578
+lastname:patrick:Q203052
+lastname:worth:Q28812109
+lastname:robert:Q2156271
+lastname:cima:Q37535455
+lastname:daignan:Q65100841
+lastname:setti:Q36902703
+lastname:rochard:Q42592613
+lastname:aubin:Q37550017
+lastname:o'meara:Q63434694
+lastname:neumann:Q21502212
+lastname:longchamp:Q37070459
+lastname:castillo:Q21493053
+lastname:bastia:Q57911718
+lastname:este:Q36927672
+lastname:de baere:Q40217454
+lastname:gautier:Q16870137
+lastname:ley:Q37476695
+lastname:laurenti:Q56245698
+lastname:virgili:Q21493532
+lastname:vallet:Q27943273
+lastname:laver:Q16871923
+lastname:park:Q20007284
+lastname:muckle:Q3327368
+lastname:dautry:Q96146071
+lastname:calzetta:Q99518796
+lastname:ravenna:Q37534987
+lastname:luciani:Q21449042
+lastname:dinter:Q21502063
+lastname:eakin:Q21509882
+lastname:otten:Q21422177
+lastname:brandt:Q11941314
+lastname:novotný:Q16287199
+lastname:stejskal:Q21492673
+lastname:matejka:Q37454436
+lastname:newburgh:Q99670533
+lastname:berman:Q21493593
+lastname:sills:Q26234551
+lastname:kendall:Q16871334
+lastname:yvon:Q16860482
+lastname:johansson:Q1699018
+lastname:duclos:Q21450529
+lastname:neher:Q1974526
+lastname:grenouillet:Q65105452
+lastname:berkel:Q30433288
+lastname:meller:Q21509872
+lastname:gessinger:Q56538471
+lastname:allinger:Q37096615
+lastname:brandsma:Q36941193
+lastname:grubbs:Q16870337
+lastname:kikuchi:Q16871383
+lastname:saladin:Q37447175
+lastname:andrade:Q15181057
+lastname:torterolo:Q100066960
+lastname:fettweis:Q65562050
+lastname:herzog:Q20520130
+lastname:goléa:Q56246021
+lastname:golea:Q56246021
+lastname:de giorgi:Q99907911
+lastname:galvin:Q16870091
+lastname:canadell:Q57006184
+lastname:paton:Q12798362
+lastname:elizondo:Q21504827
+lastname:froideval:Q28033670
+lastname:monck:Q37455566
+lastname:ehm:Q25631005
+lastname:vecchi:Q21430067
+lastname:asemota:Q37273883
+lastname:potts:Q21450795
+lastname:dick:Q5272610
+lastname:rea:Q21448980
+lastname:benoît:Q26225403
+lastname:benoît:Q26225403
+lastname:benoit:Q23722326
+lastname:thwaites:Q32856322
+lastname:robins:Q28157148
+lastname:mena:Q16290702
+lastname:beard:Q16479662
+lastname:gouffier:Q74081663
+lastname:leunens:Q66764568
+lastname:casson:Q37484904
+lastname:irving:Q36897514
+lastname:gatti:Q23038817
+lastname:forrest:Q13560450
+lastname:errington:Q16869840
+lastname:padilla:Q16880902
+lastname:bourne:Q14915265
+lastname:howe:Q16870901
+lastname:cegrell:Q42368659
+lastname:saavedra:Q100339018
+lastname:chabloz:Q76417622
+lastname:vogel:Q1715412
+lastname:bradley:Q896987
+lastname:ravasio:Q99672088
+lastname:hodne:Q30086981
+lastname:raatz:Q37529216
+lastname:kogelman:Q37220156
+lastname:slutzky:Q37452208
+lastname:dean:Q383113
+lastname:ozanam:Q21449866
+lastname:stern:Q21468509
+lastname:beneš:Q21450655
+lastname:neelon:Q37312924
+lastname:elliott:Q21449521
+lastname:tazreiter:Q72104417
+lastname:laws:Q16871935
+lastname:jones:Q59853
+lastname:blackstone:Q37562619
+lastname:fujishige:Q37439731
+lastname:hawkins:Q12790801
+lastname:brace:Q16860319
+lastname:duca:Q21450525
+lastname:doz:Q65102596
+lastname:samad:Q37306907
+lastname:hallerberg:Q100618010
+lastname:truett:Q20998128
+lastname:fairbairn:Q21509779
+lastname:steinmetz:Q21501732
+lastname:hofstetter:Q55168490
+lastname:dickens:Q16869553
+lastname:canciani:Q63439010
+lastname:armstrong:Q13627772
+lastname:sloan:Q20997920
+lastname:kloke:Q37198742
+lastname:miernik:Q65539798
+lastname:carrasco:Q16865394
+lastname:hartwieg:Q83354962
+lastname:dunlop:Q13408665
+lastname:crispini:Q100875207
+lastname:ultee:Q100888467
+lastname:levy:Q14626636
+lastname:goebel:Q21492311
+lastname:keele:Q37011848
+lastname:verzier:Q75039966
+lastname:mcgovern:Q6801398
+lastname:bochner:Q21482502
+lastname:<!-- pseudo, autre nom, nom de scène -->:XXX
+lastname:flanigan:Q1427092
+lastname:kerans:Q37265276
+lastname:watmough:Q7974743
+lastname:webster:Q21484845
+lastname:broer:Q15947868
+lastname:birchfield:Q37561728
+lastname:marini:Q21491363
+lastname:kusák:Q82005830
+lastname:farmer:Q5435709
+lastname:mange:Q37499805
+lastname:viljanen:Q38691685
+lastname:trillat:Q101001349
+lastname:simakov:Q4419457
+lastname:mccann:Q16876180
+lastname:mckenty:Q56225609
+lastname:lederlé:Q37451052
+lastname:bacigalupo:Q37099740
+lastname:butow:Q37181479
+lastname:talwalkar:Q101075067
+lastname:axisa:Q101083961
+lastname:gabriel:Q16267060
+lastname:gallegos:Q35659270
+lastname:kim:Q157414
+lastname:garz:Q56476230
+lastname:ossowski:Q27883543
+lastname:gaujal:Q101111448
+lastname:rider:Q28169216
+lastname:arditi:Q16148200
+lastname:pilbeam:Q2094892
+lastname:palombo:Q25114870
+lastname:urkiola:Q53865885
+lastname:mattens:Q101192271
+lastname:werner:Q18012370
+lastname:belshaw:Q16479874
+lastname:soupault:Q65113804
+lastname:hargreaves:Q41793125
+lastname:dorr:Q16869636
+lastname:baldocchi:Q37101522
+lastname:shewan:Q37286302
+lastname:kuhl:Q26001242
+lastname:panis:Q37493187
+lastname:dutton:Q28226010
+lastname:poe:Q16881297
+lastname:gordon:Q2701900
+lastname:striessnig:Q72105104
+lastname:viardot:Q24514422
+lastname:joffe:Q21448968
+lastname:massé:Q24805305
+lastname:lorenz:Q1870035
+lastname:oset:Q73031752
+lastname:ferrer:Q5445301
+lastname:veneziani:Q99672463
+lastname:ellis:Q21452033
+lastname:perreau:Q56540217
+lastname:geffray:Q66816158
+lastname:angeloch:Q102045416
+lastname:curten:Q83345386
+lastname:pegels:Q102047644
+lastname:buxton:Q13552129
+lastname:pez:Q65112112
+lastname:melter:Q37056504
+lastname:drozd:Q16833715
+lastname:stanley:Q2331622
+lastname:sanger:Q21484790
+lastname:lele:Q37554669
+lastname:mönch:Q1957962
+lastname:yocom:Q37494435
+lastname:marsh:Q16876476
+lastname:brandenberg:Q37118300
+lastname:braude:Q34999981
+lastname:farazmand:Q102186266
+lastname:emery:Q16275674
+lastname:gielen:Q36910941
+lastname:pfenninger:Q37472468
+lastname:stevens:Q1797561
+lastname:bernaerts:Q102218961
+lastname:schmitt:Q2246512
+lastname:lieberman:Q37009553
+lastname:love:Q15616682
+lastname:jacobs:Q1158566
+lastname:easson:Q5327554
+lastname:hertig:Q37108819
+lastname:mcnutt:Q21511160
+lastname:day:Q5242796
+lastname:wygant:Q37464491
+lastname:hieronymus:Q37032051
+lastname:silva:Q6327150
+lastname:stratford:Q20727133
+lastname:stephens:Q16473357
+lastname:turner:Q12804512
+lastname:samuelson:Q2219079
+lastname:hübner:Q1652067
+lastname:hübner:Q1652067
+lastname:markus:Q17516268
+lastname:seiler:Q28150673
+lastname:heiduk:Q66813551
+lastname:hearn:Q30433436
+lastname:canter:Q16865348
+lastname:tardy:Q23793569
+lastname:gaulejac:Q98209990
+lastname:wirz:Q21448166
+lastname:tasker:Q37005674
+lastname:rotgé:Q65113114
+lastname:james:Q12188082
+lastname:prensky:Q103982254
+lastname:sarv:Q50196897
+lastname:toll:Q35955562
+lastname:ricci:Q21493176
+lastname:boult:Q25114228
+lastname:tournade:Q65965941
+lastname:duval:Q21491525
+lastname:henriques:Q16870705
+lastname:boucharlat:Q104092265
+lastname:feuvrier:Q65103899
+lastname:hendy:Q5714065
+lastname:kinberg:Q16285446
+lastname:greg:Q18857387
+lastname:filipović:Q21451062
+lastname:pini:Q21509478
+lastname:habets:Q37431394
+lastname:blondel:Q20995853
+lastname:santoro:Q28797468
+lastname:schiebe:Q37535681
+lastname:wifstrand schiebe:Q106696674
+lastname:hirzel:Q37264660
+lastname:bidaut:Q65098171
+lastname:richard:Q10862233
+lastname:renaud:Q21011431
+lastname:siegenthaler:Q37224651
+lastname:sidler:Q36862861
+lastname:habersaat:Q105532089
+lastname:leider:Q21083898
+lastname:de la croix:Q67814095
+lastname:suarez:Q37280076
+lastname:schurtz:Q37125001
+lastname:sarma:Q37111316
+lastname:lampugnani:Q101040308
+lastname:snyder:Q16883494
 theater-occupation:company,:XXX
 theater-occupation:designer,:Q26869657
 theater-occupation:choreographer:Q2490358
@@ -5635,6 +8682,8 @@ degree:mrcs:Q6815098
 degree:frcs:Q3631327
 degree:lrcp:Q42341159
 degree:mb bs london:Q13948235
+degree:dr. theol.:Q1233889
+degree:doctor, student:XXX
 instrument:guitarist:Q6607
 instrument:fedaral republic of germany:XXX
 instrument:producer:XXX
@@ -6551,6 +9600,36 @@ source:locauth:XXX
 source:dnb:XXX
 source:kürschner gelehrte (2005):Q1797292
 source:lc auth:XXX
+source:bnf online:XXX
+source:kb (szwecja) online:XXX
+source:dnb online:XXX
+source:snb online:XXX
+source:bn online:XXX
+source:literapedia:Q65400283
+source:cerl online:XXX
+source:nagler 1904-1914:Q15275409
+source:nkcr online:XXX
+source:nieuw biographisch, anthologisch en critisch woordenboek van nederlandsche dichters. deel 2 (1845) in de digitale bibliotheek voor de nederlandse letteren:Q104723767
+source:meer:XXX
+source:nieuw biographisch, anthologisch en critisch woordenboek van nederlandsche dichters. deel 2:Q104723767
+source:biographisch anthologisch en critisch woordenboek der nederduitsche dichters. deel 5 ogi-ver:Q104721994
+source:biographisch anthologisch en critisch woordenboek der nederduitsche dichters. deel 5 ogi-ver (1824) in de digitale bibliotheek voor de nederlandse letteren:Q104721994
+source:biographisch anthologisch en critisch woordenboek der nederduitsche dichters. deel 1 abe-byn (1821) in de digitale bibliotheek voor de nederlandse letteren:Q104721994
+source:biographisch anthologisch en critisch woordenboek der nederduitsche dichters. deel 1 abe-byn:Q104721994
+source:nieuw nederlandsch biografisch woordenboek:Q1989413
+source:biographisch anthologisch en critisch woordenboek der nederduitsche dichters. deel 2 cab-gyz (1822) in de digitale bibliotheek voor de nederlandse letteren:Q104721994
+source:biographisch anthologisch en critisch woordenboek der nederduitsche dichters. deel 2 cab-gyz:Q104721994
+source:biographisch woordenboek der nederlanden. deel 5:Q21073999
+source:biographisch anthologisch en critisch woordenboek der nederduitsche dichters. deel 3 hae-ipe (1822) in de digitale bibliotheek voor de nederlandse letteren:Q104721994
+source:biographisch anthologisch en critisch woordenboek der nederduitsche dichters. deel 3 hae-ipe:Q104721994
+source:biographisch woordenboek van protestantsche godgeleerden in nederland. deel 3:Q106809310
+source:jaarboek van de maatschappij der nederlandse letterkunde, 1855 (1855) in de digitale bibliotheek voor de nederlandse letteren:Q65785082
+source:jaarboek van de maatschappij der nederlandse letterkunde, 1855:Q65785082
+source:biographisch anthologisch en critisch woordenboek der nederduitsche dichters. deel 4 jac-nyv (1823) in de digitale bibliotheek voor de nederlandse letteren:Q104721994
+source:biographisch anthologisch en critisch woordenboek der nederduitsche dichters. deel 4 jac-nyv:Q104721994
+source:biographisch woordenboek der nederlanden. deel 10:Q21073999
+source:beknopt biografisch lexicon van zuid- en noord-nederlandse schilders, graveurs, glasschilders, tapijtwevers et cetera van ca. 1350 tot ca. 1720:Q106810152
+source:allgemeines lexikon der bildenden künstler von der antike bis zur gegenwart, band 26:Q1361256
 olympics:1984 summer:Q8456
 olympics:1988 summer:Q8470
 film:''un homme est passé'':Q963045
@@ -11713,6 +14792,54 @@ occupation:geolodzy:Q520549
 occupation:dulni inzenyri:Q18524075
 occupation:francouzský geolog:Q520549
 occupation:důlní inženýr:Q18524075
+occupation:professeur d'archéologie:Q3621491
+occupation:archeolodzy:Q3621491
+occupation:depuis 2006:XXX
+occupation:švýcarský protestantský teolog:Q98833883
+occupation:knihkupci:Q998550
+occupation:prof. assistant:Q3400985
+occupation:genève:XXX
+occupation:ecrit en anglais:Q36180
+occupation:suisse (en 2001):XXX
+occupation:conteur:Q16023925
+occupation:auteur-compositeur-interprète:Q639669
+occupation:dt. zeichner:Q15296811
+occupation:documentaliste:Q1235152
+occupation:rédacteur en chef:Q589298
+occupation:enseignante:Q37226
+occupation:enseigne la littérature française:Q99398506
+occupation:écrivaine:Q36180
+occupation:bibliothekarin:Q182436
+occupation:astrologin:Q155647
+occupation:a été bibliothécaire:Q182436
+occupation:correctrice:Q356139
+occupation:ecrivaine:Q36180
+occupation:literaturkritikerin:Q4263842
+occupation:professeur dans l'enseignement secondaire:Q5758653
+occupation:literary critic:Q4263842
+occupation:débute au salon:XXX
+occupation:née à paris:XXX
+occupation:lithographe française:Q16947657
+occupation:en 1838:XXX
+occupation:historycy sztuki kobiety:Q1792450
+occupation:madrid:XXX
+occupation:en 2019:XXX
+occupation:professeurs danglais:Q101444631
+occupation:jesuites:Q63173086
+occupation:fordham university:XXX
+occupation:va:XXX
+occupation:rare:XXX
+occupation:jezuitský kněz:Q63173086
+occupation:medirytci:Q13365770
+occupation:německý kreslíř:Q15296811
+occupation:nürnberg:XXX
+occupation:stecher in nürnberg:Q13365770
+occupation:narozen 1977:XXX
+occupation:překladatel z polštiny:Q333634
+occupation:literární publicista:Q10830299
+occupation:zetter:Q4108101
+occupation:s-hertogenbosch:XXX
+occupation:expediteur koninklijke secretarie:Q5420991
 type:inhabited place:Q486972
 type:ridge:Q740445
 type:peak:Q8502
@@ -11799,1061 +14926,6 @@ religion:christkatholisch:Q5169816
 religion:католицтво:Q1841
 religion:gereformeerd (ned. hervormd):Q515880
 religion:katholisch?:XXX
-firstname:sveta:XXX
-firstname:sergej:Q18946707
-firstname:emile:Q17623487
-firstname:jason:Q2630093
-firstname:riccardo:Q15720880
-firstname:rob:Q1795088
-firstname:teodoro:Q15885216
-firstname:binse:Q66798542
-firstname:steve:Q18336566
-firstname:roy:Q2170752
-firstname:séraphin:Q3511103
-firstname:marion:Q18686588
-firstname:balthasar:Q18190444
-firstname:francesco:Q2268455
-firstname:dalton:Q13634227
-firstname:francesca:Q2695945
-firstname:manfredo:Q17525018
-firstname:jerome:Q647875
-firstname:cody:Q16542780
-firstname:bruno:Q1874605
-firstname:pedro:Q15897419
-firstname:hedy:Q19967613
-firstname:felícitas:Q18012404
-firstname:1942:XXX
-firstname:hieronymus:Q18180930
-firstname:egbert:Q3720286
-firstname:edward:Q278835
-firstname:alberto:Q16799105
-firstname:lodewijk:Q5039608
-firstname:hermann:Q1158570
-firstname:lord:XXX
-firstname:nasiruddin:Q65640392
-firstname:jakob:Q16747395
-firstname:queen:XXX
-firstname:augustin:Q18398186
-firstname:viliam:Q1282843
-firstname:g&ouml;ran:Q1559427
-firstname:frederic:Q16275883
-firstname:rodolphus:Q7357234
-firstname:berend:Q17522398
-firstname:elisabeth:Q17524931
-firstname:jacob:Q25999604
-firstname:clemens:Q18180166
-firstname:kazuo:Q1737568
-firstname:laura:Q429948
-firstname:olaf:Q3881452
-firstname:andre:Q16274896
-firstname:louis:Q2897866
-firstname:joel:Q588700
-firstname:f:XXX
-firstname:michael:Q4927524
-firstname:herbert:Q4926833
-firstname:girolamo:Q1527012
-firstname:p:XXX
-firstname:eustace:Q18915235
-firstname:joscelin:Q63399478
-firstname:harry:Q668885
-firstname:lisa:Q1588186
-firstname:guy:Q1159023
-firstname:bernardus:Q19370861
-firstname:leonardo:Q18220847
-firstname:vincenzo:Q16741113
-firstname:lloyd:Q13478831
-firstname:claudia:Q2936353
-firstname:tashi:Q20001544
-firstname:heinz:Q11682369
-firstname:cornelis:Q850449
-firstname:franc:Q15303979
-firstname:ladislav:Q1160233
-firstname:richeza:Q65122443
-firstname:étienne:Q15727982
-firstname:colin:Q495635
-firstname:maurits:Q8315038
-firstname:amedee:Q482154
-firstname:melvin:Q3854316
-firstname:carlo:Q4205426
-firstname:andré:Q6298851
-firstname:victor:Q539581
-firstname:poul:Q2106710
-firstname:sue:Q16281769
-firstname:simeon:Q1557
-firstname:richard:Q1249148
-firstname:mikuláš:Q19692512
-firstname:édouard:Q221774
-firstname:anton:Q5401576
-firstname:bernhard:Q221978
-firstname:frank:Q220546
-firstname:hazelton:Q91765679
-firstname:emily:Q18121477
-firstname:susanna:Q14936808
-firstname:giambattista:Q18341958
-firstname:philippe:Q15727189
-firstname:christian:Q18001597
-firstname:christophe:Q16274785
-firstname:melissa:Q830357
-firstname:therese:Q18177305
-firstname:v:XXX
-firstname:damien:Q18552173
-firstname:gilles:Q2700518
-firstname:leo:Q606764
-firstname:gladys:Q13422277
-firstname:tvrtko:Q7857380
-firstname:lilla:Q830177
-firstname:dora:Q987115
-firstname:hanzo:Q56561638
-firstname:octave:Q18001648
-firstname:luis:Q2598693
-firstname:fred:Q913073
-firstname:guillaume de:Q18190448
-firstname:adolf:Q18145837
-firstname:1843:XXX
-firstname:k:XXX
-firstname:duncan:Q18915230
-firstname:1847:XXX
-firstname:pellegrino:Q16280543
-firstname:pasquale:Q18204128
-firstname:arent:Q15888090
-firstname:olivier:Q16280379
-firstname:pascual:Q18204275
-firstname:bob:Q18105736
-firstname:gene:Q19802209
-firstname:margot:Q1895358
-firstname:rafael:Q16424000
-firstname:raffaele:Q18184582
-firstname:marc:Q17520944
-firstname:pushpendra:Q66894239
-firstname:carl:Q2529610
-firstname:akihiko:Q4700908
-firstname:julie:Q15725563
-firstname:lucas:Q12325000
-firstname:maurizio:Q1158848
-firstname:franz:Q4925932
-firstname:léon:Q17781870
-firstname:hermanus:Q1290839
-firstname:arie:Q18326155
-firstname:florence:Q950780
-firstname:angelo:Q18814789
-firstname:aldo:Q2305904
-firstname:andreas:Q4926263
-firstname:noël:Q19688263
-firstname:russell:Q14816494
-firstname:eugène:Q18012535
-firstname:hatto:Q40201357
-firstname:lluis:Q21282985
-firstname:césare:Q18341985
-firstname:leopoldo:Q18559561
-firstname:erwin:Q16747215
-firstname:adolphe:Q365625
-firstname:landgrave:XXX
-firstname:israel:Q19819746
-firstname:jeanlouis:Q18916826
-firstname:сафія:Q2302787
-firstname:leonard:Q948418
-firstname:babu:Q16274994
-firstname:ambrogio:Q18551920
-firstname:amelia:Q461718
-firstname:iii:XXX
-firstname:yves:Q1920728
-firstname:agustín:Q17486172
-firstname:g:XXX
-firstname:henri:Q1605665
-firstname:julius:Q1102114
-firstname:véronique:Q17496626
-firstname:reynaldo:Q21285963
-firstname:luigi:Q4245067
-firstname:nina:Q1508902
-firstname:maximilian:Q18133228
-firstname:phoebe:Q4848819
-firstname:henry:Q1158477
-firstname:cathryn:Q16947202
-firstname:ernest:Q595105
-firstname:gijsbertus:Q18762226
-firstname:rufus:Q605821
-firstname:renato:Q348946
-firstname:gaston:Q18086818
-firstname:kenneth:Q2492643
-firstname:edna:Q746548
-firstname:götz:Q19819805
-firstname:renate:Q17561028
-firstname:konrad:Q18156186
-firstname:françois:Q1166840
-firstname:enrique:Q681468
-firstname:dennis:Q639292
-firstname:lodovico:Q19830582
-firstname:nicolaas:Q17518680
-firstname:stanislao:Q19688976
-firstname:hugo:Q1242555
-firstname:lesley:Q18658557
-firstname:antoine:Q15235674
-firstname:edmund:Q401836
-firstname:brian:Q15930574
-firstname:hyacinthe:Q3143564
-firstname:marieanne:Q19689737
-firstname:granville:Q19870795
-firstname:dominicus:Q20968145
-firstname:sabine:Q18182622
-firstname:de:XXX
-firstname:sicco:Q65826008
-firstname:elizabeth:Q385468
-firstname:max:Q16422172
-firstname:hersch:Q66095816
-firstname:ronald:Q2532287
-firstname:helmut:Q18191106
-firstname:1887:XXX
-firstname:domenico:Q1765453
-firstname:comino:Q64989420
-firstname:a:XXX
-firstname:danny:Q17863942
-firstname:jens:Q2246251
-firstname:susan:Q14936243
-firstname:sylvain:Q16281827
-firstname:octavia:Q28734646
-firstname:martina:Q4963627
-firstname:dirk jacobsz:Q1605531
-firstname:gerard:Q1261347
-firstname:hassan:Q16276444
-firstname:kurt:Q1158489
-firstname:ida:Q644599
-firstname:edwin:Q240931
-firstname:michel:Q14626626
-firstname:serge:Q13415966
-firstname:elie:Q3587713
-firstname:guiomar:Q62092258
-firstname:zacharias:Q20174193
-firstname:hugh:Q839387
-firstname:emmanuel:Q18001873
-firstname:burkard:Q19967796
-firstname:helena:Q1035239
-firstname:virendra:Q42318257
-firstname:hindrik:Q21143550
-firstname:jordi:Q17523812
-firstname:georg:Q1985538
-firstname:wouter:Q18611510
-firstname:charlene:Q786923
-firstname:warren:Q2256715
-firstname:johann:Q11122389
-firstname:le:XXX
-firstname:roemer:Q65589181
-firstname:wallace:Q2542509
-firstname:edouard:Q19688398
-firstname:gerald:Q2131007
-firstname:jim:Q15868042
-firstname:antonius:Q16898983
-firstname:bolesław:Q19819786
-firstname:hendrik:Q1158181
-firstname:lewis:Q768196
-firstname:dermot:Q1200261
-firstname:stephen:Q4927100
-firstname:etienne:Q18180827
-firstname:jacobo:Q19688634
-firstname:eugene:Q545971
-firstname:earl:Q8933847
-firstname:prosper:Q17711245
-firstname:valentina:Q13589249
-firstname:lambert:Q492730
-firstname:wolfgang:Q2589157
-firstname:edmond:Q12788174
-firstname:jorden:Q24045788
-firstname:fern:Q1406445
-firstname:bryan:Q3894860
-firstname:damascenus:Q65952217
-firstname:jean-pierre:Q6169840
-firstname:james:Q677191
-firstname:gerrit:Q1514735
-firstname:gautier:Q19914643
-firstname:joannes:Q18638754
-firstname:furio:Q537566
-firstname:ingrid:Q903741
-firstname:sterling:Q16291072
-firstname:harm:Q2021163
-firstname:liesbeth:Q18108390
-firstname:edgardo:Q1284293
-firstname:steven:Q17501985
-firstname:charlaine:Q68891040
-firstname:jeffrey:Q13028078
-firstname:bradley:Q538847
-firstname:alejandro:Q1707169
-firstname:jacobus:Q15921890
-firstname:doug:Q18533467
-firstname:fredrick:Q21147789
-firstname:maximilien:Q19688708
-firstname:rex:Q1517287
-firstname:ernie:Q19816583
-firstname:marcia:Q1464882
-firstname:maffeo:Q3843047
-firstname:robert:Q4927937
-firstname:keno:Q20002208
-firstname:douglas:Q463035
-firstname:daniel:Q14516546
-firstname:sperindio:Q73517033
-firstname:paulus:Q18760932
-firstname:judith:Q5954149
-firstname:everett:Q19828983
-firstname:fernando:Q18115751
-firstname:benjamin:Q4926472
-firstname:oskar:Q18145769
-firstname:gonzalo:Q19901997
-firstname:jacopo:Q12044861
-firstname:clarence:Q3373079
-firstname:timothy:Q15885954
-firstname:pieter:Q1237447
-firstname:romano:Q18182625
-firstname:coen:Q20830189
-firstname:frans:Q3480175
-firstname:lucantonio:Q86901432
-firstname:amato:Q18547869
-firstname:euphemia:Q992341
-firstname:dirk:Q1605531
-firstname:randall:Q16280793
-firstname:philip:Q827311
-firstname:jeremias:Q659150
-firstname:godfrey:Q19828531
-firstname:montague:Q21079652
-firstname:isidore:Q16868223
-firstname:barbara:Q153957
-firstname:chiara:Q942786
-firstname:ivor:Q20025095
-firstname:david:Q18057751
-firstname:volker:Q1576766
-firstname:archibald:Q19767773
-firstname:gordon:Q18402571
-firstname:w:XXX
-firstname:daisy:Q4472145
-firstname:rudolf:Q18028491
-firstname:kuno:Q19967528
-firstname:maggie:Q1625970
-firstname:wybe:Q62757260
-firstname:valentino:Q19819809
-firstname:matthias:Q4927273
-firstname:rené:Q2624417
-firstname:rachel:Q935489
-firstname:gianfrancesco:Q18130785
-firstname:elder:Q18210883
-firstname:pablo:Q2045138
-firstname:george:Q15921732
-firstname:gertrude:Q509729
-firstname:reinier:Q7310389
-firstname:tito:Q6147511
-firstname:deanne:Q55739455
-firstname:alfred:Q3480335
-firstname:tom:Q3354498
-firstname:adélard:Q27922404
-firstname:lucrezia:Q18196477
-firstname:gilbert:Q1675463
-firstname:john:Q4925477
-firstname:paolo:Q15731774
-firstname:mikael:Q15620350
-firstname:saint:XXX
-firstname:tommaso:Q15654302
-firstname:martinus:Q17520926
-firstname:ramzi:Q60589646
-firstname:pavel:Q43082565
-firstname:albert:Q577011
-firstname:alan:Q294833
-firstname:aurelio:Q2484382
-firstname:jordan:Q14021944
-firstname:eugeen:Q51045851
-firstname:helen:Q13376892
-firstname:osvaldo:Q18190931
-firstname:wieland:Q19688790
-firstname:milton:Q16290730
-firstname:king:XXX
-firstname:b:XXX
-firstname:ben:Q816407
-firstname:vilmos:Q2526270
-firstname:bertran:Q4895841
-firstname:lucius:Q12382759
-firstname:bartolomeo:Q939850
-firstname:gunnar:Q120416
-firstname:barthelemy:Q17782076
-firstname:nathalie:Q16279976
-firstname:markus:Q17520949
-firstname:sophie:Q14942517
-firstname:anice:Q20855990
-firstname:countess:XXX
-firstname:sophia:Q2302787
-firstname:bolko:Q65259542
-firstname:charlotte:Q264002
-firstname:rene:Q19827830
-firstname:sam:Q12800694
-firstname:corneille:Q19997445
-firstname:reinhard:Q18177338
-firstname:adrian:Q372250
-firstname:philippine:Q21097012
-firstname:michelangelo:Q19003508
-firstname:ren&eacute;:Q2624417
-firstname:miquel:Q15620341
-firstname:bertha:Q16420820
-firstname:cyprien:Q18177167
-firstname:g&uuml;nther:Q3294006
-firstname:alfonso:Q18180808
-firstname:reinhart:Q18182685
-firstname:leonhard:Q18226374
-firstname:karl:Q15731830
-firstname:ray:Q2133832
-firstname:gustavo:Q15646190
-firstname:gustave:Q18020453
-firstname:willy:Q416744
-firstname:paulin:Q11813758
-firstname:luisa:Q18092018
-firstname:clovis:Q16275220
-firstname:simon:Q4117588
-firstname:linda:Q1136594
-firstname:martha:Q16279062
-firstname:faye:Q16275806
-firstname:bruce:Q579371
-firstname:germana:Q1514073
-firstname:mario:Q3362622
-firstname:alžběta:Q18073645
-firstname:marie:Q632104
-firstname:sally:Q19816532
-firstname:herman:Q16276646
-firstname:maria:Q325872
-firstname:michelle:Q15621047
-firstname:laurens:Q2227957
-firstname:laurent:Q16763977
-firstname:hanna:Q15729076
-firstname:grove:Q75976043
-firstname:frederick:Q3273004
-firstname:melanie:Q1064920
-firstname:aimé:Q833882
-firstname:hanns:Q16276296
-firstname:erasmus:Q18670572
-firstname:abraham:Q17997608
-firstname:thomas:Q16428906
-firstname:brenda:Q4732148
-firstname:danjel:Q10466585
-firstname:lobsang:Q65285921
-firstname:charles:Q2958359
-firstname:teresa:Q2793617
-firstname:percy:Q1329662
-firstname:adriaan:Q17497496
-firstname:gamaliel:Q15618266
-firstname:henricus:Q16908634
-firstname:savinien:Q24759673
-firstname:dorothy:Q2647244
-firstname:naomi:Q18508449
-firstname:fons:Q1435760
-firstname:eelko:Q21147689
-firstname:hendrick:Q21031071
-firstname:hugues:Q16276979
-firstname:élie:Q3587713
-firstname:louise:Q3215140
-firstname:claude:Q17523984
-firstname:betsy:Q832242
-firstname:otis:Q19830625
-firstname:lorenzo:Q4267021
-firstname:heinrich:Q2018484
-firstname:jaroslav:Q35000543
-firstname:gideon:Q1523103
-firstname:georg landgraf:Q1985538
-firstname:rafał:Q15712891
-firstname:monica:Q14013933
-firstname:beau:Q19962582
-firstname:samuel:Q629347
-firstname:jitka:Q1689666
-firstname:harmen:Q18071681
-firstname:gilson:Q21285753
-firstname:janneke:Q19523024
-firstname:christopher:Q1084472
-firstname:murray:Q19802961
-firstname:agostino:Q18645188
-firstname:johanna:Q4120836
-firstname:katharina:Q16277712
-firstname:alexander:Q923
-firstname:randal:Q20165761
-firstname:h:XXX
-firstname:lois:Q3836481
-firstname:cosimo:Q18252061
-firstname:roger:Q4925304
-firstname:onno:Q2024529
-firstname:vito:Q12805843
-firstname:gerardo:Q5550225
-firstname:maurice:Q1472321
-firstname:giselbert:Q65120788
-firstname:éduard:Q18031774
-firstname:filips:Q25917078
-firstname:1920:XXX
-firstname:alessandro:Q17501723
-firstname:romuald:Q19938339
-firstname:irving:Q19819747
-firstname:sean:Q19801202
-firstname:stanley:Q3541269
-firstname:león:Q20000925
-firstname:günther:Q3294006
-firstname:lee:Q2061957
-firstname:cornelius:Q17518364
-firstname:bernard:Q14649171
-firstname:félix:Q16868070
-firstname:harvey:Q19767732
-firstname:jean maurice:Q27117915
-firstname:ralph:Q18156180
-firstname:prince:XXX
-firstname:r:XXX
-firstname:gian:Q1522259
-firstname:sílvia:Q837124
-firstname:ira:Q11864996
-firstname:nathaniel:Q18978396
-firstname:august:Q370731
-firstname:miroslav:Q2582701
-firstname:sebastiaan:Q17525467
-firstname:cedric:Q1385122
-firstname:hrafn:Q11682625
-firstname:c:XXX
-firstname:josias:Q18181294
-firstname:norbert:Q917408
-firstname:გიორგი:Q17534804
-firstname:émile:Q13426635
-firstname:edgar:Q2660560
-firstname:constantina:Q21142915
-firstname:s:XXX
-firstname:theophil:Q1596198
-firstname:dana:Q1559603
-firstname:fernand:Q1406472
-firstname:nils:Q16423038
-firstname:ernst:Q292691
-firstname:rodney:Q16597664
-firstname:györgy:Q942625
-firstname:doede:Q21142812
-firstname:ch:XXX
-firstname:dominique:Q509951
-firstname:jeff:Q18609696
-firstname:kazimiera:Q10544591
-firstname:thierry:Q18001848
-firstname:leon:Q37080
-firstname:gualterus:Q62757814
-firstname:ermelinda:Q990834
-firstname:dirck:Q21031073
-firstname:werner:Q676823
-firstname:denis:Q1187221
-firstname:ignacy:Q18220021
-firstname:tony:Q15238167
-firstname:constant:Q2294971
-firstname:nicola:Q951924
-firstname:nicole:Q14753732
-firstname:reijnier:Q29950774
-firstname:oliver:Q2110096
-firstname:howard:Q3595959
-firstname:bertrand:Q3637880
-firstname:barry:Q808995
-firstname:silvia:Q837124
-firstname:sara:Q833345
-firstname:junru:Q69481046
-firstname:mark:Q13610143
-firstname:johannes:Q2117521
-firstname:geoffrey:Q7041317
-firstname:umanath:Q64915460
-firstname:victorine:Q20202366
-firstname:václav:Q1602218
-firstname:noel:Q261113
-firstname:julian:Q17856012
-firstname:carel:Q18670193
-firstname:caren:Q19689389
-firstname:michele:Q12901049
-firstname:eelco:Q2380934
-firstname:mike:Q361309
-firstname:kalman:Q12793278
-firstname:caterina:Q1050684
-firstname:elvis:Q1174817
-firstname:andrew:Q18042461
-firstname:anthony:Q12241622
-firstname:hippolyte:Q18009967
-firstname:fritz:Q1158596
-firstname:giacomo:Q18020485
-firstname:isabella:Q16290308
-firstname:margit:Q3354086
-firstname:hanuš:Q12019033
-firstname:bill:Q18245781
-firstname:arnold:Q3623461
-firstname:n:XXX
-firstname:petrus:Q15897708
-firstname:guido:Q639762
-firstname:edmar:Q20998468
-firstname:gerhard:Q7996169
-firstname:siegfried:Q3483397
-firstname:robin:Q1158139
-firstname:jeanette:Q2300098
-firstname:uberto:Q43381902
-firstname:henk:Q1605227
-firstname:dieter:Q18177026
-firstname:maximiliaan:Q20643238
-firstname:evelyn:Q1381706
-firstname:von:XXX
-firstname:ivo:Q686532
-firstname:rüdiger:Q29001841
-firstname:marcel:Q4927589
-firstname:ii:XXX
-firstname:antonina:Q1961700
-firstname:nalini:Q1964079
-firstname:jared:Q2001193
-firstname:margitta:Q19689484
-firstname:petar:Q12798587
-firstname:rodrigo:Q4927979
-firstname:thalia:Q373803
-firstname:felice:Q18324880
-firstname:pat:Q19801119
-firstname:jelle:Q1686706
-firstname:romilla:Q66725295
-firstname:ștefan:Q4927128
-firstname:juan:Q475210
-firstname:daniël:Q18040588
-firstname:matthew:Q4927231
-firstname:wilhelm:Q11027623
-firstname:roland:Q1068487
-firstname:otto:Q18029644
-firstname:shai:Q20000855
-firstname:ludwig:Q14159020
-firstname:paula:Q847179
-firstname:gastón:Q19832216
-firstname:giulio:Q17596118
-firstname:constantijn:Q18061028
-firstname:raymond:Q2127728
-firstname:theodore:Q15875484
-firstname:paavo:Q2045089
-firstname:josef:Q15730712
-firstname:évelyne:Q19869473
-firstname:gaspar:Q18200023
-firstname:hans:Q632842
-firstname:josep:Q16429820
-firstname:antun:Q16274713
-firstname:reinaldo:Q2140291
-firstname:regnerus:Q21148402
-firstname:sebastián:Q18095344
-firstname:gyorgy:Q942625
-firstname:faustino:Q5856769
-firstname:sigismund:Q10667549
-firstname:charlie:Q16275193
-firstname:reginald:Q16280865
-firstname:antonio:Q7141520
-firstname:theodor:Q1165126
-firstname:corinne:Q16275238
-firstname:seumas:Q58493689
-firstname:salvatore:Q610111
-firstname:zweder:Q65518995
-firstname:jean:Q7521081
-firstname:johan:Q10989273
-firstname:adalbert:Q347243
-firstname:derrick:Q1200323
-firstname:janet:Q13553631
-firstname:carrie:Q16275174
-firstname:gijsbrecht:Q21143321
-firstname:sigismondo:Q19851033
-firstname:toby:Q13099113
-firstname:liliane:Q16278441
-firstname:pol:Q21018786
-firstname:roderick:Q18978420
-firstname:meinrad:Q1918138
-firstname:paul:Q4925623
-firstname:griffith:Q16276064
-firstname:janne:Q1477134
-firstname:nicolas:Q7029481
-firstname:jesús:Q18327976
-firstname:mathias:Q1818817
-firstname:blanche:Q881391
-firstname:patricia:Q1231089
-firstname:jules:Q1711638
-firstname:friedrich:Q14038597
-firstname:vorname:XXX
-firstname:ekaterina:Q17317988
-firstname:sydney:Q18915128
-firstname:manfred:Q15627437
-firstname:harald:Q1530266
-firstname:wim:Q1459852
-firstname:ross:Q2043428
-firstname:mihailo:Q20000710
-firstname:gustav:Q746076
-firstname:marco:Q17520955
-firstname:godefridus:Q20738810
-firstname:marcus:Q4642
-firstname:menno:Q2551723
-firstname:aristomenis:Q60589189
-firstname:paljor:Q65595176
-firstname:virginia:Q607350
-firstname:amy:Q481809
-firstname:jeanjoseph:Q16277329
-firstname:wijnand:Q5082404
-firstname:piet:Q1439952
-firstname:pier:Q15897166
-firstname:d:XXX
-firstname:philibert:Q19832214
-firstname:karel:Q15731850
-firstname:lincoln:Q18610169
-firstname:jacinto:Q6903537
-firstname:georges:Q15921764
-firstname:christine:Q2087646
-firstname:bobby:Q4564223
-firstname:eric:Q12788459
-firstname:patrick:Q18002623
-firstname:nanning:Q21143249
-firstname:barro:Q66480936
-firstname:théodore:Q18145734
-firstname:alice:Q650689
-firstname:niels:Q2001572
-firstname:vonnick:Q83130994
-firstname:arthur:Q1778168
-firstname:giovan:Q19819816
-firstname:donna:Q1993601
-firstname:martin:Q18002399
-firstname:giuseppe:Q15720844
-firstname:alexandre:Q16002466
-firstname:clementine:Q1043415
-firstname:algirdas:Q1138718
-firstname:louis de:Q2897866
-firstname:dean:Q1796595
-firstname:jan:Q12173670
-firstname:pierre:Q2093070
-firstname:l:XXX
-firstname:seiki:Q25114289
-firstname:donald:Q13422248
-firstname:francisco:Q7201446
-firstname:aldemar:Q65129714
-firstname:peter:Q2793400
-firstname:alphonse:Q14898421
-firstname:lars:Q15635262
-firstname:ursula:Q1087262
-firstname:marinus:Q16278998
-firstname:zahra:Q8064727
-firstname:josé:Q29043257
-firstname:per:Q13582800
-firstname:1857:XXX
-firstname:graeme:Q18342976
-firstname:christer:Q1078504
-firstname:léonie:Q20000100
-firstname:guillaume:Q18190448
-firstname:anne:Q564684
-firstname:francois:Q21142479
-firstname:anna:Q666578
-firstname:t:XXX
-firstname:sarah:Q18201513
-firstname:camilo:Q19830576
-firstname:nella:Q11884164
-firstname:stefan:Q4927128
-firstname:eduard:Q18031774
-firstname:myron:Q18607970
-firstname:pietro:Q15897583
-firstname:secondo:Q43381863
-firstname:a.:XXX
-firstname:leopold:Q1076652
-firstname:clementina:Q18122829
-firstname:sieghard:Q23598866
-firstname:sebastiaõ:Q10369061
-firstname:pere:Q18219701
-firstname:oneca:Q3352689
-firstname:stuart:Q7626248
-firstname:gregory:Q922983
-firstname:jacques:Q941049
-firstname:duke:XXX
-firstname:hessel:Q21142774
-firstname:gérard:Q13480879
-firstname:christoffel:Q18194758
-firstname:glenn:Q19802199
-firstname:marshall:Q19819759
-firstname:sergio:Q18061657
-firstname:catherine:Q2218095
-firstname:terence:Q5556418
-firstname:gary:Q1820274
-firstname:thérèse:Q17651236
-firstname:raphaël:Q11702145
-firstname:moriz:Q6912445
-firstname:bohumil:Q833463
-firstname:willi:Q18179743
-firstname:van:XXX
-firstname:francis:Q1441346
-firstname:mack:Q16290555
-firstname:lodewyk:Q6666288
-firstname:joseph:Q471788
-firstname:ettore:Q17524296
-firstname:luke:Q4927045
-firstname:lou:Q3260107
-firstname:jane:Q1682564
-firstname:daniela:Q1096053
-firstname:mathilde:Q12326416
-firstname:vicente:Q16741111
-firstname:fabio:Q1766887
-firstname:alain:Q2829505
-firstname:arrigo:Q3623754
-firstname:jacky:Q19729999
-firstname:lino:Q3833063
-firstname:ignaz:Q18177333
-firstname:larry:Q18094568
-firstname:trinley:Q47158980
-firstname:marge:Q20898965
-firstname:chrétien:Q18081133
-firstname:gail:Q19819754
-firstname:osmund:Q7107242
-firstname:don:Q16275555
-firstname:walburga:Q181346
-firstname:nicol:Q1299422
-firstname:stanisław:Q19801658
-firstname:joachim:Q4926961
-firstname:count:XXX
-firstname:gilberto:Q18177262
-firstname:minna:Q8095855
-firstname:jonathan:Q1158394
-firstname:jonas:Q16646115
-firstname:emil:Q989320
-firstname:erich:Q15277196
-firstname:arnt:Q15888082
-firstname:gerardus:Q18282500
-firstname:j:XXX
-firstname:gottfried:Q16746939
-firstname:mary:Q734578
-firstname:roelof:Q2161431
-firstname:miguel:Q15620295
-firstname:saladin:Q19387392
-firstname:manuel:Q11113719
-firstname:walter:Q499249
-firstname:arno:Q11852704
-firstname:eduardo:Q18130894
-firstname:willem:Q15282375
-firstname:amédée:Q482154
-firstname:taylor:Q3981665
-firstname:shin:Q2577411
-firstname:pio:Q19800570
-firstname:hedwig:Q19689438
-firstname:m:XXX
-firstname:felix:Q18177136
-firstname:erik:Q750186
-firstname:ine:Q3022128
-firstname:pir:Q1800447
-firstname:esteban:Q17496543
-firstname:graham:Q642254
-firstname:geertrui:Q21141831
-firstname:mauro:Q1167150
-firstname:suzanne:Q13138161
-firstname:heather:Q7498915
-firstname:hector:Q1811874
-firstname:joan:Q16652258
-firstname:tara:Q1611595
-firstname:gregorius:Q18558712
-firstname:norbu:Q20001963
-firstname:tim:Q1369663
-firstname:germaine:Q1513814
-firstname:andries:Q510402
-firstname:giovanni:Q1158906
-firstname:svetnica:XXX
-firstname:wladislaw:Q65306601
-firstname:dale:Q3701009
-firstname:erica:Q1351783
-firstname:robbrecht:Q21148444
-firstname:warmolt:Q65552472
-firstname:irma:Q647872
-firstname:istvan:Q19967989
-firstname:hermina:Q20643425
-firstname:william:Q12344159
-firstname:margaret:Q4963612
-firstname:maureen:Q2318855
-firstname:chris:Q339346
-firstname:leszek:Q1821009
-firstname:viscount:XXX
-firstname:1807:XXX
-firstname:clément:Q18180151
-firstname:claudius:Q19869364
-firstname:e:XXX
-firstname:gheorghe:Q19826490
-firstname:justus:Q11166789
-firstname:miklós:Q15728988
-firstname:felicitas:Q18012404
-firstname:adam:Q347181
-firstname:ottokar:Q20010152
-firstname:warde:Q21008900
-firstname:jennifer:Q4677161
-firstname:ernesto:Q16323364
-firstname:diego:Q3579048
-firstname:benoît:Q18341911
-firstname:benoit:Q19967779
-firstname:germain:Q1303342
-firstname:mitchell:Q3859417
-firstname:wenzel:Q19597963
-firstname:constantin:Q5163687
-firstname:ottavio:Q765222
-firstname:gerhardus:Q21034772
-firstname:estéban:Q17496543
-firstname:angèle:Q533686
-firstname:nick:Q13137230
-firstname:françoise:Q1244936
-firstname:herwig:Q21400609
-firstname:tomás:Q19888139
-firstname:deborah:Q18558974
-firstname:guglielmo:Q1553386
-firstname:jacqueline:Q391321
-firstname:mort:Q60589574
-firstname:achille:Q340285
-firstname:guillemette:Q28123321
-firstname:andrea:Q493293
-firstname:pascal:Q256463
-firstname:bernat:Q17486279
-firstname:bohuslav:Q19818095
-firstname:ivan:Q830350
-firstname:reymond:Q19968314
-firstname:p.:XXX
-firstname:f.:XXX
-firstname:péter:Q19018108
-firstname:léonce:Q1295976
-firstname:valerie:Q1068242
-firstname:valeriano:Q43371148
-firstname:ingeborg:Q656590
-firstname:peder:Q10622039
-firstname:thorkild:Q30584729
-firstname:ippolito:Q19001528
-firstname:lelio:Q1816681
-firstname:saskia:Q337257
-firstname:ferdinando:Q17523781
-firstname:juliaan:Q20205045
-firstname:baldassarre:Q18190446
-firstname:baldassare:Q19967483
-firstname:clara:Q1114146
-firstname:benedetto:Q12898987
-firstname:carmelo:Q1043555
-firstname:anselme:Q19882945
-firstname:venâncio:Q21286102
-firstname:erastus:Q20030196
-firstname:carola:Q229227
-firstname:w.:XXX
-firstname:jean-marie:Q3167523
-firstname:cino:Q3677254
-firstname:kathryn:Q6377001
-firstname:horacio:Q16290301
-firstname:efraím:Q16422853
-firstname:arcady:Q39275021
-firstname:enrico:Q16908530
-firstname:jean-loup:Q27919016
-firstname:noble:Q16880479
-firstname:nicholas:Q42771
-firstname:charles-louis:Q98300970
-firstname:rene-louis:Q98902642
-firstname:kelly:Q3664058
-firstname:jean-chrysostome:Q84080571
-firstname:ferdinand:Q3276175
-firstname:cyriel:Q18786285
-firstname:madeleine:Q4273929
-firstname:pete:Q16269170
-firstname:sejong:Q69507695
-firstname:raoul:Q11487195
-firstname:severo:Q3958489
-firstname:isabelle:Q6078151
-firstname:ina:Q655722
-firstname:petr:Q15897830
-firstname:ángel:Q2605655
-firstname:merrill:Q21286851
-firstname:grayce:Q65068743
-firstname:ignacio:Q18220016
-firstname:sjouke:Q21143396
-firstname:rik:Q21031108
-firstname:eva:Q829665
-firstname:sebastião:Q10369061
-firstname:colette:Q16275223
-firstname:fulvio:Q18020497
-firstname:xavier:Q1066712
-firstname:felisa:Q29075064
-firstname:carlos:Q364753
-firstname:natalia:Q6296301
-firstname:blair:Q16532835
-firstname:sunny:Q19968383
-firstname:elsie:Q16423214
-firstname:marlene:Q1402673
-firstname:jean daniel:Q19688649
-firstname:jean-daniel:Q19688649
-firstname:jorge:Q14346236
-firstname:winifred:Q13422280
-firstname:gaetano:Q4134361
-firstname:maría elena:Q52319701
-firstname:ashley:Q2655374
-firstname:urban:Q15732140
-firstname:misael:Q47527035
-firstname:juliane:Q351311
-firstname:davide:Q18039918
-firstname:erling:Q472066
-firstname:ulrich:Q18011418
-firstname:maría:Q18088640
-firstname:buzz:Q16275129
-firstname:caleb:Q3650584
-firstname:i:XXX
-firstname:i.:XXX
-firstname:ian:Q18336315
-firstname:vivian:Q650494
-firstname:satoru:Q7426386
-firstname:悟:Q33251187
-firstname:lon:Q27681342
-firstname:ron:Q2165388
-firstname:syed:Q56630227
-firstname:joe:Q17862013
-firstname:lila:Q182861
-firstname:brett:Q19801832
-firstname:willibald:Q1738165
-firstname:karla:Q16430050
-firstname:gareth:Q15628901
-firstname:wendy:Q4018995
-firstname:pilar:Q1163454
-firstname:babette:Q787863
-firstname:karen:Q1221747
-firstname:wout:Q20651054
-firstname:maarten:Q1882274
-firstname:sandra:Q1474819
-firstname:alix:Q2837257
-firstname:kieran:Q20635295
-firstname:hart:Q16256892
-firstname:jay:Q19817029
-firstname:mel:Q4563684
-firstname:salomon:Q18421743
-firstname:amos:Q18216060
-firstname:dan:Q2487038
-firstname:dalibor:Q26775414
-firstname:lauri:Q1303231
-firstname:ennemond:Q19914595
-firstname:emmanuelle:Q1338465
-firstname:marvyn:Q91778580
-firstname:ameet:Q66263989
-firstname:adriana:Q374807
-firstname:ana:Q482671
-firstname:in:Q18125909
-firstname:detlef:Q1201205
-firstname:rolando:Q2163131
-firstname:mavis:Q10296732
-firstname:lauren:Q2274625
-firstname:lawrence:Q15635788
-firstname:edurne:Q4162696
-firstname:tommy:Q1272055
-firstname:william alfred:Q95404330
-firstname:nicolás:Q18066632
-firstname:imma:Q26791805
-firstname:jeremie:Q21032373
-firstname:uta:Q1770991
-firstname:jörg:Q1715186
-firstname:ellis:Q19688407
-firstname:armando:Q18177180
-firstname:rosita:Q4353945
-firstname:sumner:Q16281789
-firstname:eraldo:Q3731050
-firstname:geneviève:Q18188067
-firstname:gregor:Q18156264
-firstname:birgit:Q865198
-firstname:milind:Q102144658
-firstname:rachael:Q19830599
-firstname:alex:Q13258171
-firstname:ali:Q11905003
-firstname:kay:Q16568731
-firstname:klaus:Q15635230
-firstname:sebastian:Q4844560
-firstname:isabel:Q4218918
-firstname:günter:Q18401607
-firstname:vincent:Q4928254
-firstname:randolph:Q21485499
-firstname:wilfrid:Q18176270
-firstname:sol:Q12336325
-firstname:ain:Q12358419
-firstname:ჯონ:Q49254277
-firstname:zvonimir:Q2372503
-firstname:terrance:Q7703250
-firstname:joaquim josé:Q62128672
-firstname:jean-louis:Q18009544
-firstname:aline:Q18180444
-firstname:julien:Q2780036
-firstname:naphtali:Q77985502
-firstname:kamāl:Q1305584
 club:wellington olympic afc:Q3559228
 club:manawatu united:Q1811079
 club:{{cite web:XXX
@@ -12863,1404 +14935,6 @@ club:{{flagicon:XXX
 club:flagicon:XXX
 club:flagicon|tch|style=vertical-align:0:XXX
 club:sk šacung benešov 1947:Q12050724
-lastname:fleury:Q19887989
-lastname:alm:Q23133442
-lastname:ushakov:Q37206452
-lastname:beckert:Q37239819
-lastname:bottoni:Q36869907
-lastname:riedel:Q18412625
-lastname:correr:Q47085801
-lastname:fahraeus:Q19970012
-lastname:dutkiewicz:Q27890782
-lastname:archambault:Q632406
-lastname:rieder:Q37484633
-lastname:cameron:Q2665316
-lastname:mercer:Q16876828
-lastname:grenier:Q25343999
-lastname:senn:Q18523781
-lastname:schiff:Q21451083
-lastname:zoni:Q92009991
-lastname:swan:Q16884096
-lastname:santen:Q55636941
-lastname:alberti:Q4747910
-lastname:sheil:Q37515465
-lastname:surland:Q83441516
-lastname:dickinson:Q10471460
-lastname:hermann:Q25160173
-lastname:tschudi:Q21449590
-lastname:specht:Q2308143
-lastname:brown:Q13421990
-lastname:acocella:Q36921316
-lastname:damery:Q37487907
-lastname:endter:Q37444819
-lastname:fintushel:Q73131772
-lastname:escudero:Q29470545
-lastname:groell:Q92263142
-lastname:sabin:Q25114876
-lastname:coolman:Q37218159
-lastname:egmond:Q56558878
-lastname:faggi:Q58216232
-lastname:doré:Q21492134
-lastname:montfoort:Q48965331
-lastname:lluch:Q16872383
-lastname:lópez portillo:Q61745897
-lastname:poppe:Q27678615
-lastname:mcneile:Q77025204
-lastname:knight:Q1777139
-lastname:michael:Q1926724
-lastname:louwers:Q37010914
-lastname:herbert:Q16870718
-lastname:donovan:Q21446653
-lastname:reich:Q2139077
-lastname:nuñes:Q21510934
-lastname:small:Q16883455
-lastname:becker:Q813701
-lastname:philpot:Q21450314
-lastname:steininger:Q21517800
-lastname:metternich:Q36913325
-lastname:kemper:Q37072734
-lastname:beason:Q37464977
-lastname:carter:Q16101731
-lastname:waterson:Q27864195
-lastname:almond:Q16147841
-lastname:krajewska:Q60817633
-lastname:colin:Q19014728
-lastname:richaud:Q21509654
-lastname:haan:Q17144241
-lastname:booth:Q13156704
-lastname:reeman:Q72845599
-lastname:carli:Q16865378
-lastname:friedlander:Q21449589
-lastname:barbarigo:Q20519461
-lastname:baets:Q65562031
-lastname:schumacher, von:Q76418087
-lastname:parisot:Q36974230
-lastname:hansson:Q21507480
-lastname:burch:Q16865171
-lastname:abels:Q4666719
-lastname:rotter:Q21449595
-lastname:steiner:Q1719303
-lastname:haze:Q37255486
-lastname:schleh:Q21475277
-lastname:wenzel:Q1719790
-lastname:okelly:Q37108557
-lastname:brambilla:Q1143178
-lastname:wehner:Q21448560
-lastname:montefiore:Q21430989
-lastname:wiedemann:Q21493657
-lastname:zach:Q21487206
-lastname:plátek:Q37531216
-lastname:lalive d'epinay:Q86072275
-lastname:burnett:Q16865190
-lastname:lange:Q16102227
-lastname:seaver:Q21492945
-lastname:leo:Q6523505
-lastname:giles:Q16870187
-lastname:brooks:Q1354011
-lastname:hampden:Q57600107
-lastname:canet:Q37280281
-lastname:strong:Q16883933
-lastname:bruylants:Q65465304
-lastname:hansen:Q2712367
-lastname:gay:Q16870140
-lastname:medici:Q23039018
-lastname:banga:Q37542499
-lastname:maguire:Q4274203
-lastname:mitchell:Q179205
-lastname:lipschutz:Q16802033
-lastname:conti:Q21448867
-lastname:tanner:Q13560243
-lastname:geiser:Q36944917
-lastname:kidd:Q16871372
-lastname:bom:Q37575514
-lastname:olivier:Q16880711
-lastname:harrington:Q16870533
-lastname:solis:Q37557715
-lastname:milks:Q37569834
-lastname:churchill:Q16865587
-lastname:rosenberg:Q1159003
-lastname:stepan:Q36966644
-lastname:konkle:Q37535743
-lastname:peabody:Q16881051
-lastname:van den berghe:Q21482431
-lastname:basco:Q36897611
-lastname:welch:Q17144396
-lastname:velsen:Q7913727
-lastname:dorling:Q86083674
-lastname:seligman:Q23596199
-lastname:reckitt:Q76527737
-lastname:redon:Q37534184
-lastname:noël:Q19688731
-lastname:paulton:Q37519317
-lastname:may:Q1751954
-lastname:ariel:Q37488790
-lastname:gocha:Q37492476
-lastname:scheel:Q21450610
-lastname:hudson:Q2720681
-lastname:assen:Q65768910
-lastname:macnicol:Q6722062
-lastname:asser:Q4384197
-lastname:andreae:Q21561348
-lastname:paterson:Q13580461
-lastname:kühn:Q1796980
-lastname:butler:Q2664624
-lastname:briceño:Q42855503
-lastname:zonca:Q37092593
-lastname:hahn:Q1362661
-lastname:giraud:Q21504906
-lastname:schroeder:Q28745233
-lastname:greenhill:Q16870293
-lastname:zimmer:Q203541
-lastname:courtin:Q21507582
-lastname:bock:Q889117
-lastname:meister:Q1370531
-lastname:downing:Q26709934
-lastname:mansfield:Q16876392
-lastname:bruton:Q16860603
-lastname:bartoli:Q21475450
-lastname:ibert:Q37325407
-lastname:brugge:Q37155872
-lastname:ware:Q17128250
-lastname:alderman:Q16002427
-lastname:adolphus:Q37499301
-lastname:hohenzollern-sigmaringen:Q55435789
-lastname:uhde:Q28745195
-lastname:khuri:Q37534112
-lastname:reed:Q2136484
-lastname:rosenthal:Q2167274
-lastname:debourg:Q63759853
-lastname:wade:Q13581093
-lastname:van der noot:Q56546875
-lastname:moen:Q16394183
-lastname:westbrook:Q16920898
-lastname:barbé-marbois:Q60782314
-lastname:roos:Q10656802
-lastname:stallcop:Q37518075
-lastname:mees:Q21506704
-lastname:meer:Q37286756
-lastname:caracciolo:Q47543396
-lastname:boudin:Q2921472
-lastname:wang:Q12010385
-lastname:breard:Q36921183
-lastname:verkerk:Q7921459
-lastname:novik:Q22250022
-lastname:kees:Q11122299
-lastname:bennett:Q449411
-lastname:herbort:Q37514152
-lastname:pons:Q21506833
-lastname:tricht:Q51885858
-lastname:davidow:Q37530000
-lastname:hazledine:Q63525191
-lastname:spalteholz:Q65005422
-lastname:lindeman:Q18286230
-lastname:robinson:Q2798428
-lastname:clair:Q16865610
-lastname:fontaine:Q1394815
-lastname:cushing:Q16865955
-lastname:johnston:Q1565753
-lastname:townshend:Q28146521
-lastname:munday:Q37495776
-lastname:rubio:Q20018784
-lastname:rudnick:Q21507342
-lastname:burley:Q16865185
-lastname:winslow:Q20727240
-lastname:granier:Q24774548
-lastname:snellen:Q37511827
-lastname:sato:Q26000610
-lastname:schultz:Q21507622
-lastname:pöppelmann:Q2120788
-lastname:colquhoun:Q21492943
-lastname:giovannetti:Q37542613
-lastname:müller:Q8157228
-lastname:nerinckx:Q65428845
-lastname:courtenay:Q37553656
-lastname:levi:Q16458527
-lastname:albarda:Q65706473
-lastname:ricker:Q37121421
-lastname:garnier:Q16638644
-lastname:cnockaert:Q29033233
-lastname:de vos:Q1180464
-lastname:alphen:Q42594042
-lastname:beetz:Q28150972
-lastname:johnson:Q1158485
-lastname:faccioli:Q56538332
-lastname:schneider:Q11703653
-lastname:frigerio:Q3753303
-lastname:roberson:Q21451073
-lastname:chapman:Q1158558
-lastname:blyth:Q16860143
-lastname:sergi:Q37513674
-lastname:green:Q2703137
-lastname:roeser:Q37322057
-lastname:auger:Q19607232
-lastname:alland:Q37497395
-lastname:renne:Q36912165
-lastname:martini:Q16478446
-lastname:fockens:Q89643553
-lastname:morenas:Q30524160
-lastname:bayly:Q21493476
-lastname:schwartz:Q2253414
-lastname:nevins:Q21513066
-lastname:hollmann:Q21126288
-lastname:fraser:Q2696422
-lastname:rotheram:Q55137084
-lastname:nachname:XXX
-lastname:pfluger:Q37513728
-lastname:cole:Q1128028
-lastname:hock:Q18330987
-lastname:schilter:Q28745214
-lastname:kramer:Q1158524
-lastname:contenuti consigliati:XXX
-lastname:baar:Q16479593
-lastname:marangon:Q21451979
-lastname:tori:Q37327684
-lastname:leventhal:Q56244347
-lastname:strang:Q16883900
-lastname:franckenstein:Q91434238
-lastname:goetschel:Q37521471
-lastname:sluijs:Q7913871
-lastname:schmidt:Q15240355
-lastname:lüssi:Q1877710
-lastname:grohé:Q37523582
-lastname:pittman:Q16881259
-lastname:chiesa:Q21430947
-lastname:curtis:Q12787162
-lastname:heemstra:Q37574192
-lastname:oehl:Q36943857
-lastname:coley:Q16865679
-lastname:colombani:Q20996004
-lastname:hunter:Q12020943
-lastname:newman:Q1983554
-lastname:valkenburg:Q37492972
-lastname:anson:Q22062007
-lastname:ferguson:Q2694490
-lastname:thurner:Q37285554
-lastname:gannon:Q21509302
-lastname:thiele:Q21493150
-lastname:nivelle:Q65111420
-lastname:torralba:Q37488875
-lastname:joscelin 02:XXX
-lastname:de vries:Q1180481
-lastname:alford:Q16479361
-lastname:kerr:Q4042166
-lastname:drake:Q16869662
-lastname:sully:Q27651517
-lastname:gärtner:Q22058341
-lastname:grammatico:Q36916633
-lastname:valentin:Q31212711
-lastname:clerck:Q21507425
-lastname:anastasio:Q27106049
-lastname:burgh:Q16739657
-lastname:malpass:Q6744585
-lastname:ragaini:Q37536256
-lastname:fish:Q16869951
-lastname:kane:Q13570642
-lastname:snodgrass:Q21506588
-lastname:alejandro:Q21450574
-lastname:weinberg:Q15853853
-lastname:reuschenberg:Q31841840
-lastname:argenti:Q37527400
-lastname:buma:Q37470688
-lastname:hacker:Q27628281
-lastname:neff:Q21501972
-lastname:meijer:Q16876776
-lastname:le roy:Q23772866
-lastname:thapar:Q21482769
-lastname:mangelsdorf:Q37431595
-lastname:fouquet:Q25372925
-lastname:douglas:Q2677358
-lastname:mccarthy:Q24419041
-lastname:fürer:Q76422293
-lastname:échard:Q5332361
-lastname:schnabel:Q41696534
-lastname:turau:Q21994316
-lastname:kent:Q1739021
-lastname:valdes:Q37531876
-lastname:danielsson:Q23597719
-lastname:beavis:Q36872211
-lastname:forti:Q16869999
-lastname:burke:Q1679720
-lastname:coolidge:Q20748941
-lastname:thone:Q37529043
-lastname:lawrence:Q1544163
-lastname:stieglitz:Q19817652
-lastname:avshalomov:Q16479436
-lastname:backer:Q21504772
-lastname:durgin:Q36909482
-lastname:wolfart:Q87184665
-lastname:nisbet:Q16880446
-lastname:graaff:Q62757499
-lastname:fégely:Q37431218
-lastname:schulz:Q15730693
-lastname:moore:Q10588869
-lastname:polidoro:Q37564274
-lastname:zadnik:Q28750907
-lastname:hermes:Q19902356
-lastname:muller:Q28800754
-lastname:boulton:Q21508567
-lastname:baurenfeind:Q16479531
-lastname:brockett:Q4972789
-lastname:bates:Q16479442
-lastname:stearns:Q28943656
-lastname:routh:Q37053928
-lastname:burgwyn:Q4998743
-lastname:demoor:Q37510438
-lastname:keen:Q16871318
-lastname:cullen:Q40386
-lastname:davis:Q12652678
-lastname:spaulding:Q16883653
-lastname:breckel:Q37570439
-lastname:chavepeyer:Q91302725
-lastname:fredrikson:Q21510998
-lastname:picker:Q16881203
-lastname:benivieni:Q91867158
-lastname:fischer:Q11231408
-lastname:malkin:Q37537322
-lastname:navrátil:Q21492186
-lastname:guan:Q1930521
-lastname:averbukh:Q37103539
-lastname:strahorn:Q37519789
-lastname:dufay:Q47493364
-lastname:bazelon:Q56537670
-lastname:kobe:Q12793820
-lastname:mossé:Q56539930
-lastname:prince:Q16881414
-lastname:cozens:Q5180128
-lastname:blanc:Q11158094
-lastname:paine:Q16880907
-lastname:little:Q20671646
-lastname:grimm:Q1422706
-lastname:caumont:Q18074198
-lastname:desai:Q21502264
-lastname:paver:Q37465553
-lastname:beekman:Q27824311
-lastname:lejeune:Q24037059
-lastname:powelson:Q37304828
-lastname:dennett:Q56245388
-lastname:wigglesworth:Q37507181
-lastname:alingh:Q74200810
-lastname:ton:Q37458595
-lastname:松野:Q26203591
-lastname:wiegand:Q21484517
-lastname:reynst:Q21452664
-lastname:nelson:Q2782528
-lastname:hand:Q16870476
-lastname:williams:Q1688722
-lastname:loring:Q16872487
-lastname:o'kelly:Q21492593
-lastname:charbonnier:Q21482766
-lastname:kohler:Q1778615
-lastname:werro:Q78753493
-lastname:cutts:Q5197015
-lastname:grund:Q37512370
-lastname:braun:Q354330
-lastname:grandjean:Q65105381
-lastname:rivoire:Q37495865
-lastname:michielsen:Q37452396
-lastname:grunt:Q60644681
-lastname:rawn:Q37568048
-lastname:sayers:Q16882782
-lastname:lansbury:Q21509249
-lastname:bek:Q21492307
-lastname:nathan:Q16877804
-lastname:matthys:Q25126085
-lastname:drouhin:Q65102663
-lastname:ballard:Q16479781
-lastname:solomos:Q37537376
-lastname:roberts:Q1646493
-lastname:leroy:Q20997179
-lastname:solomon:Q18607854
-lastname:street:Q16883913
-lastname:alleaume:Q64219762
-lastname:prescott:Q16881390
-lastname:sophie:Q37224859
-lastname:cailliet:Q87413267
-lastname:trento:Q37041917
-lastname:johnstone:Q21509274
-lastname:raynolds:Q37199930
-lastname:jansz:Q21491101
-lastname:zacher:Q37563380
-lastname:lewandowski:Q21494292
-lastname:bacot:Q56537585
-lastname:bragge:Q47514754
-lastname:carré:Q16865396
-lastname:milakovich:Q37434085
-lastname:cohen:Q1158586
-lastname:corrigan:Q16865781
-lastname:oliphant:Q16880709
-lastname:briceño:Q42855503
-lastname:kyle:Q16257621
-lastname:metcalf:Q16876873
-lastname:mosse:Q21512247
-lastname:louys:Q55669373
-lastname:spada:Q37521039
-lastname:sokolík:Q82013374
-lastname:ulmer:Q15730695
-lastname:röder:Q28150968
-lastname:nott:Q21488819
-lastname:wilson:Q1645480
-lastname:verbeek:Q21493465
-lastname:jansz.:Q21491101
-lastname:boyd:Q14915266
-lastname:bauernfeind:Q16479531
-lastname:stoever:Q37328006
-lastname:verbeke:Q21450217
-lastname:mills:Q5195456
-lastname:berlingieri:Q36946241
-lastname:phillips:Q2793828
-lastname:goodman:Q4151606
-lastname:caesar:Q14873084
-lastname:jahn:Q1678548
-lastname:vlahović:Q21509031
-lastname:mayer:Q13725587
-lastname:lunn:Q21451972
-lastname:visser:Q18340752
-lastname:ulrich:Q21504626
-lastname:patterson:Q2792882
-lastname:jantzen:Q37308709
-lastname:huhn:Q54982968
-lastname:price:Q21242872
-lastname:hoff:Q16870820
-lastname:tschümperlin:Q76425586
-lastname:caslon:Q87276556
-lastname:rego:Q21492137
-lastname:nolan:Q20900701
-lastname:skinner:Q16883409
-lastname:merkle:Q21449175
-lastname:soriano:Q21448758
-lastname:britton:Q16860476
-lastname:dillenschneider:Q83346413
-lastname:caroff:Q83131058
-lastname:bradford:Q23542895
-lastname:sutton:Q16884069
-lastname:götsch:Q76422328
-lastname:mauro:Q16868736
-lastname:rogers:Q16471355
-lastname:grove:Q16870334
-lastname:meurer:Q28150702
-lastname:trotter:Q29535046
-lastname:reeb:Q37533786
-lastname:mesnard:Q36876616
-lastname:paulsen:Q780747
-lastname:clements:Q16865623
-lastname:tornau:Q56246571
-lastname:raap:Q36938588
-lastname:link:Q16872194
-lastname:martens:Q16876487
-lastname:landry:Q16871810
-lastname:masson:Q11172443
-lastname:cradock:Q21529306
-lastname:niquet:Q63439182
-lastname:sokolik:Q37515937
-lastname:glazebrook:Q37262279
-lastname:lewis:Q426463
-lastname:escobar:Q16463330
-lastname:dicker:Q21502285
-lastname:matthison:Q1243346
-lastname:hočevar:Q5923161
-lastname:soutou:Q87398148
-lastname:gerlach:Q1513700
-lastname:proby:Q37182357
-lastname:espinós:Q53060080
-lastname:abbema:Q62994151
-lastname:montuori:Q28135003
-lastname:faure:Q21509802
-lastname:borri:Q37567296
-lastname:odam:Q37519001
-lastname:knowles:Q4327710
-lastname:engel:Q19694228
-lastname:viollet:Q21510258
-lastname:schlitter:Q37435777
-lastname:dubois:Q16798403
-lastname:wood:Q1158452
-lastname:moreschi:Q37454440
-lastname:arnesen:Q11959110
-lastname:tizio:Q37532492
-lastname:da passano:Q65100778
-lastname:keijzer:Q55615781
-lastname:combe:Q16865706
-lastname:le blanc:Q19611239
-lastname:vigor:Q36921605
-lastname:cowan:Q16166336
-lastname:martinet:Q37429658
-lastname:janssens:Q21491099
-lastname:klein:Q428024
-lastname:löhr:Q20997209
-lastname:perdoux:Q86429347
-lastname:bear:Q16479893
-lastname:delarue:Q16869496
-lastname:alberda van ekenstein:Q63978896
-lastname:wallis:Q17032906
-lastname:bernays:Q53189956
-lastname:michaud:Q24513419
-lastname:schelhorn:Q37331274
-lastname:lebel:Q37252889
-lastname:nastasi:Q37510657
-lastname:mcdowall:Q16876675
-lastname:gray:Q1544042
-lastname:hardin:Q16870506
-lastname:bas:Q16175496
-lastname:sibilia:Q37079681
-lastname:mcculloch:Q21492120
-lastname:colet:Q21492935
-lastname:ciceri:Q90051194
-lastname:dupont:Q18627472
-lastname:gelabert:Q37180399
-lastname:jilek:Q37502926
-lastname:poliquin:Q37554867
-lastname:veber:Q21452294
-lastname:gärtner:Q22058341
-lastname:vincent:Q2526475
-lastname:rombouts:Q7362938
-lastname:plotho:Q57781689
-lastname:geary:Q16870143
-lastname:blackwell:Q16860065
-lastname:albertini:Q21494596
-lastname:bles:Q37192193
-lastname:adamec:Q21446271
-lastname:sitter:Q37286269
-lastname:jazwinski:Q37177891
-lastname:campbell:Q2665383
-lastname:keenan:Q25977557
-lastname:montejo:Q28800751
-lastname:janssen:Q16871136
-lastname:hoey:Q1375012
-lastname:mckay:Q932128
-lastname:hoogveld:Q21509420
-lastname:cornelius:Q18536476
-lastname:konagaya:Q28870252
-lastname:irr:Q37309946
-lastname:aveline:Q21491441
-lastname:frizon:Q65104326
-lastname:porzio:Q55064127
-lastname:whitcombe:Q17094503
-lastname:forejtová:Q67369059
-lastname:gottlieb:Q27651154
-lastname:reus:Q37164419
-lastname:châtillon:Q74087678
-lastname:weidmann:Q21510529
-lastname:grisel:Q37111283
-lastname:mui:Q37487817
-lastname:brune:Q24699696
-lastname:marsal:Q36902407
-lastname:torresani:Q92279851
-lastname:jamieson:Q28553124
-lastname:abensour:Q41351215
-lastname:wildhaber:Q37501089
-lastname:bauer:Q1965022
-lastname:dreher:Q20996104
-lastname:addis:Q26986610
-lastname:cousin:Q23902153
-lastname:frykman:Q27824209
-lastname:venturi:Q16892518
-lastname:室田:Q63974173
-lastname:barbé-marbois:Q60782314
-lastname:marty:Q16876493
-lastname:hansmann:Q37536818
-lastname:lass:Q21501976
-lastname:wittenburg:Q37448090
-lastname:alberda:Q20995576
-lastname:stöver:Q61970427
-lastname:bunnell:Q37523805
-lastname:horsman:Q5906401
-lastname:gardeweg:Q89979459
-lastname:geille:Q24720474
-lastname:bachmann:Q19760472
-lastname:denslow:Q36972665
-lastname:brierley:Q16860444
-lastname:eilers:Q21491573
-lastname:stratton:Q16883905
-lastname:grumach:Q64171511
-lastname:fairbanks:Q16869881
-lastname:andrews:Q2652654
-lastname:bury:Q9182324
-lastname:seabury:Q16281235
-lastname:bell:Q1444604
-lastname:denton:Q16869520
-lastname:bruneau:Q21431153
-lastname:kirkpatrick:Q16277998
-lastname:bortier:Q42443823
-lastname:cartwright:Q16865407
-lastname:novák:Q16516593
-lastname:nicolaus:Q37316392
-lastname:witzenmann:Q66819514
-lastname:meunier:Q23769748
-lastname:colom:Q16827440
-lastname:delalain:Q92471190
-lastname:lelong:Q21492962
-lastname:gohl:Q37452785
-lastname:chardon:Q37288814
-lastname:ferrero:Q21493848
-lastname:smith:Q1158446
-lastname:rousselet:Q59315795
-lastname:krenn:Q37319606
-lastname:lyman:Q24122088
-lastname:howard:Q908051
-lastname:west:Q2564123
-lastname:kleinholz:Q37112639
-lastname:robertazzi:Q37524126
-lastname:sachs:Q406384
-lastname:stebbins:Q21488901
-lastname:lusini:Q43075905
-lastname:pistre:Q27987855
-lastname:beer:Q814067
-lastname:bianchi:Q912131
-lastname:schröder:Q11703657
-lastname:noel:Q16880488
-lastname:craig:Q15278582
-lastname:westra:Q37509534
-lastname:retz:Q37016561
-lastname:fry:Q12184718
-lastname:alewijn:Q21142429
-lastname:cecchini:Q21492855
-lastname:corke:Q5170852
-lastname:pierce:Q14921982
-lastname:strauch:Q28150763
-lastname:vinci:Q36856555
-lastname:zampaglione:Q28130664
-lastname:rubi:Q37240539
-lastname:foucault:Q16870004
-lastname:berthelin:Q65098038
-lastname:orange:Q16280394
-lastname:fritz:Q18643458
-lastname:oppenheim:Q16880761
-lastname:kühn:Q1796980
-lastname:kuntz:Q21492327
-lastname:brevi:Q56537853
-lastname:o'daly:Q55385296
-lastname:la roche:Q18410597
-lastname:elst:Q56381872
-lastname:srivastava:Q21507684
-lastname:uehara:Q21493246
-lastname:jope:Q56538830
-lastname:mount:Q16877483
-lastname:castro:Q1049855
-lastname:hayes:Q1591888
-lastname:lesser:Q21449105
-lastname:berkman:Q23045974
-lastname:dufour:Q415460
-lastname:steinberg:Q1570233
-lastname:štěpán:Q10425698
-lastname:voet:Q21506903
-lastname:hinlopen:Q56244230
-lastname:pouget:Q28169355
-lastname:siegfried:Q24566677
-lastname:leland:Q26710063
-lastname:aldin:Q21507237
-lastname:piercy:Q37083136
-lastname:rovira:Q21498514
-lastname:schaep:Q65032539
-lastname:planas:Q36952245
-lastname:hoberg:Q37434909
-lastname:carpentier:Q20890442
-lastname:portugal:Q14110517
-lastname:brewer:Q13552882
-lastname:owen:Q1158545
-lastname:pitt:Q29002296
-lastname:coeverden:Q7913247
-lastname:casati:Q21487774
-lastname:echard:Q5332361
-lastname:andringa:Q37036948
-lastname:tharrats:Q51099169
-lastname:ready:Q16881918
-lastname:serra:Q16882987
-lastname:busch:Q1017270
-lastname:pozzi:Q21506907
-lastname:robbiati:Q56540479
-lastname:hubbard:Q16870910
-lastname:shaw:Q7491146
-lastname:blount:Q16726240
-lastname:grant:Q17864440
-lastname:cosway:Q20996013
-lastname:barnes:Q2658970
-lastname:molinaro:Q21492660
-lastname:matsuno:Q21493955
-lastname:felten:Q37574480
-lastname:pourcher:Q89765530
-lastname:snoek:Q21507508
-lastname:ventura:Q11879325
-lastname:ball:Q805107
-lastname:kloppenburg:Q21510393
-lastname:raymond:Q2134042
-lastname:bali:Q16275001
-lastname:welsh:Q17143287
-lastname:voss:Q15712767
-lastname:boven:Q34016306
-lastname:schulthess:Q36927311
-lastname:kleber:Q6420036
-lastname:harris:Q10859343
-lastname:deering:Q37116752
-lastname:ogden:Q16280349
-lastname:norris:Q16880515
-lastname:châtillon:Q74087678
-lastname:costa:Q2671589
-lastname:zeising:Q85301472
-lastname:william 04:XXX
-lastname:ashley:Q725719
-lastname:lucas:Q1873014
-lastname:middlemore:Q29573229
-lastname:gyeltshen:Q16492614
-lastname:fiske:Q21510555
-lastname:schindler:Q2236136
-lastname:abreu:Q16057995
-lastname:lewisohn:Q21492211
-lastname:eler:Q90415052
-lastname:calleja:Q5021886
-lastname:spencer:Q1261064
-lastname:la torre:Q64027098
-lastname:mclean:Q20046430
-lastname:wolfenstein:Q47462066
-lastname:miethke:Q86081726
-lastname:rosenbaum:Q21491519
-lastname:buchanan:Q15616677
-lastname:gendt:Q21513311
-lastname:van schaick:Q56546914
-lastname:coussens:Q36896162
-lastname:risler:Q36873336
-lastname:štědroñ:Q81311005
-lastname:de la rive:Q20996061
-lastname:casper:Q16865422
-lastname:lavallée:Q63350640
-lastname:badran:Q37532287
-lastname:griffith:Q263542
-lastname:hugh 01:XXX
-lastname:garruto:Q37476266
-lastname:fernholz:Q37279530
-lastname:clark:Q1119151
-lastname:nicolau:Q7029903
-lastname:sabbagh:Q37495280
-lastname:gaddi:Q16275895
-lastname:russo:Q2177260
-lastname:rücker:Q65498409
-lastname:erskine:Q16869843
-lastname:walkinshaw:Q16964089
-lastname:parenti:Q20997587
-lastname:wright:Q2594455
-lastname:mcnamara:Q21450738
-lastname:greenaway:Q1261077
-lastname:köhler:Q21449065
-lastname:duncan:Q1158195
-lastname:de carli:Q63759820
-lastname:blok:Q20519863
-lastname:engberg:Q21510297
-lastname:ross:Q908629
-lastname:bernardi:Q21493594
-lastname:van merode:Q56292117
-lastname:stein:Q2339506
-lastname:corréard:Q91188597
-lastname:steib:Q56245143
-lastname:dearle:Q56037553
-lastname:earle:Q16869749
-lastname:haus:Q21507773
-lastname:adema:Q37442564
-lastname:plitt:Q37544677
-lastname:leon:Q4258715
-lastname:goldinger:Q30131305
-lastname:mayr:Q21449653
-lastname:dumoulin:Q25058808
-lastname:forman:Q12016761
-lastname:heer:Q37553243
-lastname:lamarr:Q37476193
-lastname:heslop:Q21509415
-lastname:beecher:Q16479562
-lastname:macarthur:Q16876177
-lastname:adams:Q351735
-lastname:ocahan:Q7071694
-lastname:kennedy:Q120401
-lastname:waelbroeck:Q27561856
-lastname:godin:Q12790002
-lastname:lawson:Q13553861
-lastname:bahamón:Q37235779
-lastname:moreno:Q10613677
-lastname:llabrés:Q89332450
-lastname:martin:Q12035675
-lastname:claye:Q89129097
-lastname:conrad:Q12652033
-lastname:anemaet:Q62679317
-lastname:webb:Q2553367
-lastname:friman:Q27887530
-lastname:battaglia:Q16479857
-lastname:brandenburgh:Q37115006
-lastname:brandstetter:Q24689090
-lastname:church:Q16865586
-lastname:bors:Q37249769
-lastname:springer:Q16883693
-lastname:osorio:Q37483500
-lastname:mooney:Q27391736
-lastname:munford:Q37544587
-lastname:vernet:Q21508349
-lastname:angelopoulos:Q21426148
-lastname:odebrecht:Q16880655
-lastname:sommer:Q4428696
-lastname:lenormand:Q21506697
-lastname:barbe-marbois:Q60782314
-lastname:asbeck:Q37160275
-lastname:nicolaisen:Q21513547
-lastname:garrett:Q21487489
-lastname:cordier:Q175753
-lastname:fox:Q1158210
-lastname:meier:Q6582006
-lastname:wesseling:Q37487416
-lastname:moor:Q27675797
-lastname:haller:Q7486798
-lastname:chatillon:Q61014276
-lastname:štědroň:Q81311005
-lastname:smyth:Q27106112
-lastname:mur:Q37265108
-lastname:kirkland:Q16871429
-lastname:veuthey:Q91918868
-lastname:forde:Q16869989
-lastname:krüger:Q1790692
-lastname:watson:Q1184721
-lastname:garcía:Q980636
-lastname:graeff:Q1541306
-lastname:colley:Q16865684
-lastname:mcleish:Q21511146
-lastname:knyff:Q75496851
-lastname:o'connell:Q16880650
-lastname:weil:Q17035149
-lastname:solmi:Q55087949
-lastname:schumann:Q21450751
-lastname:post:Q21491634
-lastname:crone:Q37198333
-lastname:candy:Q16275152
-lastname:pellissier:Q56245754
-lastname:blocq fan scheltinga:Q60225303
-lastname:bertoldo:Q36866514
-lastname:knijff:Q75496851
-lastname:andel:Q37512549
-lastname:wolf:Q16093204
-lastname:urosevic:Q56541176
-lastname:gaines:Q16870080
-lastname:brummett:Q30315780
-lastname:cock:Q17190129
-lastname:schober:Q37538443
-lastname:curry:Q5195197
-lastname:osborn:Q16880804
-lastname:block:Q884653
-lastname:brook:Q16860536
-lastname:almeida:Q4062787
-lastname:wildt:Q37509485
-lastname:zangpo:Q8066196
-lastname:vlahović:Q21509031
-lastname:altena:Q3658698
-lastname:lennep:Q63078318
-lastname:morin:Q21449200
-lastname:carey:Q5039154
-lastname:musier:Q93443147
-lastname:luna:Q27897338
-lastname:roachford:Q36920477
-lastname:penfold:Q7162656
-lastname:bouttats:Q56537826
-lastname:bazan:Q37267581
-lastname:bergen:Q56546850
-lastname:storrer:Q37252808
-lastname:borbone:Q23038495
-lastname:musard:Q46852367
-lastname:barck:Q28148458
-lastname:smit:Q2122984
-lastname:moulin:Q20997408
-lastname:hasse:Q37555285
-lastname:anderson:Q1848748
-lastname:joseph:Q15297160
-lastname:silvestri:Q21450862
-lastname:cassidy:Q16865428
-lastname:mapes:Q36881161
-lastname:treat:Q37543308
-lastname:peterle:Q12798677
-lastname:harel:Q21450044
-lastname:north:Q11790733
-lastname:oesterreich:Q37536289
-lastname:bos:Q16860264
-lastname:ben-david:Q50368994
-lastname:brimeu:Q56641890
-lastname:cudahy:Q21502210
-lastname:shute:Q29359883
-lastname:baffi:Q56245925
-lastname:berg:Q12785738
-lastname:schurig:Q37061889
-lastname:laing:Q1800738
-lastname:vitale:Q18190892
-lastname:könig:Q1795948
-lastname:marsden:Q16876475
-lastname:valdés:Q28891767
-lastname:greaves:Q16870288
-lastname:ziégler:Q198857
-lastname:krengel:Q37180167
-lastname:volkmann:Q28150674
-lastname:pieck:Q25630924
-lastname:kuhn:Q1791251
-lastname:lundborg:Q21491813
-lastname:sturges:Q21449779
-lastname:lambdin:Q6481174
-lastname:hammill:Q21507471
-lastname:geurts:Q21507200
-lastname:bushby:Q37458564
-lastname:dufourmantelle:Q94087580
-lastname:eckardt:Q23639883
-lastname:taylor:Q15080511
-lastname:blommaertdesoye:Q64210757
-lastname:puget:Q7258917
-lastname:orsi:Q21489139
-lastname:maury:Q20982280
-lastname:murota:Q26450440
-lastname:rollé:Q22926516
-lastname:mauri:Q420128
-lastname:tomassi:Q37509014
-lastname:norcross:Q16880506
-lastname:pfister:Q12798731
-lastname:bishop:Q1158188
-lastname:willes:Q21498320
-lastname:cuno:Q20996036
-lastname:lormier:Q18414687
-lastname:grider:Q56244541
-lastname:weck:Q37569327
-lastname:nicoláu:Q7029903
-lastname:puppe:Q37556901
-lastname:phelan:Q2085453
-lastname:collin:Q24251425
-lastname:štědroň:Q81311005
-lastname:killigrew:Q34981554
-lastname:macomber:Q16876214
-lastname:lessore:Q94132131
-lastname:barth:Q809264
-lastname:franquesa:Q75512624
-lastname:bréard:Q20995923
-lastname:sibert:Q37170304
-lastname:slaney:Q37077344
-lastname:andrieu:Q25272832
-lastname:boon:Q27257614
-lastname:foresti:Q42956429
-lastname:roest:Q49987285
-lastname:raine:Q21507748
-lastname:mertens:Q21447885
-lastname:staiti:Q37165532
-lastname:griesbach:Q36982692
-lastname:mensinga:Q64982504
-lastname:dijckmeester:Q65741232
-lastname:anethan:Q63485123
-lastname:coyner:Q37476058
-lastname:clift:Q36865766
-lastname:lens:Q16816200
-lastname:henry iii:XXX
-lastname:febvre:Q56245160
-lastname:rey:Q419161
-lastname:broquet:Q65098879
-lastname:brands:Q37430848
-lastname:sharma:Q2277230
-lastname:molinder:Q55403859
-lastname:michelini:Q27500043
-lastname:wirtz:Q28745064
-lastname:fendt:Q37330609
-lastname:anthony:Q4771950
-lastname:perreault:Q21452632
-lastname:baker:Q2658150
-lastname:linebarger:Q36947493
-lastname:asioli:Q56118775
-lastname:bergt:Q37517284
-lastname:foreest:Q2509815
-lastname:benet:Q21451115
-lastname:dyer:Q16869738
-lastname:arcangeli:Q37227860
-lastname:nash:Q1965666
-lastname:nowak:Q15073902
-lastname:simpson:Q2800825
-lastname:hurn:Q37445617
-lastname:hardie:Q21510527
-lastname:prinet:Q95622658
-lastname:brandi:Q21482862
-lastname:zieseniss:Q42565271
-lastname:windt:Q21493664
-lastname:caner:Q37441350
-lastname:gooden:Q21507386
-lastname:heylen:Q5154633
-lastname:morales:Q6023513
-lastname:ferretti:Q21491423
-lastname:schenck:Q21489161
-lastname:tejera y garcía:Q21498071
-lastname:budd:Q16865114
-lastname:carree:Q37255040
-lastname:carre:Q36900853
-lastname:magimel:Q95725125
-lastname:prault:Q63863248
-lastname:clerc:Q21507426
-lastname:paget:Q29548283
-lastname:freese:Q1453625
-lastname:rothé:Q21452690
-lastname:king:Q535214
-lastname:malagoli:Q56539725
-lastname:malagòli:Q56539725
-lastname:malagòli:Q56539725
-lastname:monro:Q41588071
-lastname:wagner:Q2539239
-lastname:troya:Q37453303
-lastname:ziegler:Q198857
-lastname:nahm:Q36930592
-lastname:caletti:Q96071925
-lastname:claes:Q27237744
-lastname:brasseur:Q21492332
-lastname:söhn:Q21475345
-lastname:pichardo:Q7190622
-lastname:latané:Q6495094
-lastname:latane:Q6495094
-lastname:latané:Q6495094
-lastname:temple:Q21500480
-lastname:glasner:Q36934708
-lastname:beilenson:Q55757021
-lastname:soprano:Q37553758
-lastname:frazier:Q411924
-lastname:velarde:Q37276572
-lastname:ó máille:Q54869213
-lastname:dietsch:Q16862930
-lastname:jarvie:Q37224544
-lastname:bracony:Q96405465
-lastname:pound:Q20997663
-lastname:lavalard:Q89716011
-lastname:briskin:Q4968691
-lastname:wolff:Q2588593
-lastname:marrier:Q37532536
-lastname:strawn:Q16815092
-lastname:dubief:Q65102723
-lastname:rothschild:Q2200026
-lastname:valsecchi:Q55087999
-lastname:kidwell:Q27260195
-lastname:trebeschi:Q96622152
-lastname:todd:Q16884749
-lastname:barral:Q37508516
-lastname:rohling:Q37234876
-lastname:ramsdell:Q37435234
-lastname:palomino:Q37007921
-lastname:taskin:Q21449635
-lastname:martinac:Q37051097
-lastname:gross:Q14290163
-lastname:macy:Q16876218
-lastname:tonneau:Q65114243
-lastname:tremblay:Q27311843
-lastname:albrechtsen:Q21508907
-lastname:aikman:Q21507543
-lastname:guichard:Q27924270
-lastname:döring:Q23640223
-lastname:döring:Q23640223
-lastname:saint-cyr:Q63405801
-lastname:hering:Q1609969
-lastname:kulcsár:Q56539131
-lastname:kulcsár:Q56539131
-lastname:imbault:Q63760287
-lastname:white:Q1215200
-lastname:hassenstein:Q97619375
-lastname:ordóñez:Q11044990
-lastname:truelle:Q65114416
-lastname:borup:Q37503538
-lastname:børup:Q50017562
-lastname:ferwerda:Q37149056
-lastname:gribble:Q27206004
-lastname:colomb:Q41785644
-lastname:wakeman:Q16879300
-lastname:di giorgi:Q55063659
-lastname:anciaux:Q23817392
-lastname:ammendola:Q98165953
-lastname:staudinger:Q21511604
-lastname:dodd:Q16869600
-lastname:haest:Q98170071
-lastname:calamai:Q56537911
-lastname:zeidler:Q28150676
-lastname:tonk:Q67201136
-lastname:zotti:Q56244719
-lastname:meidell:Q20726914
-lastname:jeyes:Q98337632
-lastname:dimier:Q71814373
-lastname:deslandes:Q36938514
-lastname:blakeslee:Q21508488
-lastname:biggs:Q21452543
-lastname:gijsbers:Q65104977
-lastname:borde:Q37232390
-lastname:jacques:Q18577291
-lastname:campani:Q42864926
-lastname:walker:Q1158605
-lastname:grillo:Q16870312
-lastname:zürcher:Q55847007
-lastname:cardozo:Q19919890
-lastname:périchon:Q32856280
-lastname:parigi:Q31212603
-lastname:friedman:Q1451887
-lastname:capponi:Q36999113
-lastname:manni:Q28737216
-lastname:vries:Q7942749
-lastname:velu:Q37126603
-lastname:tower:Q13560083
-lastname:olivares:Q37239621
-lastname:williot:Q98799038
-lastname:ferrière:Q62102864
-lastname:ferriere:Q62102864
-lastname:milnes:Q21489018
-lastname:cornilleau:Q98817709
-lastname:cunningham:Q7849873
-lastname:füchslin:Q98831193
-lastname:peard:Q37295362
-lastname:quesnel:Q36906549
-lastname:soens:Q37110470
-lastname:ravenel:Q16879511
-lastname:nájera:Q41588102
-lastname:toke:Q37450497
-lastname:dorn:Q21227176
-lastname:sampson:Q16882578
-lastname:patrick:Q203052
-lastname:worth:Q28812109
-lastname:robert:Q2156271
-lastname:cima:Q37535455
-lastname:daignan:Q65100841
-lastname:setti:Q36902703
-lastname:rochard:Q42592613
-lastname:aubin:Q37550017
-lastname:o'meara:Q63434694
-lastname:neumann:Q21502212
-lastname:longchamp:Q37070459
-lastname:castillo:Q21493053
-lastname:bastia:Q57911718
-lastname:este:Q36927672
-lastname:de baere:Q40217454
-lastname:gautier:Q16870137
-lastname:ley:Q37476695
-lastname:laurenti:Q56245698
-lastname:virgili:Q21493532
-lastname:vallet:Q27943273
-lastname:laver:Q16871923
-lastname:park:Q20007284
-lastname:muckle:Q3327368
-lastname:dautry:Q96146071
-lastname:calzetta:Q99518796
-lastname:ravenna:Q37534987
-lastname:luciani:Q21449042
-lastname:dinter:Q21502063
-lastname:eakin:Q21509882
-lastname:otten:Q21422177
-lastname:brandt:Q11941314
-lastname:novotný:Q16287199
-lastname:stejskal:Q21492673
-lastname:matejka:Q37454436
-lastname:newburgh:Q99670533
-lastname:berman:Q21493593
-lastname:sills:Q26234551
-lastname:kendall:Q16871334
-lastname:yvon:Q16860482
-lastname:johansson:Q1699018
-lastname:duclos:Q21450529
-lastname:neher:Q1974526
-lastname:grenouillet:Q65105452
-lastname:berkel:Q30433288
-lastname:meller:Q21509872
-lastname:gessinger:Q56538471
-lastname:allinger:Q37096615
-lastname:brandsma:Q36941193
-lastname:grubbs:Q16870337
-lastname:kikuchi:Q16871383
-lastname:saladin:Q37447175
-lastname:andrade:Q15181057
-lastname:torterolo:Q100066960
-lastname:fettweis:Q65562050
-lastname:herzog:Q20520130
-lastname:goléa:Q56246021
-lastname:golea:Q56246021
-lastname:de giorgi:Q99907911
-lastname:galvin:Q16870091
-lastname:canadell:Q57006184
-lastname:paton:Q12798362
-lastname:elizondo:Q21504827
-lastname:froideval:Q28033670
-lastname:monck:Q37455566
-lastname:ehm:Q25631005
-lastname:vecchi:Q21430067
-lastname:asemota:Q37273883
-lastname:potts:Q21450795
-lastname:dick:Q5272610
-lastname:rea:Q21448980
-lastname:benoît:Q26225403
-lastname:benoît:Q26225403
-lastname:benoit:Q23722326
-lastname:thwaites:Q32856322
-lastname:robins:Q28157148
-lastname:mena:Q16290702
-lastname:beard:Q16479662
-lastname:gouffier:Q74081663
-lastname:leunens:Q66764568
-lastname:casson:Q37484904
-lastname:irving:Q36897514
-lastname:gatti:Q23038817
-lastname:forrest:Q13560450
-lastname:errington:Q16869840
-lastname:padilla:Q16880902
-lastname:bourne:Q14915265
-lastname:howe:Q16870901
-lastname:cegrell:Q42368659
-lastname:saavedra:Q100339018
-lastname:chabloz:Q76417622
-lastname:vogel:Q1715412
-lastname:bradley:Q896987
-lastname:ravasio:Q99672088
-lastname:hodne:Q30086981
-lastname:raatz:Q37529216
-lastname:kogelman:Q37220156
-lastname:slutzky:Q37452208
-lastname:dean:Q383113
-lastname:ozanam:Q21449866
-lastname:stern:Q21468509
-lastname:beneš:Q21450655
-lastname:neelon:Q37312924
-lastname:elliott:Q21449521
-lastname:tazreiter:Q72104417
-lastname:laws:Q16871935
-lastname:jones:Q59853
-lastname:blackstone:Q37562619
-lastname:fujishige:Q37439731
-lastname:hawkins:Q12790801
-lastname:brace:Q16860319
-lastname:duca:Q21450525
-lastname:doz:Q65102596
-lastname:samad:Q37306907
-lastname:hallerberg:Q100618010
-lastname:truett:Q20998128
-lastname:fairbairn:Q21509779
-lastname:steinmetz:Q21501732
-lastname:hofstetter:Q55168490
-lastname:dickens:Q16869553
-lastname:canciani:Q63439010
-lastname:armstrong:Q13627772
-lastname:sloan:Q20997920
-lastname:kloke:Q37198742
-lastname:miernik:Q65539798
-lastname:carrasco:Q16865394
-lastname:hartwieg:Q83354962
-lastname:dunlop:Q13408665
-lastname:crispini:Q100875207
-lastname:ultee:Q100888467
-lastname:levy:Q14626636
-lastname:goebel:Q21492311
-lastname:keele:Q37011848
-lastname:verzier:Q75039966
-lastname:mcgovern:Q6801398
-lastname:bochner:Q21482502
-lastname:<!-- pseudo, autre nom, nom de scène -->:XXX
-lastname:flanigan:Q1427092
-lastname:kerans:Q37265276
-lastname:watmough:Q7974743
-lastname:webster:Q21484845
-lastname:broer:Q15947868
-lastname:birchfield:Q37561728
-lastname:marini:Q21491363
-lastname:kusák:Q82005830
-lastname:farmer:Q5435709
-lastname:mange:Q37499805
-lastname:viljanen:Q38691685
-lastname:trillat:Q101001349
-lastname:simakov:Q4419457
-lastname:mccann:Q16876180
-lastname:mckenty:Q56225609
-lastname:lederlé:Q37451052
-lastname:bacigalupo:Q37099740
-lastname:butow:Q37181479
-lastname:talwalkar:Q101075067
-lastname:axisa:Q101083961
-lastname:gabriel:Q16267060
-lastname:gallegos:Q35659270
-lastname:kim:Q157414
-lastname:garz:Q56476230
-lastname:ossowski:Q27883543
-lastname:gaujal:Q101111448
-lastname:rider:Q28169216
-lastname:arditi:Q16148200
-lastname:pilbeam:Q2094892
-lastname:palombo:Q25114870
-lastname:urkiola:Q53865885
-lastname:mattens:Q101192271
-lastname:werner:Q18012370
-lastname:belshaw:Q16479874
-lastname:soupault:Q65113804
-lastname:hargreaves:Q41793125
-lastname:dorr:Q16869636
-lastname:baldocchi:Q37101522
-lastname:shewan:Q37286302
-lastname:kuhl:Q26001242
-lastname:panis:Q37493187
-lastname:dutton:Q28226010
-lastname:poe:Q16881297
-lastname:gordon:Q2701900
-lastname:striessnig:Q72105104
-lastname:viardot:Q24514422
-lastname:joffe:Q21448968
-lastname:massé:Q24805305
-lastname:lorenz:Q1870035
-lastname:oset:Q73031752
-lastname:ferrer:Q5445301
-lastname:veneziani:Q99672463
-lastname:ellis:Q21452033
-lastname:perreau:Q56540217
-lastname:geffray:Q66816158
-lastname:angeloch:Q102045416
-lastname:curten:Q83345386
-lastname:pegels:Q102047644
-lastname:buxton:Q13552129
-lastname:pez:Q65112112
-lastname:melter:Q37056504
-lastname:drozd:Q16833715
-lastname:stanley:Q2331622
-lastname:sanger:Q21484790
-lastname:lele:Q37554669
-lastname:mönch:Q1957962
-lastname:yocom:Q37494435
-lastname:marsh:Q16876476
-lastname:brandenberg:Q37118300
-lastname:braude:Q34999981
-lastname:farazmand:Q102186266
-lastname:emery:Q16275674
-lastname:gielen:Q36910941
-lastname:pfenninger:Q37472468
-lastname:stevens:Q1797561
-lastname:bernaerts:Q102218961
-lastname:schmitt:Q2246512
-lastname:lieberman:Q37009553
-lastname:love:Q15616682
-lastname:jacobs:Q1158566
-lastname:easson:Q5327554
-lastname:hertig:Q37108819
-lastname:mcnutt:Q21511160
-lastname:day:Q5242796
-lastname:wygant:Q37464491
-lastname:hieronymus:Q37032051
-lastname:silva:Q6327150
-lastname:stratford:Q20727133
-lastname:stephens:Q16473357
-lastname:turner:Q12804512
-lastname:samuelson:Q2219079
-lastname:hübner:Q1652067
-lastname:hübner:Q1652067
-lastname:markus:Q17516268
-lastname:seiler:Q28150673
-lastname:heiduk:Q66813551
-lastname:hearn:Q30433436
-lastname:canter:Q16865348
-lastname:tardy:Q23793569
-lastname:gaulejac:Q98209990
-lastname:wirz:Q21448166
-lastname:tasker:Q37005674
-lastname:rotgé:Q65113114
-lastname:james:Q12188082
-lastname:prensky:Q103982254
-lastname:sarv:Q50196897
-lastname:toll:Q35955562
-lastname:ricci:Q21493176
-lastname:boult:Q25114228
-lastname:tournade:Q65965941
-lastname:duval:Q21491525
-lastname:henriques:Q16870705
-lastname:boucharlat:Q104092265
-lastname:feuvrier:Q65103899
-lastname:hendy:Q5714065
-lastname:kinberg:Q16285446
-lastname:greg:Q18857387
-lastname:filipović:Q21451062
-lastname:pini:Q21509478
-lastname:habets:Q37431394
-lastname:blondel:Q20995853
 musician:mike rutherford:Q321092
 musician:adrian lee:Q4685177
 musician:anthony drennan:Q4772428
@@ -14941,6 +15615,7 @@ genre:portret:Q134307
 genre:historiestukken:Q742333
 genre:dance:Q316930
 genre:elektro:Q217597
+genre:historie:Q742333
 art-genre:bloemstilleven:Q12303833
 art-genre:documentaire fotografie:Q615498
 art-genre:stillevens:Q170571
@@ -15030,6 +15705,7 @@ instanceof:gruppe_eller_band:Q215380
 instanceof:grupo_o_banda:Q215380
 instanceof:grup sau orchestră:Q215380
 instanceof:band:Q215380
+instanceof:osobowe:Q5
 county:klamath county, oregon:Q484388
 county:washington county, oregon:Q484538
 county:monmouth county, new jersey:Q502424
@@ -15348,6 +16024,7 @@ artist:giaquinto, corrado:Q740934
 artist:murray, john somerset:Q52157090
 artist:johannes itten:Q123138
 artist:picart, bernard:Q559929
+artist:schuer, theodoor van der:Q194961
 voice:sprechstimme:XXX
 voice:bass:Q27911
 voice:vocal:XXX
@@ -16223,6 +16900,10 @@ country:pěvkyně:XXX
 country:estonian:Q191
 country:washington, d.c.:Q30
 country:algeria:Q262
+country:w\xb3ochy:Q38
+country:confédération helvétique:Q39
+country:věnuje:XXX
+country:india:Q668
 university:université paris 7:Q1235608
 university:university of michigan:Q230492
 university:university of texas at austin:Q49213
@@ -16456,6 +17137,12 @@ university:kansas state university:Q31249
 university:purdue university:Q217741
 university:lehigh university:Q622137
 university:university of colorado, colorado springs:Q2495841
+university:university of parma:Q1758474
+university:d'annunzio university of chieti–pescara:Q2261128
+university:university of bologna:Q131262
+university:universität bern (switzerland):Q659080
+university:doopsgezind seminarium amsterdam:Q67217149
+university:faculteit der godgeleerdheid:XXX
 work:lohengrin:Q23085
 work:2. buch der chronik:Q209720
 work:de hebreeuwse bijbel:Q732870
@@ -16486,6 +17173,9 @@ work:carmina burana:Q253716
 work:legends of the fall:Q913324
 work:gone baby gone:Q247182
 work:tropic thunder:Q380981
+work:gardner's art through the ages:Q5522563
+work:the oxford companion to the book:Q37878638
+work:the cambridge history of the book in britain:Q104653846
 label:arista records:Q664167
 label:atlantic (us:Q202440
 label:レコード:XXX
@@ -17333,6 +18023,8 @@ person:soupault, ré:Q2178652
 person:アポリネール:Q133855
 person:soupault, philippe:Q336467
 person:!--(or:XXX
+person:grotius, hugo:Q154959
+person:theodoor cornelisz van der schuer, alias: theodorus vander schuur:Q194961
 title:graaf van vianden:Q66051630
 title:graaf van hamaland:Q65660493
 title:duke of gniezno:Q166886
@@ -18145,6 +18837,7 @@ position:mučedník:Q6498826
 position:top album sales:XXX
 position:billboard japan hot 100:XXX
 position:billboard japan radio songs:XXX
+position:expediteur koninklijke secretarie:Q5420991
 causedeath:natuurlijke dood (watersught):Q152234
 causedeath:ataque al corazón:Q12152
 causedeath:neumonía:Q12192
@@ -18387,6 +19080,8 @@ employer:szkoła główna handlowa w warszawie:Q1394594
 employer:université de paris x: nanterre:Q1394262
 employer:ecole des mines (saint-etienne):Q3578252
 employer:(professor):XXX
+employer:université de fribourg, institut de chimie organique, suisse:Q36188
+employer:rare book school (charlottesville, va.):Q7294495
 film-color:color:Q22006653
 filmmaker:park se-jong:Q22115074
 filmmaker:hugo ballin:Q3787466
